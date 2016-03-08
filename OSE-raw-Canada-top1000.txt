@@ -1,0 +1,3138 @@
+
+Open Syllabus Explorer beta 0.4
+Mapping the college curriculum across 1M+ syllabi.
+Browse text rankings
+ 
+Filter by country
+
+×Canada
+×	
+
+Rank	Count	Score	Text
+1	93	99.5	
+Frankenstein
+Shelley, Mary Wollstonecraft, 1797-1851
+2	92	96.9	
+Power
+Foucault, Michel, 1926-1984
+3	88	99.9	
+Republic
+Plato
+4	84	98.6	
+Orientalism
+Said, Edward W.
+5	82	99.2	
+Leviathan
+Hobbes, Thomas, 1588-1679
+6	76	99.7	
+The Communist Manifesto
+Marx, Karl, 1818-1883
+7	74	99.4	
+Ethics
+Aristotle
+8	69	97.5	
+Paradise Lost
+Milton, John, 1608-1674
+9	65	95.2	
+The History of Sexuality
+Foucault, Michel, 1926-1984
+10	64	98.2	
+Heart of Darkness
+Conrad, Joseph, 1857-1924
+11	61	97.3	
+Utilitarianism
+Mill, John Stuart, 1806-1873
+12	57	89.9	
+The Love Song of J. Alfred Prufrock
+Eliot, T. S. (Thomas Stearns), 1888-1965
+13	53	13.1	
+Expanded Cinema
+Youngblood, Gene, 1942
+14	52	93.9	
+The Yellow Wallpaper
+Gilman, Charlotte Perkins, 1860-1935
+15	50	91.7	
+Meditations on First Philosophy
+Descartes, René, 1596-1650
+16	49	98.1	
+Canterbury Tales
+Chaucer, Geoffrey, -1400
+17	49	88.7	
+The Metaphysics of Morals
+Kant, Immanuel, 1724-1804
+18	49	94.5	
+The Tempest
+Shakespeare, William, 1564-1616
+19	48	7.8	
+Constitutional Law of Canada
+Hogg, Peter W.
+20	48	95.3	
+Nicomachean Ethics
+Aristotle
+21	48	99.1	
+The Prince
+Machiavelli, Niccolò, 1469-1527
+22	47	97.2	
+The Clash of Civilizations
+Huntington, Samuel P.
+23	47	89.3	
+Mrs. Dalloway
+Woolf, Virginia, 1882-1941
+24	47	83.6	
+My Last Duchess
+Browning, Robert, 1812-1889
+25	46	97.1	
+Things Fall Apart
+Achebe, Chinua
+26	46	98.5	
+A Manual for Writers of Term Papers, Theses, and Dissertations
+Turabian, Kate L.
+27	45	83.7	
+Discipline and Punish : The Birth of the Prison
+Foucault, Michel, 1926-1984
+28	44	64.1	
+A Glossary of Literary Terms
+Abrams, M. H. (Meyer Howard), 1912
+29	44	5.9	
+Criminal Law
+Roach, Kent
+30	43	92.7	
+A Theory of Justice
+Rawls, John, 1921-2002
+31	42	74.6	
+Oroonoko
+Behn, Aphra, 1640-1689
+32	42	96.4	
+A Manual for Writers of Dissertations
+Turabian, Kate L.
+33	41	81.8	
+Lyrical Ballads 1805
+Wordsworth, William, 1770-1850
+34	41	100.0	
+The Elements of Style
+Strunk, William, 1869-1946
+35	40	94.1	
+The Social Contract
+Rousseau, Jean-Jacques, 1712-1778
+36	40	94.6	
+Capital
+Marx, Karl, 1818-1883
+37	40	59.0	
+Preface to Lyrical Ballads
+Wordsworth, William, 1770-1850
+38	39	89.0	
+The Metamorphosis
+Kafka, Franz, 1883-1924
+39	38	85.6	
+Dracula
+Stoker, Bram, 1847-1912
+40	37	16.8	
+Green Grass, Running Water
+King, Thomas, 1943
+41	36	84.6	
+The Second Sex
+Beauvoir, Simone De, 1908-1986
+42	36	74.9	
+The Rape of the Lock
+Pope, Alexander, 1688-1744
+43	36	79.2	
+Waiting for Godot
+Beckett, Samuel, 1906-1989
+44	36	77.2	
+Jihad vs. McWorld
+Barber, Benjamin R., 1939
+45	36	65.6	
+The Rime of the Ancient Mariner
+Coleridge, Samuel Taylor, 1772-1834
+46	35	98.9	
+Hamlet
+Shakespeare, William, 1564-1616
+47	35	78.5	
+Reflections on the Revolution in France
+Burke, Edmund, 1729-1797
+48	35	4.6	
+Canadian Criminal Justice
+Griffiths, Curt T. (Curt Taylor), 1948
+49	35	99.0	
+Oedipus
+Sophocles
+50	35	65.1	
+The Ancient Mariner
+Coleridge, Samuel Taylor, 1772-1834
+51	34	58.7	
+Goblin Market
+Rossetti, Christina Georgina, 1830-1894
+52	34	92.4	
+Existentialism
+Sartre, Jean Paul, 1905-1980
+53	34	70.6	
+The General Prologue
+Chaucer, Geoffrey, -1400
+54	34	81.4	
+A Vindication of the Rights of Woman
+Wollstonecraft, Mary, 1759-1797
+55	33	97.7	
+On Liberty
+Mill, John Stuart, 1806-1873
+56	33	97.6	
+The Structure of Scientific Revolutions
+Kuhn, Thomas S.
+57	33	96.6	
+The Politics
+Aristotle
+58	33	91.5	
+Pride & Prejudice
+Austen, Jane, 1775-1817
+59	33	75.8	
+Critique of Pure Reason
+Kant, Immanuel, 1724-1804
+60	33	98.7	
+The Odyssey
+Homer
+61	33	80.1	
+Robinson
+Defoe, Daniel, 1661?-1731
+62	32	49.4	
+Ode to a Nightingale
+Keats, John, 1795-1821
+63	32	79.5	
+Robinson Crusoe
+Defoe, Daniel, 1661?-1731
+64	32	87.4	
+The Waste Land
+Eliot, T. S. (Thomas Stearns), 1888-1965
+65	32	96.7	
+Confessions
+Augustine, Saint, Bishop of Hippo
+66	31	98.3	
+The Iliad
+Homer
+67	31	80.4	
+Songs of Innocence
+Blake, William, 1757-1827
+68	31	82.5	
+The Importance of Being Earnest
+Wilde, Oscar, 1854-1900
+69	31	74.6	
+Understanding Media
+McLuhan, Marshall, 1911-1980
+70	31	86.6	
+Great Expectations
+Dickens, Charles, 1812-1870
+71	30	68.3	
+The Faerie Queene, 1596
+Spenser, Edmund, 1552?-1599
+72	30	72.6	
+The Craft of Research
+Booth, Wayne C.
+73	30	3.8	
+Legal Research : Step by Step
+Kerr, Margaret Helen, 1954
+74	30	55.9	
+Kubla Khan
+Coleridge, Samuel Taylor, 1772-1834
+75	29	78.0	
+Nietzsche
+Heidegger, Martin, 1889-1976
+76	29	86.2	
+The Wretched of the Earth
+Fanon, Frantz, 1925-1961
+77	29	88.9	
+Second Treatise of Government
+Locke, John, 1632-1704
+78	29	79.1	
+The Rights of Woman
+Wollstonecraft, Mary, 1759-1797
+79	28	93.8	
+Utopia
+More, Thomas, Sir, Saint, 1478-1535
+80	28	95.5	
+Wealth of Nations
+Smith, Adam, 1723-1790
+81	28	33.6	
+An Introduction to the Principles of Morals and Legislation
+Bentham, Jeremy, 1748-1832
+82	28	5.2	
+Roughing It in the Bush
+Moodie, Susanna, 1803-1885
+83	28	96.8	
+Origin of Species
+Darwin, Charles, 1809-1882
+84	27	95.7	
+The Great Gatsby
+Fitzgerald, F. Scott (Francis Scott), 1896-1940
+85	27	47.9	
+The Lady of Shalott
+Tennyson, Alfred Tennyson, Baron, 1809-1892
+86	27	74.3	
+To His Coy Mistress
+Marvell, Andrew, 1621-1678
+87	27	95.9	
+MLA Handbook for Writers of Research Papers
+Gibaldi, Joseph, 1942
+88	27	85.9	
+A Modest Proposal
+Swift, Jonathan, 1667-1745
+89	27	97.1	
+Apology
+Plato
+90	27	66.4	
+Empire
+Hardt, Michael
+91	27	69.3	
+Globalization
+Held, David, McGrew, Anthony, Goldblatt, David, Perraton, Jonathan
+Global Governance
+92	26	7.4	
+The Lesser Evil : Political Ethics in an Age of Terror
+Ignatieff, Michael
+93	26	73.1	
+The Color Purple
+Walker, Alice, 1944
+94	26	61.7	
+Beyond Good and Evil
+Nietzsche, Friedrich Wilhelm, 1844-1900
+95	26	87.1	
+Euthyphro
+Plato
+96	26	63.4	
+Ode on a Grecian Urn
+Keats, John, 1795-1821
+97	26	75.2	
+A Pocket Guide to Writing in History
+Rampolla, Mary Lynn
+98	26	52.1	
+Justice as Fairness
+Rawls, John
+The Philosophical Review
+99	26	10.2	
+Law and Society
+Vago, Steven
+100	26	4.2	
+The North West Mounted Police, 1873-1919
+Macleod, R. C., 1940
+101	25	3.2	
+September 11 : Consequences for Canada
+Roach, Kent
+102	25	87.3	
+To the Lighthouse
+Woolf, Virginia, 1882-1941
+103	25	75.7	
+Mein Kampf
+Hitler, Adolf, 1889-1945, Author
+104	24	76.9	
+Phaedrus
+Plato
+105	24	77.7	
+The Genealogy of Morals
+Nietzsche, Friedrich Wilhelm, 1844-1900
+106	24	3.6	
+Weapons of Mass Persuasion : Marketing the War Against Iraq
+Rutherford, Paul, 1944
+107	24	90.6	
+Othello
+Shakespeare, William, 1564-1616
+108	24	55.8	
+The Cask of Amontillado
+Poe, Edgar Allan, 1809-1849
+109	24	72.9	
+Hypertext 2.0
+Landow, George P.
+110	24	36.2	
+What Is It Like to Be a Bat
+Nagel, Thomas
+The Philosophical Review
+111	24	88.0	
+King Lear
+Shakespeare, William, 1564-1616
+112	24	74.0	
+The Great Transformation
+Polanyi, Karl, 1886-1964
+113	24	17.6	
+Obasan
+Kogawa, Joy
+114	24	79.6	
+Hard Times
+Dickens, Charles, 1812-1870
+115	24	81.5	
+The Metaphysics
+Aristotle
+116	24	62.5	
+Theory of International Politics
+Waltz, Kenneth Neal, 1924
+117	24	5.1	
+Goodnight Desdemona (Good Morning Juliet)
+MacDonald, Ann-Marie, 1958
+118	24	48.7	
+Famine, Affluence, and Morality
+Singer, Peter
+Philosophy & Public Affairs
+119	23	80.3	
+An Essay Concerning Human Understanding
+Locke, John, 1632-1704
+120	23	44.8	
+Fear and Trembling
+Kierkegaard, Søren, 1813-1855
+121	23	95.4	
+Dialogues
+Plato
+122	23	83.9	
+Globalization and Its Discontents
+Stiglitz, Joseph E.
+123	23	94.8	
+Beloved
+Morrison, Toni
+124	23	3.2	
+1996 Census Catalogue
+Statistics Canada
+125	23	95.8	
+A Pocket Style Manual
+Hacker, Diana, 1942-2004
+126	23	66.6	
+Diary
+Pepys, Samuel, 1633-1703
+127	23	94.3	
+Huckleberry Finn
+Twain, Mark, 1835-1910
+128	23	3.1	
+First Nations? Second Thoughts
+Flanagan, Thomas, 1944
+129	23	59.9	
+The Canterbury Tales: Prologue
+Chaucer, Geoffrey, -1400
+130	23	2.9	
+Political Trials and the Canadian Political Tradition
+McNaught, Kenneth
+The University of Toronto Law Journal
+131	23	76.6	
+The Picture of Dorian Gray
+Wilde, Oscar, 1854-1900
+132	23	89.2	
+Discourse on Method
+Descartes, René, 1596-1650
+133	23	3.4	
+Canadian Politics : Critical Approaches
+Dyck, Perry Rand, 1943
+134	23	80.6	
+The New University
+Paul, F. T.
+The British Medical Journal
+135	22	29.0	
+A Defence of Poetry
+Shelley, Percy Bysshe, 1792-1822
+136	22	26.8	
+Passionate Shepherd to His Love
+Marlowe, Christopher, 1564-1593
+137	22	69.9	
+Trifles
+Glaspell, Susan, 1876-1948
+138	22	25.4	
+Introductory Statistics
+Wonnacott, Thomas H., 1935
+139	22	91.3	
+Their Eyes Were Watching God
+Hurston, Zora Neale
+140	22	69.8	
+Culture and Imperialism
+Said, Edward W.
+141	22	5.4	
+The North West
+Law, Chris
+Geography
+142	22	41.7	
+Quarterly Review
+Federal Reserve Bank of Minneapolis
+143	22	93.4	
+The Tragedy of the Commons
+Hardin, Garrett James, 1915-2003
+144	22	81.8	
+The End of History
+Fukuyama, Francis
+The National Interest
+145	22	98.0	
+Antigone
+Sophocles
+146	22	68.5	
+Songs of Experience
+Blake, William, 1757-1827
+147	22	12.5	
+Macroeconomics
+Williamson, Stephen D.
+148	21	13.4	
+Personal Identity
+Parfit, Derek
+The Philosophical Review
+149	21	72.2	
+Wide Sargasso Sea
+Rhys, Jean
+150	21	75.3	
+Twelfth Night
+Shakespeare, William, 1564-1616
+151	21	86.8	
+Rhetoric
+Aristotle
+152	21	16.8	
+New Books
+Taylor, A. E., Winter, P. E., McIntyre, J. L., Blunt, Herbert W., Benn, A. W.
+Mind
+153	21	96.2	
+Democracy in America
+Tocqueville, Alexis De, 1805-1859
+154	21	31.1	
+La Belle Dame Sans Merci
+Keats, John, 1795-1821
+155	21	93.5	
+Incidents in the Life of a Slave Girl
+Jacobs, Harriet A. (Harriet Ann), 1813-1897
+156	21	81.1	
+The German Ideology
+Marx, Karl, 1818-1883
+157	21	29.9	
+Global Business Today
+Hill, Charles W. L.
+158	21	61.0	
+Rights of Man
+Paine, Thomas, 1737-1809
+159	21	57.6	
+The Consolation of Philosophy
+Boethius, -524
+160	21	35.7	
+Biographia Literaria
+Coleridge, Samuel Taylor, 1772-1834
+161	21	2.9	
+Petticoats and Prejudice : Women and Law in Nineteenth-Century Canada
+Backhouse, Constance, 1952
+162	21	67.9	
+Dover Beach
+Arnold, Matthew
+The English Journal
+163	21	3.7	
+Uncle Sam and Us : Globalization, Neoconservatism, and the Canadian State
+Clarkson, Stephen
+164	20	78.9	
+Mythologies
+Barthes, Roland
+165	20	89.8	
+The Protestant Ethic and the Spirit of Capitalism
+Weber, Max, 1864-1920
+166	20	89.4	
+Economics
+Krugman, Paul R.
+167	20	41.1	
+The Castle of Otranto
+Walpole, Horace, 1717-1797
+168	20	96.3	
+Walden
+Thoreau, Henry David, 1817-1862
+169	20	21.3	
+Anne of Green Gables
+Montgomery, L. M. (Lucy Maud), 1874-1942
+170	20	93.6	
+The Aeneid
+Virgil
+171	20	68.4	
+The Sun Also Rises
+Hemingway, Ernest, 1899-1961
+172	20	14.1	
+Introductory Statistics for Business and Economics
+Wonnacott, Thomas H., 1935
+173	20	11.0	
+Crime and Society in England, 1750-1900
+Emsley, Clive
+174	20	93.4	
+The Awakening
+Chopin, Kate, 1850-1904
+175	20	10.2	
+Running in the Family
+Ondaatje, Michael, 1943
+176	20	40.9	
+Aurora Leigh
+Browning, Elizabeth Barrett, 1806-1861
+177	19	92.6	
+Henry V
+Shakespeare, William, 1564-1616
+178	19	47.3	
+Don Juan
+Byron, George Gordon Byron, Baron, 1788-1824
+179	19	57.7	
+Envisioning Information
+Tufte, Edward R., 1942
+180	19	42.2	
+The Uncanny
+Freud, Sigmund, 1856-1939
+181	19	55.7	
+A Treatise of Human Nature
+Hume, David, 1711-1776
+182	19	63.3	
+A Discourse on Inequality
+Rousseau, Jean-Jacques, 1712-1778
+183	19	65.0	
+Songs of Innocence and Experience
+Blake, William, 1757-1827
+184	19	2.4	
+The Sun Climbs Slow : Justice in the Age of Imperial America
+Paris, Erna, 1938
+185	19	2.9	
+The Age of Light, Soap, and Water : Moral Reform in English Canada, 1885-1925
+Valverde, Mariana, 1955
+186	19	46.0	
+Mansfield Park
+Austen, Jane, 1775-1817
+187	19	92.1	
+Metamorphoses
+Ovid, 43 B.C.-17 A.D. Or 18 A.D
+188	19	43.9	
+Compulsory Heterosexuality and Lesbian Existence
+Rich, Adrienne, 1929-2012
+189	19	35.5	
+The Marriage of Heaven and Hell
+Blake, William, 1757-1827
+190	19	4.7	
+The Real World of Technology
+Franklin, Ursula M., 1921
+191	19	78.5	
+Phaedo
+Plato
+192	19	85.4	
+Symposium
+Plato
+193	18	70.8	
+The Clouds
+Aristophanes
+194	18	14.3	
+Decolonizing Methodologies : Research and Indigenous Peoples
+Smith, Linda Tuhiwai, 1950
+195	18	92.9	
+Democracy in America
+De Tocqueville, Alexis, Mansfield, Harvey C., Winthrop, Delba
+New England Review (1990-)
+196	18	64.5	
+Lolita
+Nabokov, Vladimir Vladimirovich, 1899-1977
+197	18	2.7	
+Politics in Canada : Culture, Institutions, Behaviour, and Public Policy
+Jackson, Robert J., 1936
+198	18	13.5	
+The New Industrial State
+Galbraith, John Kenneth, 1908-2006
+199	18	48.2	
+Fundamentals of Corporate Finance
+Ross, Stephen A.
+200	18	46.5	
+The Rover
+Behn, Aphra, 1640-1689
+201	18	54.1	
+Foucault
+Deleuze, Gilles, 1925-1995
+202	18	83.8	
+Civilization and Its Discontents
+Freud, Sigmund, 1856-1939
+203	18	77.6	
+The Design of Everyday Things
+Norman, Donald A.
+204	18	3.6	
+Human Rights and Terrorism
+Hoffman, Paul
+Human Rights Quarterly
+205	18	7.3	
+Lives of Girls and Women
+Munro, Alice
+206	18	25.5	
+Anthropology
+Ember, Carol R.
+207	18	5.1	
+As for Me and My House
+Ross, Sinclair
+208	18	66.8	
+Republic, Book X
+Plato
+209	18	31.1	
+Stopping by Woods on a Snowy Evening
+Frost, Robert, 1874-1963
+210	18	2.7	
+Colour-Coded : A Legal History of Racism in Canada, 1900-1950
+Backhouse, Constance, 1952
+211	18	38.5	
+In a Station of the Metro
+Pound, Ezra
+Poetry
+212	17	34.4	
+Frankenstein, Or, the Modern Prometheus
+Shelley, Mary Wollstonecraft, 1797-1851
+213	17	70.2	
+The Subjection of Women
+Mill, John Stuart, 1806-1873
+214	17	73.8	
+An Enquiry Concerning Human Understanding
+Hume, David, 1711-1776
+215	17	2.4	
+The Charter of Rights and the Legalization of Politics in Canada
+Mandel, Michael
+216	17	3.8	
+Nuremberg and Vietnam: An American Tragedy
+Taylor, Telford
+217	17	2.5	
+Becoming an Ally : Breaking the Cycle of Oppression
+Bishop, Anne, 1950
+218	17	52.4	
+Angels in America
+Kushner, Tony
+219	17	4.3	
+The Return of History and the End of Dreams
+Kagan, Robert
+220	17	71.6	
+Dr. Jekyll and Mr. Hyde
+Stevenson, Robert Louis, 1850-1894
+221	17	13.9	
+A History of English Law
+Holdsworth, William Searle, Sir, 1871-1944
+222	17	75.0	
+The Turn of the Screw
+James, Henry, 1843-1916
+223	17	76.7	
+The Interpretation of Dreams
+Freud, Sigmund, 1856-1939
+224	17	5.7	
+Crime and the Courts in England, 1660-1800
+Beattie, J. M.
+225	17	85.1	
+Death of a Salesman
+Miller, Arthur, 1915-2005
+226	17	84.1	
+Maus
+Spiegelman, Art
+227	17	16.1	
+Sensations and Brain Processes
+Smart, J. J. C.
+The Philosophical Review
+228	17	2.8	
+Humanitarian Intervention and International Society
+Ayoob, Mohammed
+Global Governance
+229	17	75.2	
+Gorgias
+Plato
+230	17	92.5	
+Oedipus the King
+Sophocles
+231	17	52.2	
+Nervous Conditions
+Dangarembga, Tsitsi
+232	17	53.6	
+Tools for Teaching
+Davis, Barbara Gross
+233	17	2.2	
+Dark Days : The Story of Four Canadians Tortured in the Name of Fighting Terror
+Pither, Kerry
+234	17	8.4	
+The London Hanged : Crime and Civil Society in the Eighteenth Century
+Linebaugh, Peter
+235	17	26.4	
+Lycidas
+Milton, John, 1608-1674
+236	17	2.5	
+Calendar
+Dalhousie University
+237	17	78.1	
+Contemporary Literature
+English, Thomas H.
+South Atlantic Bulletin
+238	17	47.4	
+Tradition and the Individual Talent
+Eliot, T. S.
+Perspecta
+239	17	75.4	
+A Raisin in the Sun
+Hansberry, Lorraine, 1930-1965
+240	17	27.9	
+Foundations of Statistical Natural Language Processing
+Manning, Christopher D.
+241	17	73.4	
+Nationalism
+Gellner, Ernest
+242	17	4.1	
+Nemesis : The Last Days of the American Republic
+Johnson, Chalmers A.
+243	17	6.4	
+The Trial of Henry Kissinger
+Hitchens, Christopher
+244	17	49.0	
+Diplomacy and Domestic Politics: The Logic of Two-Level Games
+Putnam, Robert D.
+International Organization
+245	17	7.0	
+Media Ethics : Cases & Moral Reasoning
+Christians, Clifford G.
+246	17	47.8	
+Dr. Faustus
+Marlowe, Christopher, 1564-1593
+247	17	22.8	
+Prolegomena to Any Future Metaphysics
+Kant, Immanuel, 1724-1804
+248	17	6.2	
+Whigs and Hunters : The Origin of the Black Act
+Thompson, E. P. (Edward Palmer), 1924-1993
+249	17	15.4	
+A Bright Shining Lie : John Paul Vann and America in Vietnam
+Sheehan, Neil
+250	17	62.8	
+Archaeology in the U.S.S.R
+Field, Henry, 1902-1986
+251	17	67.0	
+Ezra Pound
+Eliot, T. S. (Thomas Stearns), 1888-1965
+252	17	56.6	
+Paradise Lost : Book I
+Milton, John, 1608-1674
+253	17	92.2	
+Project Evaluation
+Due, Jean M.
+African Studies Review
+254	16	80.6	
+Faust
+Goethe, Johann Wolfgang Von, 1749-1832
+255	16	63.7	
+Nations and Nationalism
+Gellner, Ernest
+256	16	62.4	
+Philosophical Investigations
+Wittgenstein, Ludwig, 1889-1951
+257	16	14.8	
+The Retreat of the State : The Diffusion of Power in the World Economy
+Strange, Susan, 1923
+258	16	43.1	
+Hitler
+Kershaw, Ian
+259	16	78.3	
+Economics
+Taylor, John B.
+260	16	67.4	
+The Language Instinct
+Pinker, Steven, 1954
+261	16	94.9	
+The Poetics
+Aristotle
+262	16	2.2	
+The Construction of Statutes
+Driedger, Elmer A.
+263	16	88.3	
+Adventures of Huckleberry Finn
+Twain, Mark, 1835-1910
+264	16	2.0	
+The Law of Contracts
+Waddams, S. M.
+265	16	3.4	
+The Double Hook
+Watson, Sheila, 1909-1998
+266	16	5.4	
+International Justice and the International Criminal Court : Between Sovereignty and the Rule of Law
+Broomhall, Bruce
+267	16	33.4	
+The Morte Darthur
+Malory, Thomas, Sir, Active 15th Century
+268	16	2.8	
+Diamond Grill
+Wah, Fred, 1939
+269	16	50.6	
+Prison Notebooks
+Gramsci, Antonio, 1891-1937
+270	16	34.3	
+Prolegomena
+Kant, Immanuel, 1724-1804
+271	16	4.1	
+Canadian Politics
+Bickerton, James
+272	16	4.7	
+Monkey Beach
+Robinson, Eden
+273	16	2.2	
+Reflections on the Prosecution of War Crimes by International Tribunals
+Meron, Theodor
+The American Journal of International Law
+274	16	39.5	
+The False Promise of International Institutions
+Mearsheimer, John J.
+275	16	60.1	
+Capitalism, Socialism, and Democracy
+Schumpeter, Joseph Alois, 1883-1950
+276	16	2.7	
+A History of English Criminal Law and Its Administration From 1750
+Radzinowicz, Leon, Sir
+277	16	90.7	
+Brave New World
+Huxley, Aldous, 1894-1963
+278	16	7.4	
+The Past and the Present
+Stone, Lawrence
+279	16	46.6	
+Timaeus
+Plato
+280	16	54.8	
+In Memoriam
+Tennyson, Alfred Tennyson, Baron, 1809-1892
+281	16	42.9	
+Political Liberalism
+Rawls, John, 1921-2002
+282	16	37.7	
+Merleau-Ponty
+SARTRE, Jean-Paul
+Revue Internationale De Philosophie
+283	16	29.0	
+The Eve of St. Agnes
+Keats, John, 1795-1821
+284	16	31.3	
+Translations
+Friel, Brian
+285	16	51.2	
+Existentialism and Humanism
+Sartre, Jean Paul, 1905-1980
+286	16	7.8	
+The Diviners
+Laurence, Margaret
+287	16	91.0	
+Crito
+Plato
+288	16	33.8	
+A Handbook to Literature
+Harmon, William, 1938
+289	16	57.6	
+Database Management Systems
+Ramakrishnan, Raghu
+290	16	90.2	
+The Analects
+Confucius
+291	16	22.8	
+Complete Works
+Plato
+292	16	27.5	
+Elegy Written in a Country Churchyard
+Gray, Thomas, 1716-1771
+293	16	7.8	
+A Just Measure of Pain : The Penitentiary in the Industrial Revolution, 1750-1850
+Ignatieff, Michael
+294	16	21.9	
+Sources of Chinese Tradition
+De Bary, William Theodore, 1919- Ed
+295	16	30.8	
+The School for Scandal
+Sheridan, Richard Brinsley, 1751-1816
+296	16	77.1	
+Theogony
+Hesiod
+297	16	28.0	
+Globalization in Question
+Hirst, Paul Q.
+298	16	2.0	
+Driedger on the Construction of Statutes
+Sullivan, Ruth, 1946
+299	16	20.9	
+Lines Composed a Few Miles Above Tintern Abbey
+Wordsworth, William, 1770-1850
+300	16	3.2	
+English Criminal Justice in the Nineteenth Century
+Bentley, D. J. (David Jeffrey)
+301	16	7.5	
+Social Change
+Vago, Steven
+302	16	35.9	
+The Laugh of the Medusa
+Cixous, Hélène, Cohen, Keith, Cohen, Paula
+Signs
+303	15	87.0	
+Lysistrata
+Aristophanes
+304	15	85.0	
+Neuromancer
+Gibson, William, 1948
+305	15	16.4	
+Critique of Practical Reason
+Kant, Immanuel, 1724-1804
+306	15	2.3	
+Party Politics in Canada
+Thorburn, Hugh G., 1924- Comp
+307	15	93.2	
+The Declaration of Independence
+Jefferson, Thomas, 1743-1826
+308	15	25.5	
+International Relations: One World, Many Theories
+Walt, Stephen M.
+Foreign Policy
+309	15	71.8	
+On the Road
+Kerouac, Jack, 1922-1969
+310	15	12.2	
+The Law of Contract
+Cheshire, G. C. (Geoffrey Chevalier), 1886-1978
+311	15	58.3	
+Northanger Abbey
+Austen, Jane, 1775-1817
+312	15	73.1	
+Emma
+Austen, Jane, 1775-1817
+313	15	43.1	
+Animal Liberation
+Singer, Peter, 1946
+314	15	2.4	
+Physical Anthropology and Archaeology
+Ember, Carol R.
+315	15	29.4	
+Anarchy Is What States Make of It: The Social Construction of Power Politics
+Wendt, Alexander
+International Organization
+316	15	74.6	
+The Histories
+Herodotus
+317	15	56.3	
+Doctor Faustus
+Marlowe, Christopher, 1564-1593
+318	15	60.0	
+The Prelude, 1798-1799
+Wordsworth, William, 1770-1850
+319	15	2.0	
+Whence They Came : Deportation From Canada, 1900-1935
+Roberts, Barbara Ann
+320	15	46.0	
+Economic Development
+Todaro, Michael P.
+321	15	49.2	
+The Hobbit
+Tolkien, J. R. R. (John Ronald Reuel), 1892-1973
+322	15	38.3	
+Easter, 1916
+Yeats, W. B. (William Butler), 1865-1939
+323	15	36.9	
+We Real Cool
+Brooks, Gwendolyn
+Poetry
+324	15	26.9	
+An Image of Africa
+Achebe, Chinua
+The Massachusetts Review
+325	15	42.5	
+The Problems of Philosophy
+Russell, Bertrand, 1872-1970
+326	15	68.8	
+The Crying of Lot 49
+Pynchon, Thomas
+327	15	1.9	
+An Unauthorized History of the R C M P
+Brown, Lorne
+328	15	64.6	
+The Norton Anthology of English Literature
+Abrams, M. H. (Meyer Howard), 1912- Ed
+329	15	14.8	
+The Law of Contract
+Treitel, G. H.
+330	15	99.6	
+Biology
+Campbell, Neil A., 1946
+331	15	1.9	
+The Genesis of the Canadian Criminal Code of 1892
+Brown, Desmond Haldane, 1930
+332	15	2.9	
+Constitutional Law
+Monahan, Patrick
+333	15	2.0	
+Making Good : Law and Moral Regulation in Canada, 1867-1939
+Strange, Carolyn, 1959
+334	15	2.0	
+Crime and Punishment in Canada : A History
+Carrigan, D. Owen
+335	15	51.2	
+Ozymandias
+Shelley, Percy Bysshe, 1792-1822
+336	15	5.9	
+The Logic Book
+Bergmann, Merrie
+337	15	82.2	
+The Bacchae
+Euripides
+338	15	61.5	
+A Christmas Carol
+Dickens, Charles, 1812-1870
+339	15	86.5	
+The Jungle
+Sinclair, Upton, 1878-1968
+340	15	3.1	
+The Great Arch : English State Formation as Cultural Revolution
+Corrigan, Philip Richard D.
+341	15	4.3	
+Ukraine : A History
+Subtelny, Orest
+342	15	33.0	
+Groundwork of the Metaphysics of Morals
+Kant, Immanuel, 1724-1804
+343	15	1.9	
+Legacies of Fear : Law and Politics in Quebec in the Era of the French Revolution
+Greenwood, F. Murray (Frank Murray), 1935
+344	15	85.2	
+Bartleby
+Melville, Herman, 1819-1891
+345	14	22.8	
+Leviathan, Part I.
+Hobbes, Thomas, 1588-1679
+346	14	1.8	
+Riel and the Rebellion : 1885 Reconsidered
+Flanagan, Thomas, 1944
+347	14	4.5	
+The Law of Contract
+Collins, Hugh, 1953
+348	14	4.1	
+The Journals of Susanna Moodie
+Atwood, Margaret, 1939
+349	14	67.6	
+The Evolution of Cooperation
+Axelrod, Robert M.
+350	14	13.4	
+The International Political Economy : Perspectives on Global Power and Wealth
+Frieden, Jeffry A.
+351	14	2.9	
+Police and Protest in England and Ireland, 1780-1850
+Palmer, Stanley H.
+352	14	57.6	
+The God of Small Things
+Roy, Arundhati
+353	14	22.0	
+Calendar
+University College, Cork
+354	14	34.5	
+The Spectator
+Addison, Joseph, 1672-1719
+355	14	53.9	
+Computing Machinery and Intelligence
+Turing, A. M.
+Mind
+356	14	51.3	
+David Copperfield
+Dickens, Charles, 1812-1870
+357	14	36.4	
+A Guide to Physical Examination
+Bates, Barbara, 1928
+358	14	45.9	
+What Is to Be Done
+Lenin, Vladimir Ilʹich, 1870-1924
+359	14	45.6	
+Ethics
+Spinoza, Benedictus De, 1632-1677
+360	14	58.0	
+Utilitarianism
+Bentham, Jeremy, 1748-1832
+361	14	5.2	
+The Anthropology of Religion, Magic, and Witchcraft
+Stein, Rebecca L., 1970
+362	14	77.8	
+The Lexus and the Olive Tree
+Friedman, Thomas L.
+363	14	15.2	
+Human Rights as Politics and Idolatry
+Ignatieff, Michael
+364	14	6.2	
+Conflicts as Property
+Christie, Nils
+The British Journal of Criminology
+365	14	1.8	
+Reading Cases
+Davies, Martin
+The Modern Law Review
+366	14	45.0	
+The Strange Case of Dr. Jekyll and Mr. Hyde
+Stevenson, Robert Louis, 1850-1894
+367	14	91.8	
+Invisible Man
+Ellison, Ralph
+368	14	42.2	
+Imperialism
+Hobson, J. A. (John Atkinson), 1858-1940
+369	14	30.6	
+Microeconomics
+Besanko, David, 1955
+370	14	7.6	
+Information Visualization : Perception for Design
+Ware, Colin
+371	14	12.6	
+Distributive Justice
+Nozick, Robert
+Philosophy & Public Affairs
+372	14	21.5	
+True Story
+John, Daniel
+The English Journal
+373	14	2.5	
+Interpersonal Violence in English Society 1300-1980
+Stone, Lawrence
+Past & Present
+374	14	32.5	
+A Guide to Physical Examination and History Taking
+Bates, Barbara, 1928
+375	14	8.8	
+Bentham
+Hart, H. L. A. (Herbert Lionel Adolphus), 1907
+376	14	86.0	
+Ulysses
+Joyce, James, 1882-1941
+377	14	82.7	
+The Complete Works
+Shakespeare, William, 1564-1616
+378	14	21.1	
+Principles of Economics
+Marshall, Alfred, 1842-1924
+379	14	21.3	
+Foe
+Coetzee, J. M., 1940
+380	14	16.6	
+Reasons and Persons
+Parfit, Derek
+381	14	52.7	
+Of Mice and Men
+Steinbeck, John, 1902-1968
+382	14	61.4	
+Gender Trouble : Feminism and the Subversion of Identity
+Butler, Judith, 1956
+383	14	26.0	
+The Prologue to the Canterbury Tales
+Chaucer, Geoffrey, -1400
+384	14	85.5	
+Young Goodman Brown
+Hawthorne, Nathaniel, 1804-1864
+385	14	8.2	
+States and the Reemergence of Global Finance : From Bretton Woods to the 1990s
+Helleiner, Eric, 1963
+386	14	75.4	
+The Lottery
+Jackson, Shirley, 1916-1965
+387	14	60.4	
+The Rise of the Network Society
+Castells, Manuel, 1942
+388	14	4.8	
+The State of the Prisons
+Howard, John, 1726-1790
+389	14	81.3	
+The Presentation of Self in Everyday Life
+Goffman, Erving
+390	14	64.8	
+The Selfish Gene
+Dawkins, Richard, 1941
+391	14	1.8	
+Historical Introduction to Legal Studies
+Ogilvie, M. H. (Margaret H.), 1948
+392	13	60.4	
+Oliver Twist
+Dickens, Charles, 1812-1870
+393	13	59.2	
+Literary Theory : An Introduction
+Eagleton, Terry, 1943
+394	13	2.2	
+Seed Catalogue
+Kroetsch, Robert, 1927
+395	13	6.9	
+Captain Swing
+Hobsbawm, E. J. (Eric J.), 1917
+396	13	2.0	
+Absentee Ownership and Business Enterprise in Recent Times : The Case of America
+Veblen, Thorstein, 1857-1929
+397	13	2.8	
+Crime, Protest, Community, and Police in Nineteenth-Century Britain
+Jones, David J. V.
+398	13	3.8	
+The Victorian Underworld
+Chesney, Kellow
+399	13	1.7	
+Imprisonment in Medieval England
+Pugh, R. B. (Ralph Bernard), 1910-1982
+400	13	23.1	
+Oryx and Crake
+Atwood, Margaret, 1939
+401	13	1.9	
+Making Law, Order, and Authority in British Columbia, 1821-1871
+Loo, Tina Merrill, 1962
+402	13	1.7	
+Youth Criminal Justice Law
+Bala, Nicholas C.
+403	13	1.9	
+The Lesson of the Scaffold : The Public Execution Controversy in Victorian England
+Cooper, David D., 1924
+404	13	2.8	
+The State of the Prisons in England and Wales
+Howard, John, 1726-1790
+405	13	1.8	
+A Machine of Oppression Under the Guise of the Law": The Saint John Police Establishment, 1860-1890
+Marquis, Greg
+Acadiensis
+406	13	1.7	
+The Mounties as Vigilantes: Perceptions of Community and the Transformation of Law in the Yukon, 1885-1897
+Stone, Thomas
+Law & Society Review
+407	13	31.3	
+Titus Andronicus
+Shakespeare, William, 1564-1616
+408	13	59.0	
+Anarchy, State, and Utopia
+Nozick, Robert
+409	13	1.7	
+Canadian Criminal Justice History : An Annotated Bibliography
+Smandych, Russell Charles
+410	13	11.0	
+A History of the Criminal Law of England
+Stephen, James Fitzjames, Sir, 1829-1894
+411	13	4.7	
+The Child Savers; The Invention of Delinquency
+Platt, Anthony M.
+412	13	66.5	
+Passing
+Larsen, Nella
+413	13	46.0	
+A Short Guide to Writing About History
+Marius, Richard
+414	13	49.2	
+Introduction to the Theory of Computation
+Sipser, Michael
+415	13	20.3	
+Alias Grace
+Atwood, Margaret, 1939
+416	13	1.8	
+Studies in Canadian Social History
+Horn, Michiel, 1939- Comp
+417	13	1.7	
+Class Conflict on the Canals of Upper Canada in the 1840s
+Bleasdale, Ruth
+Labour / Le Travail
+418	13	1.9	
+Verdict According to Conscience : Perspectives on the English Criminal Trial Jury, 1200-1800
+Green, Thomas Andrew
+419	13	1.7	
+Appearing for the Crown : A Legal and Historical Review of Criminal Prosecutorial Authority in Canada
+Stenning, Philip C.
+420	13	41.9	
+The General Theory of Employment, Interest and Money
+Keynes, John Maynard, 1883-1946
+421	13	58.9	
+Jane Eyre
+Brontë, Charlotte, 1816-1855
+422	13	1.7	
+The Crowd in History : A Study of Popular Disturbances in France and England, 1730-1848
+Rudé, George F. E.
+423	13	3.9	
+Historical Foundations of the Common Law
+Milsom, S. F. C. (Stroud Francis Charles), 1923
+424	13	65.2	
+The Physics
+Aristotle
+425	13	54.1	
+Simulations
+Baudrillard, Jean, 1929-2007
+426	13	2.8	
+From Newgate to Dannemora; The Rise of the Penitentiary in New York, 1796-1848
+Lewis, W. David (Walter David), 1931
+427	13	46.4	
+Selected Writings, 1877-1930
+Power, D'Arcy, Sir, 1855-1941
+428	13	1.8	
+The Strange Alchemy of Life and Law
+Sachs, Albie, 1935
+429	13	28.0	
+Colonialism-Postcolonialism
+Loomba, Ania
+430	13	38.3	
+Policy Paradox : The Art of Political Decision Making
+Stone, Deborah
+431	13	1.8	
+Maintain the Right: The Early History of the North West Mounted Police, 1873-1900
+Atkin, Ronald, 1931
+432	13	2.3	
+Crime and Public Order in England in the Later Middle Ages
+Bellamy, John G., 1930
+433	13	1.9	
+Microeconomics : Canada in the Global Environment
+Parkin, Michael, 1939
+434	13	1.7	
+Constabulary : The Rise of Police Institutions in Britain, the Commonwealth, and the United States
+Senior, Hereward
+435	13	39.2	
+From the 'Prison Notebooks
+Gramsci, Antonio, Buttigieg, Joseph A.
+Daedalus
+436	13	24.1	
+Vietnam, a History
+Karnow, Stanley
+437	13	88.3	
+The Scarlet Letter
+Hawthorne, Nathaniel, 1804-1864
+438	13	27.3	
+The Lion, the Witch, and the Wardrobe
+Lewis, C. S. (Clive Staples), 1898-1963
+439	13	2.4	
+Policing the City : Boston, 1822-1885
+Lane, Roger
+440	13	59.2	
+Black Skin, White Masks
+Fanon, Frantz, 1925-1961
+441	13	3.1	
+Masterless Men : The Vagrancy Problem in England 1560-1640
+Beier, A. L.
+442	13	2.0	
+Legal Research Handbook
+MacEllven, Douglass T.
+443	13	46.8	
+Richard III
+Shakespeare, William, 1564-1616
+444	13	1.8	
+Statutory Interpretation
+Sullivan, Ruth, 1946
+445	13	5.5	
+The Princess and the Goblin
+MacDonald, George, 1824-1905
+446	13	69.9	
+Lais
+Marie, De France, Active 12th Century
+447	13	8.8	
+Crime and Punishment in American History
+Friedman, Lawrence Meir, 1930
+448	13	62.7	
+Psychology : Themes and Variations
+Weiten, Wayne, 1950
+449	13	21.1	
+Ode to a Grecian Urn
+Keats, John
+Chicago Review
+450	13	40.3	
+Conceptual Models and the Cuban Missile Crisis
+Allison, Graham T.
+The American Political Science Review
+451	13	44.2	
+The General Theory of Employment
+Keynes, J. M.
+The Quarterly Journal of Economics
+452	13	11.2	
+Marxist Theories of Imperialism : A Critical Survey
+Brewer, Anthony, 1942
+453	13	4.3	
+The Fabrication of Virtue : English Prison Architecture, 1750-1840
+Evans, Robin, 1944
+454	13	34.9	
+After Hegemony : Cooperation and Discord in the World Political Economy
+Keohane, Robert O. (Robert Owen), 1941
+455	13	1.7	
+Mr. Attorney : The Attorney General for Ontario in Court, Cabinet and Legislature, 1791-1899
+Romney, Paul, 1945
+456	13	27.8	
+War and Change in World Politics
+Gilpin, Robert
+457	13	23.7	
+An Introduction to Philosophy
+Major, David R., 1866
+458	13	63.4	
+International Economics : Theory and Policy
+Krugman, Paul R.
+459	13	81.3	
+A Rose for Emily
+Faulkner, William, 1897-1962
+460	13	86.9	
+Civil Disobedience
+Thoreau, Henry David, 1817-1862. Aut
+461	13	59.5	
+Being Digital
+Negroponte, Nicholas
+462	13	2.5	
+A History of English Assizes, 1558-1714
+Cockburn, J. S.
+463	13	2.2	
+The Politics of Criminal Law : Reform in the Nineteenth Century
+Hostettler, John
+464	13	1.7	
+Charter Politics
+Knopff, Rainer, 1948
+465	13	29.6	
+In the Second Place
+Will, Frederic
+Chicago Review
+466	13	1.7	
+The Invention of a Common Law Crime: Perjury and the Elizabethan Courts
+Gordon, Michael D.
+The American Journal of Legal History
+467	13	2.0	
+Vagrants and the Social Order in Elizabethan England
+Beier, A. L.
+Past & Present
+468	12	43.3	
+Germania
+Tacitus, Cornelius
+469	12	36.9	
+International Relations
+Goldstein, Joshua S., 1952
+470	12	57.2	
+Little Women
+Alcott, Louisa May, 1832-1888
+471	12	23.9	
+This Sex Which Is Not One
+Irigaray, Luce
+472	12	46.5	
+The Origins of Totalitarianism
+Arendt, Hannah, 1906-1975
+473	12	78.7	
+The Practice of Social Research
+Babbie, Earl R.
+474	12	22.0	
+The Golden Compass
+Pullman, Philip, 1946
+475	12	24.5	
+The Library of Babel
+Borges, Jorge Luis, 1899-1986
+476	12	2.7	
+The Backwoods of Canada
+Traill, Catherine Parr Strickland, 1802-1899
+477	12	31.5	
+The Arcades Project
+Benjamin, Walter, 1892-1940
+478	12	21.0	
+International Regimes, Transactions, and Change: Embedded Liberalism in the Postwar Economic Order
+Ruggie, John Gerard
+International Organization
+479	12	1.8	
+Principles, Publicity, and Politics: Notes on Human Rights Media
+McLagan, Meg
+American Anthropologist
+480	12	54.5	
+Two Treatises of Government
+Locke, John, 1632-1704
+481	12	11.8	
+The Man of Feeling
+Mackenzie, Henry, 1745-1831
+482	12	31.0	
+Ethnic Groups in Conflict
+Horowitz, Donald L.
+483	12	62.3	
+Perpetual Peace
+Kant, Immanuel, 1724-1804
+484	12	64.3	
+On Marx
+Engels, Friedrich, 1820-1895
+485	12	39.4	
+The Power of Myth
+Campbell, Joseph, 1904-1987
+486	12	5.7	
+The Collected Works of Billy the Kid
+Ondaatje, Michael, 1943
+487	12	29.0	
+Representative Government
+Mill, John Stuart, 1806-1873
+488	12	1.8	
+Legal Problem Solving : Reasoning, Research & Writing
+Fitzgerald, Maureen F.
+489	12	74.5	
+Intermediate Accounting
+Kieso, Donald E.
+490	12	44.2	
+Making Democracy Work : Civic Traditions in Modern Italy
+Putnam, Robert D.
+491	12	2.2	
+Military Expenditure and Capitalism
+Smith, R. P.
+Cambridge Journal of Economics
+492	12	1.5	
+Keeping British Columbia British: The Law-And-Order Question on a Gold Mining Frontier
+Gough, Barry M.
+Huntington Library Quarterly
+493	12	2.4	
+Dispute Resolution
+Nelson, Robert H.
+Journal of Policy Analysis and Management
+494	12	64.6	
+The Sixteenth Century
+England, Sylvia Lennie
+The Year's Work in Modern Language Studies
+495	12	64.6	
+Middlemarch
+Eliot, George, 1819-1880
+496	12	2.7	
+A History of English Prison Administration
+McConville, Seán
+497	12	39.6	
+Evelina
+Burney, Fanny, 1752-1840
+498	12	88.2	
+Pedagogy of the Oppressed
+Freire, Paulo, 1921-1997
+499	12	3.8	
+History of Economic Thought : A Critical Perspective
+Hunt, E. K.
+500	12	25.5	
+Cantos
+Pound, Ezra, 1885-1972
+501	12	72.7	
+Options, Futures, and Other Derivatives
+Hull, John, 1946
+502	12	12.0	
+On Contracts
+Chitty, J., Jr., -1838
+503	12	13.9	
+Hitler : 1889-1936: Hubris
+Kershaw, Ian
+504	12	2.3	
+The History of Crime in Late Medieval and Early Modern England: A Review of the Field
+Sharpe, J. A.
+Social History
+505	12	6.4	
+Two Models of the Criminal Process
+Packer, Herbert L.
+University of Pennsylvania Law Review
+506	12	5.4	
+Biosemantics
+Millikan, Ruth Garrett
+The Journal of Philosophy
+507	12	12.2	
+History of Economic Analysis
+Schumpeter, Joseph Alois, 1883-1950
+508	12	78.2	
+Dubliners
+Joyce, James, 1882-1941
+509	12	41.1	
+The Remains of the Day
+Ishiguro, Kazuo, 1954
+510	12	23.7	
+Justice and the Politics of Difference
+Young, Iris Marion, 1949
+511	12	17.5	
+Shamela
+Fielding, Henry, 1707-1754
+512	12	89.7	
+Calculus : Early Transcendentals
+Stewart, James, 1941
+513	12	5.7	
+The Law of Contract
+Major, William T.
+514	12	33.1	
+Ordinary Men : Reserve Police Battalion 101 and the Final Solution in Poland
+Browning, Christopher R.
+515	12	2.4	
+Contract Law : Themes for the Twenty-First Century
+Brownsword, Roger
+516	12	76.4	
+The Culture Industry
+Adorno, T. W., Cook, Rafael
+Cinéaste
+517	12	26.5	
+Politics Among Nations; The Struggle for Power and Peace
+Morgenthau, Hans Joachim, 1904
+518	12	66.2	
+The Descent of Man
+Darwin, Charles, 1809-1882
+519	12	45.0	
+Rosencrantz and Guildenstern Are Dead
+Stoppard, Tom
+520	12	32.1	
+Sonnets From the Portuguese
+Browning, Elizabeth Barrett, 1806-1861
+521	12	81.1	
+The Feminine Mystique
+Friedan, Betty
+522	12	1.5	
+Has Capitalism Changed? An International Symposium on the Nature of Contemporary Capitalism
+Tsuru, Shigeto, 1912- Ed
+523	12	9.7	
+The Rise and Decline of Nations : Economic Growth, Stagflation, and Social Rigidities
+Olson, Mancur
+524	12	89.3	
+Computer Networks
+Tanenbaum, Andrew S., 1944
+525	12	15.4	
+Mac Flecknoe, 1682
+Dryden, John, 1631-1700
+526	12	35.7	
+Epistemology of the Closet
+Sedgwick, Eve Kosofsky
+527	12	2.5	
+Dimensions of Private Law : Categories and Concepts in Anglo-American Legal Reasoning
+Waddams, S. M.
+528	12	80.5	
+Self Reliance
+Emerson, Ralph Waldo, 1803-1882
+529	12	45.5	
+On the Social Contract
+Rousseau, Jean-Jacques, 1712-1778
+530	12	33.6	
+The Gay Science
+Nietzsche, Friedrich Wilhelm, 1844-1900
+531	12	30.3	
+The Rise of Illiberal Democracy
+Zakaria, Fareed
+Foreign Affairs
+532	12	40.0	
+Liberalism and World Politics
+Doyle, Michael W.
+The American Political Science Review
+533	11	91.2	
+Medea
+Euripides
+534	11	25.2	
+City of Bits : Space, Place, and the Infobahn
+Mitchell, William J. (William John), 1944
+535	11	2.4	
+Barometer Rising
+MacLennan, Hugh, 1907-1990
+536	11	53.8	
+Being and Time
+Heidegger, Martin, 1889-1976
+537	11	54.6	
+Discourse on Method ; And, Meditations
+Descartes, René, 1596-1650
+538	11	1.7	
+Toronto Workers Respond to Industrial Capitalism, 1867-1892
+Kealey, Gregory S., 1948
+539	11	66.9	
+Works & Days
+Hesiod
+540	11	54.1	
+The Spirit of the Laws
+Montesquieu, Charles De Secondat, Baron De, 1689-1755
+541	11	17.7	
+The General Prologue to the Canterbury Tales
+Chaucer, Geoffrey, -1400
+542	11	7.4	
+T. S. Eliot
+Frye, Northrop
+543	11	83.4	
+Psychology
+Brown, Roger, 1925-1997
+544	11	29.8	
+Peter Pan
+Barrie, J. M. (James Matthew), 1860-1937
+545	11	36.8	
+Thus Spoke Zarathustra
+Nietzsche, Friedrich Wilhelm, 1844-1900
+546	11	3.1	
+English Local Government
+Webb, Sidney, 1859-1947
+547	11	20.4	
+Lucy
+Kincaid, Jamaica
+548	11	17.1	
+Justice as Fairness : A Restatement
+Rawls, John, 1921-2002
+549	11	9.3	
+Introduction: Epistemic Communities and International Policy Coordination
+Haas, Peter M.
+International Organization
+550	11	26.2	
+The Deserted Village
+Goldsmith, Oliver, 1730?-1774
+551	11	16.7	
+Multicultural Citizenship : A Liberal Theory of Minority Rights
+Kymlicka, Will
+552	11	22.7	
+International Law
+Shaw, Malcolm N. (Malcolm Nathan), 1947
+553	11	73.9	
+Manifesto of the Communist Party
+Marx, Karl, 1818-1883
+554	11	15.5	
+The Nazi Dictatorship : Problems and Perspectives of Interpretation
+Kershaw, Ian
+555	11	8.0	
+The Philosophy of Biology
+Ruse, Michael
+556	11	2.0	
+English Prisons Under Local Government
+Webb, Sidney, 1859-1947
+557	11	45.1	
+A Small Place
+Kincaid, Jamaica
+558	11	15.7	
+Groundwork for the Metaphysics of Morals
+Kant, Immanuel, 1724-1804
+559	11	2.0	
+The Mountain and the Valley
+Buckler, Ernest
+560	11	29.4	
+Logic and Conversation
+Grice, H. P. (H. Paul)
+561	11	3.1	
+Crime and Insanity in England
+Walker, Nigel
+562	11	1.5	
+An Enquiry Into the Causes of the Late Increase of Robbers, &C. With Some Proposals for Remedying This Growing Evil
+Fielding, Henry, 1707-1754
+563	11	82.8	
+Jane Eyre
+Bronte, Charlotte, 1816-1855
+564	11	26.5	
+Java Software Solutions : Foundations of Program Design
+Lewis, John, Ph.D
+565	11	2.4	
+Torture and Positive Law: Jurisprudence for the White House
+Waldron, Jeremy
+Columbia Law Review
+566	11	23.1	
+A Journal of the Plague Year
+Defoe, Daniel, 1661?-1731
+567	11	83.2	
+The Bluest Eye
+Morrison, Toni
+568	11	21.5	
+Eichmann in Jerusalem : A Report on the Banality of Evil
+Arendt, Hannah, 1906-1975
+569	11	46.0	
+On the Genealogy of Morals
+Nietzsche, Friedrich Wilhelm, 1844-1900
+570	11	28.8	
+Six Characters in Search of an Author
+Pirandello, Luigi, 1867-1936
+571	11	44.6	
+A Clockwork Orange
+Burgess, Anthony, 1917-1993
+572	11	1.4	
+Visions of Order
+Walden, Keith, 1948
+573	11	65.6	
+Billy Budd
+Melville, Herman, 1819-1891
+574	11	80.0	
+Art History
+Stokstad, Marilyn, 1929
+575	11	10.7	
+Speech and Language Processing : An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition
+Jurafsky, Dan, 1962
+576	11	15.8	
+A Vindication of the Rights of Men
+Wollstonecraft, Mary, 1759-1797
+577	11	21.4	
+Do Muslim Women Need Saving
+Abu-Lughod, Lila, Author
+578	11	18.7	
+The Nazi Seizure of Power
+Allen, William Sheridan
+579	11	26.6	
+Social Theory of International Politics
+Wendt, Alexander, 1966
+580	11	40.6	
+The Strength of Weak Ties
+Granovetter, Mark S.
+American Journal of Sociology
+581	11	29.8	
+Kant, Liberal Legacies, and Foreign Affairs
+Doyle, Michael W.
+Philosophy & Public Affairs
+582	11	26.1	
+The Law of Peoples
+Rawls, John
+Critical Inquiry
+583	11	5.7	
+New Books
+Smart, J. J. C., Mundle, C. W. K., Pitcher, George, Driver, G. R., Passmore, John, Armstrong, J. H. S., Wheatley, Jon
+Mind
+584	11	28.8	
+The Anarchical Society : A Study of Order in World Politics
+Bull, Hedley
+585	11	75.0	
+A Streetcar Named Desire
+Williams, Tennessee, 1911-1983
+586	11	69.6	
+The Glass Menagerie
+Williams, Tennessee, 1911-1983
+587	11	81.7	
+Film Art : An Introduction
+Bordwell, David
+588	11	2.7	
+The Sacred Paths of the West
+Ludwig, Theodore M.
+589	11	83.4	
+Midsummer N. Dream
+Shakespeare, William, 1564-1616
+590	11	87.5	
+Macroeconomics
+Mankiw, N. Gregory
+591	11	20.6	
+The Hollow Men
+Eliot, T. S. (Thomas Stearns), 1888-1965
+592	11	1.4	
+Bank and Customer Law in Canada
+Ogilvie, M. H, Author
+593	11	9.3	
+Fugitive Pieces
+Michaels, Anne, 1958
+594	11	6.2	
+The World of Yesterday
+Zweig, Stefan, 1881-1942
+595	11	32.0	
+Seeing Like a State : How Certain Schemes to Improve the Human Condition Have Failed
+Scott, James C.
+596	11	36.2	
+What Is This Thing Called Science
+Chalmers, A. F.
+597	11	13.5	
+Freedom of the Will and the Concept of a Person
+Frankfurt, Harry G.
+The Journal of Philosophy
+598	11	95.0	
+Autobiography
+Franklin, Benjamin, 1706-1790
+599	11	78.2	
+Agamemnon
+Aeschylus
+600	11	30.4	
+Parmenides
+Plato
+601	11	14.3	
+Pamphilia to Amphilanthus
+Wroth, Mary, Lady, Approximately 1586-Approximately 1640
+602	11	1.5	
+Gender in Canada
+Nelson, Adie, 1958
+603	11	1.4	
+Racism in Canada
+Satzewich, Vic, 1961
+604	11	1.7	
+Terror to Evil-Doers' : Prisons and Punishments in Nineteenth-Century Ontario
+Oliver, Peter, 1939
+605	11	1.4	
+Uncertain Justice : Canadian Women and Capital Punishment 1754-1953
+Greenwood, F. Murray (Frank Murray), 1935
+606	11	2.8	
+Gridded Lives: Why Kazakhstan and Montana Are Nearly the Same Place
+Brown, Kate
+The American Historical Review
+607	11	10.3	
+Eliminative Materialism and the Propositional Attitudes
+Churchland, Paul M.
+The Journal of Philosophy
+608	11	39.7	
+Sovereignty
+Krasner, Stephen D.
+Foreign Policy
+609	10	53.4	
+Hippolytus
+Euripides
+610	10	22.7	
+Manfred
+Byron, George Gordon Byron, Baron, 1788-1824
+611	10	51.7	
+Agendas, Alternatives, and Public Policies
+Kingdon, John W.
+612	10	42.4	
+The Duchess of Malfi
+Webster, John, 1580?-1625
+613	10	42.0	
+The Human Condition
+Arendt, Hannah, 1906-1975
+614	10	36.2	
+A Handbook to Literature
+Holman, C. Hugh (Clarence Hugh), 1914
+615	10	5.9	
+Coming Through Slaughter
+Ondaatje, Michael, 1943
+616	10	4.7	
+Fear and Trembling ; Repetition
+Kierkegaard, Søren, 1813-1855
+617	10	20.8	
+Discourse on Metaphysics
+Leibniz, Gottfried Wilhelm, Freiherr Von, 1646-1716
+618	10	22.4	
+Style : Toward Clarity and Grace
+Williams, Joseph M.
+619	10	12.1	
+The Oxford Dictionary of Literary Terms
+Baldick, Chris
+620	10	1.3	
+Public International Law
+Currie, John H.
+621	10	9.3	
+Metaphysics
+Van Inwagen, Peter
+622	10	4.1	
+Everything Was Forever, Until It Was No More : The Last Soviet Generation
+Yurchak, Alexei, 1960
+623	10	5.4	
+The Robber Barons
+Josephson, Matthew, 1899-1978
+624	10	44.6	
+Do Not Go Gentle Into That Good Night
+Thomas, Dylan, 1914-1953
+625	10	19.7	
+Social Research Methods : Qualitative and Quantitative Approaches
+Neuman, William Lawrence, 1950
+626	10	2.2	
+An Introduction to Decision Theory
+Peterson, Martin, 1975
+627	10	4.3	
+When Self-Determination Runs Amok
+Callahan, Daniel
+The Hastings Center Report
+628	10	1.3	
+The Visual Design and Control of Trellis Display
+Becker, Richard A., Cleveland, William S., Shyu, Ming-Jen
+Journal of Computational and Graphical Statistics
+629	10	23.3	
+Why Abortion Is Immoral
+Marquis, Don
+The Journal of Philosophy
+630	10	69.7	
+Auschwitz
+Levi, Steven C.
+European Judaism: A Journal for the New Europe
+631	10	1.3	
+Criminal Law
+Mewett, Alan W., 1930
+632	10	1.3	
+Day and Night
+Livesay, Dorothy, 1909
+633	10	39.7	
+Introduction to Probability Models
+Ross, Sheldon M.
+634	10	26.8	
+Descartes
+Cottingham, John, 1943
+635	10	7.4	
+The Elements of Graphing Data
+Cleveland, William S., 1943
+636	10	49.7	
+Phenomenology of Spirit
+Hegel, Georg Wilhelm Friedrich, 1770-1831
+637	10	35.9	
+Naming and Necessity
+Kripke, Saul A., 1940
+638	10	42.7	
+Nineteen Eighty-Four
+Orwell, George, 1903-1950
+639	10	33.2	
+Troilus and Criseyde
+Chaucer, Geoffrey, -1400
+640	10	26.1	
+The Art of Courtly Love
+Andreas, Capellanus
+641	10	8.4	
+Hegel
+Inwood, M. J., 1944
+642	10	2.3	
+The Grammar of Graphics
+Wilkinson, Leland
+643	10	10.6	
+Computing Concepts With Java Essentials
+Horstmann, Cay S., 1959
+644	10	13.9	
+The Tale of Peter Rabbit
+Potter, Beatrix, 1866-1943
+645	10	48.3	
+The Trial of Socrates
+Plato
+646	10	9.7	
+On the Duty of Civil Disobedience
+Thoreau, Henry David, 1817-1862, Author
+647	10	1.7	
+The Lesser Blessed
+Van Camp, Richard, 1971
+648	10	1.5	
+Tamarind Mem
+Badami, Anita Rau
+649	10	38.2	
+Philosophy of Right
+Hegel, Georg Wilhelm Friedrich, 1770-1831
+650	10	46.2	
+Hegel
+Heidegger, Martin, 1889-1976
+651	10	26.6	
+The Subject and Power
+Foucault, Michel
+Critical Inquiry
+652	10	88.4	
+Silent Spring
+Carson, Rachel, 1907-1964
+653	10	39.1	
+Measure for Measure
+Shakespeare, William, 1564-1616
+654	10	6.5	
+Studying Public Policy : Policy Cycles and Policy Subsystems
+Howlett, Michael, 1955
+655	10	43.2	
+Siddhartha
+Hesse, Hermann, 1877-1962
+656	10	22.0	
+Caleb Williams
+Godwin, William, 1756-1836
+657	10	1.4	
+Justice in South Africa
+Sachs, Albie, 1935
+658	10	70.4	
+Pragmatism
+James, William, 1842-1910
+659	10	23.7	
+Early Writings
+Marx, Karl, 1818-1883
+660	10	71.2	
+White Noise
+DeLillo, Don
+661	10	2.7	
+The Robber Barons; The Great American Capitalists, 1861-1901
+Josephson, Matthew, 1899-1978
+662	10	17.6	
+Explaining and Understanding International Relations
+Hollis, Martin
+663	10	16.1	
+Semantics
+Saeed, John I.
+664	10	37.5	
+The Mystery of Capital
+Soto, Hernando De, 1941
+665	10	3.7	
+Health Care
+Armstrong, Pat, 1945
+666	10	72.0	
+Bartleby, the Scrivener
+Melville, Herman, 1819-1891
+667	10	39.9	
+Troilus
+Chaucer, Geoffrey, -1400
+668	10	18.9	
+Prometheus Unbound
+Shelley, Percy Bysshe, 1792-1822
+669	10	53.2	
+Life on the Screen : Identity in the Age of the Internet
+Turkle, Sherry
+670	10	8.9	
+Elegiac Sonnets
+Smith, Charlotte Turner, 1749-1806
+671	10	39.4	
+The Tragedy of Great Power Politics
+Mearsheimer, John J.
+672	10	14.6	
+The Role of Monetary Policy
+Friedman, Milton
+The American Economic Review
+673	10	18.1	
+One World, Rival Theories
+Snyder, Jack
+Foreign Policy
+674	10	9.7	
+War Is Kind
+Crane, Stephen, 1871-1900
+675	10	31.5	
+Adam Bede
+Eliot, George, 1819-1880
+676	10	36.6	
+Power and Interdependence
+Keohane, Robert O. (Robert Owen), 1941
+677	10	62.0	
+The Discourses
+Machiavelli, Niccolò, 1469-1527
+678	10	84.8	
+The Oresteia
+Aeschylus
+679	10	2.0	
+The Theory of Monopoly Capitalism : An Elaboration of Marxian Political Economy
+Foster, John Bellamy
+680	10	39.2	
+Political Order in Changing Societies
+Huntington, Samuel P.
+681	10	93.0	
+The Peloponnesian War
+Thucydides
+682	10	29.2	
+The Bloody Chamber
+Carter, Angela, 1940-1992
+683	10	35.2	
+Modernity at Large : Cultural Dimensions of Globalization
+Appadurai, Arjun, 1949
+684	10	27.4	
+Yellow Woman
+Silko, Leslie, 1948
+685	10	35.9	
+Paradise Lost. Books 1-2
+Milton, John, 1608-1674
+686	10	25.2	
+The Faerie Queene : Book I
+Spenser, Edmund, 1552?-1599
+687	10	92.0	
+Ways of Seeing
+Berger, John
+688	10	50.3	
+Machine Learning
+Mitchell, Tom M. (Tom Michael), 1951
+689	10	4.7	
+Political Parties
+Cross, William P. (William Paul), 1962
+690	10	2.0	
+The Book of Negroes
+Hill, Lawrence, 1957
+691	10	1.5	
+The Fundamentals of Canadian Income Tax
+Krishna, Vern
+692	10	30.1	
+Under Western Eyes: Feminist Scholarship and Colonial Discourses
+Mohanty, Chandra Talpade
+Feminist Review
+693	10	1.5	
+The Psychophysics of Sensory Function
+Stevens, S. S.
+American Scientist
+694	10	19.4	
+Monetary Policy
+Friedman, Milton
+Proceedings of the American Philosophical Society
+695	10	2.0	
+The Criminal Trial Before the Lawyers
+Langbein, John H.
+The University of Chicago Law Review
+696	10	12.9	
+Human Rights
+Falk, Richard
+Foreign Policy
+697	10	43.8	
+Wuthering Heights
+Brontë, Emily, 1818-1848
+698	10	43.7	
+Songs of Innocence and of Experience
+Blake, William, 1757-1827
+699	10	38.9	
+A History of the Modern Middle East
+Cleveland, William L.
+700	10	67.1	
+Econometric Analysis
+Greene, William H., 1951
+701	10	49.2	
+Introductory Econometrics : A Modern Approach
+Wooldridge, Jeffrey M., 1960
+702	10	17.2	
+The New Imperialism
+Harvey, David, 1935
+703	10	8.3	
+Practical Philosophy
+Kant, Immanuel, 1724-1804
+704	10	32.9	
+Where the Wild Things Are
+Sendak, Maurice
+705	10	3.2	
+Psychophysics
+Stevens, S. S. (Stanley Smith), 1906-1973
+706	10	19.2	
+Confessions of an Opium Eater
+De Quincey, Thomas, 1785-1859
+707	10	44.3	
+Werther
+Goethe, Johann Wolfgang Von, 1749-1832
+708	10	49.4	
+The Negro Speaks of Rivers
+Hughes, Langston, 1902-1967
+709	10	5.0	
+Readings in Information Visualization : Using Vision to Think
+Card, Stuart K.
+710	10	1.4	
+A Field Guide to Digital Color
+Stone, Maureen C.
+711	10	1.4	
+Debunking Economics : The Naked Emperor of the Social Sciences
+Keen, Steve
+712	9	2.7	
+The Politics of Canadian Foreign Policy
+Nossal, Kim Richard
+713	9	7.4	
+What Is Literature
+Sartre, Jean Paul, 1905-1980
+714	9	84.2	
+Leaves of Grass
+Whitman, Walt, 1819-1892
+715	9	29.8	
+Models of Democracy
+Held, David
+716	9	19.7	
+On Crimes and Punishments
+Beccaria, Cesare, Marchese Di, 1738-1794
+717	9	43.7	
+Dialogues Concerning Natural Religion
+Hume, David, 1711-1776
+718	9	76.3	
+The Souls of Black Folk
+Du Bois, W. E. B. (William Edward Burghardt), 1868-1963
+719	9	37.8	
+Critique of Judgment
+Kant, Immanuel, 1724-1804
+720	9	71.1	
+The Death and Life of Great American Cities
+Jacobs, Jane, 1916-2006
+721	9	15.8	
+A Short Guide to Writing About Literature
+Barnet, Sylvan
+722	9	58.5	
+Society of the Spectacle
+Debord, Guy, 1931
+723	9	40.5	
+Vanity Fair
+Thackeray, William Makepeace, 1811-1863
+724	9	35.4	
+Politics as a Vocation
+Weber, Max, 1864-1920
+725	9	54.3	
+The Golden Ass
+Apuleius
+726	9	9.6	
+The Bias of Communication
+Innis, Harold Adams, 1894-1952
+727	9	1.9	
+The Age of Imperialism : The Economics of U.S. Foreign Policy
+Magdoff, Harry
+728	9	45.2	
+What Is History
+Carr, Edward Hallett, 1892-1982
+729	9	20.5	
+Ideology and Discontent
+Apter, David Ernest, 1924
+730	9	1.1	
+New Views on American Economic Development : A Selective Anthology of Recent Work
+Andreano, Ralph L., 1929- Ed
+731	9	2.4	
+A Bird in the House
+Laurence, Margaret
+732	9	15.0	
+Java Concepts
+Horstmann, Cay S., 1959
+733	9	24.8	
+Christabel
+Coleridge, Samuel Taylor, 1772-1834
+734	9	30.4	
+The Monadology
+Leibniz, Gottfried Wilhelm, Freiherr Von, 1646-1716
+735	9	9.7	
+The Regulation of International Trade
+Trebilcock, M. J.
+736	9	4.1	
+An Essay Concerning Humane Understanding
+Locke, John, 1632-1704
+737	9	39.7	
+Disgrace
+Coetzee, J. M., 1940
+738	9	1.5	
+History of the Canadian Peoples
+Conrad, Margaret
+739	9	28.3	
+George Eliot
+Adam, Ian
+740	9	54.1	
+The Science of "Muddling Through
+Lindblom, Charles E.
+Public Administration Review
+741	9	1.3	
+Conflict, Inflation and Money
+Rowthorn, R. E.
+Cambridge Journal of Economics
+742	9	3.7	
+Blue Horses Rush In
+Tapahonso, Luci
+Frontiers: A Journal of Women Studies
+743	9	6.9	
+Extreme and Restricted Utilitarianism
+Smart, J. J. C.
+The Philosophical Quarterly
+744	9	35.9	
+The Renaissance
+Pater, Walter, 1839-1894
+745	9	18.2	
+The Opium Eater
+De Quincey, Thomas, 1785-1859
+746	9	51.1	
+Moll Flanders
+Defoe, Daniel, 1661?-1731
+747	9	36.1	
+Silas Marner
+Eliot, George, 1819-1880
+748	9	1.5	
+Principles of Economics; An Introductory Volume
+Marshall, Alfred, 1842-1924
+749	9	62.2	
+The Lord of the Rings
+Tolkien, J. R. R. (John Ronald Reuel), 1892-1973
+750	9	8.4	
+The Iron Heel
+London, Jack, 1876-1916
+751	9	55.8	
+Illuminations
+Benjamin, Walter, 1892-1940
+752	9	30.7	
+The Logic of Collective Action : Public Goods and the Theory of Groups
+Olson, Mancur
+753	9	5.5	
+The Theory of Business Enterprise
+Veblen, Thorstein, 1857-1929
+754	9	3.2	
+Swann
+Shields, Carol
+755	9	33.2	
+A Defense of Abortion
+Thomson, Judith Jarvis
+756	9	17.1	
+Brick Lane
+Ali, Monica, 1967
+757	9	12.4	
+The New Testament : A Historical Introduction to the Early Christian Writings
+Ehrman, Bart D.
+758	9	39.9	
+The Birthmark
+Hawthorne, Nathaniel, 1804-1864
+759	9	59.6	
+Rip Van Winkle
+Irving, Washington, 1783-1859
+760	9	57.1	
+The Location of Culture
+Bhabha, Homi K., 1949
+761	9	13.8	
+State of Exception
+Agamben, Giorgio, 1942
+762	9	61.8	
+Principles of Microeconomics
+Mankiw, N. Gregory
+763	9	26.6	
+The Power of Identity
+Castells, Manuel, 1942
+764	9	17.7	
+Sovereign Power and Bare Life
+Agamben, Giorgio, 1942
+765	9	58.5	
+The Little, Brown Handbook
+Fowler, H. Ramsey (Henry Ramsey)
+766	9	49.7	
+Latin America
+Thomas, Jack Ray
+767	9	14.5	
+Myths of Empire : Domestic Politics and International Ambition
+Snyder, Jack L.
+768	9	21.1	
+Global Political Economy : Understanding the International Economic Order
+Gilpin, Robert
+769	9	5.4	
+Beauty and the Beast
+De Beaumont, Leprince
+Merveilles & Contes
+770	9	21.3	
+Is Justified True Belief Knowledge
+Gettier, Edmund L.
+Analysis
+771	9	2.3	
+The Three Hegemonies of Historical Capitalism
+Arrighi, Giovanni
+Review (Fernand Braudel Center)
+772	9	19.7	
+How Liberalism Produces Democratic Peace
+Owen, John M.
+International Security
+773	9	8.8	
+From "Sonnets From the Portuguese." V
+Browning, Elizabeth Barrett
+The Lotus Magazine
+774	9	5.6	
+A Confutation of Convergent Realism
+Laudan, Larry
+Philosophy of Science
+775	9	2.8	
+The Decline of Law as an Autonomous Discipline: 1962-1987
+Posner, Richard A.
+Harvard Law Review
+776	9	55.0	
+Selected Writings
+Marx, Karl, 1818-1883
+777	9	14.6	
+A Guide to Old English
+Mitchell, Bruce, 1920-2010
+778	9	31.2	
+Of Grammatology
+Derrida, Jacques
+779	9	19.5	
+Philosophical Writings
+Descartes, René, 1596-1650
+780	9	22.9	
+The Idea of History
+Collingwood, R. G. (Robin George), 1889-1943
+781	9	9.9	
+The Nazi Seizure of Power : The Experience of a Single German Town, 1922-1945
+Allen, William Sheridan
+782	9	93.1	
+Candide
+Voltaire, 1694-1778
+783	9	55.4	
+Henry IV
+Shakespeare, William, 1564-1616
+784	9	19.5	
+A Dictionary of Literary Terms
+Cuddon, J. A. (John Anthony), 1928-1996
+785	9	1.3	
+Inflation and Unemployment : The New Dimension of Politics
+Friedman, Milton, 1912-2006
+786	9	2.3	
+Economic Philosophy
+Robinson, Joan, 1903-1983
+787	9	25.9	
+Political Theory
+Field, G. C. (Guy Cromwell), 1887-1955
+788	9	31.2	
+The Sorrows of Young Werther
+Goethe, Johann Wolfgang Von, 1749-1832
+789	9	34.5	
+Political Writings
+Rousseau, Jean-Jacques, 1712-1778
+790	9	64.3	
+Postmodernism, Or, the Cultural Logic of Late Capitalism
+Jameson, Fredric
+791	9	1.1	
+In Defense of Human Rights : A Non-Religious Grounding in a Pluralistic World
+Kohen, Ariel, 1977
+792	9	5.5	
+Cereus Blooms at Night
+Mootoo, Shani, 1957
+793	9	53.0	
+Do Androids Dream of Electric Sheep
+Dick, Philip K.
+794	9	1.3	
+Deafening
+Itani, Frances, 1942
+795	9	28.3	
+Microeconomics
+Perloff, Jeffrey M.
+796	9	23.3	
+A New World Order
+Slaughter, Anne-Marie
+797	9	34.0	
+The World Is Too Much With Us
+Wordsworth, William, 1770-1850
+798	9	55.9	
+Guns, Germs, and Steel : The Fates of Human Societies
+Diamond, Jared M.
+799	9	42.3	
+Virginia Woolf
+Eliot, T. S. (Thomas Stearns), 1888-1965
+800	9	1.1	
+Case Critical : Challenging Social Services in Canada
+Carniol, Ben
+801	9	9.2	
+East, West
+Rushdie, Salman
+802	9	31.3	
+The Sorrows of Werther
+Goethe, Johann Wolfgang Von, 1749-1832
+803	9	23.2	
+Intimations of Immortality : An Ode
+Wordsworth, William, 1770-1850
+804	9	21.5	
+Causes of War
+Levy, Jack S., 1948
+805	9	43.3	
+Tristram Shandy
+Sterne, Laurence, 1713-1768
+806	9	1.3	
+The Annotated Human Rights Code
+Ontario
+807	9	1.3	
+Institutional Economics Revisited
+Tsuru, Shigeto, 1912
+808	9	1.1	
+The Law of Sentencing
+Manson, Allan
+809	9	1.4	
+Welfare and Rational Care
+Darwall, Stephen L., 1946
+810	9	1.1	
+Administered Prices and the Inflationary Process
+Ackley, Gardner
+The American Economic Review
+811	9	10.1	
+The Poverty of Neorealism
+Ashley, Richard K.
+International Organization
+812	9	9.7	
+Global Markets and National Politics: Collision Course or Virtuous Circle
+Garrett, Geoffrey
+International Organization
+813	9	1.3	
+Price Inflexibility and the Requirements of a Stabilizing Monetary Policy
+Means, Gardiner C.
+Journal of the American Statistical Association
+814	9	45.6	
+Fairy Tales
+Grimm, Albert Ludwig, 1786-1872
+815	9	1.1	
+Market Structure and Stabilization Policy
+Galbraith, John Kenneth, 1908-2006
+816	9	19.6	
+Confessions of an English Opium Eater
+De Quincey, Thomas, 1785-1859
+817	9	54.6	
+A Tale of Two Cities
+Dickens, Charles, 1812-1870
+818	9	67.3	
+Fall of the House of Usher
+Poe, Edgar Allan, 1809-1849
+819	9	60.9	
+The Mismeasure of Man
+Gould, Stephen Jay
+820	9	52.4	
+The Theory of the Leisure Class
+Veblen, Thorstein, 1857-1929
+821	9	23.4	
+The Black Cat
+Poe, Edgar Allan, 1809-1849
+822	9	48.7	
+The Bell Jar
+Plath, Sylvia
+823	9	53.6	
+Microeconomic Analysis
+Varian, Hal R.
+824	9	14.4	
+Arabic Thought in the Liberal Age, 1798-1939
+Hourani, Albert Habib
+825	9	19.2	
+Philosophy and the Mirror of Nature
+Rorty, Richard
+826	9	84.5	
+Oedipus Rex
+Sophocles
+827	9	1.3	
+Economic Concentration; Structure, Behavior and Public Policy
+Blair, John Malcolm, 1914
+828	9	1.9	
+Imperialism : From the Colonial Age to the Present : Essays
+Magdoff, Harry
+829	9	18.9	
+Understanding Popular Culture
+Fiske, John
+830	9	59.4	
+Annals
+Tacitus, Cornelius
+831	9	22.3	
+Bates' Guide to Physical Examination and History Taking
+Bickley, Lynn S.
+832	9	2.4	
+Witnessing Insanity : Madness and Mad-Doctors in the English Court
+Eigen, Joel Peter, 1947
+833	9	17.5	
+A Dictionary of Literary Terms and Literary Theory
+Cuddon, J. A. (John Anthony), 1928-1996
+834	9	27.5	
+International Human Rights
+Donnelly, Jack
+835	9	2.5	
+Corporate Business and Capitalist Classes
+Scott, John, 1949
+836	9	3.4	
+Love Song
+Miller, E. S.
+The Antioch Review
+837	9	57.5	
+Body Ritual Among the Nacirema
+Miner, Horace
+American Anthropologist
+838	9	1.1	
+The Possibility of Knowledge
+Stroud, Barry
+Philosophy and Phenomenological Research
+839	9	37.1	
+New Books
+Smith, Norman Kemp, Acton, H. B., Tennant, F. R., Wisdom, J., Paton, H. J., Laird, John, Black, M., Wisdom, J. O., Widgery, Alban G.
+Mind
+840	9	33.1	
+New Books
+Henry, Desmond Paul, Day, J. P., Flew, Antony, Sluga, H. D., Jacobs, Francis, Raphael, D. D., Palmer, Anthony
+Mind
+841	9	15.8	
+International Institutions: Can Interdependence Work
+Keohane, Robert O.
+Foreign Policy
+842	9	3.6	
+Sunshine Sketches of a Little Town
+Leacock, Stephen, 1869-1944
+843	9	17.5	
+The Holocaust in History
+Marrus, Michael Robert
+844	9	82.9	
+Imagined Communities : Reflections on the Origin and Spread of Nationalism
+Anderson, Benedict R. O'G. (Benedict Richard O'Gorman), 1936
+845	9	1.4	
+The Megacorp and Oligopoly : Micro Foundations of Macro Dynamics
+Eichner, Alfred S.
+846	9	5.2	
+Contested Terrain : The Transformation of the Workplace in the Twentieth Century
+Edwards, Richard, 1944
+847	9	5.9	
+Lady Oracle
+Atwood, Margaret, 1939
+848	9	13.5	
+Technics and Civilization
+Mumford, Lewis, 1895-1990
+849	9	2.0	
+The Positive Theory of Capital
+Böhm-Bawerk, Eugen Von, 1851-1914
+850	9	23.3	
+Selected Writings
+Thomas, Aquinas, Saint, 1225?-1274
+851	9	18.2	
+How Computers Work
+White, Ron, 1944
+852	9	75.9	
+Investments
+Bodie, Zvi
+853	9	55.9	
+A Short Guide to Writing About Film
+Corrigan, Timothy
+854	9	71.3	
+The Language of New Media
+Manovich, Lev
+855	9	3.7	
+The Mouse and His Child
+Hoban, Russell
+856	9	97.8	
+Letter From the Birmingham Jail
+King, Martin Luther, Jr., 1929-1968
+857	9	1.3	
+Small and Big Business; Economic Problems of the Size of Firms
+Steindl, Josef
+858	9	35.2	
+To Autumn
+Keats, John, 1795-1821
+859	9	1.4	
+Bedlam
+Hollingshead, Greg, 1947
+860	9	1.1	
+Being Alive Well' : Health and the Politics of Cree Well-Being
+Adelson, Naomi, 1958
+861	9	4.6	
+Justifying Intellectual Property
+Hettinger, Edwin C.
+Philosophy & Public Affairs
+862	9	20.1	
+On Denoting
+Russell, Bertrand
+Mind
+863	9	5.4	
+The Autobiography of Red
+Carson, Anne
+Columbia: A Journal of Literature and Art
+864	9	13.2	
+Epiphenomenal Qualia
+Jackson, Frank
+The Philosophical Quarterly
+865	9	8.5	
+Alternate Possibilities and Moral Responsibility
+Frankfurt, Harry G.
+The Journal of Philosophy
+866	9	23.7	
+State Power and the Structure of International Trade
+Krasner, Stephen D.
+World Politics
+867	9	1.1	
+Sedition in Upper Canada: Contested Legality
+Wright, Barry
+Labour / Le Travail
+868	9	1.1	
+Market Power and Inflation: A Short-Run Target Return Model
+Blair, John M.
+Journal of Economic Issues
+869	9	1.1	
+Capitalist Forms and the Essence of Capitalism
+Screpanti, Ernesto
+Review of International Political Economy
+870	8	65.5	
+The Elementary Forms of Religious Life
+Durkheim, Émile, 1858-1917
+871	8	58.5	
+Odes
+Horace
+872	8	55.0	
+An Essay on Man
+Pope, Alexander, 1688-1744
+873	8	12.0	
+A New Introduction to Bibliography
+Gaskell, Philip
+874	8	44.5	
+Europe and the People Without History
+Wolf, Eric R., 1923
+875	8	24.6	
+The Country Wife
+Wycherley, William, 1640-1716
+876	8	84.7	
+Night
+Wiesel, Elie, 1928
+877	8	82.3	
+Nature
+Emerson, Ralph Waldo, 1803-1882
+878	8	34.6	
+Volpone
+Jonson, Ben, 1573?-1637
+879	8	45.7	
+Understanding Media : The Extensions of Man
+McLuhan, Marshall, 1911-1980
+880	8	4.8	
+The Road to Stalingrad
+Erickson, John, 1929-2002
+881	8	39.6	
+In Our Time
+Hemingway, Ernest, 1899-1961
+882	8	14.6	
+Surfacing
+Atwood, Margaret, 1939
+883	8	42.2	
+Richard II
+Shakespeare, William, 1564-1616
+884	8	54.5	
+Persuasion
+Austen, Jane, 1775-1817
+885	8	41.3	
+Selected Poems
+Dickinson, Patric, 1914-1994
+886	8	8.3	
+Feminism and the Power of Law
+Smart, Carol
+887	8	70.3	
+The Apology and Crito
+Plato
+888	8	13.9	
+Born for Liberty : A History of Women in America
+Evans, Sara M. (Sara Margaret), 1943
+889	8	6.1	
+Principles of Banking Law
+Cranston, Ross
+890	8	1.1	
+Individual Employment Law
+England, Geoff
+891	8	61.0	
+Benito Cereno
+Melville, Herman, 1819-1891
+892	8	1.3	
+Casting Out : The Eviction of Muslims From Western Law and Politics
+Razack, Sherene
+893	8	4.6	
+The Theory of Monopolistic Competition
+Chamberlin, Edward, 1899-1967
+894	8	67.4	
+The Unconscious
+Freud, Sigmund, 1856-1939
+895	8	3.3	
+A Short History of Progress
+Wright, Ronald, 1948
+896	8	13.5	
+The Cold War
+Hopkins, Michael F. (Michael Francis), 1953
+897	8	20.6	
+Latin Grammar
+Allen, Joseph Henry, 1820-1898
+898	8	2.7	
+Wall Street : How It Works and for Whom
+Henwood, Doug
+899	8	11.6	
+The State, War, and the State of War
+Holsti, K. J. (Kalevi Jaakko), 1935
+900	8	34.0	
+A Brief History of Time
+Hawking, Stephen, 1942
+901	8	32.6	
+Babylon Revisited
+Fitzgerald, F. Scott (Francis Scott), 1896-1940
+902	8	2.8	
+Peace, Power, Righteousness : An Indigenous Manifesto
+Alfred, Gerald R.
+903	8	28.8	
+Twelfth Night]
+King, S. K.
+Theoria: A Journal of Social and Political Theory
+904	8	40.0	
+Doing Gender
+West, Candace, Zimmerman, Don H.
+Gender and Society
+905	8	9.3	
+Anarchy and the Limits of Cooperation: A Realist Critique of the Newest Liberal Institutionalism
+Grieco, Joseph M.
+International Organization
+906	8	3.3	
+Killing, Letting Die, and the Trolley Problem
+Thomson, Judith Jarvis
+The Monist
+907	8	27.5	
+Comparative Politics and the Comparative Method
+Lijphart, Arend
+The American Political Science Review
+908	8	12.7	
+The Pitfalls of Universal Jurisdiction
+Kissinger, Henry A.
+Foreign Affairs
+909	8	1.1	
+Hyperdimensional Data Analysis Using Parallel Coordinates
+Wegman, Edward J.
+Journal of the American Statistical Association
+910	8	1.8	
+Cold War in the Kitchen: Gender and the De-Stalinization of Consumer Taste in the Soviet Union Under Khrushchev
+Reid, Susan E.
+Slavic Review
+911	8	8.9	
+Islam
+Gibb, H. A. R. (Hamilton Alexander Rosskeen), 1895-1971
+912	8	66.2	
+On the Origin of Species
+Darwin, Charles, 1809-1882
+913	8	15.9	
+The Colonizer and the Colonized
+Memmi, Albert
+914	8	22.8	
+The Visible Hand : The Managerial Revolution in American Business
+Chandler, Alfred D. (Alfred Dupont), 1918-2007
+915	8	30.3	
+Power/Knowledge : Selected Interviews and Other Writings, 1972-1977
+Foucault, Michel, 1926-1984
+916	8	4.7	
+The Political Economy of Growth
+Baran, Paul A.
+917	8	76.2	
+All Quiet on the Western Front
+Remarque, Erich Maria, 1898-1970
+918	8	54.9	
+A Short Guide to Writing About Art
+Barnet, Sylvan
+919	8	19.0	
+The Garden Party
+Mansfield, Katherine, 1888-1923
+920	8	27.5	
+Nanook of the North
+Flaherty, Robert Joseph, 1884-1951
+921	8	5.1	
+Microeconomics : Theory & Applications With Calculus
+Perloff, Jeffrey M.
+922	8	22.4	
+Space
+University of California, Berkeley. Department of Landscape Architecture
+923	8	7.5	
+Principal Doctrines
+Epicurus
+924	8	1.3	
+While Canada Slept : How We Lost Our Place in the World
+Cohen, Andrew, 1955
+925	8	19.6	
+The Prize : The Epic Quest for Oil, Money & Power
+Yergin, Daniel
+926	8	87.6	
+I Have a Dream
+King, Martin Luther, Jr., 1929-1968
+927	8	7.8	
+De Humani Corporis Fabrica
+Vesalius, Andreas, 1514-1564
+928	8	6.0	
+The Cold War and Soviet Insecurity : The Stalin Years
+Mastny, Vojtech, 1936
+929	8	14.8	
+Visual Explanations : Images and Quantities, Evidence and Narrative
+Tufte, Edward R., 1942
+930	8	1.0	
+White Man's Law : Native People in Nineteenth-Century Canadian Jurisprudence
+Harring, Sidney L., 1947
+931	8	18.5	
+Qualitative Inquiry and Research Design : Choosing Among Five Traditions
+Creswell, John W.
+932	8	1.0	
+Canadian Banking Law
+Ogilvie, M. H. (Margaret H.), 1948
+933	8	45.5	
+Gender: A Useful Category of Historical Analysis
+Scott, Joan W.
+The American Historical Review
+934	8	15.4	
+The Egg and the Sperm: How Science Has Constructed a Romance Based on Stereotypical Male-Female Roles
+Martin, Emily
+Signs
+935	8	5.9	
+New Books
+Roth, Leon, Gilman, E., Spilsbury, R. J., Lewis, H. D., Britton, Karl, Bird, G. H., Geach, P. T., Smart, R. N., Rhees, R., Macdonald, Margaret, Mitchell, Basil, Raphael, D. Daiches, MacIver, A. M., Ackrill, J. L., Kneale, Martha, Miles, T. R.
+Mind
+936	8	7.4	
+Dilemmas of Democratization in Latin America
+Karl, Terry Lynn
+Comparative Politics
+937	8	1.0	
+A Criminal Circuit in Upper Canada a Century Ago
+Riddell, William Renwick
+Journal of the American Institute of Criminal Law and Criminology
+938	8	1.7	
+Shaping the Eighteenth-Century Criminal Trial: A View From the Ryder Sources
+Langbein, John H.
+The University of Chicago Law Review
+939	8	23.9	
+Chronicles
+Froissart, Jean, 1338?-1410
+940	8	20.6	
+Hind Swaraj
+Gandhi, Mahatma, 1869-1948
+941	8	18.6	
+The Family, Sex and Marriage in England, 1500-1800
+Stone, Lawrence
+942	8	33.0	
+Grounding for the Metaphysics of Morals
+Kant, Immanuel, 1724-1804
+943	8	21.8	
+Metamorphoses
+Apuleius
+944	8	28.2	
+Feminist Theory From Margin to Center
+Hooks, Bell
+945	8	48.9	
+Dialectic of Enlightenment
+Horkheimer, Max, 1895-1973
+946	8	22.5	
+Winnie-The-Pooh
+Milne, A. A. (Alan Alexander), 1882-1956
+947	8	23.3	
+Selected Poems, 1946-1968
+Thomas, R. S. (Ronald Stuart), 1913-2000
+948	8	5.9	
+Modern Banking Law
+Ellinger, E. P. (Eliahu Peter), 1933
+949	8	43.4	
+The Strategy of Conflict
+Schelling, Thomas C., 1921
+950	8	1.0	
+The Law of Banking
+Baxter, Ian F. G.
+951	8	13.0	
+The Cenci
+Shelley, Percy Bysshe, 1792-1822
+952	8	2.3	
+The World of Yesterday : An Autobiography
+Zweig, Stefan, 1881-1942
+953	8	24.6	
+Chaos : Making a New Science
+Gleick, James
+954	8	9.4	
+The World Trading System : Law and Policy of International Economic Relations
+Jackson, John Howard, 1932
+955	8	14.6	
+Humphry Clinker
+Smollett, T. (Tobias), 1721-1771
+956	8	39.5	
+A Brief History of Neoliberalism
+Harvey, David, 1935
+957	8	15.9	
+Oroonoko, Or, the Royal Slave
+Behn, Aphra, 1640-1689
+958	8	5.6	
+The King of the Golden River
+Ruskin, John, 1819-1900
+959	8	28.5	
+Anthropology
+Boas, Franz, 1858-1942
+960	8	4.6	
+Mountain of Fame : Portraits in Chinese History
+Wills, John E. (John Elliot), 1936
+961	8	43.1	
+Tom Sawyer
+Twain, Mark, 1835-1910
+962	8	7.3	
+A History of Christianity in the United States and Canada
+Noll, Mark A., 1946
+963	8	18.5	
+The Choice for Europe : Social Purpose and State Power From Messina to Maastricht
+Moravcsik, Andrew
+964	8	14.1	
+Developing Democracy : Toward Consolidation
+Diamond, Larry Jay
+965	8	17.6	
+Greek Tragedies
+Grene, David
+966	8	3.4	
+Democracy and Globalization
+Held, David
+Alternatives: Global, Local, Political
+967	8	5.7	
+Feminism, Marxism, Method, and the State: An Agenda for Theory
+MacKinnon, Catharine A.
+Signs
+968	8	12.4	
+Constructing International Politics
+Wendt, Alexander
+International Security
+969	8	1.1	
+The Criminal Prosecution in England and Its Historians
+Hay, Douglas
+The Modern Law Review
+970	8	64.7	
+A Passage to India
+Forster, E. M. (Edward Morgan), 1879-1970
+971	8	11.0	
+The Theory of Political Economy
+Jevons, William Stanley, 1835-1882
+972	8	87.9	
+Artificial Intelligence : A Modern Approach
+Russell, Stuart J. (Stuart Jonathan)
+973	8	40.1	
+Joseph Andrews
+Fielding, Henry, 1707-1754
+974	8	34.9	
+Survey Research Methods
+Fowler, Floyd J.
+975	8	56.2	
+Phenomenology of Perception
+Merleau-Ponty, Maurice, 1908-1961
+976	8	66.1	
+Song of Solomon
+Morrison, Toni
+977	8	16.8	
+Organizations : Rational, Natural, and Open Systems
+Scott, W. Richard
+978	8	11.0	
+The Last Man
+Shelley, Mary Wollstonecraft, 1797-1851
+979	8	39.5	
+The Theory of Moral Sentiments
+Smith, Adam, 1723-1790
+980	8	31.6	
+Apocalypse Now
+Coppola, Francis Ford, 1939
+981	8	2.5	
+Selected Essays on the Dynamics of the Capitalist Economy 1933-1970
+Kalecki, Michał
+982	8	17.1	
+The Mysteries of Udolpho
+Radcliffe, Ann Ward, 1764-1823
+983	8	64.2	
+Five Dialogues
+Plato
+984	8	29.4	
+Rabelais and His World
+Bakhtin, M. M. (Mikhail Mikhaĭlovich), 1895-1975
+985	8	3.6	
+An Anglo-Saxon Dictionary
+Bosworth, Joseph, 1789-1876
+986	8	6.0	
+The Accumulation of Capital
+Luxemburg, Rosa, 1871-1919
+987	8	12.2	
+Reading the Popular
+Fiske, John
+988	8	17.3	
+History of Africa
+Shillington, Kevin
+989	8	49.0	
+The Apology of Socrates
+Plato
+990	8	1.9	
+Capitalism and Its Economics : A Critical History
+Dowd, Douglas Fitzgerald, 1919
+991	8	37.2	
+Human-Computer Interaction
+Preece, Jenny, 1949
+992	8	1.5	
+Canada and World Order : The Multilateralist Tradition in Canadian Foreign Policy
+Keating, Thomas F.
+993	8	42.8	
+Activists Beyond Borders : Advocacy Networks in International Politics
+Keck, Margaret E.
+994	8	11.7	
+Nationalism
+Calhoun, Craig J., 1952
+995	8	7.1	
+International Relations Theory : New Normative Approaches
+Brown, Chris, 1945
+996	8	14.6	
+Inventing the Internet
+Abbate, Janet
+997	8	36.2	
+Designing Web Usability
+Nielsen, Jakob, 1957
+998	8	28.5	
+Topology
+Munkres, James R., 1930
+999	8	1.3	
+The Transportation of Convicts to the American Colonies in the Seventeenth Century
+Smith, Abbot Emerson
+The American Historical Review
+1000	8	6.2	
+Beyond "Identity
+Brubaker, Rogers, Cooper, Frederick
+Theory and Society

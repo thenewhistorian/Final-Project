@@ -1,0 +1,149 @@
+
+
+<!doctype html>
+<html lang="en">
+
+<head>
+
+  <title>The Open Syllabus Project</title>
+
+  <meta name="viewport" content="width=device-width">
+
+  
+<link rel="stylesheet" href="/static/dist/ranks.css">
+
+
+  
+<link
+  rel="shortcut icon"
+  href="/static/images/favicon.ico"
+>
+  
+
+  
+<script src="https://use.typekit.net/yrw2pmj.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+  
+<script>
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-72367808-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+
+<body>
+  
+
+<div id="header">
+
+  
+<ul class="links">
+
+  <li>
+    <a href="http://opensyllabusproject.org/faq">About</a>
+  </li>
+
+  <li>
+    <a href="http://opensyllabusproject.org/people">People</a>
+  </li>
+
+  <li>
+    <a href="https://twitter.com/opensyllabus"
+      class="icon" target="_blank">
+      <i class="fa fa-twitter"></i>
+    </a>
+  </li>
+
+  <li>
+    <a href="https://www.facebook.com/opensyllabusproject"
+      class="icon" target="_blank">
+      <i class="fa fa-facebook"></i>
+    </a>
+  </li>
+
+  <li>
+    <a href="https://github.com/davidmcclure/open-syllabus-project"
+      class="icon" target="_blank">
+      <i class="fa fa-github"></i>
+    </a>
+  </li>
+
+</ul>
+
+  <div class="leader">
+    <h1>Open Syllabus Explorer <code>beta 0.4</code></h1>
+    <p>Mapping the college curriculum across 1M+ syllabi.</p>
+  </div>
+
+  <div class="actions">
+
+    <div class="action ranks">
+      <a class="btn btn-default">
+        <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Exort Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<path d="M50.3,0C37-0.1,24.3,5,14.9,14.4C5.3,23.8,0.1,36.3,0,49.7V50c0,27.4,22.3,49.8,49.7,50c27.6,0.2,50.1-22.1,50.3-50
+	C100,22.6,77.7,0.2,50.3,0z M77.3,56.1L52.2,80.9c-0.7,0.7-1.4,0.9-2.2,0.9s-1.7-0.3-2.2-0.9L22.7,56.1c-1.2-1.2-1.2-3.3,0-4.6
+	s3.3-1.2,4.6,0L50,74.1l22.8-22.6c1.2-1.2,3.3-1.2,4.6,0C78.7,52.8,78.6,54.8,77.3,56.1z M77.3,31.2L52.2,56.1
+	C51.6,56.8,50.8,57,50,57s-1.7-0.3-2.2-0.9L22.7,31.2c-1.2-1.2-1.2-3.3,0-4.6c1.2-1.2,3.3-1.2,4.6,0L50,49.2l22.8-22.6
+	c1.2-1.2,3.3-1.2,4.6,0C78.7,27.9,78.6,30,77.3,31.2z"/>
+</svg>
+        <span>Browse text rankings</span>
+      </a>
+    </div>
+
+    <div class="action graph">
+      <a href="/graph" class="btn btn-default">
+        <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<path d="M46.3,0c-4,0-7.3,3.3-7.3,7.3c0,1.1,0.1,2,0.5,2.9l-12.8,8.7c-1.7-2.5-4.5-4.3-7.9-4.3c-5.2,0-9.5,4.3-9.5,9.5
+	s4.3,9.5,9.5,9.5c0.4,0,0.8-0.1,1.2-0.1l8.1,43.5c-5.2,1.2-8.9,5.9-8.9,11.3c0,6.5,5.3,11.7,11.7,11.7c6.5,0,11.7-5.2,11.7-11.6
+	l29.6-1.5c0.5,4.5,4.4,8,9.1,8c5.1,0,9.2-4.1,9.2-9.2s-4.1-9.2-9.2-9.2c-0.3,0-0.4,0-0.7,0l-4.4-29.3C82.3,46,87,40.5,87,34.1
+	c0-7.3-6-13.3-13.3-13.3c-3.5,0-6.7,1.3-9.1,3.6L51.9,12c0.9-1.3,1.6-2.9,1.6-4.7C53.5,3.2,50.2,0,46.3,0z M27.8,26.4l15.5,2.8
+	L41.9,42c-0.1,0-0.1,0-0.3,0c-2,0-3.9,0.7-5.3,1.7L25.3,30.7C26.5,29.6,27.4,28,27.8,26.4z M50.9,12.9l12.7,12.4
+	c-1.3,1.6-2.4,3.6-2.9,5.7l-3.3-0.7l-7.5-16.8C50.2,13.5,50.6,13.2,50.9,12.9z M61.5,39.7h-0.1l-3.6-7.9l2.5,0.4
+	c-0.1,0.5-0.1,1.2-0.1,1.7C60.2,36.1,60.7,38,61.5,39.7z M64.9,44.1l-0.9,1.2l-1.9-4.3l0.1-0.1C62.9,42.1,63.8,43.2,64.9,44.1z
+	 M63,46.4L52.6,59.6L49,56.5c1.2-1.5,1.9-3.5,1.9-5.5c0-1.3-0.3-2.7-0.8-3.7l10.8-5.7L63,46.4z M63.7,47.9L77,77.6
+	c-0.8,0.4-1.5,0.9-2.1,1.6L53.5,60.5L63.7,47.9z M72.1,85.5l-29.6,1.5c-0.3-2.9-1.7-5.6-3.9-7.5l14.1-17.9l21.2,18.5
+	C72.9,81.6,72.2,83.5,72.1,85.5z M35.1,77.3l5.5-17.2c0.4,0.1,0.8,0.1,1.2,0.1c2.5,0,4.8-1.1,6.4-2.7l3.6,3.2L37.7,78.7
+	C36.9,78,35.9,77.6,35.1,77.3z M44.5,29.5l11.7,2.1l4,8.8l-10.8,5.9c-1.3-2.1-3.6-3.7-6.1-4.1L44.5,29.5z M44.7,28.1l1.3-13.5
+	c0.1,0,0.1,0,0.1,0c0.8,0,1.6-0.1,2.4-0.4l7.1,15.9L44.7,28.1z M79.3,76.8c-0.3,0-0.7,0.1-1.1,0.3L64.5,46.5l1.3-1.7
+	c2.1,1.6,4.8,2.5,7.7,2.5c0.5,0,0.9,0,1.3,0L79.3,76.8z M21.1,33.1c1.2-0.3,2.1-0.8,3.1-1.5l11.1,13.1c-1.6,1.6-2.7,3.9-2.7,6.4
+	c0,4.1,2.8,7.6,6.5,8.7l-5.3,17.1c-0.9-0.3-2-0.4-2.9-0.4c-0.5,0-0.9,0.1-1.5,0.1L21.1,33.1z M40.2,11.5c1.1,1.6,2.7,2.7,4.7,3.1
+	l-1.3,13.3l-15.3-2.8c0-0.4,0-0.7,0-1.1c0-1.5-0.4-2.8-0.9-4L40.2,11.5z"/>
+</svg>
+        <span>Explore citation graph</span>
+      </a>
+    </div>
+
+  </div>
+
+</div>
+
+<div id="ranks"></div>
+
+
+  
+
+<script>
+OSP = {
+  facets: {'state': [{'label': 'Texas', 'value': 'TX', 'count': 295218}, {'label': 'California', 'value': 'CA', 'count': 199258}, {'label': 'Massachusetts', 'value': 'MA', 'count': 150966}, {'label': 'New York', 'value': 'NY', 'count': 144319}, {'label': 'Pennsylvania', 'value': 'PA', 'count': 96876}, {'label': 'Florida', 'value': 'FL', 'count': 82294}, {'label': 'Ohio', 'value': 'OH', 'count': 72290}, {'label': 'North Carolina', 'value': 'NC', 'count': 65689}, {'label': 'Michigan', 'value': 'MI', 'count': 65537}, {'label': 'Georgia', 'value': 'GA', 'count': 62152}, {'label': 'Virginia', 'value': 'VA', 'count': 61685}, {'label': 'Illinois', 'value': 'IL', 'count': 60775}, {'label': 'Tennessee', 'value': 'TN', 'count': 56013}, {'label': 'New Jersey', 'value': 'NJ', 'count': 52902}, {'label': 'Wisconsin', 'value': 'WI', 'count': 45433}, {'label': 'Washington', 'value': 'WA', 'count': 38705}, {'label': 'Oregon', 'value': 'OR', 'count': 38432}, {'label': 'Maryland', 'value': 'MD', 'count': 37950}, {'label': 'Indiana', 'value': 'IN', 'count': 36655}, {'label': 'Connecticut', 'value': 'CT', 'count': 36004}, {'label': 'Minnesota', 'value': 'MN', 'count': 33825}, {'label': 'Colorado', 'value': 'CO', 'count': 31543}, {'label': 'District of Columbia', 'value': 'DC', 'count': 30436}, {'label': 'Missouri', 'value': 'MO', 'count': 30197}, {'label': 'Iowa', 'value': 'IA', 'count': 29280}, {'label': 'Alabama', 'value': 'AL', 'count': 22882}, {'label': 'Arizona', 'value': 'AZ', 'count': 22582}, {'label': 'Hawaii', 'value': 'HI', 'count': 21314}, {'label': 'Utah', 'value': 'UT', 'count': 20765}, {'label': 'Kentucky', 'value': 'KY', 'count': 17923}, {'label': 'South Carolina', 'value': 'SC', 'count': 16563}, {'label': 'Louisiana', 'value': 'LA', 'count': 15711}, {'label': 'Rhode Island', 'value': 'RI', 'count': 12598}, {'label': 'Oklahoma', 'value': 'OK', 'count': 12245}, {'label': 'New Mexico', 'value': 'NM', 'count': 8894}, {'label': 'Kansas', 'value': 'KS', 'count': 8715}, {'label': 'Nevada', 'value': 'NV', 'count': 7994}, {'label': 'Vermont', 'value': 'VT', 'count': 7951}, {'label': 'Maine', 'value': 'ME', 'count': 7913}, {'label': 'West Virginia', 'value': 'WV', 'count': 7253}, {'label': 'Nebraska', 'value': 'NE', 'count': 6754}, {'label': 'New Hampshire', 'value': 'NH', 'count': 6731}, {'label': 'Idaho', 'value': 'ID', 'count': 6391}, {'label': 'Arkansas', 'value': 'AR', 'count': 5878}, {'label': 'Delaware', 'value': 'DE', 'count': 5043}, {'label': 'Mississippi', 'value': 'MS', 'count': 4882}, {'label': 'South Dakota', 'value': 'SD', 'count': 4040}, {'label': 'Montana', 'value': 'MT', 'count': 3423}, {'label': 'North Dakota', 'value': 'ND', 'count': 1784}, {'label': 'Alaska', 'value': 'AK', 'count': 1717}, {'label': 'Wyoming', 'value': 'WY', 'count': 1653}, {'label': 'Puerto Rico', 'value': 'PR', 'count': 745}, {'label': 'Northern Mariana Islands', 'value': 'MP', 'count': 2}], 'country': [{'label': 'United States', 'value': 'US', 'count': 2114803}, {'label': 'United Kingdom', 'value': 'GB', 'count': 660220}, {'label': 'Canada', 'value': 'CA', 'count': 76597}, {'label': 'Germany', 'value': 'DE', 'count': 28613}, {'label': 'Australia', 'value': 'AU', 'count': 27084}, {'label': 'Malaysia', 'value': 'MY', 'count': 27065}, {'label': 'India', 'value': 'IN', 'count': 15697}, {'label': 'Japan', 'value': 'JP', 'count': 12506}, {'label': 'Spain', 'value': 'ES', 'count': 8042}, {'label': 'Hong Kong', 'value': 'HK', 'count': 7118}, {'label': 'Switzerland', 'value': 'CH', 'count': 6680}, {'label': 'Ireland', 'value': 'IE', 'count': 5407}, {'label': 'Netherlands', 'value': 'NL', 'count': 5255}, {'label': 'Hungary', 'value': 'HU', 'count': 5121}, {'label': 'France', 'value': 'FR', 'count': 4904}, {'label': 'Italy', 'value': 'IT', 'count': 4546}, {'label': 'Norway', 'value': 'NO', 'count': 3941}, {'label': 'Sweden', 'value': 'SE', 'count': 3690}, {'label': 'Taiwan, Province of China', 'value': 'TW', 'count': 3503}, {'label': 'Finland', 'value': 'FI', 'count': 3451}, {'label': 'Egypt', 'value': 'EG', 'count': 3217}, {'label': 'Greece', 'value': 'GR', 'count': 3212}, {'label': 'Pakistan', 'value': 'PK', 'count': 3082}, {'label': 'Turkey', 'value': 'TR', 'count': 2936}, {'label': 'Singapore', 'value': 'SG', 'count': 2902}, {'label': 'China', 'value': 'CN', 'count': 2794}, {'label': 'Czech Republic', 'value': 'CZ', 'count': 2783}, {'label': 'Poland', 'value': 'PL', 'count': 2675}, {'label': 'Israel', 'value': 'IL', 'count': 2530}, {'label': 'Bangladesh', 'value': 'BD', 'count': 2081}, {'label': 'Namibia', 'value': 'NA', 'count': 1938}, {'label': 'Belgium', 'value': 'BE', 'count': 1912}, {'label': 'Korea, Republic of', 'value': 'KR', 'count': 1897}, {'label': 'Malta', 'value': 'MT', 'count': 1852}, {'label': 'Thailand', 'value': 'TH', 'count': 1824}, {'label': 'New Zealand', 'value': 'NZ', 'count': 1779}, {'label': 'Denmark', 'value': 'DK', 'count': 1683}, {'label': 'Tanzania, United Republic of', 'value': 'TZ', 'count': 1384}, {'label': 'Brazil', 'value': 'BR', 'count': 1235}, {'label': 'South Africa', 'value': 'ZA', 'count': 1175}, {'label': 'Russian Federation', 'value': 'RU', 'count': 1152}, {'label': 'Iran, Islamic Republic of', 'value': 'IR', 'count': 1135}, {'label': 'Portugal', 'value': 'PT', 'count': 1110}, {'label': 'Latvia', 'value': 'LV', 'count': 637}, {'label': 'Austria', 'value': 'AT', 'count': 624}, {'label': 'Mexico', 'value': 'MX', 'count': 597}, {'label': 'Kenya', 'value': 'KE', 'count': 554}, {'label': 'Sri Lanka', 'value': 'LK', 'count': 550}, {'label': 'Philippines', 'value': 'PH', 'count': 539}, {'label': 'Romania', 'value': 'RO', 'count': 522}, {'label': 'Venezuela, Bolivarian Republic of', 'value': 'VE', 'count': 519}, {'label': 'Ukraine', 'value': 'UA', 'count': 511}, {'label': 'Slovenia', 'value': 'SI', 'count': 491}, {'label': 'Sudan', 'value': 'SD', 'count': 444}, {'label': 'El Salvador', 'value': 'SV', 'count': 359}, {'label': 'Argentina', 'value': 'AR', 'count': 288}, {'label': 'Croatia', 'value': 'HR', 'count': 284}, {'label': 'Puerto Rico', 'value': 'PR', 'count': 259}, {'label': 'Indonesia', 'value': 'ID', 'count': 251}, {'label': 'Saudi Arabia', 'value': 'SA', 'count': 235}, {'label': 'Costa Rica', 'value': 'CR', 'count': 222}, {'label': 'Slovakia', 'value': 'SK', 'count': 208}, {'label': 'Cyprus', 'value': 'CY', 'count': 205}, {'label': 'Mauritius', 'value': 'MU', 'count': 202}, {'label': 'Bulgaria', 'value': 'BG', 'count': 199}, {'label': 'Barbados', 'value': 'BB', 'count': 157}, {'label': 'Colombia', 'value': 'CO', 'count': 131}, {'label': 'Papua New Guinea', 'value': 'PG', 'count': 116}, {'label': 'Peru', 'value': 'PE', 'count': 107}, {'label': 'Guam', 'value': 'GU', 'count': 97}, {'label': 'Ecuador', 'value': 'EC', 'count': 72}, {'label': 'Iceland', 'value': 'IS', 'count': 71}, {'label': 'Kyrgyzstan', 'value': 'KG', 'count': 66}, {'label': 'Lebanon', 'value': 'LB', 'count': 54}, {'label': 'Sierra Leone', 'value': 'SL', 'count': 54}, {'label': 'United Arab Emirates', 'value': 'AE', 'count': 53}, {'label': 'Jordan', 'value': 'JO', 'count': 53}, {'label': 'Bahrain', 'value': 'BH', 'count': 43}, {'label': 'Lithuania', 'value': 'LT', 'count': 43}, {'label': 'Viet Nam', 'value': 'VN', 'count': 38}, {'label': 'Jamaica', 'value': 'JM', 'count': 33}, {'label': 'Ghana', 'value': 'GH', 'count': 31}, {'label': 'Estonia', 'value': 'EE', 'count': 29}, {'label': 'Palestine, State of', 'value': 'PS', 'count': 24}, {'label': 'Algeria', 'value': 'DZ', 'count': 23}, {'label': 'Virgin Islands, U.S.', 'value': 'VI', 'count': 22}, {'label': 'Chile', 'value': 'CL', 'count': 21}, {'label': 'Réunion', 'value': 'RE', 'count': 19}, {'label': 'Macao', 'value': 'MO', 'count': 17}, {'label': 'Mali', 'value': 'ML', 'count': 12}, {'label': 'Nigeria', 'value': 'NG', 'count': 11}, {'label': 'Zimbabwe', 'value': 'ZW', 'count': 11}, {'label': 'Trinidad and Tobago', 'value': 'TT', 'count': 10}, {'label': 'Albania', 'value': 'AL', 'count': 9}, {'label': 'Iraq', 'value': 'IQ', 'count': 8}, {'label': 'Kazakhstan', 'value': 'KZ', 'count': 8}, {'label': 'Macedonia, the former Yugoslav Republic of', 'value': 'MK', 'count': 8}, {'label': 'Antigua and Barbuda', 'value': 'AG', 'count': 5}, {'label': 'Lesotho', 'value': 'LS', 'count': 4}, {'label': 'Morocco', 'value': 'MA', 'count': 4}], 'field': [{'label': 'History', 'value': 23, 'count': 460760}, {'label': 'English', 'value': 18, 'count': 299183}, {'label': 'Biology', 'value': 7, 'count': 138874}, {'label': 'Sociology', 'value': 44, 'count': 134721}, {'label': 'Philosophy', 'value': 36, 'count': 118019}, {'label': 'Education', 'value': 16, 'count': 112143}, {'label': 'Economics', 'value': 15, 'count': 110681}, {'label': 'Law', 'value': 26, 'count': 109973}, {'label': 'Medicine', 'value': 31, 'count': 101493}, {'label': 'Business', 'value': 8, 'count': 101345}, {'label': 'Politics', 'value': 37, 'count': 99133}, {'label': 'Performing Arts', 'value': 35, 'count': 95831}, {'label': 'Psychology', 'value': 38, 'count': 73547}, {'label': 'Area and Ethnic Studies', 'value': 4, 'count': 64200}, {'label': 'Architecture', 'value': 3, 'count': 63584}, {'label': 'Anthropology', 'value': 2, 'count': 56001}, {'label': 'Agriculture', 'value': 1, 'count': 50741}, {'label': 'Classics', 'value': 11, 'count': 41986}, {'label': 'Engineering', 'value': 17, 'count': 41503}, {'label': 'Media, Communications, Journalism', 'value': 30, 'count': 33446}, {'label': 'Art', 'value': 5, 'count': 30032}, {'label': 'Civil Engineering', 'value': 10, 'count': 27228}, {'label': 'Computer Science', 'value': 12, 'count': 22497}, {'label': 'Linguistics', 'value': 28, 'count': 20581}, {'label': 'Languages and Literature (Modern', 'value': 25, 'count': 19650}, {'label': 'Chemistry', 'value': 9, 'count': 13516}, {'label': 'Earth Sciences', 'value': 14, 'count': 13326}, {'label': 'Social Work', 'value': 43, 'count': 12026}, {'label': 'Religious Studies', 'value': 42, 'count': 11941}, {'label': 'Kinesiology', 'value': 24, 'count': 10637}, {'label': 'Dentistry', 'value': 13, 'count': 8973}, {'label': 'Public Health', 'value': 40, 'count': 8387}, {'label': 'Public Safety', 'value': 41, 'count': 7569}, {'label': 'Astronomy and Astrophysics', 'value': 6, 'count': 7375}, {'label': 'Forestry', 'value': 21, 'count': 5616}, {'label': 'Nursing', 'value': 33, 'count': 5569}, {'label': 'Health Administration', 'value': 22, 'count': 3621}, {'label': "Women's Studies", 'value': 48, 'count': 3054}, {'label': 'Public Affairs and Administration', 'value': 39, 'count': 2638}, {'label': 'Theology and Religious Education', 'value': 45, 'count': 1583}, {'label': 'Library and Information Science', 'value': 27, 'count': 1552}, {'label': 'Writing and Composition', 'value': 49, 'count': 1056}, {'label': 'Maritime Professions', 'value': 29, 'count': 367}, {'label': 'Veterinary Medicine', 'value': 47, 'count': 177}, {'label': 'Parks and Recreation', 'value': 34, 'count': 132}, {'label': 'Family and Consumer Sciences', 'value': 19, 'count': 122}, {'label': 'Military Science', 'value': 32, 'count': 79}, {'label': 'Transportation Technologies', 'value': 46, 'count': 4}], 'institution': [{'label': 'Nottingham Trent University', 'value': 10110, 'count': 96113}, {'label': 'Brunel University Uxbridge', 'value': 10059, 'count': 65261}, {'label': 'The Manchester Metropolitan University', 'value': 10136, 'count': 54859}, {'label': 'The University of Texas at Dallas', 'value': 6578, 'count': 50217}, {'label': 'The University of Texas at Austin', 'value': 6576, 'count': 48466}, {'label': 'Harvard University', 'value': 2842, 'count': 45049}, {'label': 'Freed-Hardeman University', 'value': 6048, 'count': 39153}, {'label': 'University of Florida', 'value': 1475, 'count': 37520}, {'label': 'University College London, University of London', 'value': 10143, 'count': 36723}, {'label': 'Massachusetts Institute of Technology', 'value': 2872, 'count': 35914}, {'label': 'University of Nottingham', 'value': 10185, 'count': 35238}, {'label': 'University of California-Berkeley', 'value': 7358, 'count': 32575}, {'label': 'University of Sussex', 'value': 10199, 'count': 32400}, {'label': 'University of Oxford', 'value': 10186, 'count': 32344}, {'label': 'New York University', 'value': 4263, 'count': 31116}, {'label': 'City University', 'value': 10066, 'count': 28475}, {'label': 'University of Wisconsin-Madison', 'value': 7219, 'count': 26852}, {'label': 'University of North Texas', 'value': 6607, 'count': 26356}, {'label': 'Darul Ulum Islamic College', 'value': 12614, 'count': 26328}, {'label': 'Columbia University in the City of New York', 'value': 4067, 'count': 24198}, {'label': 'University of Hull', 'value': 10172, 'count': 24132}, {'label': 'The University of Texas at Arlington', 'value': 6575, 'count': 23919}, {'label': 'University of Pennsylvania', 'value': 5657, 'count': 23677}, {'label': 'Rutgers University-Camden', 'value': 3900, 'count': 23625}, {'label': "King's College London, University of London", 'value': 10092, 'count': 23507}, {'label': 'University of Michigan-Ann Arbor', 'value': 3153, 'count': 22249}, {'label': 'University of Washington-Bothell Campus', 'value': 7025, 'count': 21561}, {'label': 'University of Derby', 'value': 10157, 'count': 20453}, {'label': 'University of Georgia', 'value': 1673, 'count': 20154}, {'label': 'Oxford Brookes University', 'value': 10112, 'count': 20150}, {'label': 'University of Maryland-College Park', 'value': 2755, 'count': 19250}, {'label': 'University of Minnesota-Duluth', 'value': 3317, 'count': 18162}, {'label': 'Texas State University-San Marcos', 'value': 6561, 'count': 17969}, {'label': 'University of Colorado at Boulder', 'value': 923, 'count': 17615}, {'label': 'University of Southern California', 'value': 7378, 'count': 17440}, {'label': 'Roehampton University of Surrey', 'value': 10115, 'count': 16918}, {'label': 'Michigan State University', 'value': 3091, 'count': 16487}, {'label': 'University of Virginia-Main Campus', 'value': 6894, 'count': 15983}, {'label': 'George Mason University', 'value': 6797, 'count': 15911}, {'label': 'Princeton University', 'value': 3886, 'count': 15770}, {'label': 'Stanford University', 'value': 7331, 'count': 15726}, {'label': 'University of North Carolina at Chapel Hill', 'value': 4619, 'count': 15507}, {'label': 'Collin County Community College District', 'value': 6274, 'count': 15035}, {'label': 'University of Surrey', 'value': 10198, 'count': 14924}, {'label': 'Houston Community College', 'value': 6330, 'count': 14590}, {'label': 'Duke University', 'value': 4494, 'count': 14306}, {'label': 'University of Oregon', 'value': 5276, 'count': 14171}, {'label': 'Sam Houston State University', 'value': 6468, 'count': 13512}, {'label': 'Ohio State University-Mansfield Campus', 'value': 4914, 'count': 13391}, {'label': 'Oberlin College', 'value': 4892, 'count': 13202}, {'label': 'Cornell University', 'value': 4076, 'count': 13160}, {'label': 'Boston College', 'value': 2792, 'count': 13097}, {'label': 'Carleton University', 'value': 8314, 'count': 12620}, {'label': 'Emory University', 'value': 1552, 'count': 12596}, {'label': 'Florida State University', 'value': 1248, 'count': 12595}, {'label': 'CUNY Bernard M Baruch College', 'value': 4080, 'count': 12169}, {'label': 'University of Iowa', 'value': 2286, 'count': 11942}, {'label': 'Keele University', 'value': 10091, 'count': 11592}, {'label': 'Georgetown University', 'value': 1072, 'count': 11415}, {'label': 'University of Chicago', 'value': 2027, 'count': 11404}, {'label': 'Hawaii Community College', 'value': 1692, 'count': 11326}, {'label': 'Wesleyan University', 'value': 1039, 'count': 11075}, {'label': "University of St. Michael's College", 'value': 8424, 'count': 11059}, {'label': 'Syracuse University', 'value': 4385, 'count': 10966}, {'label': 'Stephen F Austin State University', 'value': 6516, 'count': 10946}, {'label': 'University of North Carolina at Greensboro', 'value': 4621, 'count': 10864}, {'label': 'University of California-San Diego', 'value': 7364, 'count': 10813}, {'label': 'University of California-Los Angeles', 'value': 7361, 'count': 10575}, {'label': 'American University', 'value': 1064, 'count': 10115}, {'label': 'Brown University', 'value': 5851, 'count': 9960}, {'label': 'University of Edinburgh', 'value': 10162, 'count': 9692}, {'label': 'University of Lincoln', 'value': 10177, 'count': 9655}, {'label': 'Chaminade University of Honolulu', 'value': 1691, 'count': 9545}, {'label': 'University of Pittsburgh-Bradford', 'value': 5662, 'count': 9536}, {'label': 'Alabama State College of Barber Styling', 'value': 3, 'count': 9511}, {'label': 'Coventry University', 'value': 10068, 'count': 9440}, {'label': 'University of California-Santa Cruz', 'value': 7367, 'count': 9327}, {'label': 'London School of Economics and Political Science, University of London', 'value': 10103, 'count': 9326}, {'label': 'University of Utah', 'value': 6700, 'count': 9244}, {'label': 'Arizona State University', 'value': 117, 'count': 9242}, {'label': 'Pennsylvania State University-Brandywine', 'value': 5555, 'count': 8930}, {'label': 'Washington University in St Louis', 'value': 3598, 'count': 8917}, {'label': 'Brandeis University', 'value': 2795, 'count': 8862}, {'label': 'University of Portsmouth', 'value': 10189, 'count': 8706}, {'label': 'Iowa State University', 'value': 2247, 'count': 8607}, {'label': 'Florida International University', 'value': 1238, 'count': 8431}, {'label': 'University of Connecticut', 'value': 1030, 'count': 8292}, {'label': 'Yale University', 'value': 1043, 'count': 8287}, {'label': 'University of Arizona', 'value': 222, 'count': 8217}, {'label': 'University of Houston', 'value': 6602, 'count': 8163}, {'label': 'University of Exeter', 'value': 10164, 'count': 8026}, {'label': 'Loyola University Chicago', 'value': 1900, 'count': 7825}, {'label': 'University of Notre Dame', 'value': 2195, 'count': 7744}, {'label': 'University of California-Santa Barbara', 'value': 7366, 'count': 7716}, {'label': 'University of California-Irvine', 'value': 7360, 'count': 7603}, {'label': 'University of Massachusetts Amherst', 'value': 2946, 'count': 7580}, {'label': 'University of Cambridge', 'value': 10154, 'count': 7373}, {'label': 'Edward Via College of Osteopathic Medicine', 'value': 6786, 'count': 7350}, {'label': 'Bournemouth University', 'value': 10057, 'count': 7257}, {'label': 'University of Missouri-Columbia', 'value': 3582, 'count': 7199}], 'subfield': [{'label': 'History', 'value': 166, 'count': 460760}, {'label': 'English', 'value': 148, 'count': 292045}, {'label': 'Philosophy', 'value': 225, 'count': 118019}, {'label': 'Sociology', 'value': 247, 'count': 115279}, {'label': 'Economics', 'value': 105, 'count': 110681}, {'label': 'Law', 'value': 185, 'count': 109973}, {'label': 'Education', 'value': 106, 'count': 88112}, {'label': 'Music', 'value': 224, 'count': 66197}, {'label': 'Psychology', 'value': 229, 'count': 64884}, {'label': 'Biochemistry', 'value': 42, 'count': 55222}, {'label': 'Anthropology', 'value': 11, 'count': 54610}, {'label': 'Medical/Clinical Assistant', 'value': 202, 'count': 53854}, {'label': 'Political Science and Government', 'value': 226, 'count': 47844}, {'label': 'Architecture', 'value': 13, 'count': 41923}, {'label': 'Agriculture', 'value': 1, 'count': 35719}, {'label': 'Medicine', 'value': 197, 'count': 32091}, {'label': 'Biology', 'value': 40, 'count': 30748}, {'label': 'International Relations', 'value': 228, 'count': 28888}, {'label': 'Business', 'value': 60, 'count': 27177}, {'label': 'Classics', 'value': 86, 'count': 24164}, {'label': 'Geography', 'value': 227, 'count': 22401}, {'label': 'Computer and Information Sciences', 'value': 90, 'count': 21862}, {'label': 'Civil Engineering', 'value': 77, 'count': 20926}, {'label': 'Linguistics', 'value': 187, 'count': 20581}, {'label': 'Ecology', 'value': 47, 'count': 18681}, {'label': 'Finance', 'value': 65, 'count': 18490}, {'label': 'Higher Education', 'value': 121, 'count': 15477}, {'label': 'Communications', 'value': 190, 'count': 15313}, {'label': 'Asian Studies', 'value': 22, 'count': 14912}, {'label': 'Journalism', 'value': 191, 'count': 14538}, {'label': 'American Studies', 'value': 21, 'count': 14509}, {'label': 'Engineering', 'value': 130, 'count': 13742}, {'label': 'Latin', 'value': 89, 'count': 13701}, {'label': 'Environmental Design', 'value': 15, 'count': 12548}, {'label': 'Dance', 'value': 220, 'count': 12362}, {'label': 'Religious Studies', 'value': 243, 'count': 11732}, {'label': 'Accounting', 'value': 61, 'count': 11379}, {'label': 'Chemistry', 'value': 73, 'count': 11278}, {'label': 'Social Work', 'value': 245, 'count': 11233}, {'label': 'Photography', 'value': 37, 'count': 10559}, {'label': 'Business Administration', 'value': 62, 'count': 10416}, {'label': 'Marketing', 'value': 63, 'count': 10072}, {'label': 'Secretarial Professions', 'value': 72, 'count': 9724}, {'label': 'Fine Arts and Art Studies', 'value': 33, 'count': 9714}, {'label': 'Mechanical Engineering', 'value': 136, 'count': 9104}, {'label': 'Commercial and Advertising Art', 'value': 35, 'count': 8969}, {'label': 'European Studies', 'value': 24, 'count': 8467}, {'label': 'Public Health', 'value': 240, 'count': 8387}, {'label': 'Visual and Performing Arts', 'value': 218, 'count': 8072}, {'label': 'Dental Assisting and Lab Fields', 'value': 96, 'count': 7976}, {'label': 'Anatomy', 'value': 41, 'count': 7736}, {'label': 'Geology', 'value': 100, 'count': 7609}, {'label': 'Criminal Justice Enforcement Administration', 'value': 241, 'count': 7569}, {'label': 'Social Sciences', 'value': 249, 'count': 7395}, {'label': 'Physical Therapy', 'value': 168, 'count': 6740}, {'label': 'Horticulture', 'value': 9, 'count': 6628}, {'label': 'Criminology', 'value': 248, 'count': 6613}, {'label': 'Surgery', 'value': 214, 'count': 6421}, {'label': 'Toxicology', 'value': 50, 'count': 6289}, {'label': 'Latin American Studies', 'value': 25, 'count': 6082}, {'label': 'Psychiatry', 'value': 210, 'count': 6004}, {'label': 'Petroleum Engineering', 'value': 147, 'count': 5952}, {'label': 'Genetics', 'value': 52, 'count': 5708}, {'label': 'South Asian Studies', 'value': 31, 'count': 5686}, {'label': 'Nursing', 'value': 216, 'count': 5569}, {'label': 'Social Psychology', 'value': 236, 'count': 5533}, {'label': 'Nuclear Engineering', 'value': 138, 'count': 5464}, {'label': 'Creative Writing', 'value': 149, 'count': 5311}, {'label': 'Urban Planning', 'value': 17, 'count': 5150}, {'label': 'Astronomy', 'value': 38, 'count': 5009}, {'label': 'Area, Ethnic, and Cultural Studies', 'value': 18, 'count': 4893}, {'label': 'Earth Sciences', 'value': 97, 'count': 4887}, {'label': 'Comparative Literature', 'value': 173, 'count': 4847}, {'label': 'Physiology', 'value': 56, 'count': 4776}, {'label': 'Forestry', 'value': 159, 'count': 4586}, {'label': 'Architectural Engineering', 'value': 78, 'count': 4537}, {'label': 'Drama and Theater Arts', 'value': 221, 'count': 4525}, {'label': 'International Business', 'value': 67, 'count': 4475}, {'label': 'French Language and Literature', 'value': 174, 'count': 4280}, {'label': 'Teachers Aide Programs', 'value': 116, 'count': 4272}, {'label': 'Music Performance', 'value': 223, 'count': 4176}, {'label': 'Chemical Engineering', 'value': 135, 'count': 3553}, {'label': 'Urban Studies', 'value': 250, 'count': 3493}, {'label': 'Occupational Therapy', 'value': 169, 'count': 3462}, {'label': 'German Language and Literature', 'value': 175, 'count': 3393}, {'label': 'Animal Science', 'value': 5, 'count': 3227}, {'label': 'Insurance', 'value': 68, 'count': 3172}, {'label': 'African Studies', 'value': 20, 'count': 3152}, {'label': 'Real Estate', 'value': 70, 'count': 3132}, {'label': "Women's Studies", 'value': 260, 'count': 3054}, {'label': 'Pathology', 'value': 54, 'count': 2827}, {'label': 'Spanish Language and Literature', 'value': 184, 'count': 2772}, {'label': 'Food Science', 'value': 8, 'count': 2671}, {'label': 'Pacific Area Studies', 'value': 30, 'count': 2645}, {'label': 'Public Affairs and Public Adminstration', 'value': 237, 'count': 2624}, {'label': 'Classical Greek', 'value': 87, 'count': 2569}, {'label': 'Hospital and Health Care Facilities Management', 'value': 162, 'count': 2492}, {'label': 'Business Statistics', 'value': 64, 'count': 2488}, {'label': 'Astrophysics', 'value': 39, 'count': 2366}, {'label': 'Landscape Architecture', 'value': 16, 'count': 2132}], 'corpus': [{'label': 'Harvard Library Open Metadata', 'value': 'hlom', 'count': 4259650}, {'label': 'JSTOR', 'value': 'jstor', 'count': 713393}]}
+};
+</script>
+
+<script src="/static/dist/ranks.js"></script>
+
+
+</body>
+
+</html>

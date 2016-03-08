@@ -1,0 +1,3078 @@
+
+Open Syllabus Explorer beta 0.4
+Mapping the college curriculum across 1M+ syllabi.
+Browse text rankings
+ 
+Filter by field
+
+×History
+×	
+
+Rank	Count	Score	Text
+1	734	98.5	
+A Manual for Writers of Term Papers, Theses, and Dissertations
+Turabian, Kate L.
+2	667	96.4	
+A Manual for Writers of Dissertations
+Turabian, Kate L.
+3	586	78.0	
+America : A Narrative History
+Tindall, George Brown
+4	499	99.7	
+The Communist Manifesto
+Marx, Karl, 1818-1883
+5	451	80.8	
+Coming of Age in Mississippi
+Moody, Anne, 1940-2015
+6	428	100.0	
+The Elements of Style
+Strunk, William, 1869-1946
+7	425	75.2	
+A Pocket Guide to Writing in History
+Rampolla, Mary Lynn
+8	359	90.3	
+Common Sense
+Paine, Thomas
+9	338	86.5	
+The Jungle
+Sinclair, Upton, 1878-1968
+10	319	99.1	
+The Prince
+Machiavelli, Niccolò, 1469-1527
+11	313	98.6	
+Orientalism
+Said, Edward W.
+12	312	77.3	
+American History
+James, James Alton, 1864-1962
+13	285	93.5	
+Incidents in the Life of a Slave Girl
+Jacobs, Harriet A. (Harriet Ann), 1813-1897
+14	272	95.0	
+Autobiography
+Franklin, Benjamin, 1706-1790
+15	263	44.6	
+United States History
+Current, Richard Nelson
+16	244	99.2	
+Leviathan
+Hobbes, Thomas, 1588-1679
+17	243	81.1	
+The Feminine Mystique
+Friedan, Betty
+18	234	46.0	
+A Short Guide to Writing About History
+Marius, Richard
+19	229	76.2	
+All Quiet on the Western Front
+Remarque, Erich Maria, 1898-1970
+20	224	93.0	
+The Peloponnesian War
+Thucydides
+21	222	97.8	
+Letter From the Birmingham Jail
+King, Martin Luther, Jr., 1929-1968
+22	221	93.1	
+Candide
+Voltaire, 1694-1778
+23	219	96.2	
+Democracy in America
+Tocqueville, Alexis De, 1805-1859
+24	205	68.9	
+War and the World, 1450-2000
+Black, Jeremy
+The Journal of Military History
+25	200	51.0	
+The Return of Martin Guerre
+Davis, Natalie Zemon, 1928
+26	199	75.7	
+Mein Kampf
+Hitler, Adolf, 1889-1945, Author
+27	194	94.1	
+The Social Contract
+Rousseau, Jean-Jacques, 1712-1778
+28	192	69.7	
+Auschwitz
+Levi, Steven C.
+European Judaism: A Journal for the New Europe
+29	191	97.1	
+Things Fall Apart
+Achebe, Chinua
+30	191	45.5	
+Gender: A Useful Category of Historical Analysis
+Scott, Joan W.
+The American Historical Review
+31	185	95.5	
+Wealth of Nations
+Smith, Adam, 1723-1790
+32	184	64.5	
+The Frontier in American History
+Turner, Frederick Jackson, 1861-1932
+33	172	57.8	
+The Making of the English Working Class
+Thompson, E. P. (Edward Palmer), 1924-1993
+34	171	30.6	
+The Unfinished Nation : A Concise History of the American People
+Brinkley, Alan
+35	170	39.0	
+The Radicalism of the American Revolution
+Wood, Gordon S.
+36	168	92.9	
+Democracy in America
+De Tocqueville, Alexis, Mansfield, Harvey C., Winthrop, Delba
+New England Review (1990-)
+37	168	45.1	
+The Ideological Origins of the American Revolution
+Bailyn, Bernard
+38	167	97.2	
+The Clash of Civilizations
+Huntington, Samuel P.
+39	166	38.9	
+The Killer Angels
+Shaara, Michael
+40	165	58.6	
+The Significance of the Frontier in American History
+Turner, Frederick Jackson, 1861-1932
+41	159	43.1	
+Hitler
+Kershaw, Ian
+42	159	42.0	
+Changes in the Land : Indians, Colonists, and the Ecology of New England
+Cronon, William
+43	159	96.8	
+Origin of Species
+Darwin, Charles, 1809-1882
+44	158	93.8	
+Utopia
+More, Thomas, Sir, Saint, 1478-1535
+45	157	39.7	
+A Rumor of War
+Caputo, Philip
+46	155	98.3	
+The Iliad
+Homer
+47	153	25.0	
+America : A Concise History
+Henretta, James A.
+48	152	33.1	
+American History : A Survey
+Brinkley, Alan
+49	151	96.7	
+Confessions
+Augustine, Saint, Bishop of Hippo
+50	151	31.2	
+Africa and Africans in the Making of the Atlantic World, 1400-1800
+Thornton, John K. (John Kelly), 1949
+51	149	99.9	
+Republic
+Plato
+52	142	74.1	
+History
+Herodotus
+53	142	95.8	
+A Pocket Style Manual
+Hacker, Diana, 1942-2004
+54	141	97.7	
+On Liberty
+Mill, John Stuart, 1806-1873
+55	136	97.6	
+The Structure of Scientific Revolutions
+Kuhn, Thomas S.
+56	131	88.4	
+Silent Spring
+Carson, Rachel, 1907-1964
+57	131	90.2	
+The Analects
+Confucius
+58	131	71.7	
+Notes on the State of Virginia
+Jefferson, Thomas, 1743-1826
+59	130	84.7	
+Night
+Wiesel, Elie, 1928
+60	130	45.2	
+What Is History
+Carr, Edward Hallett, 1892-1982
+61	130	24.6	
+Making a New Deal : Industrial Workers in Chicago, 1919-1939
+Cohen, Lizabeth
+62	130	25.1	
+Celia, a Slave
+McLaurin, Melton Alonza
+63	128	82.9	
+Imagined Communities : Reflections on the Origin and Spread of Nationalism
+Anderson, Benedict R. O'G. (Benedict Richard O'Gorman), 1936
+64	127	32.0	
+Gay New York : 1890-1940
+Chauncey, George
+65	126	47.5	
+The Emancipation Proclamation
+Lincoln, Abraham, 1809-1865
+66	125	93.2	
+The Declaration of Independence
+Jefferson, Thomas, 1743-1826
+67	124	74.6	
+The Histories
+Herodotus
+68	122	78.6	
+The Decameron
+Boccaccio, Giovanni, 1313-1375
+69	121	28.3	
+American Slavery, 1619-1877
+Kolchin, Peter
+70	121	24.7	
+Medieval Europe : A Short History
+Hollister, C. Warren (Charles Warren), 1930
+71	120	43.3	
+Germania
+Tacitus, Cornelius
+72	120	31.6	
+The Western Heritage
+Kagan, Donald
+73	119	25.9	
+A Short History of Reconstruction, 1863-1877
+Foner, Eric
+74	119	26.2	
+American Foreign Relations
+Paterson, Thomas G., 1941
+75	119	96.9	
+Power
+Foucault, Michel, 1926-1984
+76	118	86.2	
+The Wretched of the Earth
+Fanon, Frantz, 1925-1961
+77	116	73.6	
+The Gettysburg Address
+Lincoln, Abraham, 1809-1865
+78	116	22.9	
+American Colonies
+Taylor, Alan, 1955
+79	116	31.7	
+American History
+Norton, Mary Beth
+Signs
+80	116	29.4	
+A History of Western Society
+McKay, John P.
+81	115	95.2	
+The History of Sexuality
+Foucault, Michel, 1926-1984
+82	112	27.1	
+The Life of Charlemagne
+Einhard, Approximately 770-840
+83	112	32.5	
+The Gospel of the Wealth
+Carnegie, Andrew, 1835-1919
+84	112	99.5	
+Frankenstein
+Shelley, Mary Wollstonecraft, 1797-1851
+85	112	26.6	
+Roll, Jordan, Roll : The World the Slaves Made
+Genovese, Eugene D., 1930
+86	111	62.2	
+Looking Backward, 2000-1887
+Bellamy, Edward, 1850-1898
+87	110	35.8	
+The American Revolution
+Thomas, Peter David Garner
+88	110	98.2	
+Heart of Darkness
+Conrad, Joseph, 1857-1924
+89	110	48.8	
+Hiroshima
+Hersey, John, 1914-1993
+90	109	73.5	
+World War II
+Time, Inc. Library
+91	108	34.9	
+The Creation of the American Republic, 1776-1787
+Wood, Gordon S.
+92	108	80.6	
+The New University
+Paul, F. T.
+The British Medical Journal
+93	106	98.7	
+The Odyssey
+Homer
+94	105	30.7	
+The Strange Career of Jim Crow
+Woodward, C. Vann (Comer Vann), 1908
+95	104	41.8	
+Crabgrass Frontier : The Suburbanization of the United States
+Jackson, Kenneth T.
+96	104	47.5	
+George Washington
+Jefferson, Thomas
+The Journal of Education
+97	104	73.0	
+History of the Peloponnesian War
+Thucydides
+98	104	61.1	
+World War I
+Keegan, Susanne
+99	104	33.1	
+Ordinary Men : Reserve Police Battalion 101 and the Final Solution in Poland
+Browning, Christopher R.
+100	103	21.9	
+City of Women : Sex and Class in New York, 1789-1860
+Stansell, Christine
+101	103	94.6	
+Capital
+Marx, Karl, 1818-1883
+102	103	84.1	
+Maus
+Spiegelman, Art
+103	103	24.8	
+The Origins of the Urban Crisis : Race and Inequality in Postwar Detroit
+Sugrue, Thomas J., 1962
+104	103	42.2	
+Imperialism
+Hobson, J. A. (John Atkinson), 1858-1940
+105	103	43.3	
+The Search for Modern China
+Spence, Jonathan D.
+106	103	29.4	
+Gender and the Politics of History
+Scott, Joan Wallach
+107	103	16.9	
+Sam Houston and the American Southwest
+Campbell, Randolph B., 1940
+108	103	81.8	
+The End of History
+Fukuyama, Francis
+The National Interest
+109	103	81.0	
+The Grapes of Wrath
+Steinbeck, John, 1902-1968
+110	102	78.5	
+Reflections on the Revolution in France
+Burke, Edmund, 1729-1797
+111	102	23.1	
+American Slavery, American Freedom : The Ordeal of Colonial Virginia
+Morgan, Edmund S. (Edmund Sears), 1916
+112	102	21.5	
+American History
+Garraty, John A. (John Arthur), 1920-2007
+113	102	23.1	
+Secret History
+Procopius
+114	101	89.8	
+The Protestant Ethic and the Spirit of Capitalism
+Weber, Max, 1864-1920
+115	101	45.9	
+What Is to Be Done
+Lenin, Vladimir Ilʹich, 1870-1924
+116	101	19.5	
+The Middle Ground : Indians, Empires, and Republics in the Great Lakes Region, 1650-1815
+White, Richard, 1947
+117	100	52.2	
+The Courtier
+Castiglione, Baldassarre, Conte, 1478-1529
+118	99	20.9	
+The Kingdom of Matthias
+Johnson, Paul E., 1942
+119	99	21.0	
+The Culture of the Cold War
+Whitfield, Stephen J., 1942
+120	99	96.3	
+Walden
+Thoreau, Henry David, 1817-1862
+121	98	96.6	
+The Politics
+Aristotle
+122	98	64.6	
+The Sixteenth Century
+England, Sylvia Lennie
+The Year's Work in Modern Language Studies
+123	97	98.1	
+Canterbury Tales
+Chaucer, Geoffrey, -1400
+124	97	20.3	
+The Search for Order, 1877-1920
+Wiebe, Robert H.
+125	97	23.9	
+Chronicles
+Froissart, Jean, 1338?-1410
+126	97	59.4	
+Annals
+Tacitus, Cornelius
+127	96	87.0	
+Lysistrata
+Aristophanes
+128	96	84.6	
+The Second Sex
+Beauvoir, Simone De, 1908-1986
+129	94	92.6	
+Henry V
+Shakespeare, William, 1564-1616
+130	94	15.4	
+Voices of Protest : Huey Long, Father Coughlin, and the Great Depression
+Brinkley, Alan
+131	94	31.6	
+We Now Know : Rethinking Cold War History
+Gaddis, John Lewis
+132	94	19.2	
+Founding Brothers : The Revolutionary Generation
+Ellis, Joseph J.
+133	94	20.3	
+Many Thousands Gone : The First Two Centuries of Slavery in North America
+Berlin, Ira, 1941
+134	94	89.2	
+Discourse on Method
+Descartes, René, 1596-1650
+135	93	20.3	
+Out of This Furnace
+Bell, Thomas, 1903-1961
+136	92	22.3	
+A History of World Societies
+McKay, John P., Author
+137	90	43.4	
+Twenty Years at Hull-House
+Addams, Jane, 1860-1935
+138	90	29.7	
+Late Antiquity
+Brown, Peter Robert Lamont
+139	90	37.3	
+The Russian Revolution
+Lenin, Vladimir Ilʹich, 1870-1924
+140	90	98.0	
+Antigone
+Sophocles
+141	89	76.3	
+The Souls of Black Folk
+Du Bois, W. E. B. (William Edward Burghardt), 1868-1963
+142	89	20.8	
+That Noble Dream : The "Objectivity Question" and the American Historical Profession
+Novick, Peter, 1934
+143	89	26.6	
+Ecological Imperialism : The Biological Expansion of Europe, 900-1900
+Crosby, Alfred W.
+144	89	18.1	
+Dust Bowl : The Southern Plains in the 1930s
+Worster, Donald, 1941
+145	89	19.7	
+Freedom From Fear
+Kennedy, David M.
+146	89	31.3	
+The Face of Battle
+Keegan, John, 1934
+147	89	15.3	
+Writing History : A Guide for Students
+Storey, William Kelleher
+148	89	86.9	
+Civil Disobedience
+Thoreau, Henry David, 1817-1862. Aut
+149	88	17.7	
+Race and Reunion : The Civil War in American Memory
+Blight, David W.
+150	88	65.6	
+On War
+Clausewitz, Carl Von, 1780-1831
+151	88	55.9	
+Guns, Germs, and Steel : The Fates of Human Societies
+Diamond, Jared M.
+152	87	79.6	
+Hard Times
+Dickens, Charles, 1812-1870
+153	87	66.2	
+The Descent of Man
+Darwin, Charles, 1809-1882
+154	86	51.6	
+North America
+Read, Frederick, Mathers, F. F., Morden, K. G., Bentley, W. E., Surveyer, Fabre, Runciman, J. P., Summers, G. B., Dunfield, Brian
+Journal of Comparative Legislation and International Law
+155	86	38.9	
+A History of the Modern Middle East
+Cleveland, William L.
+156	85	19.1	
+Andrew Jackson
+Remini, Robert Vincent, 1921
+157	85	27.3	
+War Without Mercy : Race and Power in the Pacific War
+Dower, John W.
+158	84	18.0	
+Cheap Amusements : Working Women and Leisure in Turn-Of-The-Century New York
+Peiss, Kathy Lee
+159	84	18.7	
+The Nazi Seizure of Power
+Allen, William Sheridan
+160	84	93.6	
+The Aeneid
+Virgil
+161	84	49.2	
+The Praise of Folly
+Erasmus, Desiderius, -1536
+162	84	19.5	
+The Struggle for Black Equality, 1954-1980
+Sitkoff, Harvard
+163	83	14.4	
+Twelve Years a Slave
+Northup, Solomon, 1808
+164	83	34.0	
+Agricola
+Tacitus, Cornelius
+165	82	83.7	
+Discipline and Punish : The Birth of the Prison
+Foucault, Michel, 1926-1984
+166	82	15.8	
+A Place for Stories: Nature, History, and Narrative
+Cronon, William
+The Journal of American History
+167	82	42.8	
+Ecclesiastical History
+Bede, the Venerable, Saint, 673-735, Author
+168	81	31.2	
+The Russian Revolution
+Fitzpatrick, Sheila
+169	81	22.5	
+The Columbian Exchange : Biological and Cultural Consequences of 1492
+Crosby, Alfred W.
+170	81	17.2	
+Medieval Europe : A Short History
+Bennett, Judith M.
+171	81	45.4	
+Modern Latin America
+Skidmore, Thomas E.
+172	81	37.3	
+Civil War 2000
+Henry, Charles P.
+The Black Scholar
+173	81	41.1	
+The Book of the Courtier
+Castiglione, Baldassarre, Conte, 1478-1529
+174	80	38.6	
+The Great War and Modern Memory
+Fussell, Paul, 1924-2012
+175	80	19.5	
+Battle Cry of Freedom : The Civil War Era
+McPherson, James M.
+176	80	87.6	
+I Have a Dream
+King, Martin Luther, Jr., 1929-1968
+177	80	14.4	
+Gender and Jim Crow : Women and the Politics of White Supremacy in North Carolina, 1896-1920
+Gilmore, Glenda Elizabeth
+178	80	17.3	
+Soul by Soul : Life Inside the Antebellum Slave Market
+Johnson, Walter, 1967
+179	80	19.5	
+A History of Modern Europe
+Merriman, John M.
+180	80	73.4	
+Nationalism
+Gellner, Ernest
+181	79	97.1	
+Apology
+Plato
+182	79	19.4	
+The Tragedy of American Diplomacy
+Williams, William Appleman
+183	78	15.5	
+Becoming Mexican American : Ethnicity, Culture, and Identity in Chicano Los Angeles, 1900-1945
+Sanchez, George J.
+184	78	20.9	
+The Cult of True Womanhood: 1820-1860
+Welter, Barbara
+American Quarterly
+185	77	16.1	
+Land of Desire : Merchants, Power, and the Rise of a New American Culture
+Leach, William, 1944
+186	77	14.1	
+For Cause and Comrades : Why Men Fought in the Civil War
+McPherson, James M.
+187	76	25.7	
+America, Russia, and the Cold War, 1945-1984
+LaFeber, Walter
+188	76	15.9	
+The Impending Crisis, 1848-1861
+Potter, David Morris
+189	76	15.4	
+After the Fact : The Art of Historical Detection
+Davidson, James West
+190	76	28.2	
+The Modern Researcher
+Barzun, Jacques, 1907-2012
+191	75	23.4	
+The Vietnam Wars
+Young, Marilyn Blatt
+192	75	14.5	
+The African-American Odyssey
+Hine, Darlene Clark
+193	75	37.7	
+The History of Rome
+Livy
+194	75	27.0	
+The Road to Wigan Pier
+Orwell, George, 1903-1950
+195	74	59.4	
+On Population
+Malthus, T. R. (Thomas Robert), 1766-1834
+196	74	16.1	
+The Unredeemed Captive : A Family Story From Early America
+Demos, John
+197	74	41.4	
+The Modern World-System
+Wallerstein, Immanuel Maurice, 1930
+198	73	49.7	
+Latin America
+Thomas, Jack Ray
+199	73	18.1	
+Colonial Latin America
+Burkholder, Mark A., 1943
+200	73	53.9	
+Diplomacy
+Kissinger, Henry, 1923
+201	73	88.9	
+Second Treatise of Government
+Locke, John, 1632-1704
+202	72	11.2	
+City of Eros : New York City, Prostitution, and the Commercialization of Sex, 1790-1920
+Gilfoyle, Timothy J.
+203	72	70.4	
+Pragmatism
+James, William, 1842-1910
+204	72	36.9	
+City of Quartz : Excavating the Future in Los Angeles
+Davis, Mike, 1946
+205	72	44.3	
+Decline and Fall
+Gibbon, Edward
+Litigation
+206	71	14.5	
+The Transformation of Virginia, 1740-1790
+Isaac, Rhys
+207	71	16.4	
+The Minutemen and Their World
+Gross, Robert A., 1945
+208	71	72.6	
+The Craft of Research
+Booth, Wayne C.
+209	71	22.9	
+The Idea of History
+Collingwood, R. G. (Robin George), 1889-1943
+210	71	15.4	
+Franklin D. Roosevelt and the New Deal, 1932-1940
+Leuchtenburg, William Edward, 1922
+211	71	13.9	
+Sundiata: An Epic of Old Mali
+Niane, Djibril Tamsir
+212	71	12.9	
+Suburban Warriors : The Origins of the New American Right
+McGirr, Lisa
+213	71	13.6	
+Work, Culture, and Society in Industrializing America, 1815-1919
+Gutman, Herbert G.
+The American Historical Review
+214	71	10.1	
+Gone to Texas : A History of the Lone Star State
+Campbell, Randolph B., 1940
+215	70	37.5	
+The Condition of the Working Class in England
+Engels, Friedrich, 1820-1895
+216	69	13.6	
+Free Soil, Free Labor, Free Men : The Ideology of the Republican Party Before the Civil War
+Foner, Eric
+217	69	18.2	
+The Wages of Whiteness : Race and the Making of the American Working Class
+Roediger, David R.
+218	69	83.8	
+Civilization and Its Discontents
+Freud, Sigmund, 1856-1939
+219	69	17.1	
+Whiteness of a Different Color : European Immigrants and the Alchemy of Race
+Jacobson, Matthew Frye, 1958
+220	69	13.4	
+The Market Revolution : Jacksonian America, 1815-1846
+Sellers, Charles Grier
+221	68	63.7	
+Nations and Nationalism
+Gellner, Ernest
+222	68	17.2	
+The Democratization of American Christianity
+Hatch, Nathan O.
+223	68	12.1	
+The Reagan Years
+Carter, Hodding
+224	68	16.9	
+Highbrow/Lowbrow : The Emergence of Cultural Hierarchy in America
+Levine, Lawrence W.
+225	67	54.1	
+The Spirit of the Laws
+Montesquieu, Charles De Secondat, Baron De, 1689-1755
+226	67	46.2	
+Gargantua
+Rabelais, François, Approximately 1490-1553
+227	67	13.1	
+Chants Democratic : New York City & the Rise of the American Working Class, 1788-1850
+Wilentz, Sean
+228	67	16.6	
+The Legacy of Conquest : The Unbroken Past of the American West
+Limerick, Patricia Nelson, 1951
+229	67	14.9	
+The American Revolution
+Greene, Jack P.
+The American Historical Review
+230	67	14.9	
+The Death of Woman Wang
+Spence, Jonathan D.
+231	67	22.2	
+The Origins of the First World War
+Joll, James
+232	66	10.8	
+The Spanish Frontier in North America
+Weber, David J.
+233	66	22.8	
+The Visible Hand : The Managerial Revolution in American Business
+Chandler, Alfred D. (Alfred Dupont), 1918-2007
+234	66	77.2	
+Jihad vs. McWorld
+Barber, Benjamin R., 1939
+235	66	22.3	
+The Sixties : Years of Hope, Days of Rage
+Gitlin, Todd
+236	66	47.9	
+Lenin
+Trotsky, Leon, 1879-1940
+237	66	17.3	
+History of Africa
+Shillington, Kevin
+238	66	61.0	
+Rights of Man
+Paine, Thomas, 1737-1809
+239	65	12.7	
+Abraham Lincoln
+McPherson, James M.
+240	65	29.6	
+American History
+Smith, Wilber Hazleton, 1860
+241	65	66.6	
+Diary
+Pepys, Samuel, 1633-1703
+242	65	13.9	
+Telling the Truth About History
+Appleby, Joyce Oldham
+243	64	44.5	
+Europe and the People Without History
+Wolf, Eric R., 1923
+244	64	19.6	
+A History of Russia
+Riasanovsky, Nicholas Valentine, 1923
+245	64	80.0	
+Art History
+Stokstad, Marilyn, 1929
+246	64	81.4	
+A Vindication of the Rights of Woman
+Wollstonecraft, Mary, 1759-1797
+247	64	31.5	
+Britons : Forging the Nation, 1707-1837
+Colley, Linda, 1949
+248	64	39.0	
+The Caesars
+Suetonius, Approximately 69-Approximately 122
+249	64	79.1	
+The Rights of Woman
+Wollstonecraft, Mary, 1759-1797
+250	63	17.2	
+The Strenuous Life
+Roosevelt, Theodore, 1858-1919
+251	63	12.4	
+What They Fought For, 1861-1865
+McPherson, James M.
+252	63	13.0	
+Environmental History
+Worster, Donald
+Great Plains Quarterly
+253	62	13.2	
+Good Wives, Nasty Wenches, and Anxious Patriarchs : Gender, Race, and Power in Colonial Virginia
+Brown, Kathleen M., 1960
+254	62	17.5	
+Foreign Relations
+Thomas, A. O.
+The Journal of Education
+255	62	62.0	
+The Discourses
+Machiavelli, Niccolò, 1469-1527
+256	62	37.5	
+The Decline and Fall of the Roman Empire
+Gibbon, Edward, 1737-1794
+257	62	38.3	
+Cambridge University Press, 1584-1984
+Black, Michael H.
+258	61	56.8	
+Sinners in the Hands of an Angry God
+Edwards, Jonathan, 1703-1758
+259	61	18.6	
+The Port Huron Statement : (1962)
+Students for a Democratic Society (U.S.)
+260	61	10.8	
+Water From the Rock : Black Resistance in a Revolutionary Age
+Frey, Sylvia R., 1935
+261	61	11.7	
+Been in the Storm So Long : The Aftermath of Slavery
+Litwack, Leon F.
+262	60	12.7	
+Black Majority : Negroes in Colonial South Carolina From 1670 Through the Stono Rebellion
+Wood, Peter H., 1943
+263	60	18.7	
+In Defence of History
+Evans, Richard J.
+264	60	40.6	
+Pantagruel
+Rabelais, François, Approximately 1490-1553
+265	60	69.8	
+Culture and Imperialism
+Said, Edward W.
+266	60	28.0	
+Lies My Teacher Told Me : Everything Your American History Textbook Got Wrong
+Loewen, James W.
+267	60	34.4	
+Gargantua and Pantagruel
+Rabelais, François, Approximately 1490-1553
+268	60	24.1	
+Vietnam, a History
+Karnow, Stanley
+269	60	52.4	
+The Theory of the Leisure Class
+Veblen, Thorstein, 1857-1929
+270	60	26.6	
+The Revolution of 1905
+Lenin, Vladimir Ilʹich, 1870-1924
+271	59	27.3	
+The Persian Wars
+Herodotus
+272	59	37.7	
+Stalin
+Trotsky, Leon, 1879-1940
+273	59	14.4	
+The Grounding of Modern Feminism
+Cott, Nancy F.
+274	59	26.2	
+The Other America
+Harrington, Michael, 1928-1989
+275	59	18.7	
+Why the Allies Won
+Overy, R. J.
+276	59	11.6	
+The Middle Ages
+Tierney, Brian, Comp
+277	59	20.6	
+Hind Swaraj
+Gandhi, Mahatma, 1869-1948
+278	59	23.4	
+The Second World War
+Taylor, A. J. P. (Alan John Percivale), 1906-1990
+279	59	14.9	
+Women and the American Experience
+Woloch, Nancy, 1940
+280	59	20.0	
+The Organic Machine
+White, Richard, 1947
+281	59	10.6	
+History and Historians : A Historiographical Introduction
+Gilderhus, Mark T.
+282	59	20.3	
+Early Modern Europe, 1450-1789
+Wiesner, Merry E., 1952
+283	58	99.0	
+Oedipus
+Sophocles
+284	58	13.9	
+Born for Liberty : A History of Women in America
+Evans, Sara M. (Sara Margaret), 1943
+285	58	17.6	
+The Underdogs
+Azuela, Mariano, 1873-1952
+286	58	15.0	
+Testament of Youth
+Brittain, Vera, 1893-1970
+287	58	12.2	
+The Perils of Prosperity, 1914-32
+Leuchtenburg, William Edward, 1922
+288	58	38.0	
+Fathers and Sons
+Turgenev, Ivan Sergeevich, 1818-1883
+289	58	26.9	
+The Age of Revolution, 1789-1848
+Hobsbawm, E. J. (Eric J.), 1917
+290	58	15.9	
+Local People : The Struggle for Civil Rights in Mississippi
+Dittmer, John, 1939
+291	58	52.5	
+An Essay on Population
+Malthus, T. R. (Thomas Robert), 1766-1834
+292	58	14.3	
+The Pursuit of History : Aims, Methods, and New Directions in the Study of Modern History
+Tosh, John
+293	58	18.9	
+A History of Latin America
+Keen, Benjamin, 1913
+294	57	16.3	
+The Great Cat Massacre and Other Episodes in French Cultural History
+Darnton, Robert
+295	57	66.9	
+Works & Days
+Hesiod
+296	57	54.9	
+A Short Guide to Writing About Art
+Barnet, Sylvan
+297	57	28.2	
+Homage to Catalonia
+Orwell, George, 1903-1950
+298	57	14.5	
+Civilization in the West
+Kishlansky, Mark A.
+299	57	31.1	
+Lives of the Artists
+Vasari, Giorgio, 1511-1574
+300	56	13.4	
+Strangers in the Land : Patterns of American Nativism, 1860-1925
+Higham, John
+301	56	30.3	
+Wilderness and the American Mind
+Nash, Roderick
+302	56	92.4	
+Existentialism
+Sartre, Jean Paul, 1905-1980
+303	56	13.6	
+The Second World War
+Keegan, John, 1934
+304	56	14.0	
+The Crusades : A History
+Riley-Smith, Jonathan Simon Christopher, 1938
+305	56	11.5	
+The Great Arizona Orphan Abduction
+Gordon, Linda
+306	56	13.9	
+The Human Record : Sources of Global History
+Andrea, Alfred J., 1941
+307	56	10.8	
+The White Scourge : Mexicans, Blacks, and Poor Whites in Texas Cotton Culture
+Foley, Neil, 1949
+308	56	12.7	
+The American Nation : A History of the United States
+Garraty, John A. (John Arthur), 1920-2007
+309	55	14.1	
+Ideology and U.S. Foreign Policy
+Hunt, Michael H.
+310	55	15.5	
+The Rights of Woman
+Gouges, Olympe De, 1748?-1793
+311	55	26.9	
+The Printing Revolution in Early Modern Europe
+Eisenstein, Elizabeth L.
+312	55	12.9	
+Labor of Love, Labor of Sorrow : Black Women, Work, and the Family From Slavery to the Present
+Jones, Jacqueline, 1948
+313	55	12.5	
+The Cheese and the Worms : The Cosmos of a Sixteenth-Century Miller
+Ginzburg, Carlo
+314	55	24.5	
+The Best and the Brightest
+Halberstam, David
+315	55	14.5	
+Freedom From Fear : The American People in Depression and War, 1929-1945
+Kennedy, David M.
+316	55	17.2	
+The Story of American Freedom
+Foner, Eric
+317	55	15.0	
+Time on the Cross
+Fogel, Robert William
+318	55	15.2	
+Florence, 1138-1737
+Brucker, Gene A.
+319	55	11.0	
+Slavery and Freedom: The American Paradox
+Morgan, Edmund S.
+The Journal of American History
+320	54	95.7	
+The Great Gatsby
+Fitzgerald, F. Scott (Francis Scott), 1896-1940
+321	54	97.5	
+Paradise Lost
+Milton, John, 1608-1674
+322	54	30.6	
+Germinal
+Zola, Émile, 1840-1902
+323	54	10.1	
+Victors and Vanquished
+Stuart, Francis, 1902-2000
+324	54	19.7	
+The Four Freedoms
+Roosevelt, Franklin D.
+World Affairs
+325	54	66.2	
+On the Origin of Species
+Darwin, Charles, 1809-1882
+326	54	13.5	
+The Black Family in Slavery and Freedom, 1750-1925
+Gutman, Herbert George, 1928
+327	54	19.5	
+The Origins of the Second World War
+Taylor, A. J. P. (Alan John Percivale), 1906-1990
+328	54	12.1	
+Cold War Civil Rights : Race and the Image of American Democracy
+Dudziak, Mary L., 1956
+329	54	20.1	
+The Mediterranean and the Mediterranean World in the Age of Philip II
+Braudel, Fernand
+330	54	68.0	
+Summa Theologica
+Thomas, Aquinas, Saint, 1225?-1274
+331	54	24.3	
+Plagues and Peoples
+McNeill, William Hardy, 1917
+332	54	62.5	
+Theory of International Politics
+Waltz, Kenneth Neal, 1924
+333	54	21.9	
+Sources of Chinese Tradition
+De Bary, William Theodore, 1919- Ed
+334	54	11.3	
+Making Whiteness : The Culture of Segregation in the South, 1890-1940
+Hale, Grace Elizabeth
+335	53	93.9	
+The Yellow Wallpaper
+Gilman, Charlotte Perkins, 1860-1935
+336	53	13.0	
+The Daughter of Time
+Tey, Josephine, 1896 or 1897-1952
+337	53	10.8	
+Land of Hope : Chicago, Black Southerners, and the Great Migration
+Grossman, James R.
+338	53	12.5	
+Pitied but Not Entitled : Single Mothers and the History of Welfare, 1890-1935
+Gordon, Linda
+339	53	52.2	
+The Clash of Civilizations and the Remaking of World Order
+Huntington, Samuel P.
+340	53	73.9	
+Manifesto of the Communist Party
+Marx, Karl, 1818-1883
+341	53	54.5	
+Two Treatises of Government
+Locke, John, 1632-1704
+342	53	71.8	
+On the Road
+Kerouac, Jack, 1922-1969
+343	53	95.4	
+Dialogues
+Plato
+344	53	10.1	
+The Populist Moment : A Short History of the Agrarian Revolt in America
+Goodwyn, Lawrence
+345	53	24.5	
+The Civil War
+Caesar, Julius
+346	53	94.5	
+The Tempest
+Shakespeare, William, 1564-1616
+347	53	13.1	
+Silencing the Past : Power and the Production of History
+Trouillot, Michel-Rolph
+348	53	13.4	
+Renaissance Florence
+Brucker, Gene A.
+349	53	13.2	
+The Problem of Slavery in the Age of Revolution, 1770-1823
+Davis, David Brion
+350	53	22.5	
+A Short Account of the Destruction of the Indies
+Casas, Bartolomé De Las, 1474-1566
+351	52	8.2	
+The Domestication of Politics: Women and American Political Society, 1780-1920
+Baker, Paula
+The American Historical Review
+352	52	13.9	
+National Security
+Leffler, Melvyn P.
+The Journal of American History
+353	52	73.2	
+The Art of War
+Tzu, Sun, Minford, John
+New England Review (1990-)
+354	52	26.4	
+Darkness at Noon
+Koestler, Arthur, 1905-1983
+355	52	74.0	
+The Great Transformation
+Polanyi, Karl, 1886-1964
+356	52	44.7	
+The Principles of Scientific Management
+Taylor, Frederick Winslow, 1856-1915
+357	52	13.6	
+Women of the Republic : Intellect and Ideology in Revolutionary America
+Kerber, Linda K.
+358	52	10.8	
+The End of Reform : New Deal Liberalism in Recession and War
+Brinkley, Alan
+359	52	13.5	
+Harlem Renaissance
+Huggins, Nathan Irvin, 1927-1989
+360	52	46.2	
+Institutes of the Christian Religion
+Calvin, Jean, 1509-1564
+361	52	12.2	
+The Slave Community : Plantation Life in the Antebellum South
+Blassingame, John W., 1940
+362	52	91.0	
+Crito
+Plato
+363	52	21.1	
+Born in Blood and Fire : A Concise History of Latin America
+Chasteen, John Charles, 1955
+364	52	33.4	
+The Scientific Revolution
+Shapin, Steven
+365	52	12.2	
+Over Here : The First World War and American Society
+Kennedy, David M.
+366	52	15.5	
+Into the Whirlwind
+Ginzburg, Evgenii︠a︡
+367	52	80.1	
+Robinson
+Defoe, Daniel, 1661?-1731
+368	51	23.1	
+The Guns of August
+Tuchman, Barbara Wertheim
+369	51	12.7	
+The Shame of the Cities
+Steffens, Lincoln, 1866-1936
+370	51	24.2	
+Sweetness and Power : The Place of Sugar in Modern History
+Mintz, Sidney Wilfred, 1922
+371	51	9.3	
+Origins of the New South, 1877-1913
+Woodward, C. Vann (Comer Vann), 1908-1999
+372	51	31.8	
+The Book of the City of Ladies
+Christine, De Pisan, Approximately 1364-Approximately 1431
+373	51	28.7	
+The Twelve Caesars
+Suetonius, Approximately 69-Approximately 122
+374	51	10.3	
+A Short History of the Middle Ages
+Rosenwein, Barbara H.
+375	50	84.2	
+Leaves of Grass
+Whitman, Walt, 1819-1892
+376	50	55.8	
+Sister Carrie
+Dreiser, Theodore, 1871-1945
+377	50	26.1	
+The Ecclesiastical History of the English People
+Bede, the Venerable, Saint, 673-735
+378	50	28.4	
+The Civilizing Process
+Elias, Norbert, 1897-1990
+379	50	9.6	
+Mickey Mouse History and Other Essays on American Memory
+Wallace, Mike, 1942
+380	50	79.5	
+Robinson Crusoe
+Defoe, Daniel, 1661?-1731
+381	50	11.0	
+Red, White, and Black : The Peoples of Early America
+Nash, Gary B.
+382	50	50.8	
+The Meditations
+Marcus Aurelius, Emperor of Rome, 121-180
+383	50	19.0	
+American History
+Wilson, Howard Eugene, 1901-1966
+384	50	9.8	
+Women at Work
+Dublin, Thomas, 1946
+385	50	14.5	
+The Uprooted
+Handlin, Oscar, 1915-2011
+386	50	11.3	
+The Devil in the Shape of a Woman : Witchcraft in Colonial New England
+Karlsen, Carol F., 1940
+387	50	19.9	
+The Persian Letters
+Montesquieu, Charles De Secondat, Baron De, 1689-1755
+388	50	9.2	
+The Promise of the New South Life After Reconstruction
+Ayers, Edward L., 1953
+389	50	8.8	
+The Refinement of America : Persons, Houses, Cities
+Bushman, Richard L.
+390	49	9.7	
+The Glorious Cause : The American Revolution, 1763-1789
+Middlekauff, Robert
+391	49	71.1	
+The Death and Life of Great American Cities
+Jacobs, Jane, 1916-2006
+392	49	14.6	
+French Revolution
+Furet, François, 1927-1997
+393	49	9.4	
+A Nation Under Our Feet : Black Political Struggles in the Rural South From Slavery to the Great Migration
+Hahn, Steven, 1951
+394	49	10.1	
+Abraham Lincoln and the Second American Revolution
+McPherson, James M.
+395	49	8.7	
+Forced Founders : Indians, Debtors, Slaves, and the Making of the American Revolution in Virginia
+Holton, Woody
+396	49	8.0	
+The Depression of the 1930s
+Herbert, H. W.
+The Australian Quarterly
+397	49	76.7	
+The Interpretation of Dreams
+Freud, Sigmund, 1856-1939
+398	49	10.2	
+Spreading the American Dream : American Economic and Cultural Expansion, 1890-1945
+Rosenberg, Emily S., 1944
+399	49	26.1	
+The Art of Courtly Love
+Andreas, Capellanus
+400	49	9.3	
+A History of the United States
+Miller, William, 1912
+401	49	9.3	
+Liberty, Equality, Power : A History of the American People
+Murrin, John M.
+402	49	9.7	
+The Age of Federalism
+Elkins, Stanley M.
+403	49	8.9	
+Eugene v. Debs : Citizen and Socialist
+Salvatore, Nick, 1943
+404	49	9.4	
+A Spirited Resistance : The North American Indian Struggle for Unity, 1745-1815
+Dowd, Gregory Evans
+405	49	8.2	
+Fighting for American Manhood : How Gender Politics Provoked the Spanish-American and Philippine-American Wars
+Hoganson, Kristin L.
+406	49	39.5	
+The Democratic Peace
+Russett, Bruce, Layne, Christopher, Spiro, David E., Doyle, Michael W.
+International Security
+407	48	10.4	
+Salem Possessed; The Social Origins of Witchcraft
+Boyer, Paul S.
+408	48	10.2	
+The Incorporation of America : Culture and Society in the Gilded Age
+Trachtenberg, Alan
+409	48	22.9	
+The Civilization of the Renaissance in Italy
+Burckhardt, Jacob, 1818-1897
+410	48	7.9	
+Standing at Armageddon : United States, 1877-1919
+Painter, Nell Irvin
+411	48	11.7	
+Manliness & Civilization : A Cultural History of Gender and Race in the United States, 1880-1917
+Bederman, Gail
+412	48	20.8	
+A History of the Modern World
+Palmer, R. R. (Robert Roswell), 1909-2002
+413	48	13.5	
+The American Revolution
+Countryman, Edward
+414	48	16.7	
+History in Practice
+Jordanova, L. J.
+415	48	11.2	
+Traditions & Encounters : A Global Perspective on the Past
+Bentley, Jerry H., 1949
+416	48	77.8	
+The Lexus and the Olive Tree
+Friedman, Thomas L.
+417	48	10.6	
+Historiography in the Twentieth Century
+Iggers, Georg G.
+History and Theory
+418	48	46.6	
+Timaeus
+Plato
+419	48	67.8	
+The Federalist Papers
+Hamilton, Alexander, 1757-1804
+420	48	11.6	
+The Female World of Love and Ritual: Relations Between Women in Nineteenth-Century America
+Smith-Rosenberg, Carroll
+Signs
+421	48	20.9	
+Time, Work-Discipline, and Industrial Capitalism
+Thompson, E. P.
+Past & Present
+422	48	19.9	
+The Great Crash, 1929
+Galbraith, John Kenneth, 1908-2006
+423	48	81.1	
+The German Ideology
+Marx, Karl, 1818-1883
+424	48	19.6	
+Capitalism & Slavery
+Williams, Eric Eustace, 1911-1981
+425	48	19.2	
+Religion and the Decline of Magic
+Thomas, Keith, 1933
+426	48	23.4	
+Two Treatises on Government
+Locke, John, 1632-1704
+427	48	13.9	
+Black Culture and Black Consciousness : Afro-American Folk Thought From Slavery to Freedom
+Levine, Lawrence W.
+428	48	52.9	
+The Coming Anarchy
+Kaplan, Robert D.
+World Policy Journal
+429	47	11.5	
+The Age of Reform : From Bryan to F.D.R
+Hofstadter, Richard, 1916-1970
+430	47	8.0	
+Civilities and Civil Rights : Greensboro, North Carolina, and the Black Struggle for Freedom
+Chafe, William Henry
+431	47	7.9	
+Europe in the Twentieth Century
+Paxton, Robert O.
+432	47	11.2	
+Awash in a Sea of Faith : Christianizing the American People
+Butler, Jon, 1940
+433	47	49.8	
+Herland
+Gilman, Charlotte Perkins, 1860-1935
+434	47	9.6	
+American Reformers, 1815-1860
+Walters, Ronald G.
+435	47	64.3	
+On Marx
+Engels, Friedrich, 1820-1895
+436	47	18.5	
+Burmese Days
+Orwell, George, 1903-1950
+437	47	10.2	
+American Foreign Relations : A History
+Paterson, Thomas G., 1941
+438	47	9.3	
+Slave Counterpoint : Black Culture in the Eighteenth-Century Chesapeake and Lowcountry
+Morgan, Philip D., 1949
+439	47	22.0	
+American Diplomacy
+Kennan, George F. (George Frost), 1904-2005
+440	47	11.1	
+Rivers of Empire : Water, Aridity, and the Growth of the American West
+Worster, Donald, 1941
+441	47	9.3	
+Mothers of Invention : Women of the Slaveholding South in the American Civil War
+Faust, Drew Gilpin
+442	47	33.0	
+John Wesley
+Powell, Jessie, Author
+443	47	48.5	
+The First World War
+Keegan, John, 1934
+444	47	14.5	
+The Imperialism of Free Trade
+Gallagher, John, Robinson, Ronald
+The Economic History Review
+445	47	13.0	
+Politics, Culture, and Class in the French Revolution
+Hunt, Lynn, 1945
+446	47	10.4	
+The Political Crisis of the 1850s
+Holt, Michael F. (Michael Fitzgibbon)
+447	47	15.3	
+The End of a War
+Read, Herbert Edward, Sir, 1893-1968
+448	47	8.5	
+From Reliable Sources : An Introduction to Historical Methods
+Howell, Martha C.
+449	47	12.2	
+Facing East From Indian Country : A Native History of Early America
+Richter, Daniel K.
+450	47	7.6	
+Eight Hours for What We Will : Workers and Leisure in an Industrial City, 1870-1920
+Rosenzweig, Roy
+451	47	7.5	
+The New Deal
+Bernstein, Barton J.
+The Review of Politics
+452	46	91.2	
+Medea
+Euripides
+453	46	9.2	
+V Was for Victory : Politics and American Culture During World War II
+Blum, John Morton, 1921
+454	46	80.3	
+An Essay Concerning Human Understanding
+Locke, John, 1632-1704
+455	46	70.2	
+The Subjection of Women
+Mill, John Stuart, 1806-1873
+456	46	10.4	
+Tom Paine and Revolutionary America
+Foner, Eric
+457	46	12.9	
+Historical Thinking and Other Unnatural Acts
+Wineburg, Sam
+The Phi Delta Kappan
+458	46	63.3	
+A Discourse on Inequality
+Rousseau, Jean-Jacques, 1712-1778
+459	46	18.1	
+The First World War
+Strachan, Hew
+460	46	11.1	
+The Movement and the Sixties
+Anderson, Terry H., 1946
+461	46	46.9	
+The Philosophy of History
+Hegel, Georg Wilhelm Friedrich, 1770-1831
+462	46	18.2	
+The Witch-Hunt in Early Modern Europe
+Levack, Brian P.
+463	46	16.4	
+Popular Culture in Early Modern Europe
+Burke, Peter, 1937
+464	46	33.6	
+State and Revolution
+Lenin, Vladimir Ilʹich, 1870-1924
+465	46	13.6	
+From Memory to Written Record, England, 1066-1307
+Clanchy, M. T.
+466	46	9.3	
+Liberty and Power : The Politics of Jacksonian America
+Watson, Harry L.
+467	46	21.4	
+A Modell of Christian Charity
+Winthrop, John, 1588-1649
+468	46	8.0	
+The Making of England, 55 B. C.-1399
+Hollister, C. Warren (Charles Warren), 1930
+469	46	18.9	
+The Destruction of the European Jews
+Hilberg, Raul, 1926-2007
+470	46	19.5	
+Errand Into the Wilderness
+Miller, Perry, 1905-1963
+471	46	12.1	
+Advertising the American Dream : Making Way for Modernity, 1920-1940
+Marchand, Roland
+472	46	55.3	
+A Vindication of the Rights of Women
+Wollstonecraft, Mary, 1759-1797
+473	46	16.8	
+The Russian Revolution 1899-1919
+Pipes, Richard
+474	46	13.0	
+Trouble in Mind : Black Southerners in the Age of Jim Crow
+Litwack, Leon F.
+475	45	46.5	
+The Origins of Totalitarianism
+Arendt, Hannah, 1906-1975
+476	45	16.1	
+In Struggle : SNCC and the Black Awakening of the 1960s
+Carson, Clayborne, 1944
+477	45	21.7	
+Parting the Waters : America in the King Years, 1954-63
+Branch, Taylor
+478	45	17.5	
+The Cambridge Illustrated History of China
+Ebrey, Patricia Buckley, 1947
+479	45	15.5	
+The Nazi Dictatorship : Problems and Perspectives of Interpretation
+Kershaw, Ian
+480	45	94.8	
+Beloved
+Morrison, Toni
+481	45	65.4	
+Iliad Odyssey
+Homer
+482	45	15.9	
+The Pity of War
+Ferguson, Niall
+483	45	16.4	
+Protecting Soldiers and Mothers : The Political Origins of Social Policy in the United States
+Skocpol, Theda
+484	45	23.8	
+The Trouble With Wilderness: Or, Getting Back to the Wrong Nature
+Cronon, William
+Environmental History
+485	45	24.7	
+On the Dignity of Man
+Pico Della Mirandola, Giovanni, 1463-1494
+486	45	9.8	
+Stories of Scottsboro
+Goodman, James, 1956
+487	45	10.4	
+Between Dignity and Despair : Jewish Life in Nazi Germany
+Kaplan, Marion A.
+488	44	33.2	
+Let Us Now Praise Famous Men
+Agee, James, 1909-1955
+489	44	13.5	
+The Cold War
+Hopkins, Michael F. (Michael Francis), 1953
+490	44	7.8	
+The Elusive Republic : Political Economy in Jeffersonian America
+McCoy, Drew R.
+491	44	13.4	
+When Harlem Was in Vogue
+Lewis, David L, 1936
+492	44	13.4	
+The Birth of the Republic, 1763-89
+Morgan, Edmund S. (Edmund Sears), 1916
+493	44	12.2	
+The Cold War : A New History
+Gaddis, John Lewis
+494	44	15.7	
+China : A New History
+Fairbank, John King, 1907-1991
+495	44	10.2	
+Historiography in the Twentieth Century : From Scientific Objectivity to the Postmodern Challenge
+Iggers, Georg G.
+496	44	23.2	
+The Power of the Powerless
+Havel, Václav, Wilson, Paul
+International Journal of Politics
+497	44	9.0	
+Cross-Cultural Trade in World History
+Curtin, Philip D.
+498	44	27.8	
+The Freedom of a Christian
+Luther, Martin, 1483-1546
+499	44	8.4	
+How to Study History
+Cantor, Norman F.
+500	44	15.4	
+War in European History
+Howard, Michael Eliot, 1922
+501	44	14.0	
+Rites of Spring : The Great War and the Birth of the Modern Age
+Eksteins, Modris
+502	44	92.0	
+Ways of Seeing
+Berger, John
+503	44	10.4	
+The Cold War : An International History
+Painter, David S.
+504	44	7.5	
+Promises to Keep : The United States Since World War II
+Boyer, Paul S.
+505	44	13.4	
+The War Against the Jews, 1933-1945
+Dawidowicz, Lucy S.
+506	44	17.5	
+The Holocaust in History
+Marrus, Michael Robert
+507	44	10.3	
+Making the Second Ghetto : Race and Housing in Chicago, 1940-1960
+Hirsch, Arnold R. (Arnold Richard), 1949
+508	44	77.1	
+Theogony
+Hesiod
+509	44	12.6	
+The United States and the Origins of the Cold War, 1941-1947
+Gaddis, John Lewis
+510	43	8.3	
+The Rise of Big Business, 1860-1910
+Porter, Glenn
+511	43	54.3	
+The Golden Ass
+Apuleius
+512	43	10.2	
+Within the Plantation Household : Black and White Women of the Old South
+Fox-Genovese, Elizabeth, 1941-2007
+513	43	21.9	
+An American Dilemma
+Myrdal, Gunnar, 1898-1987
+514	43	11.3	
+Slavery
+Elkins, Stanley M.
+515	43	11.1	
+Hammer and Hoe : Alabama Communists During the Great Depression
+Kelley, Robin D. G.
+516	43	25.6	
+The Economic Consequences of the Peace
+Keynes, John Maynard, 1883-1946
+517	43	16.1	
+The Feminization of American Culture
+Douglas, Ann, 1942
+518	43	14.8	
+A History of Medicine
+Major, Ralph Hermon, 1884
+519	43	8.2	
+1066 : The Year of the Conquest
+Howarth, David Armine, 1912-1991
+520	43	15.8	
+Women and Gender in Early Modern Europe
+Wiesner, Merry E., 1952
+521	43	23.8	
+Making Sex : Body and Gender From the Greeks to Freud
+Laqueur, Thomas Walter
+522	43	10.1	
+Atlantic Crossings : Social Politics in a Progressive Age
+Rodgers, Daniel T.
+523	43	17.7	
+The Transformation of American Law, 1780-1860
+Horwitz, Morton J., 1938
+524	43	12.7	
+Amusing the Million : Coney Island at the Turn of the Century
+Kasson, John F., 1944
+525	43	90.7	
+Brave New World
+Huxley, Aldous, 1894-1963
+526	43	13.5	
+A World History
+McNeill, William Hardy, 1917
+527	43	10.8	
+Zapata and the Mexican Revolution
+Womack, John, 1937
+528	43	74.6	
+Understanding Media
+McLuhan, Marshall, 1911-1980
+529	43	69.9	
+Lais
+Marie, De France, Active 12th Century
+530	43	19.7	
+Oration on the Dignity of Man
+Pico Della Mirandola, Giovanni, 1463-1494
+531	43	15.5	
+Christianity in the West, 1400-1700
+Bossy, John
+532	43	19.0	
+Virgin Land : The American West as Symbol and Myth
+Smith, Henry Nash
+533	43	23.8	
+Ecclesiastical History
+Eusebius, of Caesarea, Bishop of Caesarea, Approximately 260-Approximately 340
+534	43	14.0	
+Eisenhower
+Ambrose, Stephen E.
+535	43	9.0	
+First Peoples : A Documentary Survey of American Indian History
+Calloway, Colin G. (Colin Gordon), 1953
+536	43	80.5	
+Self Reliance
+Emerson, Ralph Waldo, 1803-1882
+537	43	11.5	
+The New South
+Grady, Henry Woodfin, 1850-1889
+538	42	7.3	
+Hitler and Nazi Germany : A History
+Spielvogel, Jackson J., 1939
+539	42	5.9	
+The Crucible of War : The Seven Years' War and the Fate of Empire in British North America, 1754-1766
+Anderson, Fred, 1949
+540	42	12.5	
+Journey Into the Whirlwind
+Ginzburg, Evgenii︠a︡
+541	42	9.0	
+Grand Expectations : The United States, 1945-1974
+Patterson, James T.
+542	42	72.9	
+Hypertext 2.0
+Landow, George P.
+543	42	9.6	
+A Short History of the French Revolution
+Popkin, Jeremy D., 1948
+544	42	37.8	
+Dispatches
+Herr, Michael
+545	42	15.8	
+The Making of the President--1964
+White, Theodore H. (Theodore Harold), 1915-1986
+546	42	13.9	
+Hitler : 1889-1936: Hubris
+Kershaw, Ian
+547	42	10.2	
+Magnetic Mountain : Stalinism as a Civilization
+Kotkin, Stephen
+548	42	8.2	
+Down by the Riverside : A South Carolina Slave Community
+Joyner, Charles W.
+549	42	20.4	
+Histories
+Thucydides
+550	42	59.7	
+Institutions, Institutional Change and Economic Performance
+North, Douglass Cecil
+551	42	15.7	
+Self-Help
+Smiles, Samuel, 1812-1904
+552	42	7.5	
+New Worlds for All : Indians, Europeans, and the Remaking of Early America
+Calloway, Colin G. (Colin Gordon), 1953
+553	42	11.0	
+Original Meanings : Politics and Ideas in the Making of the Constitution
+Rakove, Jack N., 1947
+554	42	16.1	
+First Inaugural Address
+Jefferson, Thomas
+Advocate of Peace Through Justice
+555	42	7.3	
+Cradle of the Middle Class : The Family in Oneida County, New York, 1790-1865
+Ryan, Mary P.
+556	42	12.9	
+Before European Hegemony : The World System A.D. 1250-1350
+Abu-Lughod, Janet L.
+557	42	10.1	
+Early Medieval Europe, 300-1000
+Collins, Roger, 1949
+558	42	26.0	
+John F. Kennedy
+King,, Martin Luther
+Transition
+559	41	70.8	
+The Clouds
+Aristophanes
+560	41	7.0	
+Southern Honor : Ethics and Behavior in the Old South
+Wyatt-Brown, Bertram, 1932
+561	41	5.7	
+The Indians' Old World: Native Americans and the Coming of Europeans
+Salisbury, Neal
+The William and Mary Quarterly
+562	41	14.5	
+A History of Fascism, 1914-1945
+Payne, Stanley G.
+563	41	9.9	
+The Nazi Seizure of Power : The Experience of a Single German Town, 1922-1945
+Allen, William Sheridan
+564	41	8.2	
+The Confederate War
+Gallagher, Gary W.
+565	41	9.2	
+The Family Romance of the French Revolution
+Hunt, Lynn, 1945
+566	41	7.0	
+The Great Migration
+Trotter,, Joe William
+OAH Magazine of History
+567	41	6.1	
+Nothing but Freedom : Emancipation and Its Legacy
+Foner, Eric
+568	41	21.1	
+Nero
+Suetonius, Approximately 69-Approximately 122
+569	41	7.0	
+Creating a Female Dominion in American Reform, 1890-1935
+Muncy, Robyn
+570	41	9.3	
+Germans Into Nazis
+Fritzsche, Peter, 1959
+571	41	22.5	
+The Affluent Society
+Galbraith, John Kenneth, 1908-2006
+572	41	45.1	
+An Essay on the Principle of Population
+Malthus, T. R. (Thomas Robert), 1766-1834
+573	41	45.5	
+On the Social Contract
+Rousseau, Jean-Jacques, 1712-1778
+574	41	7.9	
+The Concise History of the Crusades
+Madden, Thomas F.
+575	41	40.6	
+National Security
+York, Herbert F.
+Science
+576	40	19.9	
+A History of Islamic Societies
+Lapidus, Ira M. (Ira Marvin)
+577	40	30.1	
+New Atlantis
+Bacon, Francis, 1561-1626
+578	40	68.9	
+Native Son
+Wright, Richard, 1908-1960
+579	40	7.5	
+Out to Work : A History of Wage-Earning Women in the United States
+Kessler-Harris, Alice
+580	40	22.0	
+Palestine and the Arab-Israeli Conflict
+Smith, Charles D., 1936
+581	40	13.4	
+The Fifties
+Halberstam, David
+582	40	8.2	
+In Defense of History
+Evans, Richard J.
+583	40	10.7	
+The Moral Economy of the English Crowd in the Eighteenth Century
+Thompson, E. P.
+Past & Present
+584	40	15.3	
+Feudal Society
+Bloch, Marc Léopold Benjamin, 1886-1944
+585	40	47.0	
+Marx
+McLellan, David
+586	40	6.9	
+Captives & Cousins : Slavery, Kinship, and Community in the Southwest Borderlands
+Brooks, James, 1955
+587	40	84.8	
+The Oresteia
+Aeschylus
+588	40	10.7	
+The Influence of Sea Power Upon History, 1660-1783
+Mahan, A. T. (Alfred Thayer), 1840-1914
+589	40	25.4	
+How Europe Underdeveloped Africa
+Rodney, Walter
+590	40	6.6	
+The Free Women of Petersburg : Status and Culture in a Southern Town, 1784-1860
+Lebsock, Suzanne
+591	40	11.3	
+Origins of the French Revolution
+Doyle, William, 1942
+592	40	7.8	
+A Revolutionary People at War : The Continental Army and American Character, 1775-1783
+Royster, Charles
+593	40	13.4	
+Re-Thinking History
+Jenkins, Keith, 1943
+594	40	7.0	
+Southern Cross : The Beginnings of the Bible Belt
+Heyrman, Christine Leigh
+595	40	12.1	
+The Black Death
+Ziegler, Philip
+596	40	16.3	
+Christian Liberty
+Luther, Martin, 1483-1546
+597	40	8.3	
+Two Lives of Charlemagne
+Einhard, Approximately 770-840
+598	40	8.5	
+Japan at War : An Oral History
+Cook, Haruko Taya
+599	40	39.4	
+Deep Play: Notes on the Balinese Cockfight
+Geertz, Clifford
+Daedalus
+600	39	37.6	
+Essence of Decision; Explaining the Cuban Missile Crisis
+Allison, Graham T.
+601	39	20.0	
+The Culture of Time and Space 1880-1918
+Kern, Stephen
+602	39	7.8	
+American Crucible : Race and Nation in the Twentieth Century
+Gerstle, Gary, 1954
+603	39	65.7	
+Capitalism and Freedom
+Friedman, Milton, 1912-2006
+604	39	7.0	
+Women at Work : The Transformation of Work and Community in Lowell, Massachusetts, 1826-1860
+Dublin, Thomas, 1946
+605	39	32.1	
+Commentaries on the Laws of England
+Blackstone, William, 1723-1780
+606	39	26.4	
+The World in Depression, 1929-1939
+Kindleberger, Charles Poor, 1910
+607	39	11.6	
+East Asia : A New History
+Murphey, Rhoads, 1919
+608	39	13.1	
+Doing Oral History
+Ritchie, Donald A., 1945
+609	39	17.2	
+Magna Carta
+England
+610	39	27.5	
+The Jewish War
+Josephus, Flavius
+611	39	12.5	
+The Alexiad
+Comnena, Anna, 1083
+612	39	8.0	
+Days of Hope : Race and Democracy in the New Deal Era
+Sullivan, Patricia
+613	39	13.1	
+A History of the American People
+Johnson, Paul, 1928
+614	39	6.0	
+Struggles for Justice : Social Responsibility and the Liberal State
+Dawley, Alan, 1943-2008
+615	39	9.6	
+A Concise History of India
+Metcalf, Barbara Daly, 1941
+616	39	7.1	
+War and Culture: The Iroquois Experience
+Richter, Daniel K.
+The William and Mary Quarterly
+617	39	11.7	
+America Divided : The Civil War of the 1960s
+Isserman, Maurice
+618	39	9.6	
+Warren G. Harding
+Coolidge, Calvin
+The Journal of Education
+619	39	15.4	
+A Bright Shining Lie : John Paul Vann and America in Vietnam
+Sheehan, Neil
+620	39	8.0	
+Revolutionizing the Sciences : European Knowledge and Its Ambitions, 1500-1700
+Dear, Peter, 1958
+621	39	7.1	
+Behind the Mask of Chivalry : The Making of the Second Ku Klux Klan
+MacLean, Nancy
+622	39	19.4	
+City of Dreadful Delight : Narratives of Sexual Danger in Late-Victorian London
+Walkowitz, Judith R.
+623	39	18.5	
+The Russian Revolution
+Trotsky, Leon, 1879-1940
+624	38	30.3	
+The Tale of Genji
+Murasaki Shikibu, 978
+625	38	31.5	
+Latin America
+James, Preston E. (Preston Everett), 1899-1986
+626	38	15.7	
+Bury My Heart at Wounded Knee : An Indian History of the American West
+Brown, Dee Alexander
+627	38	7.3	
+Under the Cope of Heaven : Religion, Society, and Politics in Colonial America
+Bonomi, Patricia U.
+628	38	14.8	
+Goodbye to All That
+Graves, Robert, 1895-1985
+629	38	11.2	
+The French Revolution
+Jones, R. Ben
+630	38	7.4	
+The Korean War
+Hastings, Max
+631	38	13.8	
+The French Revolution
+Lefebvre, Georges, 1874-1959
+632	38	22.9	
+The Disuniting of America
+Schlesinger, Arthur M. (Arthur Meier), 1917-2007
+633	38	10.1	
+The Ecological Indian : Myth and History
+Krech, Shepard, 1944
+634	38	20.5	
+British Imperialism, 1688-2000
+Cain, P. J., 1941
+635	38	6.4	
+Baubles of Britain": The American and Consumer Revolutions of the Eighteenth Century
+Breen, T. H.
+Past & Present
+636	38	8.3	
+Woodrow Wilson and the Progressive Era, 1910-1917
+Link, Arthur Stanley
+637	38	94.3	
+Huckleberry Finn
+Twain, Mark, 1835-1910
+638	38	20.4	
+The Organization Man
+Whyte, William Hollingsworth
+639	38	6.9	
+Making America Corporate, 1870-1920
+Zunz, Olivier
+640	38	5.4	
+Ronald Reagan and the Triumph of American Conservatism
+Tygiel, Jules
+641	38	8.8	
+Crime and Punishment in American History
+Friedman, Lawrence Meir, 1930
+642	38	55.3	
+Institutional and Economic Change
+North, Douglass Cecil
+643	38	9.4	
+Abraham Lincoln
+Brown, John Henry, 1818-1891, Artist
+644	38	17.3	
+The Great Divergence : China, Europe, and the Making of the Modern World Economy
+Pomeranz, Kenneth
+645	38	9.9	
+The Landscape of History : How Historians Map the Past
+Gaddis, John Lewis
+646	38	76.4	
+The Culture Industry
+Adorno, T. W., Cook, Rafael
+Cinéaste
+647	38	52.7	
+The Red Badge of Courage
+Crane, Stephen, 1871-1900
+648	38	33.6	
+Perception and Misperception in International Politics
+Jervis, Robert, 1940
+649	38	11.6	
+The Military Revolution : Military Innovation and the Rise of the West, 1500-1800
+Parker, Geoffrey, 1943
+650	38	15.9	
+The Agricola; And the Germania
+Tacitus, Cornelius
+651	38	12.2	
+Race Rebels : Culture, Politics, and the Black Working Class
+Kelley, Robin D. G.
+652	38	22.0	
+The Black Jacobins
+James, C. L. R. (Cyril Lionel Robert), 1901-1989
+653	38	18.2	
+Simple Justice
+Kluger, Richard
+654	37	80.6	
+Faust
+Goethe, Johann Wolfgang Von, 1749-1832
+655	37	98.9	
+Hamlet
+Shakespeare, William, 1564-1616
+656	37	25.4	
+The Death of Nature : Women, Ecology, and the Scientific Revolution
+Merchant, Carolyn
+657	37	14.0	
+ReOrient : Global Economy in the Asian Age
+Frank, Andre Gunder, 1929
+658	37	9.3	
+Worldly Goods
+Jardine, Lisa
+659	37	23.7	
+The Collective Memory
+Halbwachs, Maurice, 1877-1945
+660	37	39.9	
+Cooperation Under the Security Dilemma
+Jervis, Robert, 1940
+661	37	9.3	
+Daring to Be Bad : Radical Feminism in America, 1967-1975
+Echols, Alice
+662	37	7.8	
+Western Europe in the Middle Ages, 300-1475
+Tierney, Brian
+663	37	15.5	
+Where the Girls Are : Growing Up Female With the Mass Media
+Douglas, Susan J. (Susan Jeanne), 1950
+664	37	6.9	
+Gender and History
+Smith, Stephanie A.
+NOVEL: A Forum on Fiction
+665	37	7.5	
+The Varieties of History : From Voltaire to the Present
+Stern, Fritz Richard, 1926
+666	37	7.9	
+A Little Commonwealth; Family Life in Plymouth Colony
+Demos, John
+667	37	7.1	
+A History of Modern France
+Popkin, Jeremy D., 1948
+668	37	64.7	
+A Passage to India
+Forster, E. M. (Edward Morgan), 1879-1970
+669	37	8.7	
+With the Old Breed, at Peleliu and Okinawa
+Sledge, E. B. (Eugene Bondurant), 1923
+670	37	93.4	
+The Tragedy of the Commons
+Hardin, Garrett James, 1915-2003
+671	37	13.1	
+The Old Regime and the Revolution
+Tocqueville, Alexis De, 1805-1859
+672	37	7.4	
+Debating the Civil Rights Movement, 1945-1968
+Lawson, Steven F., 1945
+673	37	7.6	
+Environmental Inequalities : Class, Race, and Industrial Pollution in Gary, Indiana, 1945-1980
+Hurley, Andrew, 1961
+674	37	13.5	
+The Unfinished Journey : America Since World War II
+Chafe, William Henry
+675	37	10.7	
+Slave Religion : The "Invisible Institution" in the Antebellum South
+Raboteau, Albert J.
+676	37	41.3	
+The New Negro
+Locke, Alain LeRoy, 1886-1954
+677	37	8.0	
+The Confederate Nation, 1861-1865
+Thomas, Emory M., 1939
+678	37	9.9	
+Historiography : Ancient, Medieval, & Modern
+Breisach, Ernst
+679	37	8.5	
+The Cultural Origins of the French Revolution
+Chartier, Roger, 1945
+680	37	18.1	
+The Metaphysical Club
+Menand, Louis
+681	37	8.9	
+To End All Wars : Woodrow Wilson and the Quest for a New World Order
+Knock, Thomas J.
+682	37	39.6	
+Twentieth Century
+Martin, Emily, Frelinghuysen, Alice Cooney, Aldin, Jane, Messinger, Lisa M., Rewald, Sabine, Tinterow, Gary, Stein, Susan Alyson, Voorsanger, Catherine Hoover, Johnson, J. Stewart, LeCorbeiller, Clare, Eklund, Douglas, Muir, Laura, Rosenthal, Nan, Rippner, Samantha J., Rosenheim, Jeff L., Daniel, Malcolm
+The Metropolitan Museum of Art Bulletin
+683	36	60.4	
+Oliver Twist
+Dickens, Charles, 1812-1870
+684	36	10.4	
+The Cholera Years : The United States in 1832, 1849, and 1866
+Rosenberg, Charles E.
+685	36	67.6	
+The Evolution of Cooperation
+Axelrod, Robert M.
+686	36	82.3	
+Nature
+Emerson, Ralph Waldo, 1803-1882
+687	36	66.5	
+Of Plymouth Plantation, 1620-1647
+Bradford, William, 1588-1657
+688	36	48.5	
+Culture and Society, 1780-1950
+Williams, Raymond
+689	36	11.3	
+The American Century
+Luce, Henry Robinson, 1898-1967
+690	36	15.5	
+The Germania and Agricola
+Tacitus, Cornelius
+691	36	7.3	
+The Ancient World : A Social and Cultural History
+Nagle, D. Brendan, 1936
+692	36	9.9	
+Ideologies of the Raj
+Metcalf, Thomas R., 1934
+693	36	10.6	
+Building a New American State : The Expansion of National Administrative Capacities, 1877-1920
+Skowronek, Stephen
+694	36	6.0	
+The Origins of the Republican Party, 1852-1856
+Gienapp, William E.
+695	36	10.2	
+The Puritan Dilemma : The Story of John Winthrop
+Morgan, Edmund S. (Edmund Sears), 1916
+696	36	9.3	
+The New Nationalism
+Roosevelt, Theodore, 1858-1919
+697	36	18.1	
+The Second World War
+Churchill, Winston, 1874-1965
+698	36	32.5	
+The Imitation of Christ]
+Thomas, à Kempis, 1380-1471
+699	36	8.7	
+Franklin D. Roosevelt and American Foreign Policy, 1932-1945
+Dallek, Robert
+700	36	12.2	
+A History of the Holocaust
+Bauer, Yehuda
+701	36	8.4	
+A History of Asia
+Murphey, Rhoads, 1919
+702	36	11.8	
+The Black Death and the Transformation of the West
+Herlihy, David
+703	36	11.1	
+A Preponderance of Power : National Security, the Truman Administration, and the Cold War
+Leffler, Melvyn P., 1945
+704	36	11.5	
+The Holocaust in American Life
+Novick, Peter, 1934-2012
+705	36	10.4	
+The Roman Empire
+Wells, C. M. (Colin Michael)
+706	36	7.5	
+The New Empire: An Interpretation of American Expansion, 1860-L898
+LaFeber, Walter
+707	36	33.4	
+The Age of Reason
+Paine, Thomas, 1737-1809
+708	36	7.6	
+The World They Made Together : Black and White Values in Eighteenth-Century Virginia
+Sobel, Mechal
+709	36	7.4	
+German History, 1770-1866
+Sheehan, James J.
+710	36	5.6	
+On the Corner
+Lee, Daphne
+711	36	16.9	
+The Reformation
+MacCulloch, Diarmaid
+712	36	9.3	
+Sojourner Truth : A Life, a Symbol
+Painter, Nell Irvin
+713	36	5.5	
+A Brief and True Report of the New Found Land of Virginia
+Hariot, Thomas, 1560-1621
+714	36	15.9	
+American Fiction [1774-1850]
+Wright, Lyle Henry, 1903
+715	36	34.4	
+Middle East
+Lewis, Bernard, 1916
+716	36	5.1	
+Republicanism: The Career of a Concept
+Rodgers, Daniel T.
+The Journal of American History
+717	36	55.5	
+The Road to Serfdom
+Hayek, Friedrich A. Von (Friedrich August), 1899-1992
+718	36	8.5	
+A History of England
+Roberts, Clayton
+719	36	10.7	
+The Rise of the Roman Empire
+Polybius
+720	36	23.8	
+Main Street
+Lewis, Sinclair, 1885-1951
+721	36	93.4	
+The Awakening
+Chopin, Kate, 1850-1904
+722	36	11.0	
+The Coming of the French Revolution, 1789
+Lefebvre, Georges, 1874-1959
+723	36	99.4	
+Ethics
+Aristotle
+724	36	5.5	
+The Shoemaker and the Tea Party : Memory and the American Revolution
+Young, Alfred Fabian, 1925
+725	36	5.1	
+Taking the Trade: Abortion and Gender Relations in an Eighteenth-Century New England Village
+Dayton, Cornelia Hughes
+The William and Mary Quarterly
+726	35	11.2	
+The Nature of History
+Marwick, Arthur, 1936-2006
+727	35	13.2	
+Nisei Daughter
+Sone, Monica Itoi, 1919
+728	35	79.5	
+Ceremony
+Silko, Leslie, 1948
+729	35	13.5	
+Twentieth Century
+Johnson, J. Stewart, Davis, Elliot Bostwick, Rewald, Sabine, Loveman, Jennifer A., Weinberg, H. Barbara, Messinger, Lisa M., Sims, Lowery S., Rosenthal, Nan, Rosenheim, Jeff L., Hambourg, Maria Morris
+The Metropolitan Museum of Art Bulletin
+730	35	34.4	
+The Stages of Economic Growth
+Rostow, W. W.
+The Economic History Review
+731	35	24.7	
+The Age of Empire, 1875-1914
+Hobsbawm, E. J., (Eric J.,), 1917
+732	35	12.1	
+The Age of Jackson
+Schlesinger, Arthur M. (Arthur Meier), 1917-2007
+733	35	12.6	
+Social Darwinism in American Thought
+Hofstadter, Richard, 1916-1970
+734	35	19.4	
+Rise to Globalism : American Foreign Policy, 1938-1976
+Ambrose, Stephen E.
+735	35	22.7	
+The Cold War, 1945-1965
+Smith, Joseph, 1945
+736	35	15.8	
+10 Days That Shook the World
+Reed, John, 1887-1920
+737	35	13.8	
+Solitude of Self
+Stanton, Elizabeth Cady, 1815-1902
+738	35	5.1	
+Crabgrass-Roots Politics: Race, Rights, and the Reaction Against Liberalism in the Urban North, 1940-1964
+Sugrue, Thomas J.
+The Journal of American History
+739	35	49.2	
+Reading and Writing
+Field, Rachel
+ALA Bulletin
+740	35	6.6	
+Tobacco and Slaves : The Development of Southern Cultures in the Chesapeake, 1680-1800
+Kulikoff, Allan
+741	35	6.0	
+From the Old Diplomacy to the New, 1865-1900
+Beisner, Robert L.
+742	35	7.9	
+Germany and the Approach of War in 1914
+Berghahn, Volker Rolf
+743	35	21.9	
+The Causes of War
+Blainey, Geoffrey
+744	35	29.9	
+The Twentieth Century
+Brown, Gerald Griffiths
+745	35	11.6	
+Modern Europe
+Thomas, Harrison Cook, 1888-1969
+746	35	6.8	
+From George Wallace to Newt Gingrich : Race in the Conservative Counterrevolution, 1963-1994
+Carter, Dan T.
+747	35	29.7	
+Rationalist Explanations for War
+Fearon, James D.
+International Organization
+748	35	54.6	
+A Tale of Two Cities
+Dickens, Charles, 1812-1870
+749	35	60.9	
+The Mismeasure of Man
+Gould, Stephen Jay
+750	35	6.5	
+Eisenhower and the Cold War
+Divine, Robert A.
+751	35	6.0	
+Radical Visions and American Dreams : Culture and Social Thought in the Depression Years
+Pells, Richard H.
+752	35	13.4	
+The Foundations of Early Modern Europe, 1460-1559
+Rice, Eugene F.
+753	35	39.9	
+Karl Marx
+McLellan, David
+754	35	7.4	
+Law, Sex, and Christian Society in Medieval Europe
+Brundage, James A.
+755	35	5.5	
+New Deals : Business, Labor, and Politics in America, 1920-1935
+Gordon, Colin, 1962
+756	35	7.4	
+A Square Deal
+Roosevelt, Theodore, 1858-1919
+757	35	11.1	
+American Scripture : Making the Declaration of Independence
+Maier, Pauline, 1938
+758	35	37.2	
+The End of History and the Last Man
+Fukuyama, Francis
+759	35	49.0	
+Diplomacy and Domestic Politics: The Logic of Two-Level Games
+Putnam, Robert D.
+International Organization
+760	35	7.1	
+The Modern Temper : American Culture and Society in the 1920s
+Dumenil, Lynn, 1950
+761	35	86.6	
+Great Expectations
+Dickens, Charles, 1812-1870
+762	35	9.7	
+Nixon
+Ambrose, Stephen E.
+763	35	21.7	
+The Electric Kool-Aid Acid Test
+Wolfe, Tom
+764	35	6.4	
+The New Deal
+Conkin, Paul Keith
+765	35	25.0	
+Islam : The Straight Path
+Esposito, John L.
+766	35	17.7	
+Selected Works
+Mao, Zedong, 1893-1976
+767	35	5.1	
+White Women, Black Men : Illicit Sex in the Nineteenth-Century South
+Hodes, Martha Elizabeth
+768	35	9.8	
+Many Are the Crimes : McCarthyism in America
+Schrecker, Ellen
+769	34	16.1	
+The Promised Land
+Antin, Mary, 1881-1949
+770	34	6.9	
+Roosevelt, the Lion and the Fox
+Burns, James MacGregor
+771	34	10.8	
+Memoirs
+Kennan, George F. (George Frost), 1904-2005
+772	34	6.6	
+The Reshaping of Everyday Life, 1790-1840
+Larkin, Jack, 1943
+773	34	8.9	
+Reconstruction
+Douglass, Frederick, 1818-1895
+774	34	10.4	
+A World at Arms : A Global History of World War II
+Weinberg, Gerhard L.
+775	34	7.4	
+American Sphinx : The Character of Thomas Jefferson
+Ellis, Joseph J.
+776	34	7.6	
+Magic Lands : Western Cityscapes and American Culture After 1940
+Findlay, John M., 1955
+777	34	6.6	
+Roots of Reform : Farmers, Workers, and the American State, 1877-1917
+Sanders, Elizabeth
+778	34	47.4	
+The Plague
+Camus, Albert, 1913-1960
+779	34	6.2	
+The Road to Disunion
+Freehling, William W., 1935
+780	34	66.4	
+Empire
+Hardt, Michael
+781	34	7.8	
+Under Fire
+Barbusse, Henri, 1873-1935
+782	34	5.5	
+The Long Bitter Trail : Andrew Jackson and the Indians
+Wallace, Anthony F. C., 1923
+783	34	12.2	
+History and Social Theory
+Burke, Peter, 1937
+784	34	50.6	
+Prison Notebooks
+Gramsci, Antonio, 1891-1937
+785	34	8.5	
+Eyewitnessing : The Uses of Images as Historical Evidence
+Burke, Peter, 1937
+786	34	25.7	
+Catalogue]
+British Museum
+787	34	7.0	
+Taking Haiti : Military Occupation and the Culture of U.S. Imperialism, 1915-1940
+Renda, Mary A.
+788	34	9.4	
+History : A Very Short Introduction
+Arnold, John, 1969
+789	34	91.5	
+Pride & Prejudice
+Austen, Jane, 1775-1817
+790	34	18.6	
+The Family, Sex and Marriage in England, 1500-1800
+Stone, Lawrence
+791	34	10.6	
+A History of Zionism
+Laqueur, Walter, 1921
+792	34	11.7	
+Medieval Women
+Power, Eileen Edna, 1889-1940
+793	34	36.7	
+Charlotte Temple
+Rowson, Mrs., 1762-1824
+794	34	8.9	
+Women and Men on the Overland Trail
+Faragher, John Mack, 1945
+795	34	8.4	
+Good Wives : Image and Reality in the Lives of Women in Northern New England, 1650-1750
+Ulrich, Laurel Thatcher, 1938
+796	34	64.3	
+Postmodernism, Or, the Cultural Logic of Late Capitalism
+Jameson, Fredric
+797	34	7.4	
+Exchanging Our Country Marks : The Transformation of African Identities in the Colonial and Antebellum South
+Gomez, Michael Angelo, 1955
+798	34	6.8	
+The End of the British Empire : The Historical Debate
+Darwin, John
+799	34	38.6	
+The Will to Believe
+James, William, 1842-1910
+800	34	6.2	
+The Invasion Within : The Contest of Cultures in Colonial North America
+Axtell, James
+801	34	85.6	
+Dracula
+Stoker, Bram, 1847-1912
+802	34	7.9	
+Pursuits of Happiness : The Social Development of Early Modern British Colonies and the Formation of American Culture
+Greene, Jack P.
+803	34	13.1	
+House Divided" Speech
+Lincoln, Abraham, 1809-1865
+804	34	11.5	
+Modern South Asia : History, Culture, Political Economy
+Bose, Sugata, 1956
+805	34	32.4	
+The Fire Next Time
+Baldwin, James, 1924-1987
+806	34	9.7	
+Inside Nazi Germany : Conformity, Opposition, and Racism in Everyday Life
+Peukert, Detlev
+807	34	28.3	
+Abraham Lincoln
+Thomas, Benjamin Platt, 1902-1956
+808	34	5.5	
+In the Midst of Perpetual Fetes : The Making of American Nationalism, 1776-1820
+Waldstreicher, David
+809	34	8.5	
+The Age of McCarthyism : A Brief History With Documents
+Schrecker, Ellen
+810	34	40.0	
+Liberalism and World Politics
+Doyle, Michael W.
+The American Political Science Review
+811	33	10.8	
+Hard Times; An Oral History of the Great Depression
+Terkel, Studs, 1912-2008
+812	33	17.2	
+The Histories
+Polybius
+813	33	9.4	
+Holy Feast and Holy Fast : The Religious Significance of Food to Medieval Women
+Bynum, Caroline Walker
+814	33	36.7	
+The Political Economy of International Relations
+Gilpin, Robert
+815	33	56.9	
+The Practice of Everyday Life
+Certeau, Michel De
+816	33	43.8	
+The Frogs
+Aristophanes
+817	33	23.4	
+American Law
+Friedman, Lawrence Meir, 1930
+818	33	70.3	
+The Apology and Crito
+Plato
+819	33	67.4	
+The Unconscious
+Freud, Sigmund, 1856-1939
+820	33	14.8	
+Embracing Defeat : Japan in the Wake of World War II
+Dower, John W.
+821	33	9.9	
+Toleration
+Voltaire, 1694-1778
+822	33	55.8	
+Illuminations
+Benjamin, Walter, 1892-1940
+823	33	12.7	
+Western Society and the Church in the Middle Ages
+Southern, R. W. (Richard William), 1912
+824	33	23.9	
+The Drowned and the Saved
+Levi, Primo
+825	33	19.4	
+Strangers From a Different Shore : A History of Asian Americans
+Takaki, Ronald T., 1939
+826	33	83.9	
+Globalization and Its Discontents
+Stiglitz, Joseph E.
+827	33	17.2	
+The Doctrine of Fascism
+Mussolini, Benito, 1883-1945
+828	33	6.0	
+Becoming America : The Revolution Before 1776
+Butler, Jon, 1940
+829	33	92.1	
+Metamorphoses
+Ovid, 43 B.C.-17 A.D. Or 18 A.D
+830	33	8.3	
+The Transplanted : A History of Immigrants in Urban America
+Bodnar, John E., 1944
+831	33	11.0	
+The Course of Mexican History
+Meyer, Michael C.
+832	33	6.4	
+The Era of Reconstruction, 1865-1877
+Stampp, Kenneth M. (Kenneth Milton)
+833	33	12.6	
+The Old World and the New 1492-1650
+Elliott, John Huxtable
+834	33	27.8	
+Covenant
+League of Nations
+835	33	23.9	
+The Ethnic Origins of Nations
+Smith, Anthony D.
+836	33	11.5	
+Urban Masses and Moral Order in America, 1820-1920
+Boyer, Paul S.
+837	33	9.3	
+The Death and Rebirth of the Seneca
+Wallace, Anthony F. C., 1923
+838	33	7.8	
+This Realm of England, 1399-1688
+Smith, Lacey Baldwin, 1922
+839	33	12.5	
+The New England Mind
+Miller, Perry, 1905-1963
+840	33	7.5	
+Montaillou : The Promised Land of Error
+Le Roy Ladurie, Emmanuel
+841	33	7.6	
+The "Hitler Myth" : Image and Reality in the Third Reich
+Kershaw, Ian
+842	33	5.4	
+Rehearsal for Reconstruction : The Port Royal Experiment
+Rose, Willie Lee Nichols, 1927
+843	33	14.1	
+John Adams
+Smith, Page
+844	33	35.9	
+A Different Mirror : A History of Multicultural America
+Takaki, Ronald T., 1939-2009
+845	32	7.3	
+From Slavery to Freedom : A History of African Americans
+Franklin, John Hope, 1915-2009
+846	32	8.9	
+The Origins of the Korean War
+Cumings, Bruce, 1943
+847	32	22.8	
+My Bondage and My Freedom
+Douglass, Frederick, 1818-1895
+848	32	5.2	
+Texas, the Lone Star State
+Richardson, Rupert Norval, 1891
+849	32	8.7	
+The Problem of Slavery in Western Culture
+Davis, David Brion
+850	32	6.6	
+The Civil Rights Era : Origins and Development of National Policy, 1960-1972
+Graham, Hugh Davis
+851	32	13.0	
+The American Spirit
+Bailey, Thomas Andrew, 1902- Ed
+852	32	17.1	
+The Labyrinth of Solitude
+Paz, Octavio, 1914-1998
+853	32	35.9	
+Maggie, a Girl of the Streets
+Crane, Stephen, 1871-1900
+854	32	9.9	
+The Industrial Revolution, 1760-1830
+Ashton, T. S. (Thomas Southcliffe)
+855	32	31.2	
+The Quiet American
+Greene, Graham, 1904-1991
+856	32	16.7	
+Cadillac Desert : The American West and Its Disappearing Water
+Reisner, Marc
+857	32	6.8	
+Counter Cultures : Saleswomen, Managers, and Customers in American Department Stores, 1890-1940
+Benson, Susan Porter, 1943
+858	32	7.4	
+The Commercial Revolution of the Middle Ages, 950-1350
+Lopez, Robert Sabatino, 1910
+859	32	5.2	
+The Roots of Rural Capitalism : Western Massachusetts, 1780-1860
+Clark, Christopher, 1953
+860	32	11.3	
+The Oxford History of the French Revolution
+Doyle, William, 1942
+861	32	10.2	
+Neighbors : The Destruction of the Jewish Community in Jedwabne, Poland
+Gross, Jan Tomasz
+862	32	44.2	
+Making Democracy Work : Civic Traditions in Modern Italy
+Putnam, Robert D.
+863	32	91.8	
+Invisible Man
+Ellison, Ralph
+864	32	87.4	
+The Waste Land
+Eliot, T. S. (Thomas Stearns), 1888-1965
+865	32	8.7	
+Eagle Against the Sun : The American War With Japan
+Spector, Ronald H., 1943
+866	32	8.4	
+Novus Ordo Seclorum : The Intellectual Origins of the Constitution
+McDonald, Forrest
+867	32	7.8	
+No Place of Grace : Antimodernism and the Transformation of American Culture, 1880-1920
+Lears, T. J. Jackson, 1947
+868	32	21.5	
+The Histories
+Tacitus, Cornelius
+869	32	10.8	
+The Making of Modern Japan
+Pyle, Kenneth B.
+870	32	7.8	
+Ordeal by Fire : The Civil War and Reconstruction
+McPherson, James M.
+871	32	52.2	
+Nervous Conditions
+Dangarembga, Tsitsi
+872	32	11.8	
+Time Passages : Collective Memory and American Popular Culture
+Lipsitz, George
+873	32	5.1	
+The Golden Key
+MacDonald, George, 1824-1905
+874	32	13.0	
+The Conquest of Cool : Business Culture, Counterculture, and the Rise of Hip Consumerism
+Frank, Thomas (Thomas C.)
+875	32	10.8	
+World Civilizations : The Global Experience
+Stearns, Peter N.
+876	32	20.1	
+The History of the World
+Roberts, J. M. (John Morris), 1928-2003
+877	32	6.8	
+Indians and English : Facing Off in Early America
+Kupperman, Karen Ordahl, 1939
+878	32	11.3	
+The European Reformations
+Lindberg, Carter, 1937
+879	32	15.3	
+Ten Days That Shook the World
+Reed, John, 1887-1920
+880	32	16.9	
+The Annals of Imperial Rome
+Tacitus, Cornelius
+881	32	39.2	
+Political Order in Changing Societies
+Huntington, Samuel P.
+882	32	7.1	
+Imperial Germany and the Great War, 1914-1918
+Chickering, Roger, 1942
+883	32	7.3	
+The Treaty
+Paris Peace Conference (1919-1920)
+884	32	8.0	
+The Soviet Experiment : Russia, the USSR, and the Successor States
+Suny, Ronald Grigor
+885	32	5.6	
+Damned Women : Sinners and Witches in Puritan New England
+Reis, Elizabeth (Elizabeth Sarah)
+886	32	4.6	
+Into the American Woods : Negotiators on the Pennsylvania Frontier
+Merrell, James Hart, 1953
+887	32	8.5	
+The Weimar Republic : The Crisis of Classical Modernity
+Peukert, Detlev
+888	32	6.5	
+Vietnam and the Transformation of American Life
+Buzzanco, Robert
+889	32	16.4	
+The Enlightenment
+Outram, Dorinda
+890	32	10.8	
+Victorian Cities
+Briggs, Asa, 1921
+891	32	9.9	
+The Conscience of a Conservative
+Goldwater, Barry M. (Barry Morris), 1909-1998
+892	32	8.4	
+African Perspectives on Colonialism
+Boahen, A. Adu
+893	32	7.3	
+Nightmare in Red : The McCarthy Era in Perspective
+Fried, Richard M., 1941
+894	32	11.5	
+Hope and Glory : Britain, 1900-2000
+Clarke, P. F.
+895	32	5.4	
+Gendered Strife & Confusion : The Political Culture of Reconstruction
+Edwards, Laura F.
+896	31	58.5	
+Odes
+Horace
+897	31	9.2	
+The Rough Riders
+Roosevelt, Theodore, 1858-1919
+898	31	42.2	
+Richard II
+Shakespeare, William, 1564-1616
+899	31	7.4	
+The Causes of the Civil War
+Stampp, Kenneth M. (Kenneth Milton), Ed
+900	31	4.1	
+North Carolina Through Four Centuries
+Powell, William Stevens, 1919
+901	31	6.6	
+Readings in Russian Civilization
+Riha, Thomas, Ed
+902	31	23.6	
+A History of the Arab Peoples
+Hourani, Albert Habib
+903	31	5.9	
+The Information-Literate Historian : A Guide to Research for History Students
+Presnell, Jenny L.
+904	31	29.6	
+We Wish to Inform You That Tomorrow We Will Be Killed With Our Families : Stories From Rwanda
+Gourevitch, Philip, 1961
+905	31	28.3	
+Arms and Influence
+Schelling, Thomas C., 1921
+906	31	10.3	
+The Middle Ages, 395-1500
+Strayer, Joseph R. (Joseph Reese), 1904-1987
+907	31	7.0	
+The Armada
+Mattingly, Garrett, 1900-1962
+908	31	62.3	
+Perpetual Peace
+Kant, Immanuel, 1724-1804
+909	31	8.5	
+A Brief History of Chinese and Japanese Civilizations
+Schirokauer, Conrad
+910	31	18.0	
+A Concise History of Germany
+Fulbrook, Mary, 1951
+911	31	8.5	
+Magic in the Middle Ages
+Kieckhefer, Richard
+912	31	29.0	
+Representative Government
+Mill, John Stuart, 1806-1873
+913	31	7.8	
+No Constitutional Right to Be Ladies : Women and the Obligations of Citizenship
+Kerber, Linda K.
+914	31	6.5	
+Choosing War : The Lost Chance for Peace and the Escalation of War in Vietnam
+Logevall, Fredrik, 1963
+915	31	7.1	
+Radio Free Dixie : Robert F. Williams and the Roots of Black Power
+Tyson, Timothy B.
+916	31	22.0	
+The Slave Trade
+Black, Jeremy
+917	31	7.3	
+Everyman His Own Historian
+Becker, Carl
+The American Historical Review
+918	31	24.1	
+Sex and Death in the Rational World of Defense Intellectuals
+Cohn, Carol
+Signs
+919	31	7.4	
+The Rise of Theodore Roosevelt
+Morris, Edmund
+920	31	5.1	
+Sugar Creek : Life on the Illinois Prairie
+Faragher, John Mack, 1945
+921	31	12.1	
+Evolution, the History of an Idea
+Bowler, Peter J.
+922	31	8.8	
+Medieval People
+Power, Eileen Edna, 1889-1940
+923	31	7.9	
+The Man Nobody Knows
+Barton, Bruce, 1886-1967
+924	31	7.4	
+The Past and the Present
+Stone, Lawrence
+925	31	33.5	
+The Prince, and the Discourses
+Machiavelli, Niccolò, 1469-1527
+926	31	20.5	
+Imperial Eyes : Travel Writing and Transculturation
+Pratt, Mary Louise, 1948
+927	31	10.1	
+Fundamentalism and American Culture
+Marsden, George M., 1939
+928	31	8.7	
+The Korean War
+Lowe, Peter, 1941
+929	31	39.2	
+From the 'Prison Notebooks
+Gramsci, Antonio, Buttigieg, Joseph A.
+Daedalus
+930	31	57.3	
+When Work Disappears
+Wilson, William Julius
+Political Science Quarterly
+931	31	82.7	
+The Complete Works
+Shakespeare, William, 1564-1616
+932	31	29.3	
+The Last Days of Socrates
+Plato
+933	31	5.0	
+World War II : A Short History
+Lyons, Michael J., 1930
+934	31	74.6	
+Oroonoko
+Behn, Aphra, 1640-1689
+935	31	9.4	
+The Promised Land : The Great Black Migration and How It Changed America
+Lemann, Nicholas
+936	31	11.2	
+The Making of Europe : Conquest, Colonization, and Cultural Change, 950-1350
+Bartlett, Robert, 1950
+937	31	33.1	
+New Books
+Henry, Desmond Paul, Day, J. P., Flew, Antony, Sluga, H. D., Jacobs, Francis, Raphael, D. D., Palmer, Anthony
+Mind
+938	31	7.8	
+Harpers Ferry
+Brown, Stephen Dorman, 1952
+939	31	87.8	
+Moby Dick
+Melville, Herman, 1819-1891
+940	30	20.0	
+Age of Extremes : The Short Twentieth Century, 1914-1991
+Hobsbawm, E. J. (Eric J.), 1917
+941	30	65.5	
+The Elementary Forms of Religious Life
+Durkheim, Émile, 1858-1917
+942	30	6.9	
+The Forbidden Best-Sellers of Pre-Revolutionary France
+Darnton, Robert
+943	30	6.2	
+The Response to Industrialism, 1885-1914
+Hays, Samuel P.
+944	30	9.8	
+Barricades and Borders : Europe 1800-1914
+Gildea, Robert
+945	30	6.0	
+Capitalism and a New Social Order : The Republican Vision of the 1790s
+Appleby, Joyce Oldham
+946	30	8.0	
+Russia and the West Under Lenin and Stalin
+Kennan, George F. (George Frost), 1904-2005
+947	30	18.2	
+This Side of Paradise
+Fitzgerald, F. Scott (Francis Scott), 1896-1940
+948	30	22.8	
+Wasps
+Aristophanes
+949	30	14.6	
+Inside the Third Reich
+Speer, Albert, 1905-1981
+950	30	5.4	
+Boston Against Busing : Race, Class, and Ethnicity in the 1960s and 1970s
+Formisano, Ronald P., 1939
+951	30	30.7	
+Office Hours
+Foster, Norm, 1949
+952	30	14.6	
+A Social History of American Technology
+Cowan, Ruth Schwartz, 1941
+953	30	8.3	
+A Brief History of Chinese Civilization
+Schirokauer, Conrad
+954	30	13.2	
+Marvelous Possessions : The Wonder of the New World
+Greenblatt, Stephen, 1943
+955	30	5.6	
+American Populism : A Social History, 1877-1898
+McMath, Robert C., 1944
+956	30	8.0	
+Gender and Technology
+Bray, Francesca
+Annual Review of Anthropology
+957	30	5.1	
+Race Relations in the Urban South, 1865-1890
+Rabinowitz, Howard N., 1942
+958	30	20.8	
+Nations and Nationalism Since 1780 : Programme, Myth, Reality
+Hobsbawm, E. J. (Eric J.), 1917
+959	30	20.6	
+The Structural Transformation of the Public Sphere : An Inquiry Into a Category of Bourgeois Society
+Habermas, Jürgen
+960	30	6.6	
+A History of the United States
+Adams, Charles Kendall, 1835-1902
+961	30	7.9	
+Confederates in the Attic : Dispatches From the Unfinished Civil War
+Horwitz, Tony, 1958
+962	30	13.6	
+The Racial State : Germany 1933-1945
+Burleigh, Michael, 1955
+963	30	5.0	
+From Creole to African: Atlantic Creoles and the Origins of African- American Society in Mainland North America
+Berlin, Ira
+The William and Mary Quarterly
+964	30	90.8	
+Macbeth
+Shakespeare, William, 1564-1616
+965	30	35.0	
+The Voyage of the Beagle
+Darwin, Charles, 1809-1882
+966	30	6.1	
+The Unraveling of America : A History of Liberalism in the 1960s
+Matusow, Allen J.
+967	30	9.2	
+Humanism and the Culture of Renaissance Europe
+Nauert, Charles Garfield, 1928
+968	30	12.4	
+The Origins of the Second World War in Europe
+Bell, P. M. H. (Philip Michael Hett), 1930
+969	30	13.0	
+The Origins of the Second World War in Asia and the Pacific
+Iriye, Akira
+970	30	9.3	
+Ambivalent Conquests : Maya and Spaniard in Yucatan, 1517-1570
+Clendinnen, Inga
+971	30	46.4	
+Selected Writings, 1877-1930
+Power, D'Arcy, Sir, 1855-1941
+972	30	5.1	
+The New York City Draft Riots : Their Significance for American Society and Politics in the Age of the Civil War
+Bernstein, Iver
+973	30	18.6	
+Catiline
+Sallust, 86 B.C.-34 B.C
+974	30	37.3	
+The Black Atlantic : Modernity and Double Consciousness
+Gilroy, Paul
+975	30	34.3	
+The Golden Bough
+Frazer, James George, 1854-1941
+976	30	39.4	
+The Tragedy of Great Power Politics
+Mearsheimer, John J.
+977	30	21.9	
+Reviews of Books
+Read, Christopher
+The American Historical Review
+978	30	88.3	
+The Scarlet Letter
+Hawthorne, Nathaniel, 1804-1864
+979	30	10.3	
+What Is the Third Estate
+Sieyès, Emmanuel Joseph, Comte, 1748-1836
+980	30	5.7	
+Culture as History : The Transformation of American Society in the Twentieth Century
+Susman, Warren, 1927-1985
+981	30	13.5	
+The Crusades Through Arab Eyes
+Maalouf, Amin
+982	30	6.2	
+Encyclopedia of American History
+Morris, Richard B. (Richard Brandon), 1904-1989
+983	30	12.6	
+The Oregon Trail
+Parkman, Francis, 1823-1893
+984	30	17.1	
+A History of American Law
+Friedman, Lawrence Meir, 1930
+985	30	6.0	
+Why the North Won the Civil War
+Donald, David Herbert, 1920- Ed
+986	30	8.3	
+Entertaining Satan : Witchcraft and the Culture of Early New England
+Demos, John
+987	30	15.5	
+English Society, 1580-1680
+Wrightson, Keith
+988	30	4.5	
+Everyday Life in Early America
+Hawke, David Freeman
+989	30	8.0	
+The Russian Revolution, 1917
+Wade, Rex A.
+990	30	7.1	
+First World War
+Gilbert, Martin, 1936
+991	30	10.1	
+The Fabrication of Louis XIV
+Burke, Peter, 1937
+992	30	6.9	
+Brazil : Five Centuries of Change
+Skidmore, Thomas E.
+993	30	15.0	
+Ecology of Fear : Los Angeles and the Imagination of Disaster
+Davis, Mike, 1946
+994	30	5.0	
+Intimate Frontiers : Sex, Gender, and Culture in Old California
+Hurtado, Albert L., 1946
+995	30	5.4	
+The Ordeal of the Longhouse : The Peoples of the Iroquois League in the Era of European Colonization
+Richter, Daniel K.
+996	30	9.9	
+Michael Jordan and the New Global Capitalism
+LaFeber, Walter
+997	30	5.0	
+Narrative of Commercial Life: Consumption, Ideology, and Community on the Eve of the American Revolution
+Breen, T. H.
+The William and Mary Quarterly
+998	30	29.6	
+The Machine in the Garden
+Marx, Leo
+The New England Quarterly
+999	30	8.3	
+Oral History
+Baum, Willa K.
+History News
+1000	30	48.5	
+Tom Jones
+Fielding, Henry, 1707-1754
