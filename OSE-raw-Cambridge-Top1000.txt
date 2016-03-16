@@ -1,0 +1,3109 @@
+Rank	Count	Score	Text
+1	16	16.9	
+Cryptography : Theory and Practice
+Stinson, Douglas R. (Douglas Robert), 1956
+2	16	53.0	
+Computer Architecture : A Quantitative Approach
+Hennessy, John L.
+3	15	8.2	
+Computer Related Risks
+Neumann, Peter, 1932
+4	15	46.9	
+Computer Architecture : A Quantitative Approach
+Patterson, David A.
+5	13	56.3	
+The Art of Electronics
+Horowitz, Paul, 1942
+6	13	99.9	
+Republic
+Plato
+7	12	41.4	
+Artificial Intelligence
+Reading, Hugo F.
+Man
+8	11	5.9	
+Introduction to VLSI Systems
+Mead, Carver
+9	10	12.9	
+Security Engineering : A Guide to Building Dependable Distributed Systems
+Anderson, Ross, 1956
+10	10	6.4	
+An Introduction to Theory in Anthropology
+Layton, Robert, 1944
+11	10	15.8	
+Code Complete
+McConnell, Steve, Software Engineer
+12	10	5.1	
+The Physics of Stars
+Phillips, A. C.
+13	10	27.5	
+Neural Networks for Pattern Recognition
+Bishop, Christopher M.
+14	10	19.5	
+Contemporary Logic Design
+Katz, Randy H., 1955
+15	10	87.9	
+Artificial Intelligence : A Modern Approach
+Russell, Stuart J. (Stuart Jonathan)
+16	10	39.4	
+Intermediate Microeconomics : A Modern Approach
+Varian, Hal R.
+17	9	7.0	
+Special Relativity
+Rindler, Wolfgang, 1924
+18	9	67.4	
+The Language Instinct
+Pinker, Steven, 1954
+19	9	59.0	
+Anarchy, State, and Utopia
+Nozick, Robert
+20	9	22.5	
+The Sciences of the Artificial
+Simon, Herbert Alexander, 1916
+21	9	13.2	
+Introduction to High Energy Physics
+Perkins, Donald H.
+22	9	15.8	
+Applied Cryptography : Protocols, Algorithms, and Source Code in C
+Schneier, Bruce, 1963
+23	9	29.4	
+Solid State Physics
+Ashcroft, Neil W.
+24	9	13.0	
+Particle Physics
+Martin, B. R. (Brian Robert)
+25	8	34.1	
+Interaction Design : Beyond Human-Computer Interaction
+Rogers, Yvonne
+26	8	97.7	
+On Liberty
+Mill, John Stuart, 1806-1873
+27	8	60.8	
+Digital Image Processing
+Gonzalez, Rafael C.
+28	8	17.5	
+Elements of Information Theory
+Cover, T. M., 1938
+29	8	2.2	
+History and Illusion in Politics
+Geuss, Raymond
+30	8	31.2	
+Interaction Design : Beyond Human-Computer Interaction
+Sharp, Helen
+31	8	12.7	
+Elementary Fluid Dynamics
+Acheson, D. J.
+32	8	44.6	
+Introduction to Solid State Physics
+Kittel, Charles
+33	8	13.0	
+Computational Complexity
+Papadimitriou, Christos H.
+34	7	4.7	
+The Codebreakers; The Story of Secret Writing
+Kahn, David, 1930
+35	7	4.5	
+Introduction to Modern Information Retrieval
+Salton, Gerard
+36	7	7.4	
+A Course in Number Theory and Cryptography
+Koblitz, Neal, 1948
+37	7	9.2	
+Statistical Physics
+Mandl, F. (Franz), 1923
+38	7	42.4	
+Mechanics
+Landau, L. D. (Lev Davidovich), 1908-1968
+39	7	10.4	
+Quantum Mechanics
+Rae, Alastair I. M.
+40	7	10.8	
+A First Course in General Relativity
+Schutz, Bernard F.
+41	7	37.5	
+The Consequences of Modernity
+Giddens, Anthony
+42	7	72.5	
+Sociology
+Giddens, Anthony
+43	7	32.5	
+The Principles of Human Knowledge
+Berkeley, George, 1685-1753
+44	7	2.8	
+Classical Sociology
+Turner, Bryan S.
+45	7	11.1	
+The Quantum Theory of Fields
+Weinberg, Steven, 1933
+46	7	5.9	
+Principles of the Theory of Solids
+Ziman, J. M. (John M.), 1925-2005
+47	7	4.6	
+Writing Secure Code
+Howard, Michael, 1965
+48	7	1.4	
+Fundamentals of Numerical Computing
+Allen, Lawrence F.
+49	7	7.0	
+ML for the Working Programmer
+Paulson, Lawrence C.
+50	7	6.0	
+Quantum Field Theory
+Ryder, Lewis H., 1941
+51	7	8.9	
+The Big Bang
+Silk, Joseph, 1942
+52	7	1.8	
+Purely Functional Data Structures
+Okasaki, Chris
+53	7	41.3	
+Classical Mechanics
+Goldstein, Herbert, 1922
+54	7	3.7	
+Principles of Cosmology and Gravitation
+Berry, Michael V.
+55	7	4.2	
+Astronomy
+Hoyle, Fred, Sir
+56	7	13.6	
+An Introduction to Quantum Field Theory
+Peskin, Michael Edward, 1951
+57	6	27.5	
+Quantum Mechanics
+Dirac, P. A. M. (Paul Adrien Maurice), 1902-1984
+58	6	1.8	
+Western Political Theory in the Face of the Future
+Dunn, John, 1940
+59	6	20.8	
+Discourse on Metaphysics
+Leibniz, Gottfried Wilhelm, Freiherr Von, 1646-1716
+60	6	31.6	
+Discrete-Time Signal Processing
+Oppenheim, Alan V., 1937
+61	6	69.2	
+Discrete Mathematics and Its Applications
+Rosen, Kenneth H.
+62	6	8.5	
+High Energy Astrophysics
+Longair, Malcom S., 1941
+63	6	2.9	
+Sets, Functions, and Logic : An Introduction to Abstract Mathematics
+Devlin, Keith J.
+64	6	1.4	
+Digital Signal Processing : A Computer Science Perspective
+Stein, Jonathan Y.
+65	6	6.2	
+Relativistic Quantum Mechanics
+Dirac, P. A. M.
+Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character
+66	6	0.9	
+To the Office
+Bragg, Melvyn
+The Transatlantic Review
+67	6	55.7	
+A Treatise of Human Nature
+Hume, David, 1711-1776
+68	6	1.4	
+Black Holes
+Luminet, Jean-Pierre
+69	6	7.1	
+Advanced Mathematical Methods for Scientists and Engineers
+Bender, Carl M.
+70	6	37.8	
+Thinking in Java
+Eckel, Bruce
+71	6	17.8	
+Modern Compiler Implementation in C
+Appel, Andrew W., 1960
+72	6	4.2	
+Modern Compiler Implementation in ML
+Appel, Andrew W., 1960
+73	6	1.1	
+Our Evolving Universe
+Longair, M. S., 1941
+74	6	2.3	
+Quantum Theory : Concepts and Methods
+Peres, Asher, 1934
+75	6	23.6	
+Quantum Physics
+Gasiorowicz, Stephen
+76	6	38.3	
+Classical Electrodynamics
+Jackson, John David, 1925
+77	6	21.3	
+Algorithms in C
+Sedgewick, Robert, 1946
+78	6	2.9	
+Democracy : A Very Short Introduction
+Crick, Bernard, 1929-2008
+79	6	1.9	
+The Physics and Chemistry of Solids
+Elliott, S. R. (Stephen Richard), 1952
+80	6	93.6	
+The Aeneid
+Virgil
+81	6	13.8	
+Digital Signal Processing
+Oppenheim, Alan V., 1937
+82	6	19.0	
+Principia Ethica
+Moore, G. E. (George Edward), 1873-1958
+83	6	3.1	
+Accretion Power in Astrophysics
+Frank, J.
+84	6	29.2	
+Algorithms
+Sedgewick, Robert, 1946
+85	6	10.1	
+The Sociological Tradition
+Nisbet, Robert A.
+86	6	9.2	
+Cosmology
+Weinberg, Steven, 1933
+87	6	11.6	
+Understanding Digital Signal Processing
+Lyons, Richard G., 1948
+88	6	57.5	
+Computer Networks : A Systems Approach
+Peterson, Larry L.
+89	6	14.1	
+Modern Compiler Implementation in Java
+Appel, Andrew W., 1960
+90	6	5.4	
+Principles of Condensed Matter Physics
+Chaikin, Paul M.
+91	5	58.5	
+Odes
+Horace
+92	5	36.1	
+Regeneration
+Barker, Pat, 1943
+93	5	3.4	
+Primates in Nature
+Richard, Alison F.
+94	5	11.6	
+Discrete Mathematics
+Biggs, Norman
+95	5	16.6	
+An Introduction to Fluid Dynamics
+Batchelor, G. K. (George Keith)
+96	5	37.1	
+Language, Truth and Logic
+Ayer, A. J. (Alfred Jules), 1910-1989
+97	5	9.3	
+Metaphysics
+Van Inwagen, Peter
+98	5	1.5	
+Linguistics : A Very Short Introduction
+Matthews, P. H. (Peter Hugoe)
+99	5	18.5	
+Materials Selection in Mechanical Design
+Ashby, M. F.
+100	5	5.9	
+Classical Mechanics
+Kibble, T. W. B.
+101	5	9.2	
+Probability With Martingales
+Williams, D. (David), 1938
+102	5	52.5	
+Internetworking With TCP/IP
+Comer, Douglas
+103	5	99.2	
+Leviathan
+Hobbes, Thomas, 1588-1679
+104	5	97.6	
+The Structure of Scientific Revolutions
+Kuhn, Thomas S.
+105	5	18.7	
+Artificial Intelligence : Structures and Strategies for Complex Problem Solving
+Luger, George F.
+106	5	49.2	
+Introduction to the Theory of Computation
+Sipser, Michael
+107	5	5.7	
+Introductory Statistical Mechanics
+Bowley, Roger
+108	5	3.2	
+Data Analysis : A Bayesian Tutorial
+Sivia, D. S.
+109	5	5.0	
+The Hellenistic Philosophers
+Long, A. A.
+110	5	95.3	
+Nicomachean Ethics
+Aristotle
+111	5	2.8	
+Optical Physics
+Lipson, S. G. (Stephen G.)
+112	5	47.1	
+Introduction to Electrodynamics
+Griffiths, David J. (David Jeffery), 1942
+113	5	7.5	
+Electromagnetic Fields and Waves
+Lorrain, Paul
+114	5	5.9	
+Codes and Cryptography
+Welsh, D. J. A.
+115	5	5.9	
+Algorithms in Java
+Sedgewick, Robert, 1946
+116	5	9.4	
+Galactic Astronomy
+Binney, James, 1950
+117	5	7.9	
+Quantum Mechanics
+Bransden, B. H., 1926
+118	5	1.9	
+World Politics : Progress and Its Limits
+Mayall, James
+119	5	0.6	
+Earth Processes
+Smith, A. G.
+Science
+120	5	96.8	
+Origin of Species
+Darwin, Charles, 1809-1882
+121	5	48.7	
+Optics
+Hecht, Eugene
+122	5	3.1	
+Neurophysiology
+Carpenter, R. H. S. (Roger H. S.), 1945
+123	5	100.0	
+The Elements of Style
+Strunk, William, 1869-1946
+124	5	5.1	
+Introduction to Special Relativity
+Rindler, Wolfgang, 1924
+125	5	9.0	
+Galactic Dynamics
+Binney, James, 1950
+126	5	5.6	
+The Early Universe
+Kolb, Edward W.
+127	5	59.4	
+Annals
+Tacitus, Cornelius
+128	5	4.8	
+Soft Condensed Matter
+Jones, Richard A. L. (Richard Anthony Lewis), 1961
+129	5	38.6	
+Essential Cell Biology
+Alberts, Bruce
+130	5	4.6	
+An Introduction to the Theory of Stellar Structure and Evolution
+Prialnik, Dina
+131	5	6.4	
+Types and Programming Languages
+Pierce, Benjamin C.
+132	5	91.7	
+Meditations on First Philosophy
+Descartes, René, 1596-1650
+133	5	4.1	
+Equilibrium Thermodynamics
+Adkins, C. J. (Clement John)
+134	5	78.2	
+Agamemnon
+Aeschylus
+135	5	26.2	
+Against Method
+Feyerabend, Paul, 1924-1994
+136	5	99.4	
+Ethics
+Aristotle
+137	5	4.6	
+Inference to the Best Explanation
+Lipton, Peter, 1954
+138	5	8.9	
+Inferring Phylogenies
+Felsenstein, Joseph
+139	5	30.3	
+Accounting for Non-Accounting Students
+Dyson, J. R. (John R.)
+140	4	2.8	
+Continuous Martingales and Brownian Motion
+Revuz, D.
+141	4	22.5	
+Principles of Quantum Mechanics
+Shankar, Ramamurti
+142	4	43.7	
+Dialogues Concerning Natural Religion
+Hume, David, 1711-1776
+143	4	27.0	
+The Social Animal
+Aronson, Elliot
+144	4	5.5	
+Quantum Field Theory
+Mandl, F. (Franz), 1923
+145	4	8.0	
+Statistical Techniques in Business and Economics
+Mason, Robert Deward, 1919
+146	4	7.8	
+The Classical Theory of Fields
+Landau, L. D. (Lev Davidovich), 1908-1968
+147	4	2.7	
+The Psychology of Computer Programming
+Weinberg, Gerald M.
+148	4	2.8	
+Introduction to Coding Theory
+Lint, Jacobus Hendricus Van, 1932
+149	4	5.1	
+Quantum Electronics
+Yariv, Amnon
+150	4	73.8	
+An Enquiry Concerning Human Understanding
+Hume, David, 1711-1776
+151	4	1.0	
+Low-Dimensional Semiconductors : Materials, Physics, Technology, Devices
+Kelly, M. J. (Michael J.), 1949
+152	4	16.1	
+Distributive Justice
+Rawls, John, 1921-2002
+153	4	1.7	
+The Book of Numbers
+Conway, John H., Author
+154	4	5.0	
+In Catilinam I.
+Cicero, Marcus Tullius
+155	4	0.5	
+Discrete Mathematical Structures and Their Applications
+Stone, Harold S., 1938
+156	4	4.1	
+Computer Ethics : Cautionary Tales and Ethical Dilemmas
+Forester, Tom
+157	4	0.8	
+The Impact of Napoleon : Prussian High Politics, Foreign Policy and the Crisis of the Executive, 1797-1806
+Simms, Brendan
+158	4	3.8	
+The Etruscans
+Barker, Graeme
+159	4	5.0	
+Advanced Quantum Mechanics
+Sakurai, J. J. (Jun John), 1933-1982
+160	4	3.7	
+Fluid
+Butterworth, Karen Peterson, 1934
+161	4	0.6	
+Cambridge : The Hidden History
+Taylor, Alison, 1947
+162	4	16.2	
+Epodes
+Horace
+163	4	98.3	
+The Iliad
+Homer
+164	4	66.2	
+On the Origin of Species
+Darwin, Charles, 1809-1882
+165	4	26.6	
+Signals and Systems
+Oppenheim, Alan V., 1937
+166	4	0.6	
+Radionuclide Imaging Techniques
+Sharp, Peter F.
+167	4	8.5	
+Physical Cosmology
+Peebles, P. J. E. (Phillip James Edwin)
+168	4	3.1	
+Political Development in Modern Japan
+Ward, Robert Edward
+169	4	8.4	
+Introduction to Elementary Particles
+Griffiths, David J. (David Jeffery), 1942
+170	4	10.3	
+Fluid Mechanics
+Landau, L. D. (Lev Davidovich), 1908-1968
+171	4	28.3	
+Introduction to Automata Theory, Languages, and Computation
+Hopcroft, John E., 1939
+172	4	14.3	
+The Methodology of Scientific Research Programmes
+Lakatos, Imre
+173	4	22.8	
+Statistical Physics
+Reif, F. (Frederick), 1927
+174	4	23.7	
+Amores
+Ovid, 43 B.C.-17 A.D. Or 18 A.D
+175	4	10.3	
+Geodynamics
+Turcotte, Donald Lawson
+176	4	7.4	
+Biological Physics : Energy, Information, Life
+Nelson, Philip Charles
+177	4	88.8	
+Marketing Management
+Kotler, Philip
+178	4	2.7	
+Dresden
+Fischer, Kerstin
+179	4	2.7	
+Scaling
+Barenblatt, G. I.
+180	4	1.7	
+Numbers, Groups, and Codes
+Humphreys, J. F.
+181	4	0.5	
+Aspects of Risk Theory
+Grandell, Jan, Author
+182	4	7.0	
+Archaeological Theory : An Introduction
+Johnson, Matthew, 1962
+183	4	4.3	
+Probability Theory : The Logic of Science
+Jaynes, E. T. (Edwin T.)
+184	4	22.3	
+The Personality Puzzle
+Funder, David Charles
+185	4	8.5	
+Cosmological Physics
+Peacock, John A.
+186	4	1.8	
+What Engineers Know and How They Know It : Analytical Studies From Aeronautical History
+Vincenti, Walter G. (Walter Guido), 1917
+187	4	0.6	
+Polymers at Surfaces and Interfaces
+Jones, Richard A. L. (Richard Anthony Lewis), 1961
+188	4	5.4	
+Survival Analysis
+Oakes, David
+Journal of the American Statistical Association
+189	4	96.2	
+Democracy in America
+Tocqueville, Alexis De, 1805-1859
+190	4	4.2	
+Fluid Dynamics for Physicists
+Faber, T. E.
+191	4	20.0	
+Quantum Mechanics
+Merzbacher, Eugen
+192	4	31.3	
+Modern Quantum Mechanics
+Sakurai, J. J. (Jun John), 1933-1982
+193	4	2.0	
+Black Holes, White Dwarfs, and Neutron Stars : The Physics of Compact Objects
+Shapiro, Stuart L. (Stuart Louis), 1947
+194	4	3.1	
+Coding Theory
+Lint, Jacobus Hendricus Van, 1932
+195	4	3.7	
+Quantum Many-Particle Systems
+Negele, John W.
+196	4	24.6	
+Chaos : Making a New Science
+Gleick, James
+197	4	22.3	
+Archaeology : Theories, Methods and Practice
+Renfrew, Colin, 1937
+198	4	21.4	
+Learning Perl
+Schwartz, Randal L.
+199	4	0.8	
+Weak Interactions
+Cabibbo, N.
+200	4	16.3	
+The Design of the UNIX Operating System
+Bach, Maurice J.
+201	4	1.4	
+Physics for Medical Imaging
+Farr, R. F.
+202	4	1.9	
+Scaling, Self-Similarity, and Intermediate Asymptotics
+Barenblatt, G. I.
+203	4	6.9	
+The Golem at Large : What You Should Know About Technology
+Collins, H. M. (Harry M.), 1943
+204	4	1.9	
+Cell Movements
+Bray, Dennis
+205	4	2.2	
+Relativity : Special, General, and Cosmological
+Rindler, Wolfgang, 1924
+206	4	2.7	
+The Physics of Low-Dimensional Semiconductors : An Introduction
+Davies, J. H. (John H.)
+207	4	3.7	
+Why Humans Have Cultures
+Carrithers, Michael
+Man
+208	4	0.6	
+Ferroelectric Memories
+Scott, James F.
+Science
+209	4	6.9	
+The Emergence of Agriculture
+Smith, Bruce D. (Bruce David), 1946
+210	4	5.4	
+Analysis of Survival Data
+Cox, D. R. (David Roxbee)
+211	4	97.3	
+Utilitarianism
+Mill, John Stuart, 1806-1873
+212	4	17.6	
+Matrix Computations
+Golub, Gene H. (Gene Howard), 1932-2007
+213	4	2.7	
+The Theory of Thermodynamics
+Waldram, J. R.
+214	4	0.8	
+State of the Art : A Photographic History of the Integrated Circuit
+Augarten, Stan
+215	4	4.8	
+Statistical Methods in Medical Research
+Armitage, P.
+216	4	1.4	
+Techniques and Applications of Path Integration
+Schulman, L. S. (Lawrence S.), 1941
+217	4	18.0	
+An Enquiry Concerning the Principles of Morals
+Hume, David, 1711-1776
+218	4	1.1	
+Loss Distributions
+Hogg, Robert V.
+219	4	18.3	
+Fundamentals of Statistical and Thermal Physics
+Reif, F. (Frederick), 1927
+220	4	4.2	
+The Physics of Radiology
+Johns, Harold Elford
+221	4	18.5	
+Computer Ethics
+Johnson, Deborah G., 1945
+222	4	4.1	
+Telecommunication Networks : Protocols, Modeling, and Analysis
+Schwartz, Mischa
+223	4	1.9	
+Chaotic Dynamics : An Introduction
+Baker, Gregory L.
+224	4	9.2	
+Information Theory, Inference, and Learning Algorithms
+MacKay, David J. C.
+225	4	8.4	
+Probability, Random Variables, and Random Signal Principles
+Peebles, Peyton Z.
+226	4	1.0	
+Mr. Stephen
+White, Terence De Vere
+227	4	6.8	
+Principles of Physical Cosmology
+Peebles, P. J. E. (Phillip James Edwin)
+228	4	0.8	
+Quantum Field Theory in Condensed Matter Physics
+Nagaosa, Naoto, Author
+229	4	2.7	
+Set Theory
+Kunen, Kenneth, Author
+230	4	0.6	
+Atlas of Clinical Positron Emission Tomography
+Maisey, Michael
+231	4	1.0	
+The Vices of Integrity : E.H. Carr, 1892-1982
+Haslam, Jonathan
+232	4	36.2	
+What Is This Thing Called Science
+Chalmers, A. F.
+233	4	5.1	
+Mechanics of Motor Proteins and the Cytoskeleton
+Howard, Jonathon, 1957
+234	4	0.5	
+Democracy and Peacemaking : Negotiations and Debates, 1815-1973
+Towle, Philip, 1945
+235	4	0.5	
+Introduction to Path-Integral Methods in Physics and Polymer Science
+Wiegel, Frederik W., 1938
+236	4	5.1	
+Nuclear Physics : Principles and Applications
+Lilley, J. S. (John S.)
+237	4	3.1	
+General Relativity
+Rindler, W.
+Science
+238	4	31.2	
+Tractatus Logico-Philosophicus
+Wittgenstein, Ludwig, 1889-1951
+239	4	2.4	
+Nuclear and Particle Physics
+Burcham, W. E.
+240	4	98.7	
+The Odyssey
+Homer
+241	4	1.1	
+Cosmology : The Origin and Evolution of Cosmic Structure
+Coles, Peter
+242	4	4.2	
+Roman Italy
+Potter, T. W. (Timothy W.)
+243	4	92.7	
+A Theory of Justice
+Rawls, John, 1921-2002
+244	4	1.0	
+Inward Bound : Of Matter and Forces in the Physical World
+Pais, Abraham, 1918
+245	4	3.1	
+Subtle Is the Lord-- " : The Science and the Life of Albert Einstein
+Pais, Abraham, 1918
+246	4	0.9	
+Diagnostic Ultrasonics : Principles and Use of Instruments
+McDicken, W. N.
+247	4	3.3	
+Introduction to Cosmology
+Narlikar, Jayant Vishnu, 1938
+248	4	2.0	
+Stochastic Processes in Physics and Chemistry
+Kampen, N. G. Van
+249	4	4.8	
+Time Series : Theory and Methods
+Brockwell, Peter J.
+250	4	85.4	
+Symposium
+Plato
+251	4	3.9	
+Computer Ethics : Cautionary Tales and Ethical Dilemmas in Computing
+Forester, Tom
+252	4	14.5	
+Introductory Quantum Mechanics
+Liboff, Richard L., 1931
+253	4	2.7	
+Up the Organization
+Townsend, Robert, 1920
+254	4	8.5	
+Mathematical Methods for Physics and Engineering
+Riley, K. F. (Kenneth Franklin), 1936
+255	4	11.8	
+Quantum Computation and Quantum Information
+Nielsen, Michael A., 1974
+256	4	12.5	
+Epodes and Odes
+Horace
+257	4	4.3	
+Fortran 90 Explained
+Metcalf, Michael
+258	4	1.7	
+Exploring Black Holes : Introduction to General Relativity
+Taylor, Edwin F.
+259	4	90.1	
+Physics
+Walker, James S., 1950
+260	4	45.2	
+Archaeology
+Renfrew, Colin
+The Geographical Journal
+261	4	15.7	
+Magnetic Effects
+Field, George B.
+Science
+262	3	53.4	
+Hippolytus
+Euripides
+263	3	93.8	
+Utopia
+More, Thomas, Sir, Saint, 1478-1535
+264	3	0.9	
+Lordship and Society in the March of Wales, 1282-1400
+Davies, R. R.
+265	3	0.5	
+Initiation
+La Fontaine, J. S. (Jean Sybil), 1931
+266	3	0.8	
+The European Past : Social Evolution and Spatial Order
+Dodgshon, R. A.
+267	3	90.4	
+Physics
+Halliday, David, 1916
+268	3	0.4	
+Spacetime, Geometry, Cosmology
+Burke, William L.
+269	3	1.9	
+Thought and Behaviour in Modern Japanese Politics
+Maruyama, Masao, 1914-1996
+270	3	0.8	
+A Baronial Family in Medieval England; The Clares, 1217-1314
+Altschul, Michael
+271	3	5.1	
+Superconductivity
+Tinkham, Michael
+272	3	4.8	
+Introduction to Superconductivity
+Tinkham, Michael
+273	3	12.5	
+Atmosphere-Ocean Dynamics
+Gill, Adrian E.
+274	3	4.2	
+Election Campaigning Japanese Style
+Curtis, Gerald L.
+275	3	2.2	
+Patterns of Human Growth
+Bogin, Barry
+276	3	5.2	
+Political Writings
+Constant, Benjamin, 1767-1830
+277	3	2.2	
+Primate Social Systems
+Dunbar, R. I. M. (Robin Ian MacDonald), 1947
+278	3	7.9	
+The Japanese Way of Politics
+Curtis, Gerald L.
+279	3	3.3	
+Between MITI and the Market : Japanese Industrial Policy for High Technology
+Okimoto, Daniel I., 1942
+280	3	4.6	
+Medieval England, 1066-1485
+King, Edmund
+281	3	3.2	
+Mexico : From the Olmecs to the Aztecs
+Coe, Michael D.
+282	3	1.1	
+The Films of John Cassavetes : Pragmatism, Modernism, and the Movies
+Carney, Raymond
+283	3	30.4	
+The Monadology
+Leibniz, Gottfried Wilhelm, Freiherr Von, 1646-1716
+284	3	0.5	
+Kings, Barons and Justices : The Making and Enforcement of Legislation in Thirteenth-Century England
+Brand, Paul
+285	3	2.4	
+Speakable and Unspeakable in Quantum Mechanics
+Bell, J. S.
+286	3	4.1	
+Philosophy : A Very Short Introduction
+Craig, Edward
+287	3	0.6	
+Continuum Mechanics
+Liu, I-Shih, Author
+288	3	4.2	
+Practical Physics
+Squires, G. L. (Gordon Leslie)
+289	3	0.4	
+High-Pressure Shock Compression of Solids III
+Davison, Lee, Editor
+290	3	29.4	
+McTeague
+Norris, Frank, 1870-1902
+291	3	2.5	
+The Monastic and Religious Orders in Britain, 1000-1300
+Burton, Janet E.
+292	3	0.5	
+Colloquial Russian
+Le Fleming, Svetlana
+293	3	1.4	
+Probability Theory : An Analytic View
+Stroock, Daniel W.
+294	3	0.6	
+Domesday Book and the Law : Society and Legal Custom in Early Medieval England
+Fleming, Robin
+295	3	0.6	
+The Laplacian on a Riemannian Manifold
+Rosenberg, Steven, 1951
+296	3	14.8	
+Embracing Defeat : Japan in the Wake of World War II
+Dower, John W.
+297	3	0.4	
+Annual Report
+Royal Observatory, Edinburgh. UKIRT Section
+298	3	0.6	
+Scribes and Scholars at Salisbury Cathedral, C.1075-C.1125
+Webber, Teresa
+299	3	1.4	
+Structure Formation in the Universe
+Padmanabhan, T. (Thanu), 1957
+300	3	2.5	
+Stochastic Networks
+Kelly, Frank, 1950
+301	3	0.6	
+The Victim as Hero : Ideologies of Peace and National Identity in Postwar Japan
+Orr, James Joseph
+302	3	1.9	
+Domesday : The Inquest and the Book
+Roffe, David
+303	3	3.8	
+Principles of Multivariate Analysis
+Krzanowski, W. J.
+304	3	0.8	
+The Commission on the Constitution and Prospects for Constitutional Change in Japan
+Ward, Robert E.
+The Journal of Asian Studies
+305	3	0.9	
+The State, Modernity, and the Fate of Liberalism in Prewar Japan
+Hoston, Germaine A.
+The Journal of Asian Studies
+306	3	53.9	
+Computing Machinery and Intelligence
+Turing, A. M.
+Mind
+307	3	0.4	
+Decision Models and Japanese Foreign Policy Decision Making
+Minor, Michael
+Asian Survey
+308	3	0.4	
+The County Community and the Making of Public Opinion in Fourteenth-Century England
+Maddicott, J. R.
+Transactions of the Royal Historical Society
+309	3	0.8	
+Calculus: 181-182
+Norris, S. F., Holmes, A. H.
+The American Mathematical Monthly
+310	3	2.2	
+Geomorphology
+Schumm, S. A.
+Science
+311	3	0.4	
+Ichiro Ozawa: Reformer at Bay
+Desmond, Edward W.
+Foreign Affairs
+312	3	6.6	
+Pattern Recognition
+Ripley, B. D., Taylor, C. C.
+Science Progress (1933- )
+313	3	11.1	
+Nana
+Zola, Émile, 1840-1902
+314	3	10.8	
+Understanding Japanese Society
+Hendry, Joy
+315	3	23.2	
+Proslogion
+Anselm, Saint, Archbishop of Canterbury, 1033-1109
+316	3	1.3	
+Introduction to Circulating Atmospheres
+James, Ian N.
+317	3	0.4	
+The Derbyshire Gentry in the Fifteenth Century
+Wright, S. M.
+318	3	1.0	
+Exploring Social Geography
+Jackson, Peter, 1955
+319	3	1.7	
+The Norman Monasteries and Their English Possessions
+Matthew, Donald, 1930
+320	3	3.6	
+Anglo-Saxon England and the Norman Conquest
+Loyn, H. R. (Henry Royston)
+321	3	1.9	
+Lancastrian Kings and Lollard Knights
+McFarlane, K. B. (Kenneth Bruce)
+322	3	4.7	
+Work Organisations : A Critical Introduction
+Thompson, Paul, 1935
+323	3	8.7	
+Principles of Mathematics
+Russell, Bertrand, 1872-1970
+324	3	1.1	
+The Mind of God and the Works of Man
+Craig, Edward
+325	3	28.2	
+Linear Algebra and Its Applications
+Strang, Gilbert
+326	3	3.3	
+The American Occupation of Japan : The Origins of the Cold War in Asia
+Schaller, Michael, 1947
+327	3	7.4	
+MITI and the Japanese Miracle : The Growth of Industrial Policy, 1925-1975
+Johnson, Chalmers A.
+328	3	1.1	
+Rivers and Landscape
+Petts, Geoffrey E.
+329	3	1.1	
+The Politics of Regional Policy in Japan : Localities Incorporated
+Samuels, Richard J.
+330	3	2.8	
+An Analysis of the Finite Element Method
+Strang, William Gilbert, 1934
+331	3	4.3	
+The Nature of Physical Geography
+Gregory, K. J. (Kenneth John)
+332	3	40.5	
+The Logic of Scientific Discovery
+Popper, Karl R. (Karl Raimund), 1902-1994
+333	3	3.1	
+Gauge Theory of Elementary Particle Physics
+Cheng, Ta-Pei
+334	3	2.4	
+The !Kung San : Men, Women, and Work in a Foraging Society
+Lee, Richard B.
+335	3	1.7	
+A Kind of Loving
+Barstow, Stan, 1928
+336	3	11.6	
+The Middle Ages
+Tierney, Brian, Comp
+337	3	49.7	
+Phenomenology of Spirit
+Hegel, Georg Wilhelm Friedrich, 1770-1831
+338	3	13.6	
+Statistical Physics
+Landau, L. D. (Lev Davidovich), 1908-1968
+339	3	12.7	
+Western Society and the Church in the Middle Ages
+Southern, R. W. (Richard William), 1912
+340	3	6.6	
+The Domestication of the Savage Mind
+Goody, Jack
+341	3	8.7	
+Vibrations and Waves
+French, A. P. (Anthony Philip), 1920
+342	3	7.6	
+General Relativity
+Wald, Robert M.
+343	3	4.6	
+The Empiricists
+Woolhouse, R. S.
+344	3	4.1	
+De Magnete
+Gilbert, William, 1544-1603
+345	3	95.4	
+Dialogues
+Plato
+346	3	1.7	
+Philosophical Logic
+Strawson, P. F.
+347	3	1.8	
+Readings in Philosophical Analysis
+Feigl, Herbert, Ed
+348	3	11.8	
+Semiconductor Devices, Physics and Technology
+Sze, S. M., 1936
+349	3	1.1	
+Politics in Modern Japan : Development and Organization
+Kishimoto, Kōichi, 1928
+350	3	5.1	
+The Rationalists
+Cottingham, John, 1943
+351	3	0.5	
+Explosives, Propellants, and Pyrotechnics
+Bailey, A. (Alan), 1940
+352	3	6.1	
+Introduction to Linear Optimization
+Bertsimas, Dimitris
+353	3	1.1	
+Poor Cow
+Dunn, Nell, 1936
+354	3	0.5	
+Twistor Geometry and Field Theory
+Ward, R. S. (Richard Samuel), 1951
+355	3	0.4	
+The Politics of Good Intentions : History, Fear, and Hypocrisy in the New World Order
+Runciman, David
+356	3	12.7	
+The Stripping of the Altars : Traditional Religion in England, C.1400-C.1580
+Duffy, Eamon
+357	3	16.8	
+Statistical Techniques in Business & Economics
+Lind, Douglas A.
+358	3	4.1	
+Martingale Methods in Financial Modelling
+Musiela, Marek, 1950
+359	3	4.1	
+Quantum Field Theory in a Nutshell
+Zee, A.
+360	3	3.6	
+Numerical Methods for Conservation Laws
+LeVeque, Randall J., Author
+361	3	16.2	
+Modern Applied Statistics With S
+Venables, W. N., Author
+362	3	0.4	
+The July 1989 Upper House Election in Japan
+Lesbirel, S. Hayden (Sidney Hayden), 1957
+363	3	3.9	
+Multivariate Analysis
+Krzanowski, W. J.
+364	3	1.0	
+Elementary Categories, Elementary Toposes
+McLarty, Colin
+365	3	3.1	
+Making Common Sense of Japan
+Reed, Steven R., 1947
+366	3	3.1	
+MIPS RISC Architecture
+Kane, Gerry, 1942
+367	3	13.0	
+Primate Behavioral Ecology
+Strier, Karen B.
+368	3	2.5	
+Land, Law, and Lordship in Anglo-Norman England
+Hudson, John, 1962
+369	3	1.5	
+Supersymmetric Gauge Field Theory and String Theory
+Bailin, David
+370	3	2.3	
+Ireland in the Middle Ages
+Duffy, Seán, 1962
+371	3	2.3	
+Japanese Democracy : Power, Coordination, and Performance
+Richardson, Bradley M.
+372	3	1.1	
+Advice and Consent : The Politics of Consultation in Japan
+Schwartz, Frank J. (Frank Jacob), 1958
+373	3	1.5	
+Local Power in the Japanese State
+Muramatsu, Michio, 1940
+374	3	0.9	
+The Aristocracy of Norman England
+Green, Judith A.
+375	3	1.8	
+Capitalism : An Ethnographic Approach
+Miller, Daniel, 1954
+376	3	0.6	
+Globalization of Japan : Japanese Sakoku Mentality and U.S. Efforts to Open Japan
+Itoh, Mayumi, 1954
+377	3	0.4	
+The Creative Edge : Emerging Individualism in Japan
+Miyanaga, Kuniko, 1945
+378	3	1.0	
+The Crisis in Kosovo, 1989-1999
+Weller, M. (Marc)
+379	3	7.8	
+UNIX in a Nutshell
+Robbins, Arnold
+380	3	0.8	
+Cooking With Mud : The Idea of Mess in Nineteenth-Century Art and Fiction
+Trotter, David, 1951
+381	3	1.4	
+The Japanese State of Mind: Deliberations on the Gulf Crisis
+Kenichi, Ito
+Journal of Japanese Studies
+382	3	0.4	
+Managing Interests in the Japanese Bureaucracy: Informality and Discretion
+Keehn, Edward B.
+Asian Survey
+383	3	0.4	
+The Functions of Factionalism in Japanese Politics
+Totten, George O., Kawakami, Tamio
+Pacific Affairs
+384	3	0.4	
+Characteristics of the Foreign Policy Decision-Making System in Japan
+Hosoya, Chihiro
+World Politics
+385	3	1.5	
+Contemporary Politics in Japan
+Masumi, Junnosuke, 1926
+386	3	0.4	
+Policy and Politics in Japan : Creative Conservatism
+Pempel, T. J., 1942
+387	3	6.1	
+An Album of Fluid Motion
+Van Dyke, Milton
+388	3	0.8	
+Politics in Japan
+Richardson, Bradley M.
+389	3	2.2	
+Geomorphology
+Chorley, Richard J.
+390	3	75.8	
+Critique of Pure Reason
+Kant, Immanuel, 1724-1804
+391	3	9.2	
+Japanese Society
+Nakane, Chie, 1926
+392	3	5.6	
+The Woman in the Dunes
+Abe, Kōbō, 1924-1993
+393	3	3.2	
+Anglo-Norman England, 1066-1166
+Chibnall, Marjorie
+394	3	1.0	
+The Large-Scale Structure of the Universe
+Peebles, P. J. E. (Phillip James Edwin)
+395	3	4.3	
+Law and Social Change in Postwar Japan
+Upham, Frank K.
+396	3	1.4	
+Mechanics of Continuous Media
+Hunter, S. C.
+397	3	7.1	
+Waves in Fluids
+Lighthill, M. J., Sir
+398	3	10.1	
+Geophysical Fluid Dynamics
+Pedlosky, Joseph
+399	3	17.1	
+Quantum Physics of Atoms, Molecules, Solids, Nuclei, and Particles
+Eisberg, Robert Martin
+400	3	7.9	
+Hume
+Stroud, Barry
+401	3	5.4	
+Hydrodynamics
+Lamb, Horace, Sir, 1849-1934
+402	3	0.5	
+Reed Town, Japan : A Study in Community Power Structure and Political Change
+Kuroda, Yasumasa, 1931
+403	3	0.8	
+The Good Parliament
+Holmes, George, 1927
+404	3	33.8	
+Modern Control Systems
+Dorf, Richard C.
+405	3	2.5	
+Numerical Methods That Work
+Acton, Forman S.
+406	3	2.7	
+Philosophy of Logics
+Haack, Susan
+407	3	9.8	
+Gravitation
+Misner, Charles W.
+408	3	16.1	
+The Almagest
+Ptolemy, Active 2nd Century
+409	3	0.6	
+A Primer on Riemann Surfaces
+Beardon, Alan F.
+410	3	23.4	
+Witchcraft, Oracles and Magic Among the Azande
+Evans-Pritchard, E. E. (Edward Evan), 1902-1973
+411	3	2.2	
+Stonehenge Complete
+Chippindale, Christopher, 1951
+412	3	0.4	
+An Introduction to Independence for Analysts
+Dales, H. G. (Harold G.), 1944
+413	3	9.6	
+Saturday Night and Sunday Morning
+Sillitoe, Alan
+414	3	0.4	
+The Origins of the Austin Canons and Their Introduction Into England
+Dickinson, J. C. (John Compton)
+415	3	0.9	
+Studies in the History of the English Feudal Barony
+Painter, Sidney, 1902-1960
+416	3	3.1	
+Crisis and Compensation : Public Policy and Political Stability in Japan, 1949-1986
+Calder, Kent E.
+417	3	1.8	
+Chebyshev & Fourier Spectral Methods
+Boyd, J. P. (John Philip), 1941
+418	3	3.7	
+Greed
+Von Stroheim, Erich, 1885-1957
+419	3	0.8	
+Quantum Gravity
+Hawking, Stephen, 1942
+420	3	13.2	
+Algorithm Design
+Kleinberg, Jon
+421	3	10.4	
+Aeneid IV
+Virgil
+422	3	2.4	
+The State and Politics in Japan
+Neary, Ian
+423	3	1.9	
+Magnetism
+Stoner, Edmund Clifton, 1899-1968
+424	3	13.6	
+How Humans Evolved
+Boyd, Robert, Ph. D.
+425	3	5.5	
+Sumer and the Sumerians
+Crawford, Harriet E. W.
+426	3	7.9	
+Probability : Theory and Examples
+Durrett, Richard, 1951
+427	3	0.6	
+Handbook of Categorical Algebra
+Borceux, Francis, 1948
+428	3	0.4	
+High-Pressure Shock Compression of Solids
+Asay, J. R., Editor
+429	3	1.5	
+Foundations of Modern Probability
+Kallenberg, Olav, Author
+430	3	0.6	
+Survival Analysis : A Practical Approach
+Parmar, Mahesh K.B
+431	3	0.4	
+Japanese Culture and Foreign Affairs
+Iriye, Akira
+432	3	0.4	
+Quantum Entropy and Its Use
+Ohya, Masanori, 1947
+433	3	29.7	
+Late Antiquity
+Brown, Peter Robert Lamont
+434	3	1.8	
+The Japanese Prime Minister and Public Policy
+Hayao, Kenji
+435	3	0.9	
+The Japanese Power Elite
+Rothacher, Albrecht
+436	3	1.4	
+The English Church in the Fourteenth Century
+Pantin, W. A. (William Abel), 1902
+437	3	1.4	
+Time Series : A Biostatistical Introduction
+Diggle, Peter
+438	3	1.8	
+The Image of Aristocracy in Britain, 1000-1300
+Crouch, David
+439	3	10.1	
+Human Genetics : Concepts and Applications
+Lewis, Ricki
+440	3	4.7	
+The Palaeolithic Societies of Europe
+Gamble, Clive
+441	3	1.0	
+A Crisis of Truth : Literature and Law in Ricardian England
+Green, Richard Firth, 1943
+442	3	2.4	
+The Rise and Fall of the Third Chimpanzee
+Diamond, Jared M.
+443	3	12.6	
+Distributive Justice
+Nozick, Robert
+Philosophy & Public Affairs
+444	3	1.9	
+Hybrid Constitutionalism in Prewar Japan
+Steven, R. P. G.
+Journal of Japanese Studies
+445	3	1.0	
+A Correction
+Bartlett, Helen C.
+The American Journal of Nursing
+446	3	0.4	
+Freedom of Expression: The Continuing Revolution
+Beer, Lawrence W.
+Law and Contemporary Problems
+447	3	0.9	
+Green Politics and Citizen Power in Japan: The Zushi Movement
+Jain, Purnendra C.
+Asian Survey
+448	3	0.4	
+Government Elites and Amakudari in Japan, 1963-1992
+Usui, Chikako, Colignon, Richard A.
+Asian Survey
+449	3	0.5	
+The EDSAC (Electronic Delay Storage Automatic Calculator)
+Wilkes, M. V., Renwick, W.
+Mathematical Tables and Other Aids to Computation
+450	3	78.1	
+Contemporary Literature
+English, Thomas H.
+South Atlantic Bulletin
+451	3	0.5	
+The New Japanese Election System
+Christensen, Raymond V.
+Pacific Affairs
+452	3	0.9	
+The Dispute Over the Kurile Islands Between Russia and Japan in the 1990s
+Okuyama, Yutaka
+Pacific Affairs
+453	3	0.6	
+Political Society and the Growth of Government in Late Medieval England
+Harriss, Gerald
+Past & Present
+454	3	42.5	
+The Problems of Philosophy
+Russell, Bertrand, 1872-1970
+455	3	0.6	
+The Economics of Building
+Robinson, Herbert W. (Herbert William)
+456	3	16.2	
+Ion
+Euripides
+457	3	29.9	
+Satires, I.
+Horace
+458	3	84.8	
+The Oresteia
+Aeschylus
+459	3	0.5	
+Environment, Ideology, and Policy
+Sandbach, Francis
+460	3	6.2	
+A History of Philosophy
+Martin, Seymour Guy, 1887-1937
+461	3	1.9	
+The Norman Conquest
+Matthew, Donald, 1930
+462	3	1.8	
+Iterative Solution Methods
+Axelsson, O., 1934
+463	3	32.6	
+The Art of Computer Programming
+Knuth, Donald Ervin, 1938
+464	3	11.0	
+Reflections on Fieldwork in Morocco
+Rabinow, Paul
+465	3	3.9	
+The Physics of Vibrations and Waves
+Pain, H. J. (Herbert John)
+466	3	3.4	
+The Myth of Japanese Uniqueness
+Dale, Peter N., 1950
+467	3	7.3	
+A Treatise on Probability
+Keynes, John Maynard, 1883-1946
+468	3	10.1	
+An Introduction to English Legal History
+Baker, John H. (John Hamilton)
+469	3	3.3	
+Geography and Geographers : Anglo-American Human Geography Since 1945
+Johnston, R. J. (Ronald John)
+470	3	0.6	
+The Staffords : Earls of Stafford and Dukes of Buckingham, 1394-1521
+Rawcliffe, Carole, 1946
+471	3	9.4	
+The Scientific Image
+Van Fraassen, Bas C., 1941
+472	3	3.9	
+The Theory of Error Correcting Codes
+MacWilliams, Florence Jessie, 1917
+473	3	3.9	
+Electricity and Magnetism
+Duffin, W. J.
+474	3	0.4	
+Tiv Economy
+Bohannan, Paul
+475	3	1.8	
+Approximation Theory and Methods
+Powell, M. J. D. (Michael James David), 1936
+476	3	0.6	
+A Theory of Japanese Democracy
+Ike, Nobutaka
+477	3	2.2	
+Contemporary Japanese Budget Politics
+Campbell, John Creighton
+478	3	3.6	
+Descartes : The Project of Pure Enquiry
+Williams, Bernard Arthur Owen
+479	3	1.5	
+The First Century of English Feudalism, 1066-1166
+Stenton, F. M. (Frank Merry), 1880-1967
+480	3	8.8	
+Principia Mathematica
+Whitehead, Alfred North, 1861-1947
+481	3	0.4	
+Mortmain Legislation and the English Church, 1279-1500
+Raban, Sandra
+482	3	4.6	
+Environmental Change
+Goudie, Andrew
+483	3	2.5	
+Categories for the Working Mathematician
+Mac Lane, Saunders, 1909-2005
+484	3	4.6	
+Introduction to Commutative Algebra
+Atiyah, Michael Francis, 1929
+485	3	1.7	
+Lie Algebras
+Jacobson, Nathan, 1910
+486	3	1.3	
+Best of British : Cinema and Society, 1930-1970
+Richards, Jeffrey
+487	3	2.0	
+Characteristic Classes
+Milnor, John Willard, 1931
+488	3	2.2	
+The Law Courts of Medieval England
+Harding, Alan
+489	3	2.0	
+Japan : The Intellectual Foundations of Modern Japanese Politics
+Najita, Tetsuo
+490	3	5.0	
+Quantum Mechanics
+Mandl, F. (Franz), 1923
+491	3	4.7	
+Cicero
+Shackleton Bailey, D. R. (David Roy), 1917-2005
+492	3	6.8	
+The Trobrianders of Papua New Guinea
+Weiner, Annette B., 1933
+493	3	1.9	
+Documents of Modern Literary Realism
+Becker, George Joseph, Ed
+494	3	6.8	
+Human Geography
+Smith, J. Russell (Joseph Russell), 1874-1966
+495	3	1.5	
+The Pre-Reformation Church in England, 1400-1530
+Harper-Bill, Christopher
+496	3	1.1	
+Impact Cratering : A Geologic Process
+Melosh, H. J.
+497	3	5.7	
+British Social Realism : From Documentary to Brit-Grit
+Lay, Samantha
+498	3	0.9	
+Survival Analysis : A Practical Approach
+Machin, David, 1939
+499	3	0.6	
+Lectures on the Mathematics of Finance
+Karatzas, Ioannis
+500	3	2.2	
+Capitalism
+Ingham, Geoffrey K.
+501	3	1.4	
+Superscalar Microprocessor Design
+Johnson, Mike, 1953
+502	3	1.4	
+Up the Junction
+Dunn, Nell, 1936
+503	3	0.8	
+Turbulence : An Introduction for Scientists and Engineers
+Davidson, P. A. (Peter Alan), 1957
+504	3	1.7	
+The Chemistry of Explosives
+Akhavan, Jacqueline
+505	3	1.0	
+Problems in Algebraic Number Theory
+Esmonde, Jody
+506	3	5.1	
+Principles of Human Evolution
+Lewin, Roger
+507	3	3.4	
+Iterative Methods for Sparse Linear Systems
+Saad, Y.
+508	3	8.3	
+Discourse on Metaphysics, and the Monadology
+Leibniz, Gottfried Wilhelm, Freiherr Von, 1646-1716
+509	3	0.5	
+The Lacy Family in England and Normandy, 1066-1194
+Wightman, W.E. (Wilfred Eric)
+510	3	4.3	
+Morvern Callar
+Warner, Alan
+511	3	3.6	
+Complex Variables : Introduction and Applications
+Ablowitz, Mark J.
+512	3	3.3	
+Physical Geography
+Young, John, 1835-1902
+513	3	60.4	
+The Rise of the Network Society
+Castells, Manuel, 1942
+514	3	0.4	
+The Politics of Defense in Japan : Managing Internal and External Pressures
+Keddell, Joseph P., 1953
+515	3	1.4	
+Entropy and Its Physical Meaning
+Dugdale, J. S. (John Sydney)
+516	3	5.7	
+Essential Mathematics for Economics and Business
+Bradley, Teresa
+517	3	22.8	
+Complete Works
+Plato
+518	3	3.1	
+The Fabric of Reality
+Deutsch, David, 1953
+519	3	1.0	
+Religious Patronage in Anglo-Norman England, 1066-1135
+Cownie, Emma, 1967
+520	3	0.4	
+The Piper and the Tune : Medieval Patrons and Monks
+Holdsworth, C. J.
+521	3	0.5	
+The White Canons in England
+Colvin, Howard Montagu
+522	3	1.5	
+Winners in Peace : MacArthur, Yoshida, and Postwar Japan
+Finn, Richard B.
+523	3	1.9	
+The Debate on the Norman Conquest
+Chibnall, Marjorie
+524	3	2.3	
+Groups, Representations, and Physics
+Jones, H. F. (Hugh F.)
+525	3	4.1	
+Intellectual Impostures
+Sokal, Alan D., 1955
+526	3	5.0	
+La Vita è Bella
+Benigni, Roberto
+527	3	1.1	
+Partners for Democracy : Crafting the New Japanese State Under MacArthur
+Moore, Ray A., 1933
+528	3	0.6	
+An Introduction to Magnetohydrodynamics
+Davidson, P. A. (Peter Alan), 1957
+529	3	2.5	
+The Middle Ages
+Gillingham, John
+530	3	1.5	
+The Occupation: Some Reflections
+Passin, Herbert
+Daedalus
+531	3	2.4	
+The Idea of Showa
+Gluck, Carol
+Daedalus
+532	3	0.4	
+Multiculturalism in Japanese Perspective
+Hammond, Ellen, Hein, Laura E.
+The Journal of American-East Asian Relations
+533	3	0.4	
+The Theory and Practice of Japan-Bashing
+Brock, David
+The National Interest
+534	3	0.5	
+The Constitution of Japan: Pacifism, Popular Sovereignty, and Fundamental Human Rights
+Maki, John M.
+Law and Contemporary Problems
+535	3	1.4	
+The Unbundling of "Japan, Inc.": The Changing Dynamics of Japanese Policy Formation
+Pempel, T. J.
+Journal of Japanese Studies
+536	3	0.5	
+Theoretical Physics
+Martin, Arthur W.
+Science
+537	3	1.4	
+The New Japan
+Brown, Arthur Judson
+The Journal of Race Development
+538	3	1.4	
+Human Biology
+Harrison, R. J.
+The British Medical Journal
+539	3	1.1	
+Cosmology
+Kolb, Edward
+Science
+540	3	1.0	
+Bloodfeud, Kindred and Government in Early Modern Scotland
+Wormald, Jenny
+Past & Present
+541	3	0.6	
+Bastard Feudalism Revised
+Coss, P. R.
+Past & Present
+542	3	16.3	
+A Bout De Souffle
+Godard, Jean Luc, 1930
+543	3	0.8	
+Probability and Inductive Logic
+Kyburg, Henry Ely, 1928
+544	3	7.5	
+Japan, Who Governs? : The Rise of the Developmental State
+Johnson, Chalmers A.
+545	3	0.5	
+Continuum Mechanics
+Truesdell, C. (Clifford), 1919- Ed
+546	3	0.5	
+Conquest, Anarchy, and Lordship : Yorkshire, 1066-1154
+Dalton, Paul
+547	3	7.3	
+The Collected Poems
+Brooke, Rupert, 1887-1915
+548	3	4.8	
+The Symbolic Construction of Community
+Cohen, Anthony P. (Anthony Paul), 1946
+549	3	8.0	
+Film as Art
+Arnheim, Rudolf
+550	3	3.6	
+The Norman Conquest
+Loyn, H. R. (Henry Royston)
+551	3	0.4	
+Scenes From Provincial Life : Knightly Families in Sussex, 1280-1400
+Saul, Nigel
+552	3	1.1	
+Shinohata : A Portrait of a Japanese Village
+Dore, Ronald Philip
+553	3	2.3	
+Multivariate Observations
+Seber, G. A. F. (George Arthur Frederick), 1938
+554	3	1.1	
+Berkeley, the Central Arguments
+Grayling, A. C.
+555	3	5.2	
+The Anatomy of Dependence
+Doi, Takeo, 1920
+556	3	2.0	
+The End of the House of Lancaster
+Storey, R. L.
+557	3	1.4	
+Party Politics in Japan
+Baerwald, Hans H.
+558	3	2.2	
+How the Conservatives Rule Japan
+Thayer, Nathaniel Bowman
+559	3	1.0	
+Anchorites and Their Patrons in Medieval England
+Warren, Ann K.
+560	3	18.2	
+Of Miracles
+Hume, David, 1711-1776
+561	3	5.7	
+To Engineer Is Human : The Role of Failure in Successful Design
+Petroski, Henry
+562	3	1.0	
+Quantum Fields in Curved Space
+Birrell, N. D.
+563	3	0.9	
+Eigenvalues in Riemannian Geometry
+Chavel, Isaac
+564	3	64.8	
+The Selfish Gene
+Dawkins, Richard, 1941
+565	3	4.2	
+Scaling Concepts in Polymer Physics
+Gennes, P. G. De (Pierre G. De)
+566	3	2.4	
+Russell
+Sainsbury, R. M. (Richard Mark)
+567	3	2.9	
+Electricity and Magnetism
+Bleaney, B. I. (Betty Isabelle)
+568	3	5.5	
+The Nature of Necessity
+Plantinga, Alvin
+569	3	2.8	
+Runaway Horses
+Mishima, Yukio, 1925-1970
+570	3	2.7	
+Japan, Divided Politics in a Growth Economy
+Stockwin, J. A. A. (James Arthur Ainscow)
+571	3	0.4	
+The Core Model
+Dodd, A. (Antony), 1952
+572	3	0.4	
+Law and Lordship : Royal Justices as Retainers in Thirteenth-And Fourteenth-Century England
+Maddicott, John Robert
+573	3	8.2	
+Primate Adaptation & Evolution
+Fleagle, John G.
+574	3	3.3	
+Stochastic Simulation
+Ripley, Brian D., 1952
+575	3	1.7	
+Riemannian Geometry
+Gallot, S. (Sylvestre), 1948
+576	3	2.0	
+Universals : An Opinionated Introduction
+Armstrong, D. M. (David Malet), 1926
+577	3	1.0	
+The Lancastrian Affinity 1361-1399
+Walker, Simon
+578	3	2.0	
+Education Reform in Japan : A Case of Immobilist Politics
+Schoppa, Leonard J. (Leonard James), 1962
+579	3	1.1	
+Nucleosynthesis and Chemical Evolution of Galaxies
+Pagel, B. E. J. (Bernard Ephraim Julius)
+580	3	4.5	
+Intelligence : A Very Short Introduction
+Deary, Ian J.
+581	3	3.2	
+Geometry, Topology and Physics
+Nakahara, Mikio
+582	3	2.4	
+Aeneid IX
+Virgil
+583	3	11.5	
+Hope and Glory : Britain, 1900-2000
+Clarke, P. F.
+584	3	13.4	
+Computer Vision
+Shapiro, Linda G.
+585	3	36.9	
+Java in a Nutshell
+Flanagan, David
+586	3	37.8	
+Social Psychology
+Aronson, Elliot
+587	3	6.4	
+Pattern Recognition and Neural Networks
+Ripley, Brian D., 1952
+588	3	1.5	
+The Government and Politics of Japan
+Abe, Hitoshi
+589	3	1.7	
+Human Adaptation and Accommodation
+Frisancho, A. Roberto, 1939
+590	3	0.4	
+The Elements of Continuum Mechanics
+Truesdell, C., Author
+591	3	5.6	
+The Return of the Real : The Avant-Garde at the End of the Century
+Foster, Hal
+592	3	3.2	
+The Formal Semantics of Programming Languages : An Introduction
+Winskel, G. (Glynn)
+593	3	0.6	
+Solid State Physics
+Grosso, Giuseppe
+594	3	5.2	
+The Pictorial Guide to the Living Primates
+Rowe, Noel
+595	3	0.9	
+Patterns in Evolution : The New Molecular View
+Lewin, Roger
+596	3	5.1	
+On the History of Film Style
+Bordwell, David
+597	3	0.5	
+Advanced General Relativity
+Stewart, John M.
+598	3	3.3	
+The Body in the Mirror : Shapes of History in Italian Cinema
+Dalle Vacche, Angela, 1954
+599	3	9.2	
+In the Realm of a Dying Emperor
+Field, Norma, 1947
+600	3	1.1	
+Beyond the Curve
+Abe, Kōbō, 1924-1993
+601	3	2.3	
+The Physics of Astrophysics
+Shu, Frank H.
+602	3	1.0	
+Flow and Reactions in Permeable Rocks
+Phillips, O. M. (Owen M.), 1930
+603	3	3.6	
+Philosophy of Science
+Bird, Alexander, 1964
+604	3	3.8	
+Archaeology, the Basics
+Gamble, Clive
+605	3	2.5	
+Categories for the Working Mathematician
+Lane, Saunders Mac, Author
+606	3	1.5	
+In Catilinam I & II
+Cicero, Marcus Tullius
+607	3	2.7	
+Screening Scotland
+Petrie, Duncan J., 1963
+608	3	0.5	
+Rule of Law and Due Process: A Comparative View of the United States and Japan
+Urabe, Noriho
+Law and Contemporary Problems
+609	3	2.0	
+Tanaka Kakuei, Structural Corruption, and the Advent of Machine Politics in Japan
+Johnson, Chalmers
+Journal of Japanese Studies
+610	3	1.7	
+Center-Local Political Relations in Japan: A Lateral Competition Model
+Michio, Muramatsu
+Journal of Japanese Studies
+611	3	0.9	
+Zoku Power and LDP Power: A Case Study of the Zoku Role in Education Policy
+Schoppa, Leonard J.
+Journal of Japanese Studies
+612	3	1.1	
+Editorial
+Simms, Barbara
+Garden History
+613	3	0.4	
+Group Rights and Individual Rights in Japan
+Beer, Lawrence W.
+Asian Survey
+614	3	5.4	
+286. The Tiv
+Bohannan, Paul
+Man
+615	3	0.4	
+Circadian Rhythms
+Hastings, Mike, Lumsden, Peter, Millar, Andrew
+Journal of Experimental Botany
+616	3	1.1	
+Chemical Evolution of Galaxies
+Pagel, B. E. J.
+Publications of the Astronomical Society of the Pacific
+617	3	4.3	
+Industrial Relations
+Brown, Emily Clark
+Monthly Labor Review
+618	3	28.0	
+Witchcraft
+Evans-Pritchard, E. E.
+Africa: Journal of the International African Institute
+619	3	2.5	
+Relativistic Wave Equations
+Dirac, P. A. M.
+Proceedings of the Royal Society of London. Series A, Mathematical and Physical Sciences
+620	3	5.1	
+Medieval England
+Power, Eileen
+The Economic History Review
+621	3	0.4	
+Law, Justice and Landowners in Late Medieval England
+Carpenter, Christine
+Law and History Review
+622	3	5.5	
+Non-Cooperative Games
+Nash, John
+Annals of Mathematics
+623	2	0.3	
+Medieval England
+Holmes, Martin Rivington, 1905
+624	2	34.6	
+Electra
+Euripides
+625	2	1.1	
+Reminiscences
+Evans, Luther Harris, 1902
+626	2	11.7	
+The English Constitution
+Bagehot, Walter, 1826-1877
+627	2	0.3	
+Current Publications on Microfiche by Member Societies
+Perkins, John P.
+628	2	1.0	
+Local Markets and Regional Trade in Medieval Exeter
+Kowaleski, Maryanne
+629	2	1.0	
+Introduction to Nonlinear Science
+Nicolis, G., 1939
+630	2	14.1	
+The Logic of Comparative Social Inquiry
+Przeworski, Adam
+631	2	3.2	
+Satires
+Lucilius, Gaius, Approximately 180 B.C.-approximately 102 B.C
+632	2	92.6	
+Henry V
+Shakespeare, William, 1564-1616
+633	2	1.0	
+The Gild Merchant
+Gross, Charles, 1857-1909
+634	2	5.0	
+Medieval Women : A Social History of Women in England, 450-1500
+Leyser, Henrietta
+635	2	97.5	
+Paradise Lost
+Milton, John, 1608-1674
+636	2	9.9	
+Satires
+Persius
+637	2	0.6	
+The Psychology of Associative Learning
+Shanks, David R.
+638	2	0.6	
+Spline Functions : Basic Theory
+Schumaker, Larry L., 1939
+639	2	0.9	
+English Chantries : The Road to Dissolution
+Kreider, Alan, 1941
+640	2	55.8	
+Sister Carrie
+Dreiser, Theodore, 1871-1945
+641	2	2.3	
+Rural England, 1066-1348
+Hallam, H. E.
+642	2	10.2	
+Greek Architecture
+Lawrence, A. W. (Arnold Walter), 1900
+643	2	44.5	
+Europe and the People Without History
+Wolf, Eric R., 1923
+644	2	2.0	
+Robin Hood
+Holt, James Clarke
+645	2	5.9	
+Writers on Organizations
+Pugh, Derek Salman
+646	2	0.4	
+Nutrition and Its Disorders
+McLaren, Donald Stewart
+647	2	4.8	
+Set Theory
+Jech, Thomas J.
+648	2	0.3	
+Sources in European Political History
+Cook, Chris, 1945
+649	2	2.4	
+The Life Course : A Sociological Perspective
+Clausen, John A.
+650	2	7.6	
+Human Cognitive Neuropsychology
+Ellis, Andrew W.
+651	2	9.2	
+The Poverty of Historicism
+Popper, Karl R. (Karl Raimund), 1902-1994
+652	2	81.8	
+Lyrical Ballads 1805
+Wordsworth, William, 1770-1850
+653	2	2.7	
+The Family in Question : Changing Households and Familiar Ideologies
+Gittins, Diana
+654	2	0.9	
+A History of Gonville and Caius College
+Brooke, Christopher Nugent Lawrence
+655	2	1.5	
+Elementary Logic
+Mates, Benson, 1919
+656	2	6.8	
+The Study of the Bible in the Middle Ages
+Smalley, Beryl
+657	2	7.4	
+Fact, Fiction, and Forecast
+Goodman, Nelson
+658	2	37.6	
+Physiology of Behavior
+Carlson, Neil R., 1942
+659	2	0.6	
+Growth and Decline in Colchester, 1300-1525
+Britnell, R. H.
+660	2	3.2	
+Philosophy of Logic
+Quine, W. V. (Willard Van Orman)
+661	2	1.9	
+Seneca
+Costa, C. D. N. (Charles Desmond Nuttall), 1932-2007
+662	2	22.9	
+Eclogues
+Virgil
+663	2	1.8	
+Superstring Theory
+Green, M. (Michael B.)
+664	2	2.5	
+Ovid
+Barsby, John
+665	2	0.9	
+Computability, an Introduction to Recursive Function Theory
+Cutland, Nigel
+666	2	2.9	
+Plague, Population, and the English Economy, 1348-1530
+Hatcher, John
+667	2	5.0	
+Multivariate Analysis
+Mardia, K. V.
+668	2	3.4	
+Language and Linguistics : An Introduction
+Lyons, John, 1932
+669	2	6.1	
+Algebraic Geometry
+Hartshorne, Robin
+670	2	0.8	
+Nobles and the Noble Life, 1295-1500
+Rosenthal, Joel Thomas, 1934
+671	2	0.9	
+Rock Springs : Stories
+Ford, Richard, 1944
+672	2	10.6	
+Population and History
+Wrigley, E. A. (Edward Anthony), 1931
+673	2	66.9	
+Works & Days
+Hesiod
+674	2	1.5	
+The English Jewry Under Angevin Kings
+Richardson, H. G. (Henry Gerald), 1884-1974
+675	2	0.8	
+Studies in Medieval Trade and Finance
+Fryde, E. B.
+676	2	1.0	
+Interacting Particle Systems
+Liggett, Thomas M. (Thomas Milton), 1944
+677	2	0.4	
+Land, Family, and Inheritance in Transition : Kibworth Harcourt, 1280-1700
+Howell, Cicely, 1936
+678	2	1.9	
+Mathematical Logic
+Quine, W. V. (Willard Van Orman)
+679	2	0.5	
+Survey of Medieval Winchester
+Keene, Derek
+680	2	5.7	
+Trachiniae
+Sophocles
+681	2	78.7	
+The Practice of Social Research
+Babbie, Earl R.
+682	2	0.8	
+Studies in the Medieval Wine Trade
+James, Margery Kirkbride
+683	2	4.2	
+Representing and Intervening : Introductory Topics in the Philosophy of Natural Science
+Hacking, Ian
+684	2	1.5	
+Early Medieval Philosophy (480-1150) : An Introduction
+Marenbon, John
+685	2	2.0	
+The New Science of Strong Materials
+Gordon, J. E. (James Edward), 1913
+686	2	0.3	
+Potential Theory in Modern Function Theory
+Tsuji, Masatsugu, 1894-1960
+687	2	1.4	
+Lie Groups and Lie Algebras
+Bourbaki, Nicolas
+688	2	14.1	
+Tragedies
+Seneca, Lucius Annaeus, Approximately 4 B.C.-65 A.D
+689	2	0.5	
+Heraldry in England
+Wagner, Anthony Richard, Sir, 1908
+690	2	0.4	
+Monastic Tithes, From Their Origins to the Twelfth Century
+Constable, Giles
+691	2	2.3	
+An Informal Introduction to Theoretical Fluid Mechanics
+Lighthill, M. J., Sir
+692	2	1.5	
+Introduction to Combinators and [Lambda]-Calculus
+Hindley, J. Roger
+693	2	0.3	
+The Lordship of England : Royal Wardships and Marriages in English Society and Politics, 1217-1327
+Waugh, Scott L., 1948
+694	2	1.1	
+The English Farmhouse and Cottage
+Barley, M. W. (Maurice Willmore), 1909-1990
+695	2	43.8	
+The Frogs
+Aristophanes
+696	2	83.4	
+Psychology
+Brown, Roger, 1925-1997
+697	2	0.5	
+Equality
+Pennock, J. Roland (James Roland), 1906- Ed
+698	2	3.7	
+Childhood in the Middle Ages
+Shahar, Shulamith
+699	2	2.9	
+Plutarch
+Russell, D. A. (Donald Andrew)
+700	2	0.5	
+An Age of Ambition: English Society in the Late Middle Ages
+Du Boulay, F. R. H.
+701	2	1.3	
+Heraldry
+Robinson, John Martin
+702	2	4.5	
+The Lives of the Sophists
+Philostratus, the Athenian, Active 2nd Century-3rd Century
+703	2	0.6	
+The Other Economy : Pastoral Husbandry on a Medieval Estate
+Biddick, Kathleen
+704	2	3.8	
+Scientific Reasoning : The Bayesian Approach
+Howson, Colin
+705	2	0.9	
+Church Life in England in the Thirteenth Century
+Moorman, John R. H. (John Richard Humpidge), 1905
+706	2	0.8	
+A Biographical Register of the University of Oxford to A. D. 1500
+Emden, A. B. (Alfred Brotherston), 1888-1979
+707	2	13.1	
+Quantity and Quality in Social Research
+Bryman, Alan
+708	2	0.5	
+An Introduction to Noncommutative Noetherian Rings
+Goodearl, K. R.
+709	2	1.0	
+Landscapes and Seasons of the Medieval World
+Pearsall, Derek Albert
+710	2	0.6	
+Charlotte Brontë : The Imagination in History
+Glen, Heather
+711	2	13.2	
+Semiconductor Device Fundamentals
+Pierret, Robert F.
+712	2	5.0	
+Introduction to the Thermodynamics of Materials
+Gaskell, David R., 1940
+713	2	0.4	
+Medieval Economic Thought
+Wood, Diana, 1940
+714	2	0.5	
+Path Integrals in Quantum Mechanics
+Zinn-Justin, Jean
+715	2	0.3	
+Fatal Attraction : Magnetic Mysteries of the Enlightenment
+Fara, Patricia
+716	2	5.4	
+The Way Hollywood Tells It : Story and Style in Modern Movies
+Bordwell, David
+717	2	0.8	
+General Relativity : An Introduction for Physicists
+Hobson, M. P. (Michael Paul), 1967
+718	2	0.5	
+Riemannian Geometry : A Modern Introduction
+Chavel, Isaac
+719	2	0.4	
+English Romanesque Sculpture, 1066-1140
+Zarnecki, George
+720	2	16.2	
+On the Genealogy of Morality
+Nietzsche, Friedrich Wilhelm, 1844-1900
+721	2	0.3	
+The Expansion of Exeter at the Close of the Middle Ages
+Carus-Wilson, E. M. (Eleanora Mary), 1897-1977
+722	2	6.0	
+Advanced Industrial Economics
+Martin, Stephen, 1948
+723	2	3.3	
+The Penguin Historical Atlas of Ancient Egypt
+Manley, Bill
+724	2	1.4	
+Social Attitudes
+Young, Kimball, 1893-1972, Ed
+725	2	1.3	
+Choice and Chance; An Introduction to Inductive Logic
+Skyrms, Brian
+726	2	0.6	
+John Layer (1586-1640) of Shepreth, Cambridgeshire; A Seventeenth-Century Local Historian
+Palmer, William Mortlock, 1866
+727	2	3.4	
+Inventing Iraq : The Failure of Nation Building and a History Denied
+Dodge, Toby
+728	2	3.9	
+Superconductivity
+Ginzburg, v. L. (Vitaliĭ Lazarevich), 1916-2009
+729	2	0.6	
+Large Deviations Techniques and Applications
+Dembo, Amir
+730	2	3.2	
+Critical Social Theory : Culture, History, and the Challenge of Difference
+Calhoun, Craig J., 1952
+731	2	0.8	
+Permutation Groups
+Dixon, John D., Author
+732	2	0.3	
+A Primer on Spectral Theory
+Aupetit, Bernard, Author
+733	2	0.3	
+Stability and Transition in Shear Flows
+Schmid, Peter J., Author
+734	2	5.6	
+Basic Topology
+Armstrong, M. A. (Mark Anthony), Author
+735	2	0.3	
+Electron Correlations in Molecules and Solids
+Fulde, P., Author
+736	2	1.5	
+Minnesota Studies in Philosophy of Science
+Feigl, H., Ed
+737	2	0.5	
+English Monasteries and Their Patrons in the Thirteenth Century
+Wood, Susan, 1925
+738	2	1.4	
+The Making of Domesday Book
+Galbraith, v. H. (Vivian Hunter), 1889-1976
+739	2	4.1	
+Innovation in Ethnographic Film : From Innocence to Self-Consciousness, 1955-85
+Loizos, Peter, 1937
+740	2	11.8	
+On Liberty ; The Subjection of Women
+Mill, John Stuart, 1806-1873
+741	2	3.4	
+Complete Works
+Keats, John, 1795-1821
+742	2	1.4	
+Stained Glass in England During the Middle Ages
+Marks, Richard, 1945
+743	2	0.3	
+The English Carmelites
+Sheppard, Lancelot Capel, 1906
+744	2	0.5	
+Constructive Approximation
+DeVore, Ronald A.
+745	2	1.5	
+Russia in 1870
+Barry, Herbert
+746	2	32.9	
+Real World Research : A Resource for Social Scientists and Practitioner-Researchers
+Robson, Colin
+747	2	0.4	
+Riemannian Geometry
+Willmore, T. (Thomas), 1919
+748	2	0.4	
+The English Clergy and Their Organization in the Later Middle Ages
+Thompson, A. Hamilton (Alexander Hamilton), 1873-1952
+749	2	9.9	
+Art and Agency : An Anthropological Theory
+Gell, Alfred
+750	2	6.2	
+Primate Cognition
+Tomasello, Michael
+751	2	2.5	
+The Discovery of the Past
+Schnapp, Alain, 1946
+752	2	0.8	
+The English Peasantry and the Growth of Lordship
+Faith, Rosamond, 1935
+753	2	4.1	
+The City in the Greek and Roman World
+Owens, E. J., 1950
+754	2	1.4	
+Foundations of Colloid Science
+Hunter, Robert J.
+755	2	24.7	
+Modern Portfolio Theory and Investment Analysis
+Elton, Edwin J.
+756	2	1.4	
+Dissipative Structures and Weak Turbulence
+Manneville, P. (Paul), 1946
+757	2	0.8	
+Background to Buckling
+Allen, Howard G.
+758	2	2.3	
+The Reformation of the Twelfth Century
+Constable, Giles
+759	2	10.3	
+Jian'e
+Zhang, Gu
+760	2	0.6	
+Gravity Currents in the Environment and the Laboratory
+Simpson, John E., 1915
+761	2	0.8	
+The Manuscripts of Early Norman England (C. 1066-1130)
+Gameson, Richard
+762	2	3.6	
+IQ and Human Intelligence
+Mackintosh, N. J. (Nicholas John), 1935
+763	2	8.4	
+Archaic and Classical Greek Art
+Osborne, Robin, 1957
+764	2	5.0	
+Optical Electronics in Modern Communications
+Yariv, Amnon
+765	2	2.4	
+A Rural Society After the Black Death : Essex, 1350-1525
+Poos, Lawrence R. (Lawrence Raymond)
+766	2	0.8	
+The Origins of the English Legal Profession
+Brand, Paul
+767	2	0.9	
+Domesday England
+Darby, H. C. (Henry Clifford), 1909
+768	2	4.6	
+Introduction to the Physics and Techniques of Remote Sensing
+Elachi, Charles
+769	2	18.1	
+An Introduction to Sociolinguistics
+Holmes, Janet
+770	2	1.3	
+The Princes in the Tower
+Weir, Alison
+771	2	3.7	
+Nonlinear Systems
+Drazin, P. G.
+772	2	2.9	
+Living and Dying in England, 1100-1540 : The Monastic Experience
+Harvey, Barbara F.
+773	2	1.5	
+Lie Algebras and Lie Groups
+Serre, Jean Pierre
+774	2	24.8	
+Qualitative Data Analysis : An Expanded Sourcebook
+Miles, Matthew B.
+775	2	1.1	
+English Art, 1216-1307
+Brieger, Peter H., 1898
+776	2	2.7	
+Principles of Program Analysis
+Nielson, Flemming, 1955
+777	2	1.0	
+Science Without Laws
+Giere, Ronald N.
+778	2	0.3	
+Lonesome George : The Life and Loves of a Conservation Icon
+Nicholls, Henry, 1973
+779	2	0.8	
+Questions & Answers in Magnetic Resonance Imaging
+Elster, Allen D.
+780	2	0.3	
+Idolizing Pictures : Idolatry, Iconoclasm and Jewish Art
+Julius, Anthony
+781	2	0.5	
+Guilds and the Parish Community in Late Medieval East Anglia, C. 1470-1550
+Farnhill, Ken, 1971
+782	2	2.4	
+Medieval Children
+Orme, Nicholas
+783	2	1.1	
+The Development of Agrarian Capitalism : Land and Labour in Norfolk, 1440-1580
+Whittle, Jane
+784	2	0.5	
+The Question of Intervention : Statements by the Secretary-General
+Annan, Kofi A. (Kofi Atta)
+785	2	3.9	
+Classical Art : From Greece to Rome
+Beard, Mary, 1955
+786	2	4.6	
+Ethnography
+Brewer, John D.
+787	2	4.3	
+The Twelfth-Century Renaissance
+Swanson, R. N. (Robert Norman)
+788	2	0.3	
+Civil Time
+Milne, John
+The Geographical Journal
+789	2	0.4	
+Customary Law. I.
+Smith, Munroe
+Political Science Quarterly
+790	2	0.5	
+Persius, Satires 6.6
+Jenkinson, J. R.
+The Classical Quarterly
+791	2	0.3	
+Aeschylus, Agamemnon, 50
+Adams, S. M.
+The Classical Review
+792	2	1.9	
+History of Science and Its Rational Reconstructions
+Lakatos, Imre
+PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association
+793	2	3.1	
+Studies in the Logic of Confirmation (I.)
+Hempel, Carl G.
+Mind
+794	2	0.3	
+Conjunctions: Meaning, Truth and Tone
+Rundle, Bede
+Mind
+795	2	3.1	
+John Henry
+Wright, Richard
+Présence Africaine
+796	2	0.3	
+Some Observations on the Life and Career of Lionel Power
+Bowers, Roger
+Proceedings of the Royal Musical Association
+797	2	0.3	
+Verstehen," Ideal Types, and Situational Analysis and the Problem of Free Will
+Finch, John
+Journal of Institutional and Theoretical Economics (JITE) / Zeitschrift Für Die Gesamte Staatswissenschaft
+798	2	19.0	
+Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective
+Haraway, Donna
+Feminist Studies
+799	2	0.4	
+The Chronology of Labour Services
+Postan, M.
+Transactions of the Royal Historical Society
+800	2	2.0	
+The Structure of Scientific Revolutions
+Shapere, Dudley
+The Philosophical Review
+801	2	0.3	
+Japan's Future: Old History Versus New Roles
+Buzan, Barry
+International Affairs (Royal Institute of International Affairs 1944-)
+802	2	0.5	
+Female Wage-Earners in Late Fourteenth-Century England
+Penn, Simon A. C.
+The Agricultural History Review
+803	2	0.3	
+The Pastons and Their Norfolk
+Britnell, R. H.
+The Agricultural History Review
+804	2	0.4	
+Problems With Surveys: Method or Epistemology
+Marsh, Catherine
+Sociology
+805	2	0.3	
+Arrangements
+Lunn, Henry C.
+The Musical Times and Singing Class Circular
+806	2	0.3	
+College Chemistry
+Baker, R. A., Alyea, Hubert N.
+Science
+807	2	0.8	
+The Expanding Universe
+Robertson, H. P.
+Science
+808	2	0.6	
+Lasers
+Schawlow, A. L.
+Science
+809	2	0.5	
+Lollardy and Sedition 1381-1431
+Aston, M. E.
+Past & Present
+810	2	2.2	
+T. H. Aston
+Hilton, R. H., Philpin, C. H. E., Vaisey, M. A.
+Past & Present
+811	2	2.0	
+The Mass as a Social Institution 1200-1700
+Bossy, John
+Past & Present
+812	2	0.8	
+English Serfdom and Villeinage: Towards a Reassessment
+Hatcher, John
+Past & Present
+813	2	0.5	
+English Peasants in Politics 1258-1267
+Carpenter, D. A.
+Past & Present
+814	2	0.4	
+The Origins of the Medieval Town Patriciate
+Hibbert, A. B.
+Past & Present
+815	2	0.3	
+Waves Near Stokes Lines
+Berry, M. V.
+Proceedings of the Royal Society of London. Series A, Mathematical and Physical Sciences
+816	2	0.3	
+Population Change, Enclosure, and the Early Tudor Economy
+Blanchard, Ian
+The Economic History Review
+817	2	0.3	
+Florentine Merchants in England, 1346-1436
+Holmes, G. A.
+The Economic History Review
+818	2	1.1	
+Before the Black Death
+Bridbury, A. R.
+The Economic History Review
+819	2	0.3	
+Agricultural Technology and the Margin of Cultivation in the Fourteenth Century
+Britnell, R. H.
+The Economic History Review
+820	2	0.3	
+The Expansion of the South-Western Fisheries in Late Medieval England
+Kowaleski, Maryanne
+The Economic History Review
+821	2	0.5	
+Astronomy
+Spencer-Jones, H.
+Science Progress in the Twentieth Century (1919-1933)
+822	2	1.5	
+The Conversion of Jews to Christianity in Thirteenth-Century England
+Stacey, Robert C.
+Speculum
+823	2	0.3	
+The Formation of the English Social Structure: Freedom, Knights, and Gentry, 1066-1300
+Scammell, Jean
+Speculum
+824	2	0.4	
+Visit (For R. S. A., 1897-1950)
+Adams, Hazard
+The American Scholar
+825	2	15.8	
+Aeneid, Book 2
+Virgil, Ganassi, Ian
+New England Review (1990-)
+826	2	0.9	
+Vocational Education
+Ryan,, W. Carter
+Monthly Review of the U.S. Bureau of Labor Statistics
+827	2	0.5	
+By Quick and by Dead': Wills and Pious Provision in Late Medieval Bristol
+Burgess, Clive
+The English Historical Review
+828	2	0.3	
+Problems of the Priesthood in Pre-Reformation England
+Swanson, R. N.
+The English Historical Review
+829	2	0.6	
+Jews and the Law in England, 1275-90
+Brand, Paul
+The English Historical Review
+830	2	0.4	
+Credit in Medieval Trade
+Postan, M.
+The Economic History Review
+831	2	0.3	
+High Prices in Early Fourteenth-Century England: Causes and Consequences
+Mate, Mavis
+The Economic History Review
+832	2	0.3	
+Labour Productivity and Work Psychology in the English Mining Industry, 1400-1600
+Blanchard, Ian
+The Economic History Review
+833	2	0.4	
+Mortality in the Fifteenth Century: Some New Evidence
+Hatcher, John
+The Economic History Review
+834	2	0.3	
+Ärzte- Und Apotheker-Wappen
+Gutmann, Siegfried
+835	2	12.4	
+Odes and Epodes
+Horace
+836	2	5.1	
+How Late It Was, How Late
+Kelman, James, 1946
+837	2	1.0	
+A Medieval Society; The West Midlands at the End of the Thirteenth Century
+Hilton, R. H. (Rodney Howard), 1916
+838	2	2.8	
+Introductory Lectures on Aesthetics
+Hegel, Georg Wilhelm Friedrich, 1770-1831
+839	2	11.2	
+The French Revolution
+Jones, R. Ben
+840	2	1.3	
+Ars Sacra, 800-1200
+Lasko, Peter
+841	2	3.2	
+Dangerous Fieldwork
+Lee, Raymond M., 1946
+842	2	51.3	
+David Copperfield
+Dickens, Charles, 1812-1870
+843	2	0.3	
+Rural Economy and Society in the Duchy of Cornwall, 1300-1500
+Hatcher, John
+844	2	45.2	
+TCP/IP Illustrated
+Stevens, W. Richard
+845	2	0.3	
+The Commonwealth of Lincoln College, 1427-1977
+Green, Vivian Hubert Howard
+846	2	4.5	
+Modern Microeconomics
+Koutsoyiannis, A.
+847	2	1.3	
+Westminster Abbey and Its Estates in the Middle Ages
+Harvey, Barbara F.
+848	2	8.4	
+Selected Essays, 1917-1932
+Eliot, T. S. (Thomas Stearns), 1888-1965
+849	2	0.9	
+Sources in British Political History, 1900-1951
+Cook, Chris, 1945
+850	2	1.5	
+Wyclif
+Kenny, Anthony John Patrick
+851	2	1.1	
+Medieval Wales
+Carr, A. D. (Anthony D.), 1938
+852	2	16.8	
+Orestes
+Euripides
+853	2	10.6	
+Optical Electronics
+Yariv, Amnon
+854	2	1.5	
+Medieval England : Towns, Commerce, and Crafts, 1086-1348
+Miller, Edward, 1915
+855	2	0.3	
+The Painted Chamber at Westminster
+Binski, Paul
+856	2	0.8	
+The Asymptotic Theory of Extreme Order Statistics
+Galambos, János, 1940
+857	2	1.3	
+Old English and Middle English Poetry
+Pearsall, Derek Albert
+858	2	14.3	
+Cognitive Therapy and the Emotional Disorders
+Beck, Aaron T.
+859	2	1.0	
+The English Wool Trade in the Middle Ages
+Lloyd, T. H. (Terrence Henry), 1937
+860	2	0.3	
+The Gentry of Bedfordshire in the Thirteenth and Fourteenth Centuries
+Naughton, Katherine S.
+861	2	0.5	
+Ayer
+Foster, John, 1941 May 5
+862	2	2.0	
+Women in Soviet Society : Equality, Development, and Social Change
+Lapidus, Gail Warshofsky
+863	2	17.6	
+Philosophy of Natural Science
+Hempel, Carl G. (Carl Gustav), 1905-1997
+864	2	7.3	
+Philosophy, Politics, and Society
+Laslett, Peter
+865	2	2.8	
+The Roman Empire and Its Neighbours
+Millar, Fergus
+866	2	13.6	
+Commedia
+Dante Alighieri, 1265-1321
+867	2	1.0	
+The Physics of Amorphous Solids
+Zallen, Richard
+868	2	0.3	
+Community, Class, and Careerism : Cheshire and Lancashire Society in the Age of Sir Gawain and the Green Knight
+Bennett, Michael J. (Michael John), 1949
+869	2	0.4	
+The Antifraternal Tradition in Medieval Literature
+Szittya, Penn R., 1945
+870	2	5.1	
+Religious Poverty and the Profit Economy in Medieval Europe
+Little, Lester K.
+871	2	11.3	
+The Morality of Freedom
+Raz, Joseph
+872	2	31.3	
+Mary Barton
+Gaskell, Elizabeth Cleghorn, 1810-1865
+873	2	2.7	
+Scientific Realism and the Plasticity of Mind
+Churchland, Paul M., 1942
+874	2	8.9	
+The Eclogues & Georgics
+Virgil
+875	2	12.6	
+Ars Amatoria
+Ovid, 43 B.C.-17 A.D. Or 18 A.D
+876	2	3.7	
+Iphigeneia at Aulis
+Euripides
+877	2	1.1	
+Society and Homicide in Thirteenth-Century England
+Given, James Buchanan
+878	2	5.6	
+The Making of Late Antiquity
+Brown, Peter Robert Lamont
+879	2	1.9	
+Crime and Conflict in English Communities, 1300-1348
+Hanawalt, Barbara
+880	2	46.2	
+Gargantua
+Rabelais, François, Approximately 1490-1553
+881	2	2.3	
+Nonintervention and International Order
+Vincent, R. J., 1943
+882	2	1.9	
+The Coming of the Friars
+Brooke, Rosalind B.
+883	2	0.4	
+Piety, Charity, and Literacy Among the Yorkshire Gentry, 1370-1480
+Vale, M. G. A. (Malcolm Graham Allan)
+884	2	10.2	
+Logical Positivism
+Ayer, A. J. (Alfred Jules), 1910- Ed
+885	2	1.1	
+Medieval England : An Aerial Survey
+Beresford, M. W. (Maurice Warwick), 1920-2005
+886	2	19.1	
+Probability and Random Processes
+Grimmett, Geoffrey
+887	2	1.0	
+Scientific Explanation : A Study of the Function of Theory, Probability and Law in Science
+Braithwaite, R. B. (Richard Bevan)
+888	2	64.3	
+On Marx
+Engels, Friedrich, 1820-1895
+889	2	1.7	
+Probability and Evidence
+Horwich, Paul
+890	2	3.4	
+Select Letters
+Cicero, Marcus Tullius
+891	2	44.8	
+Questionnaire Design and Attitude Measurement
+Oppenheim, A. N. (Abraham Naftali), 1924
+892	2	2.3	
+The Medieval Theatre
+Wickham, Glynne William Gladstone
+893	2	0.3	
+The Matter of Chance
+Mellor, D. H.
+894	2	0.3	
+Popper and After : Four Modern Irrationalists
+Stove, D. C. (David Charles)
+895	2	0.3	
+Abstract Lie Algebras
+Winter, David J.
+896	2	10.3	
+Medea
+Seneca, Lucius Annaeus, Approximately 4 B.C.-65 A.D
+897	2	8.4	
+Malory
+Vinaver, Eugène, 1899
+898	2	28.0	
+On Christian Doctrine
+Augustine, Saint, Bishop of Hippo
+899	2	1.1	
+Complex Semisimple Lie Algebras
+Serre, Jean Pierre
+900	2	1.0	
+British Analytical Philosophy
+Williams, Bernard Arthur Owen
+901	2	8.4	
+Hegel
+Inwood, M. J., 1944
+902	2	22.0	
+Palestine and the Arab-Israeli Conflict
+Smith, Charles D., 1936
+903	2	0.4	
+Literature & Art in the Middle Ages
+Pickering, F. P. (Frederick Pickering), 1909
+904	2	0.9	
+The Lost Villages of England
+Beresford, M. W. (Maurice Warwick), 1920-2005
+905	2	0.3	
+English and International : Studies in the Literature, Art, and Patronage of Medieval England
+Salter, Elizabeth, 1925-1980
+906	2	1.7	
+The English Mystery Plays
+Woolf, Rosemary
+907	2	1.4	
+Economic Growth: England in the Later Middle Ages
+Bridbury, A. R.
+908	2	10.6	
+The Pound Era
+Kenner, Hugh
+909	2	0.9	
+The Twelfth-Century Renaissance
+Hollister, C. Warren (Charles Warren), 1930- Comp
+910	2	0.8	
+Literacy and Development in the West
+Cipolla, Carlo M.
+911	2	0.4	
+Medieval Artisans : An Urban Class in Late Medieval England
+Swanson, Heather
+912	2	11.7	
+Mathematical Elements for Computer Graphics
+Rogers, David F., 1937
+913	2	38.9	
+Electra
+Sophocles
+914	2	0.5	
+Technological Change at Work
+McLoughlin, Ian
+915	2	2.5	
+The Medieval English Universities : Oxford and Cambridge to C. 1500
+Cobban, Alan B.
+916	2	1.7	
+Romanesque
+Zarnecki, George
+917	2	4.8	
+Social Chaucer
+Strohm, Paul, 1938
+918	2	27.5	
+Nanook of the North
+Flaherty, Robert Joseph, 1884-1951
+919	2	7.5	
+Lex & Yacc
+Levine, John R.
+920	2	1.0	
+Bose-Einstein Condensation in Dilute Gases
+Pethick, Christopher
+921	2	41.8	
+Trojan Women
+Euripides
+922	2	9.6	
+Options, Futures, and Other Derivative Securities
+Hull, J. C. (John C.)
+923	2	1.5	
+Colloidal Dispersions
+Russel, William B.
+924	2	2.3	
+String Theory
+Polchinski, Joseph Gerard
+925	2	0.3	
+A Bayesian Revolution in Spectral Analysis
+Gregory, P. C. (Philip Christopher), 1941
+926	2	7.3	
+More Than Night : Film Noir in Its Contexts
+Naremore, James
+927	2	15.7	
+The Psychology of Language : From Data to Theory
+Harley, Trevor A.
+928	2	0.4	
+Schur Algebras and Representation Theory
+Martin, Stuart, 1964
+929	2	0.3	
+Royal Orders
+Vickers, Hugo
+930	2	1.0	
+Everyday Life in Medieval England
+Dyer, Christopher, 1944
+931	2	0.6	
+Plasma Physics for Astrophysics
+Kulsrud, R. M.
+932	2	66.4	
+Empire
+Hardt, Michael
+933	2	0.4	
+Cinéma
+Deleuze, Gilles, 1925-1995
+934	2	1.5	
+The Archaeology of Mesopotamia : Theories and Approaches
+Matthews, Roger, Dr
+935	2	0.8	
+Panorama of the Classical World
+Spivey, Nigel Jonathan
+936	2	2.4	
+Image and Devotion in Late Medieval England
+Marks, Richard, 1945
+937	2	6.2	
+The Fall of Rome : And the End of Civilization
+Ward-Perkins, Bryan
+938	2	1.8	
+Probate Jurisdictions : Where to Look for Wills
+Gibson, Jeremy Sumner Wycherley
+939	2	0.4	
+Adelard of Bath : The First English Scientist
+Cochrane, Louise
+940	2	2.0	
+Numerical Analysis for Statisticians
+Lange, Kenneth
+941	2	0.6	
+Critical Rationalism : A Restatement and Defence
+Miller, David (David W.)
+942	2	54.5	
+Discovering Statistics Using R
+Field, Andy P.
+943	2	0.4	
+Oxford Life in Oxford Archives
+Pantin, W. A. (William Abel), 1902
+944	2	4.6	
+Epistles
+Ovid, 43 B.C.-17 A.D. Or 18 A.D
+945	2	88.7	
+The Metaphysics of Morals
+Kant, Immanuel, 1724-1804
+946	2	1.7	
+The Purchase of Paradise; Gift Giving and the Aristocracy, 1307-1485
+Rosenthal, Joel Thomas, 1934
+947	2	5.5	
+The Philosophy of Science
+Papineau, David, 1947
+948	2	0.5	
+Medieval Southampton; The Port and Trading Community, A.D. 1000-1600
+Platt, Colin
+949	2	0.4	
+Cheshire : A Genealogical Bibliography
+Raymond, Stuart A., 1945
+950	2	0.9	
+The Physics of Rubber Elasticity
+Treloar, L. R. G.
+951	2	1.5	
+An Objective Theory of Probability
+Gillies, D. A. (Douglas Angus)
+952	2	0.3	
+An Introduction to Domesday Book
+Finn, R. Welldon (Rex Welldon)
+953	2	0.3	
+The English Austin Friars, 1249-1538
+Roth, Francis Xavier, 1900
+954	2	94.6	
+Capital
+Marx, Karl, 1818-1883
+955	2	0.4	
+Franciscan Papers, Lists, and Documents
+Little, A. G. (Andrew George), 1863-1945
+956	2	22.0	
+Interpreting Qualitative Data : Methods for Analysing Talk, Text and Interaction
+Silverman, David
+957	2	3.8	
+Fundamentals of Modern VLSI Devices
+Taur, Yuan, 1946
+958	2	11.3	
+Public Religions in the Modern World
+Casanova, José
+959	2	34.0	
+Qualitative Researching
+Mason, Jennifer, 1958
+960	2	0.6	
+Dissidence and Literature Under Nero : The Price of Rhetoricization
+Rudich, Vasily, 1949
+961	2	4.7	
+Greek Art
+Spivey, Nigel Jonathan
+962	2	1.1	
+Europe Before History
+Kristiansen, Kristian, 1948
+963	2	2.2	
+The Lady in Medieval England, 1000-1500
+Coss, Peter R.
+964	2	20.1	
+Genre
+Neale, Stephen
+965	2	3.8	
+Social Development
+Schaffer, H. Rudolph
+966	2	10.7	
+Advanced Compiler Design and Implementation
+Muchnick, Steven S., 1945
+967	2	18.5	
+Qualitative Inquiry and Research Design : Choosing Among Five Traditions
+Creswell, John W.
+968	2	0.6	
+Fundamentals of Manufacturing for Engineers
+Waters, T. Frederick
+969	2	1.8	
+Daughters, Wives, and Widows After the Black Death : Women in Sussex, 1350-1535
+Mate, Mavis E., 1933
+970	2	0.8	
+Dialogues and Letters
+Seneca, Lucius Annaeus, Approximately 4 B.C.-65 A.D
+971	2	0.3	
+Medieval Southwark
+Carlin, Martha
+972	2	25.6	
+Physics for Scientists and Engineers
+Tipler, Paul Allen, 1933
+973	2	0.5	
+Food and Love : A Cultural History of East and West
+Goody, Jack
+974	2	0.5	
+Changing Landscapes : The Ancient Fenland
+Coles, J. M. (John M.)
+975	2	0.4	
+The Elements of Nonlinear Optics
+Butcher, Paul N.
+976	2	1.1	
+The Architecture of Medieval Britain : A Social History
+Platt, Colin
+977	2	27.1	
+Mechanics
+Meriam, J. L. (James L.)
+978	2	6.4	
+Constructing Questions for Interviews and Questionnaires : Theory and Practice in Social Research
+Foddy, William H.
+979	2	9.3	
+Introduction to Environmental Engineering and Science
+Masters, Gilbert M.
+980	2	0.9	
+Medieval Ships and Shipping
+Hutchinson, Gillian, 1955
+981	2	2.8	
+Intellectuals in the Middle Ages
+Le Goff, Jacques, 1924-2014
+982	2	0.8	
+English Preaching in the Late Middle Ages
+Spencer, H. Leith
+983	2	0.5	
+Octavo Publications
+Cambridge Antiquarian Society (Cambridge, England)
+984	2	12.2	
+Thermodynamics
+Van Wylen, Gordon J. (Gordon John), 1920
+985	2	1.3	
+The Great Household in Late Medieval England
+Woolgar, C. M.
+986	2	0.3	
+Broken Genius : The Rise and Fall of William Shockley, Creator of the Electronic Age
+Shurkin, Joel N., 1938
+987	2	0.4	
+Religious Life for Women, C.1100-C.1350 : Fontevraud in England
+Kerr, Berenice M.
+988	2	82.8	
+Jane Eyre
+Bronte, Charlotte, 1816-1855
+989	2	0.5	
+Randomization and Monte Carlo Methods in Biology
+Manly, Bryan F. J., Author
+990	2	0.3	
+The Economic Horror
+Forrester, Viviane
+991	2	1.5	
+Medieval British Towns
+Swanson, Heather
+992	2	0.6	
+A Brief Guide to Algebraic Number Theory
+Swinnerton-Dyer, H. P. F.
+993	2	1.5	
+On Philosophy
+Thomson, Garrett
+994	2	2.0	
+The Lollards
+Rex, Richard
+995	2	2.5	
+The Man With the Movie Camera
+Roberts, Graham, 1957
+996	2	0.6	
+English Seigniorial Agriculture, 1250-1450
+Campbell, B. M. S.
+997	2	3.4	
+Early Medieval Architecture
+Stalley, R. A.
+998	2	1.9	
+African Cinemas : Decolonizing the Gaze
+Barlet, Olivier
+999	2	0.9	
+Optical Control of Molecular Dynamics
+Rice, Stuart Alan, 1932
+1000	2	0.5	
+Prospectus
+Adams, Chas. S., Fleming, F. P.
+Publications of the Florida Historical Society

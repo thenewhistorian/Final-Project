@@ -1,0 +1,3077 @@
+Rank	Count	Score	Text
+1	3,077	100.0	
+The Elements of Style
+Strunk, William, 1869-1946
+2	2,479	99.9	
+Republic
+Plato
+3	2,337	99.6	
+Biology
+Campbell, Neil A., 1946
+4	2,244	99.7	
+The Communist Manifesto
+Marx, Karl, 1818-1883
+5	1,862	99.4	
+Ethics
+Aristotle
+6	1,844	99.1	
+The Prince
+Machiavelli, Niccolò, 1469-1527
+7	1,797	99.2	
+Leviathan
+Hobbes, Thomas, 1588-1679
+8	1,787	99.0	
+Oedipus
+Sophocles
+9	1,785	99.5	
+Frankenstein
+Shelley, Mary Wollstonecraft, 1797-1851
+10	1,729	98.5	
+A Manual for Writers of Term Papers, Theses, and Dissertations
+Turabian, Kate L.
+11	1,605	97.8	
+Letter From the Birmingham Jail
+King, Martin Luther, Jr., 1929-1968
+12	1,508	98.7	
+The Odyssey
+Homer
+13	1,496	97.1	
+Apology
+Plato
+14	1,433	98.0	
+Antigone
+Sophocles
+15	1,412	98.3	
+The Iliad
+Homer
+16	1,404	97.3	
+Utilitarianism
+Mill, John Stuart, 1806-1873
+17	1,401	94.4	
+Methods in Behavioral Research
+Cozby, Paul C.
+18	1,370	97.6	
+The Structure of Scientific Revolutions
+Kuhn, Thomas S.
+19	1,370	95.8	
+A Pocket Style Manual
+Hacker, Diana, 1942-2004
+20	1,361	97.7	
+On Liberty
+Mill, John Stuart, 1806-1873
+21	1,352	97.2	
+The Clash of Civilizations
+Huntington, Samuel P.
+22	1,345	98.2	
+Heart of Darkness
+Conrad, Joseph, 1857-1924
+23	1,326	98.1	
+Canterbury Tales
+Chaucer, Geoffrey, -1400
+24	1,322	96.4	
+A Manual for Writers of Dissertations
+Turabian, Kate L.
+25	1,294	98.6	
+Orientalism
+Said, Edward W.
+26	1,293	95.9	
+MLA Handbook for Writers of Research Papers
+Gibaldi, Joseph, 1942
+27	1,284	94.0	
+The Bedford Handbook
+Hacker, Diana, 1942-2004
+28	1,267	98.9	
+Hamlet
+Shakespeare, William, 1564-1616
+29	1,247	97.1	
+Things Fall Apart
+Achebe, Chinua
+30	1,201	97.5	
+Paradise Lost
+Milton, John, 1608-1674
+31	1,181	96.2	
+Democracy in America
+Tocqueville, Alexis De, 1805-1859
+32	1,109	96.6	
+The Politics
+Aristotle
+33	1,105	93.5	
+Incidents in the Life of a Slave Girl
+Jacobs, Harriet A. (Harriet Ann), 1813-1897
+34	1,103	96.7	
+Confessions
+Augustine, Saint, Bishop of Hippo
+35	1,099	96.3	
+Walden
+Thoreau, Henry David, 1817-1862
+36	1,062	92.2	
+Project Evaluation
+Due, Jean M.
+African Studies Review
+37	1,059	96.8	
+Origin of Species
+Darwin, Charles, 1809-1882
+38	1,041	93.9	
+The Yellow Wallpaper
+Gilman, Charlotte Perkins, 1860-1935
+39	1,040	95.3	
+Nicomachean Ethics
+Aristotle
+40	1,035	95.0	
+Autobiography
+Franklin, Benjamin, 1706-1790
+41	1,026	96.1	
+C : How to Program
+Deitel, Harvey M., 1945
+42	1,024	93.4	
+The Tragedy of the Commons
+Hardin, Garrett James, 1915-2003
+43	1,021	95.4	
+Dialogues
+Plato
+44	968	94.1	
+The Social Contract
+Rousseau, Jean-Jacques, 1712-1778
+45	962	95.5	
+Wealth of Nations
+Smith, Adam, 1723-1790
+46	948	96.9	
+Power
+Foucault, Michel, 1926-1984
+47	941	91.7	
+Meditations on First Philosophy
+Descartes, René, 1596-1650
+48	932	91.0	
+Crito
+Plato
+49	930	94.8	
+Beloved
+Morrison, Toni
+50	919	94.6	
+Capital
+Marx, Karl, 1818-1883
+51	914	94.9	
+The Poetics
+Aristotle
+52	900	93.0	
+The Peloponnesian War
+Thucydides
+53	891	93.2	
+The Declaration of Independence
+Jefferson, Thomas, 1743-1826
+54	889	92.5	
+Oedipus the King
+Sophocles
+55	883	95.2	
+The History of Sexuality
+Foucault, Michel, 1926-1984
+56	882	92.9	
+Democracy in America
+De Tocqueville, Alexis, Mansfield, Harvey C., Winthrop, Delba
+New England Review (1990-)
+57	872	89.7	
+Calculus : Early Transcendentals
+Stewart, James, 1941
+58	868	93.1	
+Candide
+Voltaire, 1694-1778
+59	862	93.6	
+The Aeneid
+Virgil
+60	860	93.4	
+The Awakening
+Chopin, Kate, 1850-1904
+61	858	93.8	
+Utopia
+More, Thomas, Sir, Saint, 1478-1535
+62	851	94.5	
+The Tempest
+Shakespeare, William, 1564-1616
+63	838	89.9	
+The Love Song of J. Alfred Prufrock
+Eliot, T. S. (Thomas Stearns), 1888-1965
+64	829	91.2	
+Medea
+Euripides
+65	824	92.4	
+Existentialism
+Sartre, Jean Paul, 1905-1980
+66	817	95.7	
+The Great Gatsby
+Fitzgerald, F. Scott (Francis Scott), 1896-1940
+67	811	88.7	
+The Metaphysics of Morals
+Kant, Immanuel, 1724-1804
+68	807	91.3	
+Their Eyes Were Watching God
+Hurston, Zora Neale
+69	790	91.8	
+Invisible Man
+Ellison, Ralph
+70	790	90.3	
+Common Sense
+Paine, Thomas
+71	786	87.1	
+Euthyphro
+Plato
+72	783	90.1	
+Physics
+Walker, James S., 1950
+73	776	88.9	
+Second Treatise of Government
+Locke, John, 1632-1704
+74	775	89.2	
+Discourse on Method
+Descartes, René, 1596-1650
+75	759	90.2	
+The Analects
+Confucius
+76	758	92.7	
+A Theory of Justice
+Rawls, John, 1921-2002
+77	757	89.0	
+The Sociological Imagination
+Mills, C. Wright (Charles Wright), 1916-1962
+78	756	94.3	
+Huckleberry Finn
+Twain, Mark, 1835-1910
+79	752	90.4	
+Physics
+Halliday, David, 1916
+80	742	89.8	
+The Protestant Ethic and the Spirit of Capitalism
+Weber, Max, 1864-1920
+81	735	87.0	
+Lysistrata
+Aristophanes
+82	735	81.0	
+The Art of Public Speaking
+Lucas, Stephen
+83	729	85.5	
+Young Goodman Brown
+Hawthorne, Nathaniel, 1804-1864
+84	713	92.1	
+Metamorphoses
+Ovid, 43 B.C.-17 A.D. Or 18 A.D
+85	712	86.4	
+Fundamentals of Anatomy and Physiology
+Martini, Frederic
+86	703	85.4	
+Symposium
+Plato
+87	699	84.3	
+Getting to Yes
+Fisher, Roger, 1922-2012
+88	699	87.4	
+Corporate Finance
+Ross, Stephen A.
+89	699	85.2	
+Bartleby
+Melville, Herman, 1819-1891
+90	696	87.5	
+Macroeconomics
+Mankiw, N. Gregory
+91	691	80.8	
+Coming of Age in Mississippi
+Moody, Anne, 1940-2015
+92	689	86.8	
+Rhetoric
+Aristotle
+93	689	88.4	
+Silent Spring
+Carson, Rachel, 1907-1964
+94	687	84.8	
+The Oresteia
+Aeschylus
+95	686	86.1	
+Fundamentals of Physics
+Halliday, David, 1916
+96	664	89.0	
+The Metamorphosis
+Kafka, Franz, 1883-1924
+97	662	85.9	
+A Modest Proposal
+Swift, Jonathan, 1667-1745
+98	660	87.6	
+I Have a Dream
+King, Martin Luther, Jr., 1929-1968
+99	655	91.1	
+Human Anatomy & Physiology
+Marieb, Elaine Nicpon, 1936
+100	648	86.9	
+Civil Disobedience
+Thoreau, Henry David, 1817-1862. Aut
+101	647	88.2	
+Pedagogy of the Oppressed
+Freire, Paulo, 1921-1997
+102	643	92.0	
+Ways of Seeing
+Berger, John
+103	642	87.9	
+Artificial Intelligence : A Modern Approach
+Russell, Stuart J. (Stuart Jonathan)
+104	642	81.3	
+A Rose for Emily
+Faulkner, William, 1897-1962
+105	629	89.3	
+Mrs. Dalloway
+Woolf, Virginia, 1882-1941
+106	629	84.1	
+Maus
+Spiegelman, Art
+107	628	92.6	
+Henry V
+Shakespeare, William, 1564-1616
+108	626	83.6	
+My Last Duchess
+Browning, Robert, 1812-1889
+109	619	83.1	
+The House on Mango Street
+Cisneros, Sandra
+110	617	83.8	
+Civilization and Its Discontents
+Freud, Sigmund, 1856-1939
+111	617	79.0	
+Chemistry
+Chang, Raymond
+112	616	80.0	
+Art History
+Stokstad, Marilyn, 1929
+113	613	82.2	
+The Bacchae
+Euripides
+114	606	87.4	
+The Waste Land
+Eliot, T. S. (Thomas Stearns), 1888-1965
+115	606	75.2	
+A Pocket Guide to Writing in History
+Rampolla, Mary Lynn
+116	602	84.7	
+Night
+Wiesel, Elie, 1928
+117	600	84.6	
+The Second Sex
+Beauvoir, Simone De, 1908-1986
+118	600	84.5	
+Oedipus Rex
+Sophocles
+119	598	90.6	
+Othello
+Shakespeare, William, 1564-1616
+120	596	81.1	
+The German Ideology
+Marx, Karl, 1818-1883
+121	596	86.5	
+The Jungle
+Sinclair, Upton, 1878-1968
+122	593	82.3	
+Nature
+Emerson, Ralph Waldo, 1803-1882
+123	591	78.0	
+America : A Narrative History
+Tindall, George Brown
+124	589	79.5	
+Ceremony
+Silko, Leslie, 1948
+125	586	83.2	
+The Bluest Eye
+Morrison, Toni
+126	586	81.4	
+A Vindication of the Rights of Woman
+Wollstonecraft, Mary, 1759-1797
+127	583	81.1	
+The Feminine Mystique
+Friedan, Betty
+128	581	78.7	
+The Practice of Social Research
+Babbie, Earl R.
+129	575	87.8	
+Moby Dick
+Melville, Herman, 1819-1891
+130	570	77.8	
+The Lexus and the Olive Tree
+Friedman, Thomas L.
+131	567	84.2	
+Leaves of Grass
+Whitman, Walt, 1819-1892
+132	567	89.4	
+Economics
+Krugman, Paul R.
+133	565	91.5	
+Pride & Prejudice
+Austen, Jane, 1775-1817
+134	565	78.2	
+Agamemnon
+Aeschylus
+135	562	81.8	
+Lyrical Ballads 1805
+Wordsworth, William, 1770-1850
+136	561	86.2	
+The Wretched of the Earth
+Fanon, Frantz, 1925-1961
+137	559	89.6	
+Human Anatomy
+Marieb, Elaine Nicpon, 1936
+138	558	72.1	
+Chemistry, the Central Science
+Brown, Theodore L. (Theodore Lawrence), 1928
+139	553	74.5	
+Intermediate Accounting
+Kieso, Donald E.
+140	549	79.1	
+The Rights of Woman
+Wollstonecraft, Mary, 1759-1797
+141	548	80.5	
+Self Reliance
+Emerson, Ralph Waldo, 1803-1882
+142	546	75.5	
+Everyday Use
+Walker, Alice, 1944
+143	545	82.4	
+Writing and Reading
+French, Michael P., Danielson, Kathy Everts, Conn, Maureen, Gale, Willa, Lueck, Charlene, Manley, Mona
+The Reading Teacher
+144	544	77.1	
+Theogony
+Hesiod
+145	542	85.1	
+Death of a Salesman
+Miller, Arthur, 1915-2005
+146	542	70.1	
+Nickel and Dimed : On (Not) Getting by in America
+Ehrenreich, Barbara
+147	540	78.5	
+Phaedo
+Plato
+148	537	76.9	
+Phaedrus
+Plato
+149	536	77.2	
+Jihad vs. McWorld
+Barber, Benjamin R., 1939
+150	529	85.0	
+Neuromancer
+Gibson, William, 1948
+151	529	80.4	
+Songs of Innocence
+Blake, William, 1757-1827
+152	527	88.0	
+King Lear
+Shakespeare, William, 1564-1616
+153	527	90.7	
+Brave New World
+Huxley, Aldous, 1894-1963
+154	527	79.7	
+Introduction to Algorithms
+Cormen, Thomas H.
+155	525	88.3	
+Adventures of Huckleberry Finn
+Twain, Mark, 1835-1910
+156	524	76.3	
+The Souls of Black Folk
+Du Bois, W. E. B. (William Edward Burghardt), 1868-1963
+157	524	77.7	
+The Genealogy of Morals
+Nietzsche, Friedrich Wilhelm, 1844-1900
+158	517	80.6	
+The New University
+Paul, F. T.
+The British Medical Journal
+159	515	83.9	
+Globalization and Its Discontents
+Stiglitz, Joseph E.
+160	514	88.3	
+The Scarlet Letter
+Hawthorne, Nathaniel, 1804-1864
+161	512	81.3	
+The Presentation of Self in Everyday Life
+Goffman, Erving
+162	511	82.5	
+The Importance of Being Earnest
+Wilde, Oscar, 1854-1900
+163	510	85.6	
+Dracula
+Stoker, Bram, 1847-1912
+164	510	71.7	
+Notes on the State of Virginia
+Jefferson, Thomas, 1743-1826
+165	506	83.4	
+Midsummer N. Dream
+Shakespeare, William, 1564-1616
+166	503	73.9	
+Manifesto of the Communist Party
+Marx, Karl, 1818-1883
+167	501	73.8	
+An Enquiry Concerning Human Understanding
+Hume, David, 1711-1776
+168	499	74.6	
+Oroonoko
+Behn, Aphra, 1640-1689
+169	498	70.3	
+The Apology and Crito
+Plato
+170	494	80.3	
+An Essay Concerning Human Understanding
+Locke, John, 1632-1704
+171	491	81.5	
+The Metaphysics
+Aristotle
+172	490	75.4	
+The Lottery
+Jackson, Shirley, 1916-1965
+173	489	72.0	
+Bartleby, the Scrivener
+Melville, Herman, 1819-1891
+174	487	75.2	
+Gorgias
+Plato
+175	485	67.9	
+Music : An Appreciation
+Kamien, Roger
+176	482	69.7	
+Auschwitz
+Levi, Steven C.
+European Judaism: A Journal for the New Europe
+177	482	64.2	
+Five Dialogues
+Plato
+178	481	70.6	
+The General Prologue
+Chaucer, Geoffrey, -1400
+179	476	70.1	
+Physics
+Cutnell, John D.
+180	473	68.3	
+Conceptual Physics
+Hewitt, Paul G.
+181	469	80.6	
+Faust
+Goethe, Johann Wolfgang Von, 1749-1832
+182	469	75.4	
+A Raisin in the Sun
+Hansberry, Lorraine, 1930-1965
+183	465	78.5	
+Reflections on the Revolution in France
+Burke, Edmund, 1729-1797
+184	464	83.4	
+Psychology
+Brown, Roger, 1925-1997
+185	464	74.3	
+To His Coy Mistress
+Marvell, Andrew, 1621-1678
+186	464	69.9	
+Lais
+Marie, De France, Active 12th Century
+187	463	78.6	
+The Decameron
+Boccaccio, Giovanni, 1313-1375
+188	461	69.9	
+Trifles
+Glaspell, Susan, 1876-1948
+189	461	72.6	
+The Craft of Research
+Booth, Wayne C.
+190	457	87.3	
+To the Lighthouse
+Woolf, Virginia, 1882-1941
+191	457	66.8	
+Republic, Book X
+Plato
+192	456	79.6	
+Hard Times
+Dickens, Charles, 1812-1870
+193	454	70.8	
+The Clouds
+Aristophanes
+194	454	62.7	
+Psychology : Themes and Variations
+Weiten, Wayne, 1950
+195	451	73.6	
+The Gettysburg Address
+Lincoln, Abraham, 1809-1865
+196	449	74.0	
+The Great Transformation
+Polanyi, Karl, 1886-1964
+197	448	90.8	
+Macbeth
+Shakespeare, William, 1564-1616
+198	447	76.2	
+All Quiet on the Western Front
+Remarque, Erich Maria, 1898-1970
+199	444	70.2	
+The Subjection of Women
+Mill, John Stuart, 1806-1873
+200	443	66.9	
+Works & Days
+Hesiod
+201	443	74.9	
+The Rape of the Lock
+Pope, Alexander, 1688-1744
+202	443	86.0	
+Ulysses
+Joyce, James, 1882-1941
+203	442	61.8	
+Principles of Microeconomics
+Mankiw, N. Gregory
+204	442	82.8	
+Jane Eyre
+Bronte, Charlotte, 1816-1855
+205	440	73.0	
+History of the Peloponnesian War
+Thucydides
+206	438	78.2	
+Dubliners
+Joyce, James, 1882-1941
+207	438	67.4	
+Fundamentals of Physics
+Walker, Jearl, 1945
+208	437	69.2	
+Discrete Mathematics and Its Applications
+Rosen, Kenneth H.
+209	437	78.1	
+Contemporary Literature
+English, Thomas H.
+South Atlantic Bulletin
+210	433	58.5	
+The Little, Brown Handbook
+Fowler, H. Ramsey (Henry Ramsey)
+211	433	75.0	
+A Streetcar Named Desire
+Williams, Tennessee, 1911-1983
+212	431	75.0	
+The Turn of the Screw
+James, Henry, 1843-1916
+213	430	76.7	
+The Interpretation of Dreams
+Freud, Sigmund, 1856-1939
+214	430	66.5	
+Passing
+Larsen, Nella
+215	429	74.6	
+The Histories
+Herodotus
+216	428	68.3	
+Organic Chemistry
+McMurry, John
+217	427	77.3	
+American History
+James, James Alton, 1864-1962
+218	426	81.8	
+The End of History
+Fukuyama, Francis
+The National Interest
+219	423	67.6	
+The Evolution of Cooperation
+Axelrod, Robert M.
+220	423	80.1	
+Robinson
+Defoe, Daniel, 1661?-1731
+221	422	55.2	
+Teacher Education
+Young, Jay
+The Science Teacher
+222	422	67.9	
+Dover Beach
+Arnold, Matthew
+The English Journal
+223	420	74.8	
+Organizational Behavior
+Robbins, Stephen P., 1943
+224	419	66.5	
+Of Plymouth Plantation, 1620-1647
+Bradford, William, 1588-1657
+225	418	75.9	
+Investments
+Bodie, Zvi
+226	415	60.0	
+Physics for Scientists and Engineers
+Serway, Raymond A.
+227	415	79.5	
+Robinson Crusoe
+Defoe, Daniel, 1661?-1731
+228	411	67.3	
+Fall of the House of Usher
+Poe, Edgar Allan, 1809-1849
+229	411	85.7	
+Understanding Comics
+McCloud, Scott, 1960
+230	408	53.6	
+Pharmacology for Nursing Care
+Lehne, Richard A., 1943
+231	407	61.0	
+Benito Cereno
+Melville, Herman, 1819-1891
+232	407	63.9	
+Sula
+Morrison, Toni
+233	406	79.9	
+A Portrait of the Artist as a Young Man
+Joyce, James, 1882-1941
+234	404	71.2	
+White Noise
+DeLillo, Don
+235	402	67.8	
+The Federalist Papers
+Hamilton, Alexander, 1757-1804
+236	400	57.3	
+When Work Disappears
+Wilson, William Julius
+Political Science Quarterly
+237	400	80.5	
+Molecular Biology of the Cell
+Alberts, Bruce, Author
+238	400	62.9	
+The Everyday Writer
+Lunsford, Andrea A., 1942
+239	398	67.5	
+Suicide
+Durkheim, Émile, 1858-1917
+240	397	63.2	
+The Problem of Social Cost
+Coase, R. H.
+Journal of Law and Economics
+241	396	78.3	
+Economics
+Taylor, John B.
+242	395	71.1	
+The Death and Life of Great American Cities
+Jacobs, Jane, 1916-2006
+243	395	67.6	
+Leading Change
+Kotter, John P., 1947
+244	395	86.6	
+Great Expectations
+Dickens, Charles, 1812-1870
+245	394	76.6	
+The Picture of Dorian Gray
+Wilde, Oscar, 1854-1900
+246	392	78.0	
+Nietzsche
+Heidegger, Martin, 1889-1976
+247	390	51.1	
+The McGraw-Hill Handbook
+Maimon, Elaine P.
+248	390	64.5	
+The Frontier in American History
+Turner, Frederick Jackson, 1861-1932
+249	389	68.5	
+Songs of Experience
+Blake, William, 1757-1827
+250	387	68.3	
+The Faerie Queene, 1596
+Spenser, Edmund, 1552?-1599
+251	387	63.3	
+A Discourse on Inequality
+Rousseau, Jean-Jacques, 1712-1778
+252	387	70.4	
+Pragmatism
+James, William, 1842-1910
+253	383	77.5	
+Rules for Writers
+Hacker, Diana, 1942-2004
+254	383	68.2	
+The Fugue
+Bach, Johann Sebastian, 1685-1750
+255	383	63.4	
+Ode on a Grecian Urn
+Keats, John, 1795-1821
+256	382	65.1	
+Daisy Miller
+James, Henry, 1843-1916
+257	381	57.5	
+Body Ritual Among the Nacirema
+Miner, Horace
+American Anthropologist
+258	380	60.4	
+Social Psychology
+Myers, David G.
+259	380	58.3	
+The Open Boat
+Crane, Stephen, 1871-1900
+260	379	65.7	
+Capitalism and Freedom
+Friedman, Milton, 1912-2006
+261	378	75.7	
+Mein Kampf
+Hitler, Adolf, 1889-1945, Author
+262	377	58.5	
+The Theban Plays
+Sophocles
+263	377	54.4	
+Style : Lessons in Clarity and Grace
+Williams, Joseph M.
+264	376	76.4	
+The Culture Industry
+Adorno, T. W., Cook, Rafael
+Cinéaste
+265	375	65.6	
+Billy Budd
+Melville, Herman, 1819-1891
+266	373	53.1	
+Understanding by Design
+Wiggins, Grant P., 1950
+267	372	81.0	
+The Grapes of Wrath
+Steinbeck, John, 1902-1968
+268	370	62.0	
+The Discourses
+Machiavelli, Niccolò, 1469-1527
+269	370	64.6	
+The Norton Anthology of English Literature
+Abrams, M. H. (Meyer Howard), 1912- Ed
+270	370	65.6	
+The Rime of the Ancient Mariner
+Coleridge, Samuel Taylor, 1772-1834
+271	369	66.1	
+Song of Solomon
+Morrison, Toni
+272	368	66.2	
+On the Origin of Species
+Darwin, Charles, 1809-1882
+273	368	68.8	
+The Crying of Lot 49
+Pynchon, Thomas
+274	368	67.1	
+Econometric Analysis
+Greene, William H., 1951
+275	367	75.8	
+Critique of Pure Reason
+Kant, Immanuel, 1724-1804
+276	367	59.9	
+The Canterbury Tales: Prologue
+Chaucer, Geoffrey, -1400
+277	367	75.2	
+Fundamentals of Database Systems
+Elmasri, Ramez
+278	366	50.1	
+The Penguin Handbook
+Faigley, Lester, 1947
+279	366	89.3	
+Computer Networks
+Tanenbaum, Andrew S., 1944
+280	365	68.9	
+Native Son
+Wright, Richard, 1908-1960
+281	365	72.9	
+Hypertext 2.0
+Landow, George P.
+282	364	57.5	
+The American Scholar
+Emerson, Ralph Waldo, 1803-1882
+283	363	54.1	
+The Science of "Muddling Through
+Lindblom, Charles E.
+Public Administration Review
+284	363	62.5	
+The Power Elite
+Mills, C. Wright (Charles Wright), 1916-1962
+285	362	73.2	
+The Art of War
+Tzu, Sun, Minford, John
+New England Review (1990-)
+286	361	54.6	
+Discourse on Method ; And, Meditations
+Descartes, René, 1596-1650
+287	361	72.5	
+Management
+Drucker, Peter F. (Peter Ferdinand), 1909-2005
+288	361	75.3	
+Twelfth Night
+Shakespeare, William, 1564-1616
+289	361	59.7	
+Institutions, Institutional Change and Economic Performance
+North, Douglass Cecil
+290	360	60.4	
+Good to Great
+Collins, James C. (James Charles), 1958
+291	359	74.1	
+History
+Herodotus
+292	359	72.2	
+Wide Sargasso Sea
+Rhys, Jean
+293	358	79.2	
+Waiting for Godot
+Beckett, Samuel, 1906-1989
+294	358	58.6	
+The Significance of the Frontier in American History
+Turner, Frederick Jackson, 1861-1932
+295	357	71.6	
+Dr. Jekyll and Mr. Hyde
+Stevenson, Robert Louis, 1850-1894
+296	357	62.3	
+Perpetual Peace
+Kant, Immanuel, 1724-1804
+297	356	79.4	
+Physical Chemistry
+Atkins, P. W. (Peter William), 1940
+298	356	49.8	
+Statistics for Management and Economics
+Keller, Gerald
+299	356	54.9	
+A Short Guide to Writing About Art
+Barnet, Sylvan
+300	356	68.9	
+The C Programming Language
+Kernighan, Brian W.
+301	355	50.4	
+Congress : The Electoral Connection
+Mayhew, David R.
+302	355	64.1	
+A Glossary of Literary Terms
+Abrams, M. H. (Meyer Howard), 1912
+303	354	65.0	
+Songs of Innocence and Experience
+Blake, William, 1757-1827
+304	354	65.4	
+Iliad Odyssey
+Homer
+305	352	67.4	
+The Language Instinct
+Pinker, Steven, 1954
+306	350	65.5	
+The Elementary Forms of Religious Life
+Durkheim, Émile, 1858-1917
+307	349	65.1	
+The Ancient Mariner
+Coleridge, Samuel Taylor, 1772-1834
+308	349	55.3	
+A Vindication of the Rights of Women
+Wollstonecraft, Mary, 1759-1797
+309	347	68.9	
+War and the World, 1450-2000
+Black, Jeremy
+The Journal of Military History
+310	346	73.1	
+The Color Purple
+Walker, Alice, 1944
+311	346	51.8	
+Organic Chemistry
+Wade, L. G., 1947
+312	345	78.9	
+Mythologies
+Barthes, Roland
+313	345	69.0	
+Principles of Anatomy and Physiology
+Tortora, Gerard J.
+314	345	77.6	
+The Design of Everyday Things
+Norman, Donald A.
+315	344	53.6	
+Tools for Teaching
+Davis, Barbara Gross
+316	344	77.2	
+Madame Bovary
+Flaubert, Gustave, 1821-1880
+317	344	69.4	
+The Stranger
+Camus, Albert, 1913-1960
+318	343	74.4	
+Emotional Intelligence
+Goleman, Daniel
+319	343	62.2	
+Looking Backward, 2000-1887
+Bellamy, Edward, 1850-1898
+320	343	66.2	
+The Descent of Man
+Darwin, Charles, 1809-1882
+321	342	59.6	
+Rip Van Winkle
+Irving, Washington, 1783-1859
+322	341	83.7	
+Discipline and Punish : The Birth of the Prison
+Foucault, Michel, 1926-1984
+323	341	56.6	
+Paradise Lost : Book I
+Milton, John, 1608-1674
+324	340	61.7	
+Beyond Good and Evil
+Nietzsche, Friedrich Wilhelm, 1844-1900
+325	339	64.3	
+On Marx
+Engels, Friedrich, 1820-1895
+326	338	59.0	
+Preface to Lyrical Ballads
+Wordsworth, William, 1770-1850
+327	338	68.0	
+Summa Theologica
+Thomas, Aquinas, Saint, 1225?-1274
+328	337	82.7	
+The Complete Works
+Shakespeare, William, 1564-1616
+329	336	81.9	
+Principles of Corporate Finance
+Brealey, Richard A.
+330	336	65.2	
+The Physics
+Aristotle
+331	335	60.5	
+The House of Mirth
+Wharton, Edith, 1862-1937
+332	334	88.8	
+Marketing Management
+Kotler, Philip
+333	333	60.9	
+The Mismeasure of Man
+Gould, Stephen Jay
+334	333	68.7	
+Macroeconomics
+Blanchard, Olivier (Olivier J.)
+335	332	51.7	
+Agendas, Alternatives, and Public Policies
+Kingdon, John W.
+336	332	67.4	
+The Unconscious
+Freud, Sigmund, 1856-1939
+337	332	60.3	
+Principles of Economics
+Mankiw, N. Gregory
+338	331	59.6	
+Microeconomics
+Pindyck, Robert S.
+339	331	66.0	
+The Sound and the Fury
+Faulkner, William, 1897-1962
+340	331	81.7	
+Film Art : An Introduction
+Bordwell, David
+341	330	58.7	
+Goblin Market
+Rossetti, Christina Georgina, 1830-1894
+342	330	62.0	
+The Visual Display of Quantitative Information
+Tufte, Edward R., 1942
+343	330	44.3	
+Saunders Q & a Review for NCLEX-RN
+Silvestri, Linda Anne
+344	330	63.4	
+Symphony No. 2
+Beethoven, Ludwig Van, 1770-1827
+345	329	58.2	
+Managerial Accounting
+Garrison, Ray H.
+346	327	71.8	
+On the Road
+Kerouac, Jack, 1922-1969
+347	325	51.0	
+The Return of Martin Guerre
+Davis, Natalie Zemon, 1928
+348	324	69.6	
+The Glass Menagerie
+Williams, Tennessee, 1911-1983
+349	324	68.4	
+The Sun Also Rises
+Hemingway, Ernest, 1899-1961
+350	324	62.8	
+Archaeology in the U.S.S.R
+Field, Henry, 1902-1986
+351	323	55.3	
+Institutional and Economic Change
+North, Douglass Cecil
+352	323	63.6	
+Bowling Alone : The Collapse and Revival of American Community
+Putnam, Robert D.
+353	322	56.8	
+Sinners in the Hands of an Angry God
+Edwards, Jonathan, 1703-1758
+354	321	48.3	
+The Trial of Socrates
+Plato
+355	319	55.8	
+The Cask of Amontillado
+Poe, Edgar Allan, 1809-1849
+356	319	52.2	
+Nervous Conditions
+Dangarembga, Tsitsi
+357	319	58.1	
+The Birth of Tragedy
+Nietzsche, Friedrich Wilhelm, 1844-1900
+358	318	54.3	
+Life-Span Development
+Santrock, John W.
+359	318	58.0	
+Utilitarianism
+Bentham, Jeremy, 1748-1832
+360	316	71.0	
+The Merchant of Venice
+Shakespeare, William, 1564-1616
+361	315	63.3	
+As I Lay Dying
+Faulkner, William, 1897-1962
+362	314	65.9	
+Java : How to Program
+Deitel, Paul J.
+363	314	72.4	
+Black and White
+Brown, Stephanie
+The American Poetry Review
+364	313	60.0	
+The Elements of Moral Philosophy
+Rachels, James, 1941-2003
+365	312	57.6	
+The Consolation of Philosophy
+Boethius, -524
+366	311	73.5	
+World War II
+Time, Inc. Library
+367	311	53.9	
+Computing Machinery and Intelligence
+Turing, A. M.
+Mind
+368	309	63.8	
+Metaphors We Live By
+Lakoff, George
+369	308	44.6	
+United States History
+Current, Richard Nelson
+370	307	55.0	
+An Essay on Man
+Pope, Alexander, 1688-1744
+371	307	58.9	
+Getting to Yes : Negotiating Agreement Without Giving In
+Fisher, Roger, 1922-2012
+372	307	67.0	
+Ezra Pound
+Eliot, T. S. (Thomas Stearns), 1888-1965
+373	307	52.9	
+The Coming Anarchy
+Kaplan, Robert D.
+World Policy Journal
+374	305	60.1	
+Capitalism, Socialism, and Democracy
+Schumpeter, Joseph Alois, 1883-1950
+375	305	55.9	
+Guns, Germs, and Steel : The Fates of Human Societies
+Diamond, Jared M.
+376	304	73.1	
+Emma
+Austen, Jane, 1775-1817
+377	304	57.5	
+Computer Networks : A Systems Approach
+Peterson, Larry L.
+378	303	52.2	
+The Courtier
+Castiglione, Baldassarre, Conte, 1478-1529
+379	303	52.6	
+How to Lie With Statistics
+Huff, Darrell
+380	301	83.3	
+Romeo and Juliet
+Shakespeare, William, 1564-1616
+381	301	52.4	
+Angels in America
+Kushner, Tony
+382	299	49.0	
+The Apology of Socrates
+Plato
+383	299	74.6	
+Understanding Media
+McLuhan, Marshall, 1911-1980
+384	299	39.0	
+Florida State University
+Woodward, Eddie
+385	299	49.4	
+The Negro Speaks of Rivers
+Hughes, Langston, 1902-1967
+386	298	39.5	
+Writing Papers in the Biological Sciences
+McMillan, Vicky, 1947
+387	296	60.0	
+The Prelude, 1798-1799
+Wordsworth, William, 1770-1850
+388	296	59.9	
+Real Estate
+Case, Frederick E.
+389	295	73.4	
+Nationalism
+Gellner, Ernest
+390	293	51.1	
+Computer Organization and Design : The Hardware/Software Interface
+Patterson, David A.
+391	293	55.9	
+Kubla Khan
+Coleridge, Samuel Taylor, 1772-1834
+392	293	62.8	
+Economics
+Stiglitz, Joseph E.
+393	292	62.5	
+Theory of International Politics
+Waltz, Kenneth Neal, 1924
+394	292	55.9	
+A Short Guide to Writing About Film
+Corrigan, Timothy
+395	291	48.7	
+Famine, Affluence, and Morality
+Singer, Peter
+Philosophy & Public Affairs
+396	290	53.4	
+Hippolytus
+Euripides
+397	290	59.1	
+The Raven
+Poe, Edgar Allan, 1809-1849
+398	290	53.0	
+Do Androids Dream of Electric Sheep
+Dick, Philip K.
+399	289	76.8	
+The Catcher in the Rye
+Salinger, J. D. (Jerome David), 1919-2010
+400	289	44.3	
+The Basic Practice of Statistics
+Moore, David S.
+401	289	51.2	
+Ozymandias
+Shelley, Percy Bysshe, 1792-1822
+402	288	42.3	
+The Trial and Death of Socrates
+Plato
+403	288	48.2	
+Eumenides
+Aeschylus
+404	287	44.1	
+Theogony; And, Works and Days
+Hesiod
+405	287	49.2	
+Reading and Writing
+Field, Rachel
+ALA Bulletin
+406	287	65.6	
+On War
+Clausewitz, Carl Von, 1780-1831
+407	287	49.6	
+Cane
+Toomer, Jean, 1894-1967
+408	286	59.4	
+The Varieties of Religious Experience
+James, William, 1842-1910
+409	285	59.4	
+On Population
+Malthus, T. R. (Thomas Robert), 1766-1834
+410	285	46.0	
+On the Genealogy of Morals
+Nietzsche, Friedrich Wilhelm, 1844-1900
+411	285	39.5	
+Starting Out With C++ : From Control Structures Through Objects
+Gaddis, Tony
+412	284	55.8	
+Sister Carrie
+Dreiser, Theodore, 1871-1945
+413	284	52.1	
+Justice as Fairness
+Rawls, John
+The Philosophical Review
+414	281	71.5	
+Operating System Concepts
+Silberschatz, Abraham
+415	280	54.3	
+The Golden Ass
+Apuleius
+416	280	45.1	
+The Division of Labor in Society
+Durkheim, Émile, 1858-1917
+417	280	45.5	
+On the Social Contract
+Rousseau, Jean-Jacques, 1712-1778
+418	279	62.4	
+Philosophical Investigations
+Wittgenstein, Ludwig, 1889-1951
+419	279	57.3	
+Quantitative Chemical Analysis
+Harris, Daniel C., 1948
+420	279	82.9	
+Imagined Communities : Reflections on the Origin and Spread of Nationalism
+Anderson, Benedict R. O'G. (Benedict Richard O'Gorman), 1936
+421	278	40.5	
+Understanding and Using English Grammar
+Azar, Betty Schrampfer, 1941
+422	278	45.0	
+The Leadership Challenge
+Kouzes, James M., 1945
+423	278	46.0	
+A Short Guide to Writing About History
+Marius, Richard
+424	278	53.1	
+F. Chopin
+Liszt, Franz, 1811-1886
+425	277	43.1	
+Race Matters
+West, Cornel
+426	277	51.2	
+Existentialism and Humanism
+Sartre, Jean Paul, 1905-1980
+427	277	71.3	
+The Language of New Media
+Manovich, Lev
+428	276	46.1	
+The Developing Person
+Berger, Kathleen Stassen
+429	276	56.3	
+Doctor Faustus
+Marlowe, Christopher, 1564-1593
+430	276	56.1	
+Biochemistry
+Stryer, Lubert
+431	276	39.6	
+Discourse on Method and Meditations on First Philosophy
+Descartes, René, 1596-1650
+432	275	45.6	
+Social Learning Theory
+Bandura, Albert, 1925
+433	275	56.4	
+Diffusion of Innovations
+Rogers, Everett M.
+434	275	44.6	
+Principles of Macroeconomics
+Mankiw, N. Gregory
+435	274	57.7	
+Envisioning Information
+Tufte, Edward R., 1942
+436	274	49.8	
+Herland
+Gilman, Charlotte Perkins, 1860-1935
+437	274	53.9	
+Course in General Linguistics
+Saussure, Ferdinand De, 1857-1913
+438	272	47.9	
+Democracy and Education
+Dewey, John, 1859-1952
+439	271	48.2	
+Fundamentals of Corporate Finance
+Ross, Stephen A.
+440	271	43.1	
+Biochemistry
+Garrett, R. (Reginald)
+441	270	54.5	
+Two Treatises of Government
+Locke, John, 1632-1704
+442	270	43.9	
+Compulsory Heterosexuality and Lesbian Existence
+Rich, Adrienne, 1929-2012
+443	270	42.9	
+Odyssey, Books 1-12
+Homer
+444	270	45.2	
+Music for Sight Singing
+Ottman, Robert W.
+445	270	41.8	
+Life in the Iron Mills
+Davis, Rebecca Harding, 1831-1910
+446	270	41.3	
+The New Negro
+Locke, Alain LeRoy, 1886-1954
+447	270	54.5	
+A Dictionary of Music and Musicians (A.D. 1450-1889)
+Grove, George, Sir, 1820-1900, Ed
+448	270	45.5	
+On Being Sane in Insane Places
+Rosenhan, D. L.
+Science
+449	269	47.9	
+The Lady of Shalott
+Tennyson, Alfred Tennyson, Baron, 1809-1892
+450	268	44.7	
+The Principles of Scientific Management
+Taylor, Frederick Winslow, 1856-1915
+451	268	45.0	
+Astronomy Today
+Chaisson, Eric
+452	268	51.6	
+North America
+Read, Frederick, Mathers, F. F., Morden, K. G., Bentley, W. E., Surveyer, Fabre, Runciman, J. P., Summers, G. B., Dunfield, Brian
+Journal of Comparative Legislation and International Law
+453	267	39.4	
+Style : Ten Lessons in Clarity and Grace
+Williams, Joseph M.
+454	267	49.3	
+Amusing Ourselves to Death
+Postman, Neil
+ETC: A Review of General Semantics
+455	267	52.4	
+The Theory of the Leisure Class
+Veblen, Thorstein, 1857-1929
+456	266	51.8	
+Theory and Practice of Counseling and Psychotherapy
+Corey, Gerald
+457	266	64.7	
+A Passage to India
+Forster, E. M. (Edward Morgan), 1879-1970
+458	265	57.6	
+The God of Small Things
+Roy, Arundhati
+459	265	58.3	
+Northanger Abbey
+Austen, Jane, 1775-1817
+460	265	64.6	
+Middlemarch
+Eliot, George, 1819-1880
+461	265	55.4	
+Henry IV
+Shakespeare, William, 1564-1616
+462	265	39.5	
+Writing Analytically
+Rosenwasser, David
+463	264	42.8	
+The Way to Rainy Mountain
+Momaday, N. Scott, 1934
+464	264	48.7	
+Rite
+Stravinsky, Igor, 1882-1971. Cmp
+465	264	45.5	
+Gender: A Useful Category of Historical Analysis
+Scott, Joan W.
+The American Historical Review
+466	264	49.9	
+The Rite of Spring
+Stravinsky, Igor, 1882-1971
+467	263	61.8	
+The Time Machine
+Wells, H. G. (Herbert George), 1866-1946
+468	263	43.7	
+M. Butterfly
+Hwang, David Henry, 1957
+469	263	64.3	
+Postmodernism, Or, the Cultural Logic of Late Capitalism
+Jameson, Fredric
+470	263	49.2	
+The Praise of Folly
+Erasmus, Desiderius, -1536
+471	263	64.8	
+The Selfish Gene
+Dawkins, Richard, 1941
+472	262	44.6	
+Do Not Go Gentle Into That Good Night
+Thomas, Dylan, 1914-1953
+473	262	59.0	
+Anarchy, State, and Utopia
+Nozick, Robert
+474	262	65.7	
+Modern Operating Systems
+Tanenbaum, Andrew S., 1944
+475	262	49.0	
+Diplomacy and Domestic Politics: The Logic of Two-Level Games
+Putnam, Robert D.
+International Organization
+476	262	54.8	
+I Know Why the Caged Bird Sings
+Angelou, Maya
+477	261	45.1	
+A Small Place
+Kincaid, Jamaica
+478	261	58.9	
+Jane Eyre
+Brontë, Charlotte, 1816-1855
+479	261	39.2	
+The Libation Bearers
+Aeschylus
+480	261	40.8	
+Works and Days ; And Theogony
+Hesiod
+481	260	40.0	
+Doing Gender
+West, Candace, Zimmerman, Don H.
+Gender and Society
+482	260	45.6	
+A Rulebook for Arguments
+Weston, Anthony, 1954
+483	260	63.4	
+International Economics : Theory and Policy
+Krugman, Paul R.
+484	259	54.9	
+Qualitative Evaluation Methods
+Patton, Michael Quinn
+485	259	41.8	
+Crabgrass Frontier : The Suburbanization of the United States
+Jackson, Kenneth T.
+486	259	49.9	
+The Last of the Mohicans
+Cooper, James Fenimore, 1789-1851
+487	258	48.8	
+The Rite O' Spring
+Stravinsky
+488	257	52.5	
+An Essay on Population
+Malthus, T. R. (Thomas Robert), 1766-1834
+489	256	43.7	
+Dialogues Concerning Natural Religion
+Hume, David, 1711-1776
+490	256	64.5	
+Lolita
+Nabokov, Vladimir Vladimirovich, 1899-1977
+491	256	55.8	
+The Joy Luck Club
+Tan, Amy
+492	256	49.7	
+Latin America
+Thomas, Jack Ray
+493	256	61.0	
+Rights of Man
+Paine, Thomas, 1737-1809
+494	255	45.4	
+Absalom, Absalom
+Faulkner, William, 1897-1962
+495	255	40.1	
+Mother Tongue
+Tan, Amy
+The Threepenny Review
+496	254	54.8	
+In Memoriam
+Tennyson, Alfred Tennyson, Baron, 1809-1892
+497	254	57.6	
+Database Management Systems
+Ramakrishnan, Raghu
+498	253	42.0	
+The Human Condition
+Arendt, Hannah, 1906-1975
+499	253	48.7	
+Chemistry
+Zumdahl, Steven S.
+500	252	54.1	
+The Spirit of the Laws
+Montesquieu, Charles De Secondat, Baron De, 1689-1755
+501	252	49.4	
+Ode to a Nightingale
+Keats, John, 1795-1821
+502	252	55.7	
+A Treatise of Human Nature
+Hume, David, 1711-1776
+503	252	61.3	
+Java
+Deitel, Paul J.
+504	251	54.1	
+Simulations
+Baudrillard, Jean, 1929-2007
+505	251	59.4	
+Annals
+Tacitus, Cornelius
+506	251	39.5	
+The Second Shift
+Hochschild, Arlie Russell, 1940
+507	251	40.4	
+Public Finance
+Rosen, Harvey S.
+508	250	39.5	
+Physical Examination & Health Assessment
+Jarvis, Carolyn
+509	249	43.8	
+Macroeconomic Theory
+Sargent, Thomas J.
+510	249	49.2	
+Introduction to the Theory of Computation
+Sipser, Michael
+511	249	47.4	
+Tradition and the Individual Talent
+Eliot, T. S.
+Perspecta
+512	249	41.8	
+Tartuffe
+Moliere, 1622-1673
+513	249	53.0	
+Computer Architecture : A Quantitative Approach
+Hennessy, John L.
+514	248	42.2	
+Earth Science
+Tarbuck, Edward J.
+515	248	50.3	
+Machine Learning
+Mitchell, Tom M. (Tom Michael), 1951
+516	247	49.2	
+Don Giovanni
+Mozart, Wolfgang Amadeus, 1756-1791
+517	247	34.1	
+Laboratory & Diagnostic Tests With Nursing Implications
+Kee, Joyce LeFever
+518	247	32.1	
+The School Library
+Kennedy, Anna Clark
+The High School Journal
+519	246	44.8	
+Fear and Trembling
+Kierkegaard, Søren, 1813-1855
+520	246	39.9	
+Cooperation Under the Security Dilemma
+Jervis, Robert, 1940
+521	246	53.6	
+Microeconomic Analysis
+Varian, Hal R.
+522	246	41.7	
+Oedipus at Colonus
+Sophocles
+523	246	40.3	
+Conceptual Models and the Cuban Missile Crisis
+Allison, Graham T.
+The American Political Science Review
+524	246	62.0	
+Basic Econometrics
+Gujarati, Damodar N.
+525	245	46.5	
+The Rover
+Behn, Aphra, 1640-1689
+526	245	44.8	
+Love Medicine
+Erdrich, Louise
+527	243	47.4	
+The Plague
+Camus, Albert, 1913-1960
+528	243	53.4	
+Biochemistry
+Voet, Donald
+529	242	36.8	
+The Three Theban Plays
+Sophocles
+530	242	45.4	
+Modern Latin America
+Skidmore, Thomas E.
+531	241	68.7	
+The Crucible
+Miller, Arthur, 1915-2005
+532	240	38.3	
+Quicksand
+Larsen, Nella
+533	240	59.2	
+Literary Theory : An Introduction
+Eagleton, Terry, 1943
+534	240	35.3	
+Organic Chemistry
+Brown, Ronald F.
+535	240	55.5	
+UNIX Network Programming
+Stevens, W. Richard
+536	239	54.5	
+Persuasion
+Austen, Jane, 1775-1817
+537	239	53.9	
+Health
+World Bank
+538	239	38.5	
+Discourse on the Origin of Inequality
+Rousseau, Jean-Jacques, 1712-1778
+539	239	53.2	
+Life on the Screen : Identity in the Age of the Internet
+Turkle, Sherry
+540	239	48.8	
+Hiroshima
+Hersey, John, 1914-1993
+541	239	40.3	
+Introduction to Quantum Mechanics
+Griffiths, David J. (David Jeffery), 1942
+542	238	45.9	
+What Is to Be Done
+Lenin, Vladimir Ilʹich, 1870-1924
+543	238	47.1	
+Introduction to Electrodynamics
+Griffiths, David J. (David Jeffery), 1942
+544	238	46.5	
+Endgame
+Beckett, Samuel, 1906-1989
+545	237	41.3	
+Selected Poems
+Dickinson, Patric, 1914-1994
+546	237	52.7	
+Attachment
+Bowlby, John
+547	237	44.3	
+Bless Me, Ultima
+Anaya, Rudolfo A.
+548	237	39.6	
+Calculus : Concepts and Contexts
+Stewart, James, 1941
+549	237	39.2	
+Political Order in Changing Societies
+Huntington, Samuel P.
+550	237	34.3	
+The Politics of Congressional Elections
+Jacobson, Gary C.
+551	237	55.4	
+The C++ Programming Language
+Stroustrup, Bjarne
+552	236	53.8	
+Being and Time
+Heidegger, Martin, 1889-1976
+553	236	39.7	
+A Rumor of War
+Caputo, Philip
+554	236	43.4	
+Twenty Years at Hull-House
+Addams, Jane, 1860-1935
+555	236	41.8	
+Trojan Women
+Euripides
+556	236	54.1	
+Foucault
+Deleuze, Gilles, 1925-1995
+557	236	35.3	
+The Basics of Social Research
+Babbie, Earl R.
+558	236	59.5	
+Being Digital
+Negroponte, Nicholas
+559	235	55.0	
+Selected Writings
+Marx, Karl, 1818-1883
+560	235	46.8	
+Experience and Education
+Dewey, John, 1859-1952
+561	235	45.1	
+The Ideological Origins of the American Revolution
+Bailyn, Bernard
+562	235	39.5	
+The Democratic Peace
+Russett, Bruce, Layne, Christopher, Spiro, David E., Doyle, Michael W.
+International Security
+563	234	43.3	
+Germania
+Tacitus, Cornelius
+564	234	51.5	
+Qualitative Evaluation and Research Methods
+Patton, Michael Quinn
+565	234	33.0	
+Grounding for the Metaphysics of Morals
+Kant, Immanuel, 1724-1804
+566	234	52.9	
+Zen
+Suzuki, Daisetz Teitaro, 1870-1966
+567	234	51.5	
+Qualitative Research & Evaluation Methods
+Patton, Michael Quinn
+568	234	59.2	
+Black Skin, White Masks
+Fanon, Frantz, 1925-1961
+569	234	55.5	
+The Road to Serfdom
+Hayek, Friedrich A. Von (Friedrich August), 1899-1992
+570	234	39.4	
+Halliday & Resnick Fundamentals of Physics
+Walker, Jearl, 1945
+571	233	36.7	
+Has Globalization Gone Too Far
+Rodrik, Dani
+572	233	35.4	
+Thomas' Calculus
+Weir, Maurice D.
+573	233	50.8	
+Persepolis
+Satrapi, Marjane, 1969
+574	233	60.5	
+Principles of Biochemistry
+Lehninger, Albert L.
+575	233	38.3	
+Policy Paradox : The Art of Political Decision Making
+Stone, Deborah
+576	233	35.9	
+Life on Earth
+Audesirk, Teresa
+577	233	41.1	
+The Book of the Courtier
+Castiglione, Baldassarre, Conte, 1478-1529
+578	233	43.7	
+Songs of Innocence and of Experience
+Blake, William, 1757-1827
+579	233	39.4	
+Deep Play: Notes on the Balinese Cockfight
+Geertz, Clifford
+Daedalus
+580	232	32.4	
+Fundamentals of Information Systems
+Stair, Ralph M.
+581	231	63.6	
+On Photography
+Sontag, Susan, 1933-2004
+582	231	42.4	
+The Tell-Tale Heart
+Poe, Edgar Allan, 1809-1849
+583	231	40.5	
+The Yellow Wall Paper
+Gilman, Charlotte Perkins, 1860-1935
+584	230	36.2	
+A Handbook to Literature
+Holman, C. Hugh (Clarence Hugh), 1914
+585	230	33.9	
+Leadership Without Easy Answers
+Heifetz, Ronald A. (Ronald Abadian), 1951
+586	230	51.0	
+The Hero With a Thousand Faces
+Campbell, Joseph, 1904-1987
+587	230	43.4	
+The Strategy of Conflict
+Schelling, Thomas C., 1921
+588	230	50.4	
+Fundamental Methods of Mathematical Economics
+Chiang, Alpha C., 1927
+589	230	47.8	
+Dr. Faustus
+Marlowe, Christopher, 1564-1593
+590	229	63.7	
+Nations and Nationalism
+Gellner, Ernest
+591	229	40.6	
+Piano Concerto : K. 491
+Mozart, Wolfgang Amadeus, 1756-1791
+592	228	58.3	
+The McDonaldization of Society 5
+Ritzer, George
+593	228	36.7	
+Charlotte Temple
+Rowson, Mrs., 1762-1824
+594	228	66.1	
+Data and Computer Communications
+Stallings, William
+595	228	37.1	
+Transgress
+Hooks, Bell
+Paragraph
+596	227	39.6	
+In Our Time
+Hemingway, Ernest, 1899-1961
+597	227	48.0	
+Confessions
+Rousseau, Jean-Jacques, 1712-1778
+598	226	66.4	
+Empire
+Hardt, Michael
+599	226	39.4	
+A Guide to Econometrics
+Kennedy, Peter, 1943-2010
+600	225	41.7	
+Prometheus
+Aeschylus
+601	225	46.9	
+Code and Other Laws of Cyberspace
+Lessig, Lawrence
+602	225	56.8	
+The Messiah
+Handel, George Frideric, 1685-1759
+603	225	47.5	
+The Emancipation Proclamation
+Lincoln, Abraham, 1809-1865
+604	225	33.8	
+Our Sexuality
+Crooks, Robert, 1941
+605	224	56.7	
+Biology of Microorganisms
+Brock, Thomas D.
+606	224	39.7	
+A History of Graphic Design
+Meggs, Philip B.
+607	224	60.6	
+Leadership : Theory and Practice
+Northouse, Peter Guy
+608	224	41.4	
+The Modern World-System
+Wallerstein, Immanuel Maurice, 1930
+609	224	38.5	
+In a Station of the Metro
+Pound, Ezra
+Poetry
+610	223	30.7	
+Office Hours
+Foster, Norm, 1949
+611	222	39.7	
+Wallace Stevens
+Williams, William Carlos
+Poetry
+612	222	47.4	
+The Cherry Orchard
+Chekhov, Anton Pavlovich, 1860-1904
+613	222	33.9	
+The Coquette
+Foster, Hannah Webster, 1759-1840
+614	222	42.5	
+The Giver
+Lowry, Lois
+615	222	45.1	
+An Essay on the Principle of Population
+Malthus, T. R. (Thomas Robert), 1766-1834
+616	221	35.4	
+Politics as a Vocation
+Weber, Max, 1864-1920
+617	221	51.1	
+Moll Flanders
+Defoe, Daniel, 1661?-1731
+618	221	42.0	
+Changes in the Land : Indians, Colonists, and the Ecology of New England
+Cronon, William
+619	221	44.3	
+Symphonie Fantastique
+Berlioz, Hector, 1803-1869
+620	221	38.5	
+The Lone Ranger and Tonto Fistfight in Heaven
+Alexie, Sherman, 1966
+621	220	36.6	
+Influence : Science and Practice
+Cialdini, Robert B.
+622	220	63.1	
+Sherlock Holmes
+Doyle, Arthur Conan, Sir, 1859-1930
+623	220	69.3	
+Globalization
+Held, David, McGrew, Anthony, Goldblatt, David, Perraton, Jonathan
+Global Governance
+624	220	39.4	
+An Essay on Criticism
+Pope, Alexander, 1688-1744
+625	219	37.2	
+Behaviorism
+Watson, John B. (John Broadus), 1878-1958
+626	219	80.9	
+Case Study Research : Design and Methods
+Yin, Robert K.
+627	219	42.3	
+Virginia Woolf
+Eliot, T. S. (Thomas Stearns), 1888-1965
+628	219	47.6	
+My Antonia
+Cather, Willa, 1873-1947
+629	218	56.3	
+The Art of Electronics
+Horowitz, Paul, 1942
+630	218	32.5	
+When Work Disappears : The World of the New Urban Poor
+Wilson, William J., 1935
+631	218	39.0	
+The Radicalism of the American Revolution
+Wood, Gordon S.
+632	217	35.8	
+Negotiation
+Lewicki, Roy J.
+633	217	52.5	
+Internetworking With TCP/IP
+Comer, Douglas
+634	217	38.0	
+Essential Biology
+Campbell, Neil A., 1946
+635	216	44.5	
+Hedda Gabler
+Ibsen, Henrik, 1828-1906
+636	216	44.5	
+Europe and the People Without History
+Wolf, Eric R., 1923
+637	216	46.6	
+Timaeus
+Plato
+638	216	54.4	
+Sense and Sensibility
+Austen, Jane, 1775-1817
+639	216	37.1	
+The Purloined Letter
+Poe, Edgar Allan, 1809-1849
+640	216	41.7	
+Quarterly Review
+Federal Reserve Bank of Minneapolis
+641	216	53.9	
+Diplomacy
+Kissinger, Henry, 1923
+642	216	42.8	
+Protagoras
+Plato
+643	215	47.3	
+Don Juan
+Byron, George Gordon Byron, Baron, 1788-1824
+644	215	78.9	
+Research Design : Qualitative & Quantitative Approaches
+Creswell, John W.
+645	214	30.6	
+On the Folly of Rewarding A, While Hoping for B
+Kerr, Steven
+The Academy of Management Executive (1993-2005)
+646	214	32.2	
+A Short Guide to Writing About Biology
+Pechenik, Jan A.
+647	214	48.8	
+A First Course in Probability
+Ross, Sheldon M.
+648	213	71.3	
+To Kill a Mockingbird
+Lee, Harper
+649	213	35.9	
+Maggie, a Girl of the Streets
+Crane, Stephen, 1871-1900
+650	213	33.2	
+A Defense of Abortion
+Thomson, Judith Jarvis
+651	213	37.6	
+The Lake Isle of Innisfree
+Yeats, W. B. (William Butler), 1865-1939
+652	213	38.3	
+Easter, 1916
+Yeats, W. B. (William Butler), 1865-1939
+653	213	40.6	
+The Strength of Weak Ties
+Granovetter, Mark S.
+American Journal of Sociology
+654	212	40.5	
+The Battleship Potemkin
+Eisenstein, Sergei, 1898-1948
+655	212	32.7	
+What Color Is Your Parachute
+Bolles, Richard Nelson
+656	211	53.8	
+Advanced Macroeconomics
+Romer, David
+657	211	32.4	
+Sweat
+Hurston, Zora Neale
+658	211	49.7	
+Computer Networking : A Top-Down Approach
+Kurose, James F.
+659	211	34.8	
+A Worn Path
+Welty, Eudora
+Critical Inquiry
+660	211	46.9	
+The Philosophy of History
+Hegel, Georg Wilhelm Friedrich, 1770-1831
+661	211	49.2	
+Introductory Econometrics : A Modern Approach
+Wooldridge, Jeffrey M., 1960
+662	211	40.0	
+Liberalism and World Politics
+Doyle, Michael W.
+The American Political Science Review
+663	210	60.4	
+Oliver Twist
+Dickens, Charles, 1812-1870
+664	210	38.9	
+Introduction to the Practice of Statistics
+Moore, David S.
+665	210	50.6	
+Prison Notebooks
+Gramsci, Antonio, 1891-1937
+666	210	30.2	
+Technology in Action
+Evans, Alan
+667	209	37.6	
+Writing for Social Scientists : How to Start and Finish Your Thesis, Book, or Article
+Becker, Howard Saul, 1928
+668	209	35.9	
+Judgment Under Uncertainty: Heuristics and Biases
+Tversky, Amos, Kahneman, Daniel
+Science
+669	209	37.5	
+The Mystery of Capital
+Soto, Hernando De, 1941
+670	209	36.3	
+HTML 4 for the World Wide Web
+Castro, Elizabeth
+671	208	49.7	
+Phenomenology of Spirit
+Hegel, Georg Wilhelm Friedrich, 1770-1831
+672	208	34.6	
+What Leaders Really Do
+Kotter, John P., 1947
+673	207	35.0	
+Kindred
+Butler, Octavia E.
+674	207	33.8	
+A Handbook to Literature
+Harmon, William, 1938
+675	207	40.6	
+Ethics and Politics
+Aristotle
+676	206	46.2	
+Gargantua
+Rabelais, François, Approximately 1490-1553
+677	206	44.2	
+Making Democracy Work : Civic Traditions in Modern Italy
+Putnam, Robert D.
+678	206	40.5	
+Economic Growth
+Barro, Robert J.
+679	205	32.6	
+Babylon Revisited
+Fitzgerald, F. Scott (Francis Scott), 1896-1940
+680	205	46.9	
+Computer Architecture : A Quantitative Approach
+Patterson, David A.
+681	205	39.9	
+Troilus
+Chaucer, Geoffrey, -1400
+682	205	36.9	
+We Real Cool
+Brooks, Gwendolyn
+Poetry
+683	205	38.6	
+The Will to Believe
+James, William, 1842-1910
+684	205	37.7	
+The History of Rome
+Livy
+685	204	58.5	
+Society of the Spectacle
+Debord, Guy, 1931
+686	204	35.9	
+Shakespeare
+Bevington, David M.
+687	204	39.5	
+The Theory of Moral Sentiments
+Smith, Adam, 1723-1790
+688	204	34.3	
+Handbook of Social Psychology
+Lindzey, Gardner, Ed
+689	203	37.8	
+Critique of Judgment
+Kant, Immanuel, 1724-1804
+690	203	30.1	
+Racial Formation in the United States
+Omi, Michael, Author
+691	203	41.1	
+Elementary Differential Equations
+Boyce, William E.
+692	203	50.8	
+The Meditations
+Marcus Aurelius, Emperor of Rome, 121-180
+693	203	41.1	
+The Castle of Otranto
+Walpole, Horace, 1717-1797
+694	203	35.2	
+Prometheus Bound
+Aeschylus
+695	203	37.2	
+Technical Communication
+Lannon, John M.
+696	203	52.7	
+The Red Badge of Courage
+Crane, Stephen, 1871-1900
+697	203	34.6	
+Advanced Programming in the UNIX Environment
+Stevens, W. Richard
+698	203	44.3	
+Werther
+Goethe, Johann Wolfgang Von, 1749-1832
+699	202	36.9	
+International Relations
+Goldstein, Joshua S., 1952
+700	202	36.1	
+Alcestis
+Euripides
+701	202	56.9	
+The Practice of Everyday Life
+Certeau, Michel De
+702	202	35.5	
+A Letter Concerning Toleration
+Locke, John, 1632-1704
+703	202	36.4	
+Principles of Instrumental Analysis
+Skoog, Douglas A.
+704	202	34.0	
+The World Is Too Much With Us
+Wordsworth, William, 1770-1850
+705	201	34.1	
+Design Basics
+Lauer, David A.
+706	201	34.3	
+Prolegomena
+Kant, Immanuel, 1724-1804
+707	201	45.0	
+The Strange Case of Dr. Jekyll and Mr. Hyde
+Stevenson, Robert Louis, 1850-1894
+708	201	41.0	
+Short Stories
+Hemingway, Ernest, 1899-1961
+709	200	29.2	
+Asha
+American Speech and Hearing Association
+710	200	57.2	
+Little Women
+Alcott, Louisa May, 1832-1888
+711	200	45.9	
+Microelectronic Circuits
+Sedra, Adel S.
+712	200	32.0	
+Gay New York : 1890-1940
+Chauncey, George
+713	200	38.9	
+The Killer Angels
+Shaara, Michael
+714	200	42.8	
+Activists Beyond Borders : Advocacy Networks in International Politics
+Keck, Margaret E.
+715	200	40.9	
+Development Economics
+Ray, Debraj
+716	200	39.7	
+Sovereignty
+Krasner, Stephen D.
+Foreign Policy
+717	199	32.0	
+Single Variable Calculus
+Stewart, James, 1941
+718	199	32.6	
+A Random Walk Down Wall Street
+Malkiel, Burton Gordon
+719	199	42.2	
+Imperialism
+Hobson, J. A. (John Atkinson), 1858-1940
+720	199	43.8	
+Orlando
+Woolf, Virginia, 1882-1941
+721	198	36.8	
+Thus Spoke Zarathustra
+Nietzsche, Friedrich Wilhelm, 1844-1900
+722	198	52.2	
+The Clash of Civilizations and the Remaking of World Order
+Huntington, Samuel P.
+723	198	36.8	
+Interpreter of Maladies
+Lahiri, Jhumpa
+Agni
+724	198	69.8	
+Culture and Imperialism
+Said, Edward W.
+725	198	39.4	
+The Tragedy of Great Power Politics
+Mearsheimer, John J.
+726	198	57.8	
+The Making of the English Working Class
+Thompson, E. P. (Edward Palmer), 1924-1993
+727	198	34.5	
+Essentials of Investments
+Bodie, Zvi
+728	198	35.9	
+Paradise Lost. Books 1-2
+Milton, John, 1608-1674
+729	198	37.8	
+Social Psychology
+Aronson, Elliot
+730	198	33.6	
+The Gay Science
+Nietzsche, Friedrich Wilhelm, 1844-1900
+731	198	38.9	
+The Nature of the Firm
+Coase, R. H.
+Economica
+732	197	39.4	
+The Power of Myth
+Campbell, Joseph, 1904-1987
+733	197	36.9	
+Java in a Nutshell
+Flanagan, David
+734	196	43.4	
+Operating Systems : Internals and Design Principles
+Stallings, William
+735	196	55.8	
+Illuminations
+Benjamin, Walter, 1892-1940
+736	196	39.6	
+Evelina
+Burney, Fanny, 1752-1840
+737	196	27.4	
+Bulletin
+University of Texas
+738	196	29.7	
+Statistics for the Behavioral Sciences
+Gravetter, Frederick J.
+739	196	42.8	
+Ecclesiastical History
+Bede, the Venerable, Saint, 673-735, Author
+740	195	42.4	
+Mechanics
+Landau, L. D. (Lev Davidovich), 1908-1968
+741	195	30.6	
+The Unfinished Nation : A Concise History of the American People
+Brinkley, Alan
+742	195	36.8	
+Modern Times
+Chaplin, Charlie, 1889-1977
+743	195	37.8	
+Dispatches
+Herr, Michael
+744	195	30.6	
+The Death of Ivan Ilyich
+Tolstoy, Leo, Graf, 1828-1910
+745	195	33.5	
+The Prince, and the Discourses
+Machiavelli, Niccolò, 1469-1527
+746	195	34.5	
+Political Writings
+Rousseau, Jean-Jacques, 1712-1778
+747	195	48.7	
+Optics
+Hecht, Eugene
+748	195	69.7	
+Animal Farm
+Orwell, George, 1903-1950
+749	195	29.6	
+The Machine in the Garden
+Marx, Leo
+The New England Quarterly
+750	195	35.9	
+A Different Mirror : A History of Multicultural America
+Takaki, Ronald T., 1939-2009
+751	194	47.5	
+George Washington
+Jefferson, Thomas
+The Journal of Education
+752	194	43.2	
+Siddhartha
+Hesse, Hermann, 1877-1962
+753	194	62.7	
+Research Design : Qualitative, Quantitative, and Mixed Methods Approaches
+Creswell, John W.
+754	194	32.2	
+Modern Database Management
+Hoffer, Jeffrey A.
+755	194	42.9	
+Statistics for People Who (Think They) Hate Statistics
+Salkind, Neil J.
+756	194	35.9	
+The Laugh of the Medusa
+Cixous, Hélène, Cohen, Keith, Cohen, Paula
+Signs
+757	194	35.4	
+Natural Capitalism
+Lovins, Amory, Gummer, John
+RSA Journal
+758	193	30.3	
+The Autobiography of an Ex-Colored Man
+Johnson, James Weldon, 1871-1938
+759	193	30.4	
+Who Rules America
+Domhoff, G. William
+760	193	34.9	
+Anthropology
+Haviland, William A.
+761	193	29.3	
+Answers to Questions
+Prior, J. E.
+The American Journal of Nursing
+762	193	26.8	
+Biological Science
+Freeman, Scott, 1955
+763	193	31.6	
+Game Theory for Applied Economists
+Gibbons, Robert, 1958
+764	192	36.9	
+Understanding Nutrition
+Whitney, Eleanor Noss
+765	192	31.2	
+Africa and Africans in the Making of the Atlantic World, 1400-1800
+Thornton, John K. (John Kelly), 1949
+766	192	40.9	
+Aurora Leigh
+Browning, Elizabeth Barrett, 1806-1861
+767	192	26.8	
+Public Finance and Public Policy
+Gruber, Jonathan
+768	191	42.4	
+The Duchess of Malfi
+Webster, John, 1580?-1625
+769	191	35.0	
+Tragedies
+Sophocles
+770	191	30.6	
+Textbook of Medical-Surgical Nursing
+Brunner, Lillian Sholtis
+771	191	43.8	
+Snow Crash
+Stephenson, Neal
+772	191	43.8	
+Wuthering Heights
+Brontë, Emily, 1818-1848
+773	190	45.2	
+TCP/IP Illustrated
+Stevens, W. Richard
+774	190	50.6	
+Hair, Hair
+Long, Debbie
+Off Our Backs
+775	190	39.5	
+The False Promise of International Institutions
+Mearsheimer, John J.
+776	190	35.7	
+The Rules of Sociological Method
+Durkheim, Émile, 1858-1917
+777	190	39.9	
+Time Series Analysis
+Hamilton, James D. (James Douglas), 1954
+778	189	32.4	
+To Build a Fire
+London, Jack, 1876-1916
+779	189	42.2	
+The Uncanny
+Freud, Sigmund, 1856-1939
+780	189	64.6	
+The Sixteenth Century
+England, Sylvia Lennie
+The Year's Work in Modern Language Studies
+781	189	31.8	
+The Book of the City of Ladies
+Christine, De Pisan, Approximately 1364-Approximately 1431
+782	188	50.2	
+Alice in Wonderland
+Carroll, Lewis, 1832-1898
+783	188	45.6	
+Ethics
+Spinoza, Benedictus De, 1632-1677
+784	188	39.9	
+The Birthmark
+Hawthorne, Nathaniel, 1804-1864
+785	188	35.2	
+Into the Wild
+Krakauer, Jon
+786	188	34.3	
+Do Artifacts Have Politics
+Winner, Langdon
+Daedalus
+787	188	52.6	
+Bleak House
+Dickens, Charles, 1812-1870
+788	188	72.7	
+Options, Futures, and Other Derivatives
+Hull, John, 1946
+789	188	39.0	
+The Caesars
+Suetonius, Approximately 69-Approximately 122
+790	188	91.6	
+The White House
+Bush, Barbara
+History News
+791	187	32.5	
+The Social Transformation of American Medicine
+Starr, Paul, 1949
+792	187	35.9	
+The Renaissance
+Pater, Walter, 1839-1894
+793	187	32.5	
+The Gospel of the Wealth
+Carnegie, Andrew, 1835-1919
+794	187	34.4	
+Game Theory
+Fudenberg, Drew
+795	187	34.9	
+Survey Research Methods
+Fowler, Floyd J.
+796	187	60.4	
+The Rise of the Network Society
+Castells, Manuel, 1942
+797	187	44.2	
+The General Theory of Employment
+Keynes, J. M.
+The Quarterly Journal of Economics
+798	187	42.5	
+The Supreme Court
+Rehnquist, William H., 1924
+799	186	46.5	
+The Origins of Totalitarianism
+Arendt, Hannah, 1906-1975
+800	186	38.1	
+Symphony No. 28
+Mozart, Wolfgang Amadeus, 1756-1791
+801	186	30.4	
+Borderlands = La Frontera
+Anzaldúa, Gloria
+802	186	31.7	
+American History
+Norton, Mary Beth
+Signs
+803	186	37.1	
+New Books
+Smith, Norman Kemp, Acton, H. B., Tennant, F. R., Wisdom, J., Paton, H. J., Laird, John, Black, M., Wisdom, J. O., Widgery, Alban G.
+Mind
+804	186	39.7	
+Developmental Biology
+Gilbert, Scott F., 1949
+805	186	42.2	
+The Image of the City
+Lynch, Kevin, 1918
+806	186	37.1	
+William James
+Dewey, John
+The Journal of Philosophy, Psychology and Scientific Methods
+807	185	43.8	
+The Frogs
+Aristophanes
+808	185	32.1	
+Arcadia
+Stoppard, Tom
+809	185	35.0	
+Modern Recording Techniques
+Huber, David Miles
+810	185	27.6	
+The Nature and Origins of Mass Opinion
+Zaller, John, 1949
+811	185	50.6	
+The Portrait of a Lady
+James, Henry, 1843-1916
+812	185	41.1	
+Summa Theologiae
+Thomas, Aquinas, Saint, 1225?-1274
+813	185	36.8	
+Winesburg, Ohio
+Anderson, Sherwood, 1876-1941
+814	184	39.0	
+Culture and Anarchy
+Arnold, Matthew, 1822-1888
+815	184	27.0	
+The Language of Medicine
+Chabner, Davi-Ellen
+816	184	29.7	
+Rationalist Explanations for War
+Fearon, James D.
+International Organization
+817	184	39.9	
+Areopagitica
+Milton, John, 1608-1674
+818	184	48.7	
+The Bell Jar
+Plath, Sylvia
+819	184	35.5	
+The Marriage of Heaven and Hell
+Blake, William, 1757-1827
+820	184	38.9	
+A History of the Modern Middle East
+Cleveland, William L.
+821	184	40.6	
+National Security
+York, Herbert F.
+Science
+822	183	37.8	
+Elementary Differential Equations and Boundary Value Problems
+Boyce, William E.
+823	183	36.7	
+The Theory of Industrial Organization
+Tirole, Jean
+824	183	33.2	
+Cultural Literacy
+Hirsch,, E. D.
+The American Scholar
+825	183	31.7	
+Writing Up Qualitative Research
+Wolcott, Harry F., 1929
+826	182	38.9	
+Electra
+Sophocles
+827	182	33.2	
+An Occurrence at Owl Creek Bridge
+Bierce, Ambrose, 1842-1914
+828	182	31.6	
+The Western Heritage
+Kagan, Donald
+829	182	32.4	
+The Fire Next Time
+Baldwin, James, 1924-1987
+830	182	43.6	
+How to Do Things With Words
+Austin, J. L. (John Langshaw), 1911-1960
+831	182	33.6	
+Perception and Misperception in International Politics
+Jervis, Robert, 1940
+832	181	35.8	
+The American Revolution
+Thomas, Peter David Garner
+833	181	33.1	
+A Doll's House
+Ibsen, Henrik, 1828-1906
+834	181	40.5	
+Poetry Reading
+Read, Herbert Edward, Sir, 1893-1968
+835	181	51.5	
+Pygmalion
+Shaw, Bernard, 1856-1950
+836	180	27.1	
+Political Process and the Development of Black Insurgency, 1930-1970
+McAdam, Doug
+837	180	34.4	
+Focus Groups
+Morgan, David L.
+Annual Review of Sociology
+838	180	31.8	
+Mind, Self, and Society
+Mead, George Herbert, 1863-1931, Author
+839	179	40.6	
+Pantagruel
+Rabelais, François, Approximately 1490-1553
+840	179	32.2	
+Computer Networking : A Top-Down Approach Featuring the Internet
+Kurose, James F.
+841	179	27.9	
+Ligeia
+Poe, Edgar Allan, 1809-1849
+842	178	33.4	
+The Strategic Logic of Suicide Terrorism
+Pape, Robert A.
+The American Political Science Review
+843	178	42.9	
+Political Liberalism
+Rawls, John, 1921-2002
+844	178	38.3	
+Cambridge University Press, 1584-1984
+Black, Michael H.
+845	178	34.9	
+The Creation of the American Republic, 1776-1787
+Wood, Gordon S.
+846	178	33.0	
+Groundwork of the Metaphysics of Morals
+Kant, Immanuel, 1724-1804
+847	177	36.7	
+Microeconomic Theory
+Mas-Colell, Andreu
+848	177	58.5	
+Odes
+Horace
+849	177	33.2	
+Let Us Now Praise Famous Men
+Agee, James, 1909-1955
+850	177	29.2	
+Sunday Morning
+Stevens, Wallace
+Poetry
+851	177	43.3	
+The Search for Modern China
+Spence, Jonathan D.
+852	177	27.4	
+Yellow Woman
+Silko, Leslie, 1948
+853	176	36.2	
+What Is It Like to Be a Bat
+Nagel, Thomas
+The Philosophical Review
+854	176	29.4	
+C. Wright Mills
+Press, Howard
+855	176	54.0	
+Fahrenheit 451
+Bradbury, Ray, 1920-2012
+856	176	33.4	
+The Scientific Revolution
+Shapin, Steven
+857	176	35.8	
+Governing the Commons : The Evolution of Institutions for Collective Action
+Ostrom, Elinor
+858	175	30.4	
+The New Century Handbook
+Hult, Christine A.
+859	175	76.6	
+Advanced Engineering Mathematics
+Kreyszig, Erwin
+860	175	25.0	
+Beginning Algebra
+Lial, Margaret L.
+861	175	24.3	
+Writing About Art
+Sayre, Henry M., 1948
+862	175	36.2	
+Linear Algebra and Its Applications
+Lay, David C.
+863	175	35.2	
+To Autumn
+Keats, John, 1795-1821
+864	174	37.8	
+Thinking in Java
+Eckel, Bruce
+865	174	28.3	
+Galileo
+Brecht, Bertolt, 1898-1956
+866	173	24.6	
+English Grammar for Students of German
+Zorach, Cecile
+867	173	29.3	
+The Last Days of Socrates
+Plato
+868	173	30.6	
+Organic Chemistry
+Bruice, Paula Yurkanis, 1941
+869	173	45.0	
+Rosencrantz and Guildenstern Are Dead
+Stoppard, Tom
+870	172	27.1	
+The Life of Charlemagne
+Einhard, Approximately 770-840
+871	172	27.1	
+Content Area Reading
+Vacca, Richard T.
+872	172	41.4	
+Artificial Intelligence
+Reading, Hugo F.
+Man
+873	172	27.4	
+Pierrot Lunaire
+Schoenberg, Arnold, 1874-1951
+874	172	33.2	
+Troilus and Criseyde
+Chaucer, Geoffrey, -1400
+875	172	36.1	
+Invisible Cities
+Calvino, Italo
+876	172	28.8	
+The Cartoon Guide to Statistics
+Gonick, Larry
+877	172	35.0	
+The Voyage of the Beagle
+Darwin, Charles, 1809-1882
+878	172	26.5	
+The Human Side of Enterprise
+McGregor, Douglas
+879	172	30.3	
+Wilderness and the American Mind
+Nash, Roderick
+880	172	27.4	
+Bastard Out of Carolina
+Allison, Dorothy
+881	172	26.6	
+Microbiology
+Bauman, Robert W.
+882	171	43.1	
+Hitler
+Kershaw, Ian
+883	171	35.2	
+O Pioneers
+Cather, Willa, 1873-1947
+884	171	41.9	
+The General Theory of Employment, Interest and Money
+Keynes, John Maynard, 1883-1946
+885	171	24.7	
+Medieval Europe : A Short History
+Hollister, C. Warren (Charles Warren), 1930
+886	171	25.1	
+Celia, a Slave
+McLaurin, Melton Alonza
+887	170	32.1	
+Economic and Philosophic Manuscripts of 1844
+Marx, Karl, 1818-1883
+888	170	28.8	
+The Comedies ; The Histories
+Shakespeare, William, 1564-1616
+889	170	29.8	
+The Economy Today
+Schiller, Bradley R., 1943
+890	170	25.9	
+A Pure Theory of Local Expenditures
+Tiebout, Charles M.
+Journal of Political Economy
+891	170	27.8	
+The Freedom of a Christian
+Luther, Martin, 1483-1546
+892	170	33.0	
+The Use of Knowledge in Society
+Hayek, Friedrich A. Von (Friedrich August), 1899-1992
+893	170	46.2	
+Institutes of the Christian Religion
+Calvin, Jean, 1509-1564
+894	170	30.7	
+The Strange Career of Jim Crow
+Woodward, C. Vann (Comer Vann), 1908
+895	170	30.6	
+The Underdevelopment of Development
+Frank, Andre Gunder, 1929
+896	169	36.8	
+Principles of Mathematical Analysis
+Rudin, Walter, 1921
+897	169	36.6	
+Power and Interdependence
+Keohane, Robert O. (Robert Owen), 1941
+898	169	26.9	
+Weary Blues
+Hughes, Langston, 1902-1967
+899	169	46.8	
+Richard III
+Shakespeare, William, 1564-1616
+900	169	31.2	
+No Exit
+Sartre, Jean Paul, 1905-1980. Aut
+901	169	34.8	
+Mother Courage
+Brecht, Bertolt, 1898-1956
+902	169	33.1	
+New Books
+Henry, Desmond Paul, Day, J. P., Flew, Antony, Sluga, H. D., Jacobs, Francis, Raphael, D. D., Palmer, Anthony
+Mind
+903	169	41.3	
+Classical Mechanics
+Goldstein, Herbert, 1922
+904	169	35.0	
+Short Stories
+Poe, Edgar Allan, 1809-1849
+905	168	43.1	
+Animal Liberation
+Singer, Peter, 1946
+906	168	48.9	
+Dialectic of Enlightenment
+Horkheimer, Max, 1895-1973
+907	168	30.6	
+Mathematical Statistics With Applications
+Mendenhall, William
+908	168	45.6	
+Fairy Tales
+Grimm, Albert Ludwig, 1786-1872
+909	167	31.1	
+The Future of an Illusion
+Freud, Sigmund, 1856-1939
+910	167	60.3	
+Julius Caesar
+Shakespeare, William, 1564-1616
+911	167	35.9	
+Naming and Necessity
+Kripke, Saul A., 1940
+912	167	26.1	
+The Art of Courtly Love
+Andreas, Capellanus
+913	167	37.5	
+The Condition of the Working Class in England
+Engels, Friedrich, 1820-1895
+914	167	31.3	
+Modern Quantum Mechanics
+Sakurai, J. J. (Jun John), 1933-1982
+915	167	29.2	
+On Becoming a Leader
+Bennis, Warren G.
+916	167	29.4	
+Research Methods Knowledge Base
+Trochim, William M. K.
+917	167	33.6	
+Statistical Inference
+Casella, George
+918	167	27.3	
+The Way to Wealth
+Franklin, Benjamin, 1706-1790
+919	167	44.3	
+The Taming of the Shrew
+Shakespeare, William, 1564-1616
+920	167	38.3	
+Classical Electrodynamics
+Jackson, John David, 1925
+921	167	46.9	
+A Farewell to Arms
+Hemingway, Ernest, 1899-1961
+922	167	32.0	
+Concepts of Programming Languages
+Sebesta, Robert W.
+923	166	32.7	
+A History of Western Music
+Grout, Donald Jay
+924	166	34.3	
+Mathematical Methods in the Physical Sciences
+Boas, Mary L.
+925	166	38.0	
+Fathers and Sons
+Turgenev, Ivan Sergeevich, 1818-1883
+926	166	39.2	
+From the 'Prison Notebooks
+Gramsci, Antonio, Buttigieg, Joseph A.
+Daedalus
+927	166	28.0	
+Lies My Teacher Told Me : Everything Your American History Textbook Got Wrong
+Loewen, James W.
+928	166	34.4	
+Gargantua and Pantagruel
+Rabelais, François, Approximately 1490-1553
+929	166	41.1	
+The Remains of the Day
+Ishiguro, Kazuo, 1954
+930	166	36.7	
+Mark Twain and I
+Read, Opie Percival, 1852-1939
+931	166	41.7	
+The Satanic Verses
+Rushdie, Salman
+932	166	33.5	
+Foundations of International Macroeconomics
+Obstfeld, Maurice
+933	166	25.0	
+America : A Concise History
+Henretta, James A.
+934	165	29.3	
+Electric Circuits
+Nilsson, James William
+935	165	23.7	
+Existentialism and Human Emotions
+Sartre, Jean Paul, 1905-1980
+936	165	30.6	
+Microeconomics
+Besanko, David, 1955
+937	165	23.1	
+A Framework for Understanding Poverty
+Payne, Ruby K.
+938	165	29.3	
+Digging
+Heaney, Seamus
+World Literature Today
+939	164	34.6	
+Electra
+Euripides
+940	164	28.3	
+Arms and Influence
+Schelling, Thomas C., 1921
+941	164	50.6	
+Biochemistry
+Berg, Jeremy Mark
+942	164	33.0	
+A Course in Microeconomic Theory
+Kreps, David M.
+943	164	40.1	
+Joseph Andrews
+Fielding, Henry, 1707-1754
+944	164	23.2	
+Study of Administration
+Wilson, Woodrow, 1856-1924
+945	164	25.4	
+Evolutionary Analysis
+Freeman, Scott, 1955
+946	163	25.9	
+A Short History of Reconstruction, 1863-1877
+Foner, Eric
+947	163	25.0	
+No-No Boy
+Okada, John
+948	163	25.5	
+Personal Narrative
+Edwards, Jonathan, 1703-1758
+949	163	33.4	
+The Morte Darthur
+Malory, Thomas, Sir, Active 15th Century
+950	163	33.1	
+American History : A Survey
+Brinkley, Alan
+951	163	26.4	
+Teaching Tips : Strategies, Research, and Theory for College and University Teachers
+McKeachie, Wilbert James, 1921
+952	163	27.6	
+Is Female to Male as Nature Is to Culture
+Ortner, Sherry B.
+Feminist Studies
+953	162	22.4	
+Professional Cooking
+Gisslen, Wayne, 1946
+954	162	39.2	
+Textbook of Medical Physiology
+Guyton, Arthur C.
+955	162	27.6	
+Theaetetus
+Plato
+956	162	45.5	
+The Mill on the Floss
+Eliot, George, 1819-1880
+957	162	30.2	
+The Cambridge Press
+Davis, Andrew McFarland, 1833-1920
+958	162	31.2	
+Introduction to Econometrics
+Stock, James H.
+959	162	31.1	
+Lives of the Artists
+Vasari, Giorgio, 1511-1574
+960	162	30.3	
+The Rise of Illiberal Democracy
+Zakaria, Fareed
+Foreign Affairs
+961	161	27.3	
+The Persian Wars
+Herodotus
+962	161	33.5	
+The Will to Power
+Nietzsche, Friedrich Wilhelm, 1844-1900
+963	161	29.6	
+We Wish to Inform You That Tomorrow We Will Be Killed With Our Families : Stories From Rwanda
+Gourevitch, Philip, 1961
+964	161	36.8	
+Inside Terrorism
+Hoffman, Bruce, 1954
+965	161	30.4	
+House Made of Dawn
+Momaday, N. Scott, 1934
+966	161	33.5	
+Mathematics for Economists
+Simon, Carl P., 1945
+967	161	34.0	
+Agricola
+Tacitus, Cornelius
+968	161	24.7	
+On the Dignity of Man
+Pico Della Mirandola, Giovanni, 1463-1494
+969	161	26.9	
+The Gendered Society
+Kimmel, Michael S.
+970	161	33.1	
+Ordinary Men : Reserve Police Battalion 101 and the Final Solution in Poland
+Browning, Christopher R.
+971	161	30.4	
+History of Art
+Janson, H. W. (Horst Woldemar), 1913-1982
+972	161	61.5	
+A Christmas Carol
+Dickens, Charles, 1812-1870
+973	161	32.1	
+Sonnets From the Portuguese
+Browning, Elizabeth Barrett, 1806-1861
+974	161	61.9	
+Lord of the Flies
+Golding, William, 1911-1993
+975	161	29.3	
+Selected Poems
+Yeats, W. B. (William Butler), 1865-1939
+976	161	32.9	
+Where the Wild Things Are
+Sendak, Maurice
+977	160	39.4	
+The Competitive Advantage of Nations
+Porter, Michael E., 1947
+978	160	72.5	
+Sociology
+Giddens, Anthony
+979	160	24.8	
+The Origins of the Urban Crisis : Race and Inequality in Postwar Detroit
+Sugrue, Thomas J., 1962
+980	160	32.0	
+Tragedies
+Euripides
+981	160	46.0	
+Mansfield Park
+Austen, Jane, 1775-1817
+982	160	29.0	
+A Civil Action
+Harr, Jonathan
+983	160	30.1	
+Under Western Eyes: Feminist Scholarship and Colonial Discourses
+Mohanty, Chandra Talpade
+Feminist Review
+984	160	24.5	
+Discovering the Universe
+Comins, Neil F., 1951
+985	159	23.6	
+The Rhetorical Situation
+Bitzer, Lloyd F.
+Philosophy & Rhetoric
+986	159	46.0	
+Economic Development
+Todaro, Michael P.
+987	159	38.3	
+Inferno
+Dante Alighieri, 1265-1321
+988	159	33.6	
+State and Revolution
+Lenin, Vladimir Ilʹich, 1870-1924
+989	159	47.9	
+Lenin
+Trotsky, Leon, 1879-1940
+990	159	36.2	
+Designing Web Usability
+Nielsen, Jakob, 1957
+991	159	44.6	
+Introduction to Solid State Physics
+Kittel, Charles
+992	159	43.4	
+Lehninger Principles of Biochemistry
+Nelson, David L. (David Lee), 1942- Author
+993	158	30.3	
+The Tale of Genji
+Murasaki Shikibu, 978
+994	158	24.6	
+Spring & All
+Williams, William Carlos, 1883-1963
+995	158	26.2	
+The First Days of School : How to Be an Effective Teacher
+Wong, Harry K., 1932
+996	158	22.3	
+Black & White
+Shapiro, Dani
+997	157	31.5	
+Latin America
+James, Preston E. (Preston Everett), 1899-1986
+998	157	27.6	
+The Death of Ivan Ilych
+Tolstoy, Leo, Graf, 1828-1910
+999	157	36.4	
+Biological Psychology
+Kalat, James W.
+1000	157	28.2	
+The Overcoat
+Gogol', Nikolai Vasil'evich, 1809-1852
