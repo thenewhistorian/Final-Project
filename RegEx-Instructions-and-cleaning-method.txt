@@ -1,0 +1,115 @@
+Final Project Notes: Regex template and Summary of Changes to General Top 1000 Dataset
+
+
+The following is the link to the site from which we acquired the nationalities of Great Books authors.
+http://sonic.net/~rteeter/greatbks.html
+
+The Following is the regex applied to the Great Books authors dataset (later to be used for tagging the General TOp 1000 Dataset)
+1) .+\<recommended\>.+ replace with \r\n
+2) (\<\w.+\>) replace with ~\1
+3) \s*$ replace with nothing
+4) ~ replace with nothing
+5) ,_ replace with ,     (comma space replaced with comma)
+
+
+The following is the regex created to clean the data of the General Top 1000 Dataset that can be applied to every dataset mined from OSP.
+***Note: This is out of date as it removes all references to numbers at the beginning of each line. DO NOT USE!
+1) ^(\d).+ replace with nothing
+2) \s*$ replace with nothing
+3)  (\<\w.+\>)$ replace with ~\1 OR a more efficient way to do this to avoid outliers is as follows:
+3a) place cursor at start of first line of text, hold alt-shift and place cursor at beginning of last line of text, type ~ character and it should appear throughout the document
+4) ^([^~]*~[^~]*)~(.*)$ replace with \1\2
+5) (\<^\w.+\>)$ replace with ,\1
+6) \r\n replace with nothing
+7) ~ replace with \r\n
+8) ,_ replace with ,     (comma space replaced with comma)
+
+
+***PLEASE USE***
+The following is the regex created to clean the data of the General Top 1000 Dataset that can be applied to every dataset mined from OSP.
+Note: This is the most up to date regex explanation. Please use!
+1) $ replace with ,     (this step will be helpful to avoid data bleeding into other columns later)
+2) place cursor at start of first line of text, hold alt-shift and place cursor at beginning of last line of text, type ~ character and it should appear throughout the document
+3) (^~\d) replace with ~\1
+4) ^~ replace with ~,
+5) ^, replace with nothing (should leave comma at beginning) (may need to also ^,~ replace with ~ if comma stays at front of number~ also)
+6) (\<^\w.+\>)$ replace with ,\1
+7) \r\n replace with nothing
+8) ~ replace with \r\n
+9) repeat step 1 to insert commas after each column of numbers and remove comma in the case of 4 digit number (may be a little finickey but should be able to line up columns fairly easily)
+10) ,_ replace with ,  AND _, replace with ,   (comma space replaced with comma and space comma replaced with comma) (may also have to change ,, to ,)A
+11) repeat technique from step 2/9 to remove tabs in number columns
+12) Add headings to document
+13) save as txt and csv file
+14) Edit text in Microsoft Excel for obvious mistakes (generally when titles have commas included, the data columns get thrown off)
+15) resave as txt and csv files
+
+
+Unable to automate - did by hand using Bloom's chart and then filled in the rest of the top 100 using the internet - also cleaned data set of dates for consistency - also found repetitive issues within dataset - redid some of the numbers
+
+
+The following is a brief description of the method used to remove duplicates from the cleaned Top 1000 dataset (now Top 933).
+(combo rule - divide combo texts into individual, assuming both texts were read in combo text)
+
+The following is a list of changes made to the 59 texts: 
+Nicomachean Ethics	Aristotle
+The Politics	Aristotle
+The Courtier Castiglione	Baldassarre
+Songs of Experience	Blake
+Songs of Innocence	Blake
+Elementary Differential Equations and Boundary Value Problems	Boyce
+Canterbury Tales	Chaucer
+Research Design : Qualitative & Quantitative Approaches	Creswell
+The Divine Comedy	Dante Alighieri
+On the Origin of Species	Darwin
+Discourse on Method	Descartes
+Meditations on First Philosophy	Descartes
+The Count of Monte-Cristo	Dumas
+The Three Worlds of Welfare Capitalism	Esping-Andersen
+The End of History and the Last Man	Fukuyama
+Nations and Nationalism	Gellner
+The Decline and Fall of the Roman Empire	Gibbon
+The Yellow Wallpaper	Gilman
+Prison Notebooks	Gramsci
+Fundamentals of Physics	Halliday
+The Histories	Herodotus
+Works & Days	Hesiod
+Theogony	Hesiod
+The Iliad	Homer
+The Odyssey	Homer
+The Clash of Civilizations	Huntington
+The General Theory of Employment	Keynes
+Two Treatises of Government	Locke
+An Essay on the Principle of Population	Malthus
+Principles of Macroeconomics	Mankiw
+Principles of Microeconomics	Mankiw
+Human Anatomy & Physiology	Marieb
+Doctor Faustus	Marlowe
+The Communist Manifesto	Marx
+Karl Marx	McLellan
+Understanding Media : The Extensions of Man	McLuhan
+Bartleby the Scrivener	Melville
+Paradise Lost	Milton
+On the Genealogy of Morals	Nietzsche
+Questionnaire Design Interviewing and Attitude Measurement	Oppenheim
+Apology	Plato
+Republic	Plato
+Crito	Plato
+Discourse on the Origin of Inequality	Rousseau
+On the Social Contract	Rousseau
+Existentialism and Humanism	Sartre
+An Inquiry Into the Nature and Causes of the Wealth of Nations	Smith
+The Theban Plays	Sophocles
+Oedipus	Sophocles
+Operating Systems	Stallings
+The Strange Case of Dr. Jekyll and Mr. Hyde	Stevenson
+The Rite of Spring	Stravinsky
+Summa Theologica	Thomas
+History of the Peloponnesian War	Thucydides
+A Manual for Writers of Term Papers Theses and Dissertations	Turabian
+Adventures of Huckleberry Finn	Twain
+Style : Lessons in Clarity and Grace	Williams
+A Vindication of the Rights of Woman	Wollstonecraft
+Lyrical Ballads 1805	Wordsworth
+
+
