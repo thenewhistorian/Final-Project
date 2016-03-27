@@ -12,7 +12,7 @@ New Rank,Count,Old Rank,Text,Author-last,Author-first,Date,Nationality
 11,2702,11,The Odyssey,Homer,, 800 BCE.,Greek
 12,2671,7,Leviathan,Hobbes,Thomas,1588-1679.,English
 13,2658,21,Paradise Lost,Milton,John,1608-1674.,English
-14,2652,8,The Prince,Machiavelli,Niccol√≤,1469-1527.,Italian
+14,2652,8,The Prince,Machiavelli,Niccol«˝,1469-1527.,Italian
 15,2520,16,Canterbury Tales,Chaucer,Geoffrey,1342-1400.,English
 16,2459,97,Adventures of Huckleberry Finn,Twain,Mark,1835-1910.,American
 17,2395,10,Hamlet,Shakespeare,William,1564-1616.,English
@@ -29,12 +29,12 @@ New Rank,Count,Old Rank,Text,Author-last,Author-first,Date,Nationality
 28,1969,19,On Liberty,Mill,John Stuart,1806-1873.,English
 29,1958,20,The Structure of Scientific Revolutions,Kuhn,Thomas S.,1922-1996.,American
 30,1947,58,History of the Peloponnesian War,Thucydides,,465-400 BCE.,Greek
-31,1946,68,Meditations on First Philosophy,Descartes,Ren√©,1596-1650.,French
+31,1946,68,Meditations on First Philosophy,Descartes,Ren«∏,1596-1650.,French
 32,1885,22,Utilitarianism,Mill,John Stuart,1806-1873.,English
 33,1875,37,An Inquiry Into the Nature and Causes of the Wealth of Nations,Smith,Adam,1723-1790.,Scottish
 34,1840,104,Principles of Macroeconomics,Mankiw,N. Gregory,1958- .,United States
 35,1834,24,Things Fall Apart,Achebe,Chinua,1930-2013.,Nigerian
-36,1804,89,Discourse on Method,Descartes,Ren√©,1596-1650.,French
+36,1804,89,Discourse on Method,Descartes,Ren«∏,1596-1650.,French
 37,1786,74,Crito,Plato,,428-348 BCE.,Greek
 38,1785,48,On the Social Contract,Rousseau,Jean-Jacques,1712-1778.,French
 39,1774,26,Power,Foucault,Michel,1926-1984.,French
@@ -281,7 +281,7 @@ New Rank,Count,Old Rank,Text,Author-last,Author-first,Date,Nationality
 280,612,273,The Glass Menagerie,Williams,Tennessee,1911-1983,American
 281,611,275,The Stranger,Camus,Albert,1913-1960,French
 282,611,274,Rajiv,Gandhi,Sonia,1946,
-283,610,845,The Three Worlds of Welfare Capitalism,Esping-Andersen,G√∏sta,1947,
+283,610,845,The Three Worlds of Welfare Capitalism,Esping-Andersen,G«˜sta,1947,
 284,610,276,Globalization,Held,David,,
 285,609,277,Discrete Mathematics and Its Applications,Rosen,Kenneth H.,,
 286,608,278,Principles of Anatomy and Physiology,Tortora,Gerard J.,,
@@ -301,7 +301,7 @@ New Rank,Count,Old Rank,Text,Author-last,Author-first,Date,Nationality
 300,590,294,The Federalist Papers,Hamilton,Alexander,1757-1804,
 301,589,295,The Evolution of Cooperation,Axelrod,Robert M.,,
 302,589,296,Leading Change,Kotter,John P.,1947,
-303,586,297,Suicide,Durkheim,√âmile,1858-1917,French
+303,586,297,Suicide,Durkheim,«?mile,1858-1917,French
 304,585,298,The Unconscious,Freud,Sigmund,1856-1939,Austrian
 305,585,299,The Language Instinct,Pinker,Steven,1954,
 306,585,300,Fundamentals of Physics,Walker,Jearl,1945,
@@ -324,7 +324,7 @@ New Rank,Count,Old Rank,Text,Author-last,Author-first,Date,Nationality
 323,555,320,On War,Clausewitz,Carl Von,1780-1831,German
 324,555,322,The Rime of the Ancient Mariner,Coleridge,Samuel Taylor,1772-1834,English
 325,555,321,Billy Budd,Melville,Herman,1819-1891,American
-326,553,323,The Elementary Forms of Religious Life,Durkheim,√âmile,1858-1917,French
+326,553,323,The Elementary Forms of Religious Life,Durkheim,«?mile,1858-1917,French
 327,551,325,The Physics,Aristotle,,384-322 BCE.,Greek
 328,549,327,The Ancient Mariner,Coleridge,Samuel Taylor,1772-1834,English
 329,549,326,Daisy Miller,James,Henry,1843-1916,American
@@ -360,7 +360,7 @@ New Rank,Count,Old Rank,Text,Author-last,Author-first,Date,Nationality
 359,519,361,Looking Backward 2000-1887,Bellamy,Edward,1850-1898,
 360,519,362,The Lord of the Rings,Tolkien,J. R. R. (John Ronald Reuel),1892-1973,English
 361,518,365,Basic Econometrics,Gujarati,Damodar N.,,
-362,518,364,The Discourses,Machiavelli,Niccol√≤,1469-1527,Italian
+362,518,364,The Discourses,Machiavelli,Niccol«˝,1469-1527,Italian
 363,518,363,The Visual Display of Quantitative Information,Tufte,Edward R.,1942,
 364,517,366,Lord of the Flies,Golding,William,1911-1993,English
 365,516,367,The Time Machine,Wells,H. G. (Herbert George),1866-1946,English
@@ -397,7 +397,7 @@ New Rank,Count,Old Rank,Text,Author-last,Author-first,Date,Nationality
 396,484,402,Black Skin White Masks,Fanon,Frantz,1925-1961,Martinican
 397,483,403,The Raven,Poe,Edgar Allan,1809-1849,American
 398,481,404,Anarchy State and Utopia,Nozick,Robert,1938-2002.,American
-399,479,406,Jane Eyre,Bront√´,Charlotte,1816-1855,English
+399,479,406,Jane Eyre,Bront«Æ,Charlotte,1816-1855,English
 400,479,407,Getting to Yes : Negotiating Agreement Without Giving In,Fisher,Roger,1922-2012,
 401,478,409,Doing a Literature Review : Releasing the Social Science Research Imagination,Hart,Chris,,
 402,478,408,Goblin Market,Rossetti,Christina Georgina,1830-1894,
@@ -593,12 +593,12 @@ New Rank,Count,Old Rank,Text,Author-last,Author-first,Date,Nationality
 592,366,620,Selected Writings 1877-1930,Power,Sir D'Arcy,1855-1941,
 593,365,623,Institutes of the Christian Religion,Calvin,Jean or John,1509-1564,Swiss
 594,365,622,Hegel,Heidegger,Martin,1889-1976,German
-595,365,621,Gargantua,Rabelais,Fran√ßois,1490-1553,French
+595,365,621,Gargantua,Rabelais,Fran«ıois,1490-1553,French
 596,364,624,The Developing Person,Berger,Kathleen Stassen,,
 597,363,626,Mansfield Park,Austen,Jane,1775-1817,English
 598,363,625,A Short Guide to Writing About History,Marius,Richard,,
 599,363,628,Economic Development,Todaro,Michael P.,,
-600,361,630,What Is to Be Done,Lenin,Vladimir Il πich,1870-1924,Russian
+600,361,630,What Is to Be Done,Lenin,Vladimir Il“˚ich,1870-1924,Russian
 601,361,629,Microelectronic Circuits,Sedra,Adel S.,,
 602,359,635,Social Learning Theory,Bandura,Albert,1925,
 603,359,636,The English Language,Crystal,David,1941,
@@ -616,14 +616,14 @@ New Rank,Count,Old Rank,Text,Author-last,Author-first,Date,Nationality
 615,356,647,Archaeology,Renfrew,Colin,,
 616,356,645,TCP/IP Illustrated,Stevens,W. Richard,,
 617,355,651,The Ideological Origins of the American Revolution,Bailyn,Bernard,,
-618,355,648,The Division of Labor in Society,Durkheim,√âmile,1858-1917,French
+618,355,648,The Division of Labor in Society,Durkheim,«?mile,1858-1917,French
 619,355,649,A Small Place,Kincaid,Jamaica,1949- .,American
 620,355,650,Jimmy Corrigan : The Smartest Kid on Earth,Ware,Chris,1967- .,
 621,354,655,Astronomy Today,Chaisson,Eric,,
 622,354,653,The Leadership Challenge,Kouzes,James M.,1945,
 623,354,656,Rosencrantz and Guildenstern Are Dead,Stoppard,Tom,1937- .,English
 624,353,659,Love Medicine,Erdrich,Louise,1954- .,American
-625,353,657,Fear and Trembling,Kierkegaard,S√∏ren,1813-1855,Danish
+625,353,657,Fear and Trembling,Kierkegaard,S«˜ren,1813-1855,Danish
 626,352,660,The Principles of Scientific Management,Taylor,Frederick Winslow,1856-1915,
 627,351,662,A Clockwork Orange,Burgess,Anthony,1917-1993,
 628,351,664,United States History,Current,Richard Nelson,,
@@ -641,7 +641,7 @@ New Rank,Count,Old Rank,Text,Author-last,Author-first,Date,Nationality
 640,347,678,Anna Karenina,Tolstoy,Leo,1828-1910,Russian
 641,346,679,Compulsory Heterosexuality and Lesbian Existence,Rich,Adrienne,1929-2012,American
 642,345,681,The Frogs,Aristophanes,,448-388 BCE.,Greek
-643,345,683,Wuthering Heights,Bront√´,Emily,1818-1848,English
+643,345,683,Wuthering Heights,Bront«Æ,Emily,1818-1848,English
 644,345,680,Macroeconomic Theory,Sargent,Thomas J.,,
 645,345,682,Snow Crash,Stephenson,Neal,1959- .,American
 646,345,684,Orlando,Woolf,Virginia,1882-1941,English
@@ -725,7 +725,7 @@ New Rank,Count,Old Rank,Text,Author-last,Author-first,Date,Nationality
 724,320,776,Experiential Learning : Experience as the Source of Learning and Development,Kolb,David A.,1939,
 725,320,773,Watchmen,Moore,Alan,1953- .,English
 726,320,777,Piano Concerto : K. 491,Mozart,Wolfgang Amadeus,1756-1791,
-727,320,772,Pantagruel,Rabelais,Fran√ßois,1490-1553,French
+727,320,772,Pantagruel,Rabelais,Fran«ıois,1490-1553,French
 728,320,778,National Security,York,Herbert F.,,
 729,319,779,Understanding and Using English Grammar,Azar,Betty Schrampfer,1941,
 730,319,784,Economic Growth,Barro,Robert J.,,
@@ -844,7 +844,7 @@ New Rank,Count,Old Rank,Text,Author-last,Author-first,Date,Nationality
 843,293,904,The Black Atlantic : Modernity and Double Consciousness,Gilroy,Paul,,
 844,293,905,The Great Fire,Hazzard,Shirley,1931- .,Australian
 845,293,907,Civil War 2000,Henry,Charles P.,,
-846,293,906,The Russian Revolution,Lenin,Vladimir Il πich,1870-1924,Russian
+846,293,906,The Russian Revolution,Lenin,Vladimir Il“˚ich,1870-1924,Russian
 847,292,911,Technical Communication,Lannon,John M.,,
 848,292,909,Human-Computer Interaction,Preece,Jenny,1949,
 849,292,912,White Teeth,Smith,Zadie,1975- .,English
@@ -858,7 +858,7 @@ New Rank,Count,Old Rank,Text,Author-last,Author-first,Date,Nationality
 857,290,922,City of Quartz : Excavating the Future in Los Angeles,Davis,Mike,1946,American
 858,290,924,Java in a Nutshell,Flanagan,David,,
 859,290,918,International Relations,Goldstein,Joshua S.,1952,
-860,290,921,The Postmodern Condition : A Report on Knowledge,Lyotard,Jean Fran√ßois,1924-1998,
+860,290,921,The Postmodern Condition : A Report on Knowledge,Lyotard,Jean Fran«ıois,1924-1998,
 861,290,923,In the Wake,Petterson,Per,1952,
 862,290,919,Understanding Nutrition,Whitney,Eleanor Noss,,
 863,289,934,Winesburg Ohio,Anderson,Sherwood,1876-1941,American
@@ -904,7 +904,7 @@ New Rank,Count,Old Rank,Text,Author-last,Author-first,Date,Nationality
 903,282,974,Life on Earth,Audesirk,Teresa,,
 904,282,976,The Wizard of Oz,Baum,L. Frank (Lyman Frank),1856-1919,American
 905,282,973,Shakespeare,Bevington,David M.,,
-906,282,978,The Laugh of the Medusa,Cixous,H√©l√®ne,,
+906,282,978,The Laugh of the Medusa,Cixous,H«∏l«˘ne,,
 907,282,970,Maggie a Girl of the Streets,Crane,Stephen,1871-1900,American
 908,282,972,Naming and Necessity,Kripke,Saul A.,1940,
 909,282,971,The Renaissance,Pater,Walter,1839-1894,English
@@ -918,7 +918,7 @@ New Rank,Count,Old Rank,Text,Author-last,Author-first,Date,Nationality
 917,281,980,The American Revolution,Thomas,Peter David Garner,,
 918,280,986,Fables,Aesop,,620-560 BCE.,Greek
 919,280,989,Biographia Literaria,Coleridge,Samuel Taylor,1772-1834,English
-920,280,988,The Rules of Sociological Method,Durkheim,√âmile,1858-1917,French
+920,280,988,The Rules of Sociological Method,Durkheim,«?mile,1858-1917,French
 921,280,985,Light in August,Faulkner,William,1897-1962,American
 922,280,987,The White Earth,McGahan,Andrew,,
 923,280,990,Epistemology of the Closet,Sedgwick,Eve Kosofsky,,
