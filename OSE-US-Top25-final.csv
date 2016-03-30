@@ -1,0 +1,26 @@
+Rank,Reverse Order,Count,Text,Author-last,Author-first,Gender,Nationality,Coordinates,Date
+1,25,3077,The Elements of Style,Strunk,William,M,United States,"37.09024,-95.712891",1869-01-01
+2,24,2479,Republic,Plato,,M,Greece,"39.074208,21.824312",-430
+3,23,2337,Biology,Campbell,Neil A.,M,United States,"37.09024,-95.712891",1946-01-01
+4,22,2244,The Communist Manifesto,Marx,Karl,M,Germany,"51.165691,10.451526",1818-01-01
+5,21,1862,Ethics,Aristotle,,M,Greece,"39.074208,21.824312",-386
+6,20,1844,The Prince,Machiavelli,Niccolò,M,Italy,"41.87194,12.567380",1469-01-01
+7,19,1797,Leviathan,Hobbes,Thomas,M,United Kingdom,"55.378051,-3.435973",1588-01-01
+8,18,1787,Oedipus,Sophocles,,M,Greece,"39.074208,21.824312",-498
+9,17,1785,Frankenstein,Shelley,Mary Wollstonecraft,F,United Kingdom,"55.378051,-3.435973",1797-01-01
+10,16,1729,A Manual for Writers of Term Papers Theses and Dissertations,Turabian,Kate L.,F,United States,"37.09024,-95.712891",1893-01-01
+11,15,1605,Letter From the Birmingham Jail,King,Martin Luther,M,United States,"37.09024,-95.712891",1929-01-01
+12,14,1508,The Odyssey,Homer,,M,Greece,"39.074208,21.824312",-802
+13,13,1496,Apology,Plato,,M,Greece,"39.074208,21.824312",-430
+14,12,1433,Antigone,Sophocles,,M,Greece,"39.074208,21.824312",-498
+15,11,1412,The Iliad,Homer,,M,Greece,"39.074208,21.824312",-802
+16,10,1404,Utilitarianism,Mill,John Stuart,M,United Kingdom,"55.378051,-3.435973",1806-01-01
+17,9,1401,Methods in Behavioral Research,Cozby,Paul C.,M,United States,"37.09024,-95.712891",
+18,8,1370,The Structure of Scientific Revolutions,Kuhn,Thomas S.,M,United States,"37.09024,-95.712891",1922-01-01
+19,7,1370,A Pocket Style Manual,Hacker,Diana,F,United States,"37.09024,-95.712891",1942-01-01
+20,6,1361,On Liberty,Mill,John Stuart,M,United Kingdom,"55.378051,-3.435973",1806-01-01
+21,5,1352,The Clash of Civilizations,Huntington,Samuel P.,M,United States,"37.09024,-95.712891",1927-01-01
+22,4,1345,Heart of Darkness,Conrad,Joseph,M,United States,"37.09024,-95.712891",1857-01-01
+23,3,1326,Canterbury Tales,Chaucer,Geoffrey,M,United Kingdom,"55.378051,-3.435973",1400-01-01
+24,2,1322,A Manual for Writers of Dissertations,Turabian,Kate L.,F,United States,"37.09024,-95.712891",1893-01-01
+25,1,1294,Orientalism,Said,Edward W.,M,Palestine,"31.952162,35.233154",1935-01-01

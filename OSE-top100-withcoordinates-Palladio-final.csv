@@ -1,101 +1,101 @@
 New Rank,Reverse Order,Count,Text,Author-last,Nationality,Coordinates,Date
-1,100,4682,Oedipus,Sophocles,Greece,"39.074208,21.824312",-498
-2,99,4211,Nicomachean Ethics,Aristotle,Greece,"39.074208,21.824312",-386
-3,98,4145,Republic,Plato,Greece,"39.074208,21.824312",-430
-4,97,3934,The Elements of Style,Strunk,United States,"37.09024,-95.712891",1869-01-01
-5,96,3912,A Manual for Writers of Term Papers Theses and Dissertations,Turabian,United States,"37.09024,-95.712891",1893-01-01
-6,95,3856,The Communist Manifesto,Marx,Germany,"51.165691,10.451526",1818-01-01
-7,94,3559,Apology,Plato,Greece,"39.074208,21.824312",-430
-8,93,3057,Biology,Campbell,United States,"37.09024,-95.712891",1946-01-01
-9,92,2732,The Iliad,Homer,Greece,"39.074208,21.824312",-802
-10,91,2710,Frankenstein,Shelley,United Kingdom,"55.378051,-3.435973",1797-01-01
-11,90,2702,The Odyssey,Homer,Greece,"39.074208,21.824312",-802
-12,89,2671,Leviathan,Hobbes,United Kingdom,"55.378051,-3.435973",1588-01-01
-13,88,2658,Paradise Lost,Milton,United Kingdom,"55.378051,-3.435973",1608-01-01
-14,87,2652,The Prince,Machiavelli,Italy,"41.87194,12.567380",1469-01-01
-15,86,2520,Canterbury Tales,Chaucer,United Kingdom,"55.378051,-3.435973",1342-01-01
-16,85,2459,Adventures of Huckleberry Finn,Twain,United States,"37.09024,-95.712891",1835-01-01
-17,84,2395,Hamlet,Shakespeare,United Kingdom,"55.378051,-3.435973",1564-01-01
-18,83,2302,Orientalism,Said,Palestine,"31.952162,35.233154",1935-01-01
-19,82,2301,The Clash of Civilizations,Huntington,United States,"37.09024,-95.712891",1927-01-01
-20,81,2269,On the Origin of Species,Darwin,United Kingdom,"55.378051,-3.435973",1809-01-01
-21,80,2257,Human Anatomy & Physiology,Marieb,United States,"37.09024,-95.712891",1936-01-01
-22,79,2147,Heart of Darkness,Conrad,United Kingdom,"55.378051,-3.435973",1857-01-01
-23,78,2083,Fundamentals of Physics,Halliday,United States,"37.09024,-95.712891",1916-01-01
-24,77,2038,A Vindication of the Rights of Woman,Wollstonecraft,United Kingdom,"55.378051,-3.435973",1759-01-01
-25,76,2021,Antigone,Sophocles,Greece,"39.074208,21.824312",-498
-26,75,2003,The Politics,Aristotle,Greece,"39.074208,21.824312",-386
-27,74,1985,Letter From the Birmingham Jail,King,United States,"37.09024,-95.712891",1929-01-01
-28,73,1969,On Liberty,Mill,United Kingdom,"55.378051,-3.435973",1806-01-01
-29,72,1958,The Structure of Scientific Revolutions,Kuhn,United States,"37.09024,-95.712891",1922-01-01
-30,71,1947,History of the Peloponnesian War,Thucydides,Greece,"39.074208,21.824312",-467
-31,70,1946,Meditations on First Philosophy,Descartes,France,"46.227638,2.213749",1596-01-01
-32,69,1885,Utilitarianism,Mill,United Kingdom,"55.378051,-3.435973",1806-01-01
-33,68,1875,An Inquiry Into the Nature and Causes of the Wealth of Nations,Smith,United Kingdom,"55.378051,-3.435973",1723-01-01
-34,67,1840,Principles of Macroeconomics,Mankiw,United States,"37.09024,-95.712891",1958-01-01
 35,66,1834,Things Fall Apart,Achebe,Nigeria,"9.081999,8.675277",1930-01-01
-36,65,1804,Discourse on Method,Descartes,France,"46.227638,2.213749",1596-01-01
-37,64,1786,Crito,Plato,Greece,"39.074208,21.824312",-430
-38,63,1785,On the Social Contract,Rousseau,France,"46.227638,2.213749",1712-01-01
-39,62,1774,Power,Foucault,France,"46.227638,2.213749",1926-01-01
-40,61,1696,The Yellow Wallpaper,Gilman,United States,"37.09024,-95.712891",1860-01-01
-41,60,1694,Confessions,Augustine,Libya,"26.3351,17.228331",354-01-01
-42,59,1651,Walden,Thoreau,United States,"37.09024,-95.712891",1817-01-01
-43,58,1650,Democracy in America,Tocqueville,France,"46.227638,2.213749",1805-01-01
-44,57,1633,Existentialism and Humanism,Sartre,France,"46.227638,2.213749",1905-01-01
-45,56,1629,C How to Program,Deitel,United States,"37.09024,-95.712891",1945-01-01
-46,55,1626,MLA Handbook for Writers of Research Papers,Gibaldi,United States,"37.09024,-95.712891",1942-01-01
-47,54,1610,A Pocket Style Manual,Hacker,United States,"37.09024,-95.712891",1942-01-01
-48,53,1589,The Great Gatsby,Fitzgerald,United States,"37.09024,-95.712891",1896-01-01
-49,52,1567,Bartleby the Scrivener,Melville,United States,"37.09024,-95.712891",1819-01-01
-50,51,1521,Dialogues,Plato,Greece,"39.074208,21.824312",-430
-51,50,1484,Two Treatises of Government,Locke,United Kingdom,"55.378051,-3.435973",1632-01-01
-52,49,1476,The History of Sexuality,Foucault,France,"46.227638,2.213749",1926-01-01
-53,48,1474,Autobiography,Franklin,United States,"37.09024,-95.712891",1706-01-01
 54,47,1464,The Poetics,Aristotle,Greece,"39.074208,21.824312",-386
-55,46,1454,Beloved,Morrison,United States,"37.09024,-95.712891",1931-01-01
-56,45,1447,Capital,Marx,Germany,"51.165691,10.451526",1818-01-01
-57,44,1440,The Tempest,Shakespeare,United Kingdom,"55.378051,-3.435973",1564-01-01
-58,43,1432,Methods in Behavioral Research,Cozby,United States,"37.09024,-95.712891",
-59,42,1388,Theogony,Hesiod,Greece,"39.074208,21.824312",-802
-60,41,1384,The Bedford Handbook,Hacker,United States,"37.09024,-95.712891",1942-01-01
-61,40,1376,Utopia,More,United Kingdom,"55.378051,-3.435973",1478-01-01
-62,39,1371,The Aeneid,Virgil,Italy,"41.87194,12.567380",-72
-63,38,1350,Incidents in the Life of a Slave Girl,Jacobs,United States,"37.09024,-95.712891",1813-01-01
-64,37,1347,The Histories,Herodotus,Greece,"39.074208,21.824312",-486
-65,36,1308,Lyrical Ballads 1805,Wordsworth,United Kingdom,"55.378051,-3.435973",1770-01-01
-66,35,1293,Research Design Qualitative & Quantitative Approaches,Creswell,United States,"37.09024,-95.712891",
-67,34,1293,The Awakening,Chopin,United States,"37.09024,-95.712891",1850-01-01
-68,33,1293,The Tragedy of the Commons,Hardin,United States,"37.09024,-95.712891",1915-01-01
-69,32,1291,The Declaration of Independence,Jefferson,United States,"37.09024,-95.712891",1743-01-01
-70,31,1288,Candide,Voltaire,France,"46.227638,2.213749",1694-01-01
-71,30,1262,Democracy in America,De Tocqueville,France,"46.227638,2.213749",1805-01-01
-72,29,1259,An Essay on the Principle of Population,Malthus,United Kingdom,"55.378051,-3.435973",1766-01-01
-73,28,1248,A Theory of Justice,Rawls,United States,"37.09024,-95.712891",1921-01-01
-74,27,1241,Works & Days,Hesiod,Greece,"39.074208,21.824312",-802
-75,26,1229,Henry V,Shakespeare,United Kingdom,"55.378051,-3.435973",1564-01-01
-76,25,1210,Project Evaluation,Due,United States,"37.09024,-95.712891",
-77,24,1207,Metamorphoses,Ovid,Italy,"41.87194,2.567380",-45
-78,23,1202,Ways of Seeing,Berger,United Kingdom,"55.378051,-3.435973",1926-01-01
-79,22,1199,Invisible Man,Ellison,United States,"37.09024,-95.712891",1914-01-01
-80,21,1195,Nations and Nationalism,Gellner,United Kingdom,"55.378051,-3.435973",1925-01-01
-81,20,1182,The White House,Bush,United States,"37.09024,-95.712891",1925-01-01
+26,75,2003,The Politics,Aristotle,Greece,"39.074208,21.824312",-386
+2,99,4211,Nicomachean Ethics,Aristotle,Greece,"39.074208,21.824312",-386
+41,60,1694,Confessions,Augustine,Libya,"26.3351,17.228331",354-01-01
 82,19,1181,Pride & Prejudice,Austen,United Kingdom,"55.378051,-3.435973",1775-01-01
-83,18,1171,Their Eyes Were Watching God,Hurston,United States,"37.09024,-95.712891",1891-01-01
-84,17,1170,The Rite of Spring,Stravinsky,Russia,"61.52401,105.318756",1882-01-01
-85,16,1170,Medea,Euripides,Greece,"39.074208,21.824312",-486
-86,15,1162,Macbeth,Shakespeare,United Kingdom,"55.378051,-3.435973",1564-01-01
-87,14,1152,Brave New World,Huxley,United Kingdom,"55.378051,-3.435973",1894-01-01
-88,13,1141,Othello,Shakespeare,United Kingdom,"55.378051,-3.435973",1564-01-01
-89,12,1128,Common Sense,Paine,United Kingdom,"55.378051,-3.435973",1737-01-01
-90,11,1117,The Analects,Confucius,China,"35.86166,104.195397",-553
-91,10,1114,Physics,Walker,United States,"37.09024,-95.712891",1950-01-01
-92,9,1105,The Love Song of J. Alfred Prufrock,Eliot,United Kingdom,"55.378051,-3.435973",1888-01-01
-93,8,1102,The Protestant Ethic and the Spirit of Capitalism,Weber,Germany,"51.165691,10.451526",1864-01-01
-94,7,1099,Calculus Early Transcendentals,Stewart,Canada,"56.130366,-106.346771",1941-01-01
-95,6,1092,On the Genealogy of Morals,Nietzsche,Germany,"51.165691,10.451526",1844-01-01
-96,5,1089,The End of History and the Last Man,Fukuyama,United States,"37.09024,-95.712891",1952-01-01
+78,23,1202,Ways of Seeing,Berger,United Kingdom,"55.378051,-3.435973",1926-01-01
 97,4,1088,Songs of Innocence,Blake,United Kingdom,"55.378051,-3.435973",1757-01-01
+81,20,1182,The White House,Bush,United States,"37.09024,-95.712891",1925-01-01
+8,93,3057,Biology,Campbell,United States,"37.09024,-95.712891",1946-01-01
+15,86,2520,Canterbury Tales,Chaucer,United Kingdom,"55.378051,-3.435973",1342-01-01
+67,34,1293,The Awakening,Chopin,United States,"37.09024,-95.712891",1850-01-01
+90,11,1117,The Analects,Confucius,China,"35.86166,104.195397",-553
+22,79,2147,Heart of Darkness,Conrad,United Kingdom,"55.378051,-3.435973",1857-01-01
+58,43,1432,Methods in Behavioral Research,Cozby,United States,"37.09024,-95.712891",
+66,35,1293,Research Design Qualitative & Quantitative Approaches,Creswell,United States,"37.09024,-95.712891",
+20,81,2269,On the Origin of Species,Darwin,United Kingdom,"55.378051,-3.435973",1809-01-01
+71,30,1262,Democracy in America,De Tocqueville,France,"46.227638,2.213749",1805-01-01
+45,56,1629,C How to Program,Deitel,United States,"37.09024,-95.712891",1945-01-01
+36,65,1804,Discourse on Method,Descartes,France,"46.227638,2.213749",1596-01-01
+31,70,1946,Meditations on First Philosophy,Descartes,France,"46.227638,2.213749",1596-01-01
+76,25,1210,Project Evaluation,Due,United States,"37.09024,-95.712891",
+92,9,1105,The Love Song of J. Alfred Prufrock,Eliot,United Kingdom,"55.378051,-3.435973",1888-01-01
+79,22,1199,Invisible Man,Ellison,United States,"37.09024,-95.712891",1914-01-01
+85,16,1170,Medea,Euripides,Greece,"39.074208,21.824312",-486
+48,53,1589,The Great Gatsby,Fitzgerald,United States,"37.09024,-95.712891",1896-01-01
+52,49,1476,The History of Sexuality,Foucault,France,"46.227638,2.213749",1926-01-01
+39,62,1774,Power,Foucault,France,"46.227638,2.213749",1926-01-01
+53,48,1474,Autobiography,Franklin,United States,"37.09024,-95.712891",1706-01-01
+96,5,1089,The End of History and the Last Man,Fukuyama,United States,"37.09024,-95.712891",1952-01-01
+80,21,1195,Nations and Nationalism,Gellner,United Kingdom,"55.378051,-3.435973",1925-01-01
+46,55,1626,MLA Handbook for Writers of Research Papers,Gibaldi,United States,"37.09024,-95.712891",1942-01-01
+40,61,1696,The Yellow Wallpaper,Gilman,United States,"37.09024,-95.712891",1860-01-01
+60,41,1384,The Bedford Handbook,Hacker,United States,"37.09024,-95.712891",1942-01-01
+47,54,1610,A Pocket Style Manual,Hacker,United States,"37.09024,-95.712891",1942-01-01
+23,78,2083,Fundamentals of Physics,Halliday,United States,"37.09024,-95.712891",1916-01-01
+68,33,1293,The Tragedy of the Commons,Hardin,United States,"37.09024,-95.712891",1915-01-01
+64,37,1347,The Histories,Herodotus,Greece,"39.074208,21.824312",-486
+74,27,1241,Works & Days,Hesiod,Greece,"39.074208,21.824312",-802
+59,42,1388,Theogony,Hesiod,Greece,"39.074208,21.824312",-802
+12,89,2671,Leviathan,Hobbes,United Kingdom,"55.378051,-3.435973",1588-01-01
+11,90,2702,The Odyssey,Homer,Greece,"39.074208,21.824312",-802
+9,92,2732,The Iliad,Homer,Greece,"39.074208,21.824312",-802
+19,82,2301,The Clash of Civilizations,Huntington,United States,"37.09024,-95.712891",1927-01-01
+83,18,1171,Their Eyes Were Watching God,Hurston,United States,"37.09024,-95.712891",1891-01-01
+87,14,1152,Brave New World,Huxley,United Kingdom,"55.378051,-3.435973",1894-01-01
+63,38,1350,Incidents in the Life of a Slave Girl,Jacobs,United States,"37.09024,-95.712891",1813-01-01
+69,32,1291,The Declaration of Independence,Jefferson,United States,"37.09024,-95.712891",1743-01-01
+27,74,1985,Letter From the Birmingham Jail,King,United States,"37.09024,-95.712891",1929-01-01
 98,3,1081,Economics,Krugman,United States,"37.09024,-95.712891",
+29,72,1958,The Structure of Scientific Revolutions,Kuhn,United States,"37.09024,-95.712891",1922-01-01
+51,50,1484,Two Treatises of Government,Locke,United Kingdom,"55.378051,-3.435973",1632-01-01
+14,87,2652,The Prince,Machiavelli,Italy,"41.87194,12.567380",1469-01-01
+72,29,1259,An Essay on the Principle of Population,Malthus,United Kingdom,"55.378051,-3.435973",1766-01-01
+34,67,1840,Principles of Macroeconomics,Mankiw,United States,"37.09024,-95.712891",1958-01-01
+21,80,2257,Human Anatomy & Physiology,Marieb,United States,"37.09024,-95.712891",1936-01-01
+56,45,1447,Capital,Marx,Germany,"51.165691,10.451526",1818-01-01
+6,95,3856,The Communist Manifesto,Marx,Germany,"51.165691,10.451526",1818-01-01
+49,52,1567,Bartleby the Scrivener,Melville,United States,"37.09024,-95.712891",1819-01-01
+32,69,1885,Utilitarianism,Mill,United Kingdom,"55.378051,-3.435973",1806-01-01
+28,73,1969,On Liberty,Mill,United Kingdom,"55.378051,-3.435973",1806-01-01
+13,88,2658,Paradise Lost,Milton,United Kingdom,"55.378051,-3.435973",1608-01-01
+61,40,1376,Utopia,More,United Kingdom,"55.378051,-3.435973",1478-01-01
+55,46,1454,Beloved,Morrison,United States,"37.09024,-95.712891",1931-01-01
+95,6,1092,On the Genealogy of Morals,Nietzsche,Germany,"51.165691,10.451526",1844-01-01
+77,24,1207,Metamorphoses,Ovid,Italy,"41.87194,2.567380",-45
+89,12,1128,Common Sense,Paine,United Kingdom,"55.378051,-3.435973",1737-01-01
+50,51,1521,Dialogues,Plato,Greece,"39.074208,21.824312",-430
+37,64,1786,Crito,Plato,Greece,"39.074208,21.824312",-430
+7,94,3559,Apology,Plato,Greece,"39.074208,21.824312",-430
+3,98,4145,Republic,Plato,Greece,"39.074208,21.824312",-430
+73,28,1248,A Theory of Justice,Rawls,United States,"37.09024,-95.712891",1921-01-01
+38,63,1785,On the Social Contract,Rousseau,France,"46.227638,2.213749",1712-01-01
+18,83,2302,Orientalism,Said,Palestine,"31.952162,35.233154",1935-01-01
+44,57,1633,Existentialism and Humanism,Sartre,France,"46.227638,2.213749",1905-01-01
+88,13,1141,Othello,Shakespeare,United Kingdom,"55.378051,-3.435973",1564-01-01
+86,15,1162,Macbeth,Shakespeare,United Kingdom,"55.378051,-3.435973",1564-01-01
+75,26,1229,Henry V,Shakespeare,United Kingdom,"55.378051,-3.435973",1564-01-01
+57,44,1440,The Tempest,Shakespeare,United Kingdom,"55.378051,-3.435973",1564-01-01
+17,84,2395,Hamlet,Shakespeare,United Kingdom,"55.378051,-3.435973",1564-01-01
+10,91,2710,Frankenstein,Shelley,United Kingdom,"55.378051,-3.435973",1797-01-01
+33,68,1875,An Inquiry Into the Nature and Causes of the Wealth of Nations,Smith,United Kingdom,"55.378051,-3.435973",1723-01-01
+25,76,2021,Antigone,Sophocles,Greece,"39.074208,21.824312",-498
+1,100,4682,Oedipus,Sophocles,Greece,"39.074208,21.824312",-498
+94,7,1099,Calculus Early Transcendentals,Stewart,Canada,"56.130366,-106.346771",1941-01-01
+84,17,1170,The Rite of Spring,Stravinsky,Russia,"61.52401,105.318756",1882-01-01
+4,97,3934,The Elements of Style,Strunk,United States,"37.09024,-95.712891",1869-01-01
 99,2,1064,Computer Networks,Tanenbaum,United States,"37.09024,-95.712891",1944-01-01
+42,59,1651,Walden,Thoreau,United States,"37.09024,-95.712891",1817-01-01
+30,71,1947,History of the Peloponnesian War,Thucydides,Greece,"39.074208,21.824312",-467
+43,58,1650,Democracy in America,Tocqueville,France,"46.227638,2.213749",1805-01-01
+5,96,3912,A Manual for Writers of Term Papers Theses and Dissertations,Turabian,United States,"37.09024,-95.712891",1893-01-01
+16,85,2459,Adventures of Huckleberry Finn,Twain,United States,"37.09024,-95.712891",1835-01-01
+62,39,1371,The Aeneid,Virgil,Italy,"41.87194,12.567380",-72
+70,31,1288,Candide,Voltaire,France,"46.227638,2.213749",1694-01-01
+91,10,1114,Physics,Walker,United States,"37.09024,-95.712891",1950-01-01
+93,8,1102,The Protestant Ethic and the Spirit of Capitalism,Weber,Germany,"51.165691,10.451526",1864-01-01
+24,77,2038,A Vindication of the Rights of Woman,Wollstonecraft,United Kingdom,"55.378051,-3.435973",1759-01-01
 100,1,1064,Mrs. Dalloway,Woolf,United Kingdom,"55.378051,-3.435973",1882-01-01
+65,36,1308,Lyrical Ballads 1805,Wordsworth,United Kingdom,"55.378051,-3.435973",1770-01-01
