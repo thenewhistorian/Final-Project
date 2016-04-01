@@ -7,69 +7,69 @@ New Rank,Count,Old Rank,Text,Author-last,Author-first,Date,Nationality
 6,3856,3,The Communist Manifesto,Marx,Karl,1818-1883.,German
 7,3559,25,Apology,Plato,,428-348 BCE.,Greek
 8,3057,4,Biology,Campbell,Neil A.,1946-2004.,American
-9,2732,14,The Iliad,Homer,, 800 BCE.,Greek
-10,2710,5,Frankenstein,Shelley,Mary Wollstonecraft,1797-1851.,English
-11,2702,11,The Odyssey,Homer,, 800 BCE.,Greek
-12,2671,7,Leviathan,Hobbes,Thomas,1588-1679.,English
-13,2658,21,Paradise Lost,Milton,John,1608-1674.,English
-14,2652,8,The Prince,Machiavelli,NiccolÇý,1469-1527.,Italian
-15,2520,16,Canterbury Tales,Chaucer,Geoffrey,1342-1400.,English
-16,2459,97,Adventures of Huckleberry Finn,Twain,Mark,1835-1910.,American
-17,2395,10,Hamlet,Shakespeare,William,1564-1616.,English
-18,2302,12,Orientalism,Said,Edward W.,1935-2003.,Palestinian
-19,2301,23,The Clash of Civilizations,Huntington,Samuel P.,1927-2008.,American
-20,2269,27,On the Origin of Species,Darwin,Charles,1809-1882.,English
-21,2257,73,Human Anatomy & Physiology,Marieb,Elaine Nicpon,1936- .,American
-22,2147,15,Heart of Darkness,Conrad,Joseph,1857-1924.,English
-23,2083,78,Fundamentals of Physics,Halliday,David,1916-2010.,American
-24,2038,155,A Vindication of the Rights of Woman,Wollstonecraft,Mary,1759-1797.,English
-25,2021,17,Antigone,Sophocles,,496-406 BCE.,Greek
-26,2003,29,The Politics,Aristotle,,384-322 BCE.,Greek
-27,1985,18,Letter From the Birmingham Jail,King,Martin Luther,1929-1968.,American
-28,1969,19,On Liberty,Mill,John Stuart,1806-1873.,English
-29,1958,20,The Structure of Scientific Revolutions,Kuhn,Thomas S.,1922-1996.,American
-30,1947,58,History of the Peloponnesian War,Thucydides,,465-400 BCE.,Greek
-31,1946,68,Meditations on First Philosophy,Descartes,RenÇ¸,1596-1650.,French
-32,1885,22,Utilitarianism,Mill,John Stuart,1806-1873.,English
-33,1875,37,An Inquiry Into the Nature and Causes of the Wealth of Nations,Smith,Adam,1723-1790.,Scottish
-34,1840,104,Principles of Macroeconomics,Mankiw,N. Gregory,1958- .,United States
-35,1834,24,Things Fall Apart,Achebe,Chinua,1930-2013.,Nigerian
-36,1804,89,Discourse on Method,Descartes,RenÇ¸,1596-1650.,French
-37,1786,74,Crito,Plato,,428-348 BCE.,Greek
-38,1785,48,On the Social Contract,Rousseau,Jean-Jacques,1712-1778.,French
-39,1774,26,Power,Foucault,Michel,1926-1984.,French
-40,1696,50,The Yellow Wallpaper,Gilman,Charlotte Perkins,1860-1935,American
-41,1694,28,Confessions,Augustine,Saint,354-430.,North African
-42,1651,31,Walden,Thoreau,Henry David,1817-1862.,American
-43,1650,32,Democracy in America,Tocqueville,Alexis De,1805-1859.,French
+9,2912,32,Democracy in America,Tocqueville,Alexis De,1805-1859.,French
+10,2732,14,The Iliad,Homer,, 800 BCE.,Greek
+11,2710,5,Frankenstein,Shelley,Mary Wollstonecraft,1797-1851.,English
+12,2702,11,The Odyssey,Homer,, 800 BCE.,Greek
+13,2671,7,Leviathan,Hobbes,Thomas,1588-1679.,English
+14,2658,21,Paradise Lost,Milton,John,1608-1674.,English
+15,2652,8,The Prince,Machiavelli,NiccolÇý,1469-1527.,Italian
+16,2520,16,Canterbury Tales,Chaucer,Geoffrey,1342-1400.,English
+17,2459,97,Adventures of Huckleberry Finn,Twain,Mark,1835-1910.,American
+18,2395,10,Hamlet,Shakespeare,William,1564-1616.,English
+19,2302,12,Orientalism,Said,Edward W.,1935-2003.,Palestinian
+20,2301,23,The Clash of Civilizations,Huntington,Samuel P.,1927-2008.,American
+21,2269,27,On the Origin of Species,Darwin,Charles,1809-1882.,English
+22,2257,73,Human Anatomy & Physiology,Marieb,Elaine Nicpon,1936- .,American
+23,2147,15,Heart of Darkness,Conrad,Joseph,1857-1924.,English
+24,2083,78,Fundamentals of Physics,Halliday,David,1916-2010.,American
+25,2038,155,A Vindication of the Rights of Woman,Wollstonecraft,Mary,1759-1797.,English
+26,2021,17,Antigone,Sophocles,,496-406 BCE.,Greek
+27,2003,29,The Politics,Aristotle,,384-322 BCE.,Greek
+28,1985,18,Letter From the Birmingham Jail,King,Martin Luther,1929-1968.,American
+29,1969,19,On Liberty,Mill,John Stuart,1806-1873.,English
+30,1958,20,The Structure of Scientific Revolutions,Kuhn,Thomas S.,1922-1996.,American
+31,1947,58,History of the Peloponnesian War,Thucydides,,465-400 BCE.,Greek
+32,1946,68,Meditations on First Philosophy,Descartes,RenÇ¸,1596-1650.,French
+33,1885,22,Utilitarianism,Mill,John Stuart,1806-1873.,English
+34,1875,37,An Inquiry Into the Nature and Causes of the Wealth of Nations,Smith,Adam,1723-1790.,Scottish
+35,1840,104,Principles of Macroeconomics,Mankiw,N. Gregory,1958- .,United States
+36,1834,24,Things Fall Apart,Achebe,Chinua,1930-2013.,Nigerian
+37,1804,89,Discourse on Method,Descartes,RenÇ¸,1596-1650.,French
+38,1786,74,Crito,Plato,,428-348 BCE.,Greek
+39,1785,48,On the Social Contract,Rousseau,Jean-Jacques,1712-1778.,French
+40,1774,26,Power,Foucault,Michel,1926-1984.,French
+41,1696,50,The Yellow Wallpaper,Gilman,Charlotte Perkins,1860-1935,American
+42,1694,28,Confessions,Augustine,Saint,354-430.,North African
+43,1651,31,Walden,Thoreau,Henry David,1817-1862.,American
 44,1633,63,Existentialism and Humanism,Sartre,Jean Paul,1905-1980. ,French
 45,1629,33,C How to Program,Deitel,Harvey M.,1945- .,American
 46,1626,34,MLA Handbook for Writers of Research Papers,Gibaldi,Joseph,1942- .,American
 47,1610,35,A Pocket Style Manual,Hacker,Diana,1942-2004,American
 48,1589,36,The Great Gatsby,Fitzgerald,F. Scott (Francis Scott),1896-1940,American
-49,1567,123,Bartleby the Scrivener,Melville,Herman,1819-1891,American
-50,1521,38,Dialogues,Plato,,428-348 BCE.,Greek
-51,1484,92,Two Treatises of Government,Locke,John,1632-1688.,English
-52,1476,40,The History of Sexuality,Foucault,Michel,1926-1984.,French
-53,1474,41,Autobiography,Franklin,Benjamin,1706-1790,American
-54,1464,42,The Poetics,Aristotle,,384-322 BCE.,Greek
-55,1454,43,Beloved,Morrison,Toni,1931- . ,American
-56,1447,44,Capital,Marx,Karl,1818-1883,German
-57,1440,45,The Tempest,Shakespeare,William,1564-1616,English
-58,1432,46,Methods in Behavioral Research,Cozby,Paul C.,,American
-59,1388,201,Theogony,Hesiod,,8th C BCE.,Greek
-60,1384,49,The Bedford Handbook,Hacker,Diana,1942-2004,American
-61,1376,51,Utopia,More,Thomas,1478-1535,English
-62,1371,52,The Aeneid,Virgil,,70-19 BCE.,Roman
-63,1350,53,Incidents in the Life of a Slave Girl,Jacobs,Harriet A. (Harriet Ann),1813-1897,American
-64,1347,225,The Histories,Herodotus,, 484-425 BCE.,Greek
-65,1308,151,Lyrical Ballads 1805,Wordsworth,William,1770-1850,English
-66,1293,182,Research Design : Qualitative & Quantitative Approaches,Creswell,John W.,,American
+49,1569,170,Robinson,Defoe,Daniel,1660-1731.,English
+50,1567,123,Bartleby the Scrivener,Melville,Herman,1819-1891,American
+51,1521,38,Dialogues,Plato,,428-348 BCE.,Greek
+52,1484,92,Two Treatises of Government,Locke,John,1632-1688.,English
+53,1476,40,The History of Sexuality,Foucault,Michel,1926-1984.,French
+54,1474,41,Autobiography,Franklin,Benjamin,1706-1790,American
+55,1464,42,The Poetics,Aristotle,,384-322 BCE.,Greek
+56,1454,43,Beloved,Morrison,Toni,1931- . ,American
+57,1447,44,Capital,Marx,Karl,1818-1883,German
+58,1440,45,The Tempest,Shakespeare,William,1564-1616,English
+59,1432,46,Methods in Behavioral Research,Cozby,Paul C.,,American
+60,1388,201,Theogony,Hesiod,,8th C BCE.,Greek
+61,1384,49,The Bedford Handbook,Hacker,Diana,1942-2004,American
+62,1376,51,Utopia,More,Thomas,1478-1535,English
+63,1371,52,The Aeneid,Virgil,,70-19 BCE.,Roman
+64,1350,53,Incidents in the Life of a Slave Girl,Jacobs,Harriet A. (Harriet Ann),1813-1897,American
+65,1347,225,The Histories,Herodotus,, 484-425 BCE.,Greek
+66,1308,151,Lyrical Ballads 1805,Wordsworth,William,1770-1850,English
 67,1293,55,The Awakening,Chopin,Kate,1850-1904,American
-68,1293,54,The Tragedy of the Commons,Hardin,Garrett James,1915-2003,American
-69,1291,56,The Declaration of Independence,Jefferson,Thomas,1743-1826,American
-70,1288,57,Candide,Voltaire,,1694-1778,French
-71,1262,59,Democracy in America,De Tocqueville,Alexis,1805-1859.,French
+68,1293,182,Research Design : Qualitative & Quantitative Approaches,Creswell,John W.,,American
+69,1293,54,The Tragedy of the Commons,Hardin,Garrett James,1915-2003,American
+70,1291,56,The Declaration of Independence,Jefferson,Thomas,1743-1826,American
+71,1288,57,Candide,Voltaire,,1694-1778,French
 72,1259,398,An Essay on the Principle of Population,Malthus,T. R. (Thomas Robert),1766-1834,English
 73,1248,60,A Theory of Justice,Rawls,John,1921-2002,American
 74,1241,305,Works & Days,Hesiod,,8th C BCE.,Greek
@@ -82,8 +82,8 @@ New Rank,Count,Old Rank,Text,Author-last,Author-first,Date,Nationality
 81,1182,69,The White House,Bush,Barbara,1925- .,American
 82,1181,70,Pride & Prejudice,Austen,Jane,1775-1817,English
 83,1171,71,Their Eyes Were Watching God,Hurston,Zora Neale,1891-1960.,American
-84,1170,554,The Rite of Spring,Stravinsky,Igor,1882-1971,Russian
-85,1170,72,Medea,Euripides,,484-406 BCE.,Greek
+84,1170,72,Medea,Euripides,,484-406 BCE.,Greek
+85,1170,554,The Rite of Spring,Stravinsky,Igor,1882-1971,Russian
 86,1162,75,Macbeth,Shakespeare,William,1564-1616,English
 87,1152,76,Brave New World,Huxley,Aldous,1894-1963,English
 88,1141,77,Othello,Shakespeare,William,1564-1616,English
@@ -112,8 +112,8 @@ New Rank,Count,Old Rank,Text,Author-last,Author-first,Date,Nationality
 111,1016,100,King Lear,Shakespeare,William,1564-1616,English
 112,1015,101,Artificial Intelligence A Modern Approach,Russell,Stuart J. (Stuart Jonathan),1962- .,English
 113,996,102,Moby Dick,Melville,Herman,1819-1891,American
-114,990,253,The Strange Case of Dr. Jekyll and Mr. Hyde,Stevenson,Robert Louis,1850-1894,Scottish
-115,990,103,I Have a Dream,King,Martin Luther,1929-1968,American
+114,990,103,I Have a Dream,King,Martin Luther,1929-1968,American
+115,990,253,The Strange Case of Dr. Jekyll and Mr. Hyde,Stevenson,Robert Louis,1850-1894,Scottish
 116,979,105,The Waste Land,Eliot,T. S. (Thomas Stearns),1888-1965,English
 117,979,106,Corporate Finance,Ross,Stephen A.,,
 118,974,107,To the Lighthouse,Woolf,Virginia,1882-1941.,English
@@ -156,8 +156,8 @@ New Rank,Count,Old Rank,Text,Author-last,Author-first,Date,Nationality
 155,837,144,The Complete Works,Shakespeare,William,1564-1616,English
 156,836,145,The Importance of Being Earnest,Wilde,Oscar,1854-1900,Irish
 157,835,348,Discourse on the Origin of Inequality,Rousseau,Jean-Jacques,1712-1778,French
-158,834,442,Doctor Faustus,Marlowe,Christopher,1564-1593,English
-159,834,146,Writing and Reading,French,Michael P.,,
+158,834,146,Writing and Reading,French,Michael P.,,
+159,834,442,Doctor Faustus,Marlowe,Christopher,1564-1593,English
 160,833,147,Nature,Emerson,Ralph Waldo,1803-1882,American
 161,831,148,The Bacchae,Euripides,,484-406 BCE.,Greek
 162,830,149,Social Research Methods,Bryman,Alan,,
@@ -178,757 +178,755 @@ New Rank,Count,Old Rank,Text,Author-last,Author-first,Date,Nationality
 177,801,167,Self Reliance,Emerson,Ralph Waldo,1803-1882,American
 178,792,545,The Count of Monte-Cristo,Dumas,Alexandre,1802-1870,French
 179,791,169,An Essay Concerning Human Understanding,Locke,John,1632-1704,English
-180,790,170,Robinson,Defoe,Daniel,1660-1731.,English
-181,787,171,Art History,Stokstad,Marilyn,1929,
-182,786,172,A Portrait of the Artist as a Young Man,Joyce,James,1882-1941,Irish
-183,785,173,Introduction to Algorithms,Cormen,Thomas H.,,
-184,783,174,Hard Times,Dickens,Charles,1812-1870,English
-185,779,176,Robinson Crusoe,Defoe,Daniel,1660-1731.,English
-186,779,175,Ceremony,Silko,Leslie,1948- .,American
-187,772,177,Physical Chemistry,Atkins,P. W. (Peter William),1940- .,
-188,771,178,Waiting for Godot,Beckett,Samuel,1906-1989,Irish
-189,767,180,Chemistry,Chang,Raymond,,
-190,766,181,Mythologies,Barthes,Roland,1915-1980.,French
-191,765,412,The Theban Plays,Sophocles,,496-406 BCE.,Greek
-192,765,183,The Practice of Social Research,Babbie,Earl R.,,
-193,756,184,The Decameron,Boccaccio,Giovanni,1313-1375,Italian
-194,755,185,Reflections on the Revolution in France,Burke,Edmund,1729-1797,Irish
-195,755,186,Phaedo,Plato,,428-348 BCE.,Greek
-196,749,187,Economics,Taylor,John B.,,
+180,787,171,Art History,Stokstad,Marilyn,1929,
+181,786,172,A Portrait of the Artist as a Young Man,Joyce,James,1882-1941,Irish
+182,785,173,Introduction to Algorithms,Cormen,Thomas H.,,
+183,783,174,Hard Times,Dickens,Charles,1812-1870,English
+184,779,175,Ceremony,Silko,Leslie,1948- .,American
+185,772,177,Physical Chemistry,Atkins,P. W. (Peter William),1940- .,
+186,771,178,Waiting for Godot,Beckett,Samuel,1906-1989,Irish
+187,767,180,Chemistry,Chang,Raymond,,
+188,766,181,Mythologies,Barthes,Roland,1915-1980.,French
+189,765,183,The Practice of Social Research,Babbie,Earl R.,,
+190,765,412,The Theban Plays,Sophocles,,496-406 BCE.,Greek
+191,756,184,The Decameron,Boccaccio,Giovanni,1313-1375,Italian
+192,755,185,Reflections on the Revolution in France,Burke,Edmund,1729-1797,Irish
+193,755,186,Phaedo,Plato,,428-348 BCE.,Greek
+194,749,187,Economics,Taylor,John B.,,
+195,748,189,Agamemnon,Aeschylus,,525-456/5 BCE.,Greek
+196,748,188,Dubliners,Joyce,James,1882-1941,Irish
 197,748,473,Style : Lessons in Clarity and Grace,Williams,Joseph M.,,
-198,748,189,Agamemnon,Aeschylus,,525-456/5 BCE.,Greek
-199,748,188,Dubliners,Joyce,James,1882-1941,Irish
-200,747,190,Contemporary Literature,English,Thomas H.,,
-201,741,516,The Book of the Courtier,Castiglione,Baldassare,1478-1529,
-202,737,191,Nietzsche,Heidegger,Martin,1889-1976,German
-203,737,193,Management and Organisational Behaviour,Mullins,Laurie J.,,
-204,737,192,America : A Narrative History,Tindall,George Brown,,
-205,733,194,The Lexus and the Olive Tree,Friedman,Thomas L.,,
-206,727,196,The Design of Everyday Things,Norman,Donald A.,,
-207,725,197,Rules for Writers,Hacker,Diana,1942-2004,
-208,724,198,American History,James,James Alton,1864-1962,
-209,723,199,Jihad vs. McWorld,Barber,Benjamin R.,1939,
-210,723,200,Madame Bovary,Flaubert,Gustave,1821-1880,French
-211,715,202,Phaedrus,Plato,,428-348 BCE.,Greek
-212,714,203,The Catcher in the Rye,Salinger,J. D. (Jerome David),1919-2010,American
-213,713,541,Prison Notebooks,Gramsci,Antonio,1891-1937,Italian
-214,708,204,The Interpretation of Dreams,Freud,Sigmund,1856-1939,Austrian
-215,705,205,Advanced Engineering Mathematics,Kreyszig,Erwin,,
-216,705,206,The Picture of Dorian Gray,Wilde,Oscar,1854-1900,Irish
-217,704,207,The Culture Industry,Adorno,T. W.,1903-1969.,German
-218,702,208,The Souls of Black Folk,Du Bois,W. E. B. (William Edward Burghardt),1868-1963,American
-219,701,209,All Quiet on the Western Front,Remarque,Erich Maria,1898-1970,German
-220,700,210,Critical Thinking Skills : Developing Effective Analysis and Argument,Cottrell,Stella,,
-221,699,211,Investments,Bodie,Zvi,,
-222,698,212,Critique of Pure Reason,Kant,Immanuel,1724-1804,German
-223,697,213,Mein Kampf,Hitler,Adolf,1889-1945,German
-224,696,214,Everyday Use,Walker,Alice,1944- .,American
-225,691,215,A Raisin in the Sun,Hansberry,Lorraine,1930-1965,
-226,691,216,The Lottery,Jackson,Shirley,1916-1965,
-227,690,658,Questionnaire Design Interviewing and Attitude Measurement,Oppenheim,A. N. (Abraham Naftali),1924,
-228,690,217,Twelfth Night,Shakespeare,William,1564-1616,English
-229,688,220,Fundamentals of Database Systems,Elmasri,Ramez,,
-230,688,218,Gorgias,Plato,,428-348 BCE.,Greek
-231,688,219,A Pocket Guide to Writing in History,Rampolla,Mary Lynn,,
-232,686,221,The Turn of the Screw,James,Henry,1843-1916,American
-233,686,222,A Streetcar Named Desire,Williams,Tennessee,1911-1983,American
-234,684,223,The Rape of the Lock,Pope,Alexander,1688-1744,English
-235,682,224,Organizational Behavior,Robbins,Stephen P.,1943,
-236,678,676,The General Theory of Employment,Keynes,John Maynard,1883-1946.,English
-237,676,691,Operating Systems,Stallings,William,,
-238,676,227,Oroonoko,Behn,Aphra,1640-1689,English
-239,674,228,Intermediate Accounting,Kieso,Donald E.,,
-240,673,229,Emotional Intelligence,Goleman,Daniel,,
-241,672,230,To His Coy Mistress,Marvell,Andrew,1621-1678,English
-242,670,232,The Great Transformation,Polanyi,Karl,1886-1964,Austrian-American
-243,668,609,Karl Marx,McLellan,David,,
-244,666,234,An Enquiry Concerning Human Understanding,Hume,David,1711-1776,Scottish
-245,663,235,The Gettysburg Address,Lincoln,Abraham,1809-1865,American
-246,660,236,World War II,Time,Inc. Library,,
-247,657,238,The Art of War,Tzu,Sun, 313-238 BCE.,Chinese
-248,656,239,Emma,Austen,Jane,1775-1817,English
-249,656,240,The Color Purple,Walker,Alice,1944- .,American
-250,651,242,Hypertext 2.0,Landow,George P.,,
-251,649,243,Options: Futures and Other Derivatives,Hull,John,1946,
-252,647,244,The Craft of Research,Booth,Wayne C.,,
-253,646,245,Management,Drucker,Peter F. (Peter Ferdinand),1909-2005,
-254,646,246,Sociology,Giddens,Anthony,,
-255,645,247,Black and White,Brown,Stephanie,,
-256,644,248,Wide Sargasso Sea,Rhys,Jean,1894-1979.,English
-257,643,674,The Decline and Fall of the Roman Empire,Gibbon,Edward,1737-1794,English
-258,643,249,Chemistry: the Central Science,Brown,Theodore L. (Theodore Lawrence),1928,
-259,639,251,On the Road,Kerouac,Jack,1922-1969,American
-260,638,252,Notes on the State of Virginia,Jefferson,Thomas,1743-1826,American
-261,634,254,Operating System Concepts,Silberschatz,Abraham,,
-262,633,255,To Kill a Mockingbird,Lee,Harper,1926-2016.,American
-263,633,256,The Language of New Media,Manovich,Lev,,
-264,632,257,White Noise,DeLillo,Don,1936- .,American
-265,627,258,The Death and Life of Great American Cities,Jacobs,Jane,1916-2006,American
-266,626,259,The Merchant of Venice,Shakespeare,William,1564-1616,English
-267,625,260,The Clouds,Aristophanes,,448-388 BCE.,Greek
-268,624,261,The Good Research Guide : For Small-Scale Social Research Projects,Denscombe,Martyn,,
-269,623,262,The General Prologue,Chaucer,Geoffrey,1342-1400.,English
-270,622,263,Pragmatism,James,William,1842-1910,American
-271,621,758,Elementary Differential Equations and Boundary Value Problems,Boyce,William E.,,
-272,619,265,The Subjection of Women,Mill,John Stuart,1806-1873,English
-273,618,266,Physics,Cutnell,John D.,,
-274,618,267,Nickel and Dimed : On (Not) Getting by in America,Ehrenreich,Barbara,,
-275,617,268,Trifles,Glaspell,Susan,1876-1948,
-276,617,269,Lais,Marie,De France,,
-277,615,270,Culture and Imperialism,Said,Edward W.,1935-2003.,Palestinian
-278,613,271,Auschwitz,Levi,Steven C.,,
-279,613,272,Animal Farm,Orwell,George,1903-1950,English
-280,612,273,The Glass Menagerie,Williams,Tennessee,1911-1983,American
-281,611,275,The Stranger,Camus,Albert,1913-1960,French
-282,611,274,Rajiv,Gandhi,Sonia,1946,
-283,610,845,The Three Worlds of Welfare Capitalism,Esping-Andersen,GÇ÷sta,1947,
-284,610,276,Globalization,Held,David,,
-285,609,277,Discrete Mathematics and Its Applications,Rosen,Kenneth H.,,
-286,608,278,Principles of Anatomy and Physiology,Tortora,Gerard J.,,
-287,605,279,War and the World: 1450-2000,Black,Jeremy,,
-288,605,281,The C Programming Language,Kernighan,Brian W.,,
-289,605,280,Native Son,Wright,Richard,1908-1960,American
-290,603,282,The Crying of Lot 49,Pynchon,Thomas,1937- .,American
-291,601,283,Macroeconomics,Blanchard,Olivier (Olivier J.),,
-292,601,284,The Crucible,Miller,Arthur,1915-2005,American
-293,599,286,The Sun Also Rises,Hemingway,Ernest,1899-1961,American
-294,598,289,Conceptual Physics,Hewitt,Paul G.,,
-295,598,287,Organic Chemistry,McMurry,John,,
-296,598,288,The Faerie Queene,Spenser,Edmund,1552?-1599,English
-297,596,290,The Fugue,Bach,Johann Sebastian,1685-1750,
-298,594,293,Dover Beach,Arnold,Matthew,1822-1888.,English
-299,594,292,Music : An Appreciation,Kamien,Roger,,
-300,590,294,The Federalist Papers,Hamilton,Alexander,1757-1804,
-301,589,295,The Evolution of Cooperation,Axelrod,Robert M.,,
-302,589,296,Leading Change,Kotter,John P.,1947,
-303,586,297,Suicide,Durkheim,Ç?mile,1858-1917,French
-304,585,298,The Unconscious,Freud,Sigmund,1856-1939,Austrian
-305,585,299,The Language Instinct,Pinker,Steven,1954,
-306,585,300,Fundamentals of Physics,Walker,Jearl,1945,
-307,582,301,Fall of the House of Usher,Poe,Edgar Allan,1809-1849,American
-308,580,302,Econometric Analysis,Greene,William H.,1951,
-309,580,303,Principles of Marketing,Kotler,Philip,,
-310,575,304,Ezra Pound,Eliot,T. S. (Thomas Stearns),1888-1965,English
-311,571,307,Diary,Pepys,Samuel,1633-1703,English
-312,570,308,Of Plymouth Plantation,Bradford,William,1588-1657,
-313,570,309,Passing,Larsen,Nella,,
-314,569,311,How to Research,Blaxter,Loraine,1945,
-315,569,310,Empire,Hardt,Michael,,
-316,568,313,The Descent of Man,Darwin,Charles,1809-1882,English
-317,564,315,Song of Solomon,Morrison,Toni,1931- . ,American
-318,564,314,Data and Computer Communications,Stallings,William,,
-319,563,316,The Sound and the Fury,Faulkner,William,1897-1962,American
-320,560,317,Java : How to Program,Deitel,Paul J.,,
-321,556,318,Capitalism and Freedom,Friedman,Milton,1912-2006,American
-322,556,319,Modern Operating Systems,Tanenbaum,Andrew S.,1944,
-323,555,320,On War,Clausewitz,Carl Von,1780-1831,German
-324,555,322,The Rime of the Ancient Mariner,Coleridge,Samuel Taylor,1772-1834,English
-325,555,321,Billy Budd,Melville,Herman,1819-1891,American
-326,553,323,The Elementary Forms of Religious Life,Durkheim,Ç?mile,1858-1917,French
-327,551,325,The Physics,Aristotle,,384-322 BCE.,Greek
-328,549,327,The Ancient Mariner,Coleridge,Samuel Taylor,1772-1834,English
-329,549,326,Daisy Miller,James,Henry,1843-1916,American
-330,547,329,The Selfish Gene,Dawkins,Richard,1941,
-331,546,330,A Passage to India,Forster,E. M. (Edward Morgan),1879-1970,English
-332,545,333,The Norton Anthology of English Literature,Abrams,M. H. (Meyer Howard),1912- .,American
-333,545,332,Middlemarch,Eliot,George,1819-1880,English
-334,545,331,The Year's Work in Modern Language Studies,Lennie,Sylvia,16th Century,
-335,544,334,Lolita,Nabokov,Vladimir Vladimirovich,1899-1977,Russian-American
-336,544,335,The Frontier in American History,Turner,Frederick Jackson,1861-1932,
-337,543,336,On Marx,Engels,Friedrich,1820-1895,German
-338,543,337,Postmodernism: Or the Cultural Logic of Late Capitalism,Jameson,Fredric,,
-339,542,338,Five Dialogues,Plato,,428-348 BCE.,Greek
-340,541,339,A Glossary of Literary Terms,Abrams,M. H. (Meyer Howard),1912- .,American
-341,540,340,Sula,Morrison,Toni,1931- . ,American
-342,538,341,Metaphors We Live By,Lakoff,George,,
-343,536,344,Bowling Alone : The Collapse and Revival of American Community,Putnam,Robert D.,,
-344,536,343,On Photography,Sontag,Susan,1933-2004,American
-345,535,345,Symphony No. 2,Beethoven,Ludwig Van,1770-1827,
-346,535,346,Ode on a Grecian Urn,Keats,John,1795-1821,English
-347,535,347,International Economics : Theory and Policy,Krugman,Paul R.,,
-348,533,349,As I Lay Dying,Faulkner,William,1897-1962,American
-349,531,350,The Problem of Social Cost,Coase,R. H.,,
-350,530,351,Sherlock Holmes,Doyle,Sir Arthur Conan,1859-1930,
-351,529,352,The Everyday Writer,Lunsford,Andrea A.,1942,
-352,528,353,Archaeology in the U.S.S.R,Field,Henry,1902-1986,
-353,528,354,Economics,Stiglitz,Joseph E.,,
-354,527,356,Psychology : Themes and Variations,Weiten,Wayne,1950,
-355,523,358,The Power Elite,Mills,C. Wright (Charles Wright),1916-1962,American
-356,523,357,Theory of International Politics,Waltz,Kenneth Neal,1924,
-357,521,359,Philosophical Investigations,Wittgenstein,Ludwig,1889-1951,Austrian
-358,520,360,Perpetual Peace,Kant,Immanuel,1724-1804,German
-359,519,361,Looking Backward 2000-1887,Bellamy,Edward,1850-1898,
-360,519,362,The Lord of the Rings,Tolkien,J. R. R. (John Ronald Reuel),1892-1973,English
-361,518,365,Basic Econometrics,Gujarati,Damodar N.,,
-362,518,364,The Discourses,Machiavelli,NiccolÇý,1469-1527,Italian
-363,518,363,The Visual Display of Quantitative Information,Tufte,Edward R.,1942,
-364,517,366,Lord of the Flies,Golding,William,1911-1993,English
-365,516,367,The Time Machine,Wells,H. G. (Herbert George),1866-1946,English
-366,515,369,Beyond Good and Evil,Nietzsche,Friedrich Wilhelm,1844-1900,German
-367,514,370,A Christmas Carol,Dickens,Charles,1812-1870,English
-368,511,371,Gender Trouble : Feminism and the Subversion of Identity,Butler,Judith,1956,
-369,509,372,Java,Deitel,Paul J.,,
-370,507,373,World War I,Keegan,Susanne,,
-371,506,374,Benito Cereno,Melville,Herman,1819-1891,American
-372,506,375,Rights of Man,Paine,Thomas,1737-1809,English
-373,505,376,The Mismeasure of Man,Gould,Stephen Jay,1941-2002.,American
-374,504,377,Digital Image Processing,Gonzalez,Rafael C.,,
-375,503,378,Leadership : Theory and Practice,Northouse,Peter Guy,,
-376,502,379,Principles of Biochemistry,Lehninger,Albert L.,,
-377,502,380,The House of Mirth,Wharton,Edith,1862-1937,American
-378,501,384,The Rise of the Network Society,Castells,Manuel,1942,
-379,501,383,Good to Great,Collins,James C. (James Charles),1958,
-380,501,381,Oliver Twist,Dickens,Charles,1812-1870,English
-381,501,382,Social Psychology,Myers,David G.,,
-382,500,385,Julius Caesar,Shakespeare,William,1564-1616,English
-383,499,387,Capitalism Socialism and Democracy,Schumpeter,Joseph Alois,1883-1950,Austrian-American
-384,498,389,The Elements of Moral Philosophy,Rachels,James,1941-2003,
-385,498,388,Physics for Scientists and Engineers,Serway,Raymond A.,,
-386,498,390,The Prelude 1798-1799,Wordsworth,William,1770-1850,English
-387,497,391,Real Estate,Case,Frederick E.,,
-388,495,393,Institutions Institutional Change and Economic Performance,North,Douglass Cecil,,
-389,491,396,Waiting for the Barbarians,Coetzee,J. M.,1940- . ,South African
-390,491,395,Rip Van Winkle,Irving,Washington,1783-1859,American
-391,491,394,Microeconomics,Pindyck,Robert S.,,
-392,489,397,Being Digital,Negroponte,Nicholas,,
-393,485,399,The Varieties of Religious Experience,James,William,1842-1910,American
-394,485,400,Annals,Tacitus,Cornelius, 55- 117 CE .,Roman
-395,484,401,Literary Theory An Introduction,Eagleton,Terry,1943,
-396,484,402,Black Skin White Masks,Fanon,Frantz,1925-1961,Martinican
-397,483,403,The Raven,Poe,Edgar Allan,1809-1849,American
-398,481,404,Anarchy State and Utopia,Nozick,Robert,1938-2002.,American
-399,479,406,Jane Eyre,BrontÇ®,Charlotte,1816-1855,English
-400,479,407,Getting to Yes : Negotiating Agreement Without Giving In,Fisher,Roger,1922-2012,
-401,478,409,Doing a Literature Review : Releasing the Social Science Research Imagination,Hart,Chris,,
-402,478,408,Goblin Market,Rossetti,Christina Georgina,1830-1894,
-403,477,410,The Significance of the Frontier in American History,Turner,Frederick Jackson,1861-1932,American
-404,476,413,Society of the Spectacle,Debord,Guy,1931-1994.,French
-405,476,414,The Little Brown Handbook,Fowler,H. Ramsey (Henry Ramsey),1858-1933.,English
-406,476,411,Odes,Horace,,65-8 BCE.,Roman
-407,475,416,Northanger Abbey,Austen,Jane,1775-1817,English
-408,475,415,The Open Boat,Crane,Stephen,1871-1900,American
-409,475,417,The McDonaldization of Society 5,Ritzer,George,,
-410,474,418,Managerial Accounting,Garrison,Ray H.,,
-411,473,419,The Birth of Tragedy,Nietzsche,Friedrich Wilhelm,1844-1900,German
-412,472,420,Utilitarianism,Bentham,Jeremy,1748-1832,English
-413,471,421,The Making of the English Working Class,Thompson,E. P. (Edward Palmer),1924-1993,English
-414,470,422,Envisioning Information,Tufte,Edward R.,1942,
-415,469,425,The Consolation of Philosophy,Boethius,,480-524.,Roman
-416,469,424,Database Management Systems,Ramakrishnan,Raghu,,
-417,469,423,The God of Small Things,Roy,Arundhati,,
-418,468,426,The American Scholar,Emerson,Ralph Waldo,1803-1882,American
-419,468,427,Body Ritual Among the Nacirema,Miner,Horace,,
-420,468,428,Computer Networks : A Systems Approach,Peterson,Larry L.,,
-421,467,430,Quantitative Chemical Analysis,Harris,Daniel C.,1948,
-422,467,429,When Work Disappears,Wilson,William Julius,,
-423,466,431,Little Women,Alcott,Louisa May,1832-1888,American
-424,463,433,The Location of Culture,Bhabha,Homi K.,1949,
-425,463,432,Ragtime,Doctorow,E. L.,1931-2015,American
-426,462,434,The Practice of Everyday Life,Certeau,Michel De,,
-427,461,435,Sinners in the Hands of an Angry God,Edwards,Jonathan,1703-1758,
-428,461,436,The Messiah,Handel,George Frideric,1685-1759,
-429,459,437,Biology of Microorganisms,Brock,Thomas D.,,
-430,457,439,Research Methods in Education,Cohen,Louis,1928,
-431,457,440,Diffusion of Innovations,Rogers,Everett M.,,
-432,456,441,The Art of Electronics,Horowitz,Paul,1942,
-433,455,443,Phenomenology of Perception,Merleau-Ponty,Maurice,1908-1961,French
-434,455,444,Cry the Beloved Country,Paton,Alan,1903-1988.,South African
-435,454,445,Biochemistry,Stryer,Lubert,,
-436,453,448,Kubla Khan,Coleridge,Samuel Taylor,1772-1834,English
-437,453,447,A Short Guide to Writing About Film,Corrigan,Timothy,,
-438,453,446,Guns Germs and Steel,Diamond,Jared M.,,
-439,452,450,Illuminations,Benjamin,Walter,1892-1940,German
-440,452,449,Sister Carrie,Dreiser,Theodore,1871-1945,American
-441,452,452,The Cask of Amontillado,Poe,Edgar Allan,1809-1849,American
-442,452,451,The Joy Luck Club,Tan,Amy,,
-443,451,453,A Treatise of Human Nature,Hume,David,1711-1776,Scottish
-444,450,455,The Road to Serfdom,Hayek,Friedrich A. Von (Friedrich August),1899-1992,Austrian
-445,450,454,UNIX Network Programming,Stevens,W. Richard,,
-446,447,456,Henry IV,Shakespeare,William,1564-1616,English
-447,447,457,The C++ Programming Language,Stroustrup,Bjarne,,
-448,445,458,Institutional and Economic Change,North,Douglass Cecil,,
-449,444,460,Teacher Education,Young,Jay,,
-450,443,462,Selected Writings,Marx,Karl,1818-1883,German
-451,443,461,An Essay on Man,Pope,Alexander,1688-1744,English
-452,442,464,A Short Guide to Writing About Art,Barnet,Sylvan,,
-453,442,463,Qualitative Evaluation Methods,Patton,Michael Quinn,,
-454,441,466,I Know Why the Caged Bird Sings,Angelou,Maya,1928-2014.,American
-455,441,465,In Memoriam,Tennyson,Baron Alfred Tennyson,1809-1892,English
-456,440,468,A Tale of Two Cities,Dickens,Charles,1812-1870,English
-457,439,469,Persuasion,Austen,Jane,1775-1817,English
-458,439,471,Discovering Statistics Using R,Field,Andy P.,,
-459,439,472,A Dictionary of Music and Musicians (A.D. 1450-1889),Grove,Sir George,1820-1900,
-460,438,474,Sense and Sensibility,Austen,Jane,1775-1817,English
-461,437,475,The Golden Ass,Apuleius,,155,Roman
-462,437,477,Computer Graphics,Hearn,Donald,,
-463,437,476,Life-Span Development,Santrock,John W.,,
-464,436,481,Simulations,Baudrillard,Jean,1929-2007,
-465,436,480,Foucault,Deleuze,Gilles,1925-1995,
-466,436,479,"The Science of ""Muddling Through",Lindblom,Charles E.,,
-467,436,478,The Spirit of the Laws,Montesquieu,Baron de Charles De Secondat,1689-1755,French
-468,434,482,Fahrenheit 451,Bradbury,Ray,1920-2012,American
-469,433,485,Diplomacy,Kissinger,Henry,1923,
-470,433,486,Course in General Linguistics,Saussure,Ferdinand De,1857-1913,Swiss
-471,433,483,Computing Machinery and Intelligence,Turing,A. M.,,
-472,433,484,Health,World Bank,,,
-473,432,487,Being and Time,Heidegger,Martin,1889-1976,German
-474,432,488,Advanced Macroeconomics,Romer,David,,
-475,431,489,Tools for Teaching,Davis,Barbara Gross,,
-476,431,491,Pharmacology for Nursing Care,Lehne,Richard A.,1943,
-477,431,490,Microeconomic Analysis,Varian,Hal R.,,
-478,430,492,As You Like It,Shakespeare,William,1564-1616,English
-479,429,493,Hippolytus,Euripides,,484-406 BCE.,Greek
-480,429,494,East of Eden,Steinbeck,John,1902-1968,American
-481,429,495,Biochemistry,Voet,Donald,,
-482,428,497,American Pastoral,Roth,Philip,1933- .,American
-483,428,496,Life on the Screen : Identity in the Age of the Internet,Turkle,Sherry,,
-484,426,499,F. Chopin,Liszt,Franz,1811-1886,
-485,426,498,Understanding by Design,Wiggins,Grant P.,1950,
-486,424,500,Do Androids Dream of Electric Sheep,Dick,Philip K.,1928-1982.,American
-487,424,501,Computer Architecture : A Quantitative Approach,Hennessy,John L.,,
-488,423,503,The Coming Anarchy,Kaplan,Robert D.,,
-489,423,502,Zen,Suzuki,Daisetz Teitaro,1870-1966,Japanese
-490,421,504,Attachment,Bowlby,John,,
-491,421,506,The Red Badge of Courage,Crane,Stephen,1871-1900,American
-492,421,505,Of Mice and Men,Steinbeck,John,1902-1968,American
-493,420,507,Bleak House,Dickens,Charles,1812-1870,English
-494,420,508,How to Lie With Statistics,Huff,Darrell,,
-495,419,509,Internetworking With TCP/IP,Comer,Douglas,,
-496,418,513,How to Read a Paper : The Basics of Evidence-Based Medicine,Greenhalgh,Trisha,,
-497,418,511,Angels in America,Kushner,Tony,1956- .,American
-498,418,512,The Theory of the Leisure Class,Veblen,Thorstein,1857-1929,American
-499,417,515,Nervous Conditions,Dangarembga,Tsitsi,,
-500,416,518,Justice as Fairness,Rawls,John,1921-2002.,American
-501,416,517,Doing Qualitative Research : A Practical Handbook,Silverman,David,,
-502,415,519,The Soul of a New Machine,Kidder,Tracy,,
-503,414,520,Theory and Practice of Counseling and Psychotherapy,Corey,Gerald,,
-504,414,521,Organic Chemistry,Wade,L. G.,1947,
-505,413,522,Agendas Alternatives and Public Policies,Kingdon,John W.,,
-506,412,523,North America,Read,Frederick,,
-507,411,526,Database System Concepts,Korth,Henry F.,,
-508,411,525,Qualitative Research & Evaluation Methods,Patton,Michael Quinn,,
-509,411,524,Qualitative Evaluation and Research Methods,Patton,Michael Quinn,,
-510,411,527,Pygmalion,Shaw,George Bernard,1856-1950,Irish
-511,410,528,David Copperfield,Dickens,Charles,1812-1870,English
-512,410,529,Exploring Corporate Strategy,Johnson,Gerry,,
-513,409,531,Ozymandias,Shelley,Percy Bysshe,1792-1822,English
-514,408,533,Moll Flanders,Defoe,Daniel,1661?-1731,English
-515,408,532,The McGraw-Hill Handbook,Maimon,Elaine P.,,
-516,408,534,Computer Organization and Design : The Hardware/Software Interface,Patterson,David A.,,
-517,407,536,The Hero With a Thousand Faces,Campbell,Joseph,1904-1987,
-518,407,535,The Return of Martin Guerre,Davis,Natalie Zemon,1928,
-519,406,538,The Meditations,Marcus Aurelius,Emperor of Rome,121-180,Roman
-520,406,537,Persepolis,Satrapi,Marjane,1969- .,
-521,405,539,The Wisdom of Crowds,Surowiecki,James,1967- .,
-522,404,540,Biochemistry,Berg,Jeremy Mark,,
-523,404,543,The Portrait of a Lady,James,Henry,1843-1916,American
-524,404,542,Hair Hair,Long,Debbie,,
-525,401,547,Fundamental Methods of Mathematical Economics,Chiang,Alpha C.,1927,
-526,401,544,Congress : The Electoral Connection,Mayhew,David R.,,
-527,401,548,The Heart Is a Lonely Hunter,McCullers,Carson,1917-1967,American
-528,401,546,Images of Organization,Morgan,Gareth,1943,
-529,400,550,Machine Learning,Mitchell,Tom M. (Tom Michael),1951,
-530,400,549,The Moviegoer,Percy,Walker,1916-1990,American
-531,399,551,Alice in Wonderland,Carroll,Lewis,1832-1898,English
-532,398,552,The Penguin Handbook,Faigley,Lester,1947,
-533,397,553,The Last of the Mohicans,Cooper,James Fenimore,1789-1851,American
-534,396,556,Herland,Gilman,Charlotte Perkins,1860-1935,
-535,396,557,The Known World,Jones,Edward P.,,
-536,396,555,Statistics for Management and Economics,Keller,Gerald,,
-537,395,558,Phenomenology of Spirit,Hegel,Georg Wilhelm Friedrich,1770-1831,German
-538,395,560,Computer Networking : A Top-Down Approach,Kurose,James F.,,
-539,395,559,Latin America,Thomas,Jack Ray,,
-540,394,561,Subculture the Meaning of Style,Hebdige,Dick,,
-541,394,562,Cane,Toomer,Jean,1894-1967,American
-542,393,564,The Negro Speaks of Rivers,Hughes,Langston,1902-1967,American
-543,393,563,Ode to a Nightingale,Keats,John,1795-1821,English
-544,392,565,Amusing Ourselves to Death,Postman,Neil,,
-545,391,571,The Praise of Folly,Erasmus,Desiderius,1469-1536 .,Dutch
-546,391,569,Reading and Writing,Field,Rachel,,
-547,391,566,Don Giovanni,Mozart,Wolfgang Amadeus,1756-1791,
-548,391,568,Introduction to the Theory of Computation,Sipser,Michael,,
-549,391,570,The Hobbit,Tolkien,J. R. R. (John Ronald Reuel),1892-1973,English
-550,391,572,Introductory Econometrics : A Modern Approach,Wooldridge,Jeffrey M.,1960- .,
-551,389,574,Diplomacy and Domestic Politics: The Logic of Two-Level Games,Putnam,Robert D.,,
-552,388,575,Dialectic of Enlightenment,Horkheimer,Max,1895-1973,German-American
-553,387,576,Hiroshima,Hersey,John,1914-1993,American
-554,387,577,A First Course in Probability,Ross,Sheldon M.,,
-555,386,581,Optics,Hecht,Eugene,,
-556,386,582,The Bell Jar,Plath,Sylvia,1932-1963.,American
-557,386,583,Famine Affluence and Morality,Singer,Peter,,
-558,386,579,Chemistry,Zumdahl,Steven S.,,
-559,385,586,Tom Jones,Fielding,Henry,1707-1754,English
-560,385,585,The First World War,Keegan,John,1934- .,English
-561,385,584,Culture and Society 1780-1950,Williams,Raymond,,
-562,384,587,Seize the Day,Bellow,Saul,1915-2005. ,American
-563,382,589,Image Music Text,Barthes,Roland,1915-1980.,French
-564,381,591,Eumenides,Aeschylus,,525-456/5 BCE.,Greek
-565,381,590,Fundamentals of Corporate Finance,Ross,Stephen A.,,
-566,380,592,Confessions,Rousseau,Jean-Jacques,1712-1778,French
-567,379,593,Distinction : A Social Critique of the Judgement of Taste,Bourdieu,Pierre,1930-2002,
-568,379,595,Democracy and Education,Dewey,John,1859-1952,American
-569,379,594,The Lady of Shalott,Tennyson,Baron Alfred Tennyson,1809-1892,English
-570,379,596,Lenin,Trotsky,Leon,1879-1940,
-571,379,597,World Heritage 2008-09,Unesco,,,
-572,377,599,My Antonia,Cather,Willa,1873-1947,American
-573,376,600,George Washington,Jefferson,Thomas,18th C .,American
-574,376,601,The Emancipation Proclamation,Lincoln,Abraham,1809-1865,American
-575,376,602,Encounters With the Archdruid,McPhee,John,1931,
-576,375,603,The Plague,Camus,Albert,1913-1960,French
-577,375,604,The Cherry Orchard,Chekhov,Anton Pavlovich,1860-1904,Russian
-578,375,605,Tradition and the Individual Talent,Eliot,T. S.,1888-1965. ,English
-579,374,606,Don Juan,Byron,Baron George Gordon Byron,1788-1824,English
-580,374,607,Much Ado About Nothing,Shakespeare,William,1564-1616,English
-581,373,608,Introduction to Electrodynamics,Griffiths,David J. (David Jeffery),1942,
-582,371,612,The Philosophy of History,Hegel,Georg Wilhelm Friedrich,1770-1831,German
-583,371,613,A Farewell to Arms,Hemingway,Ernest,1899-1961,American
-584,371,610,Code and Other Laws of Cyberspace,Lessig,Lawrence,,
-585,371,611,Computer Architecture : A Quantitative Approach,Patterson,David A.,,
-586,370,615,Experience and Education,Dewey,John,1859-1952,American
-587,370,614,Richard III,Shakespeare,William,1564-1616,English
-588,368,616,Timaeus,Plato,,428-348 BCE.,Greek
-589,367,617,The Origins of Totalitarianism,Arendt,Hannah,1906-1975,American
-590,367,619,Endgame,Beckett,Samuel,1906-1989,Irish
-591,367,618,The Rover,Behn,Aphra,1640-1689,English
-592,366,620,Selected Writings 1877-1930,Power,Sir D'Arcy,1855-1941,
-593,365,623,Institutes of the Christian Religion,Calvin,Jean or John,1509-1564,Swiss
-594,365,622,Hegel,Heidegger,Martin,1889-1976,German
-595,365,621,Gargantua,Rabelais,FranÇõois,1490-1553,French
-596,364,624,The Developing Person,Berger,Kathleen Stassen,,
-597,363,626,Mansfield Park,Austen,Jane,1775-1817,English
-598,363,625,A Short Guide to Writing About History,Marius,Richard,,
-599,363,628,Economic Development,Todaro,Michael P.,,
-600,361,630,What Is to Be Done,Lenin,Vladimir IlÒûich,1870-1924,Russian
-601,361,629,Microelectronic Circuits,Sedra,Adel S.,,
-602,359,635,Social Learning Theory,Bandura,Albert,1925,
-603,359,636,The English Language,Crystal,David,1941,
-604,359,634,Fairy Tales,Grimm,Albert Ludwig,1786-1872,German
-605,359,632,Ethics,Spinoza,Benedictus De,1632-1677,Dutch
-606,359,633,A Rulebook for Arguments,Weston,Anthony,1954,
-607,358,637,The Cambridge Encyclopedia of Language,Crystal,David,1941,
-608,358,639,The Mill on the Floss,Eliot,George,1819-1880,English
-609,358,641,On Being Sane in Insane Places,Rosenhan,D. L.,,
-610,358,638,Gender: A Useful Category of Historical Analysis,Scott,Joan W.,,
-611,357,642,Absalom Absalom,Faulkner,William,1897-1962,American
-612,357,643,Modern Latin America,Skidmore,Thomas E.,,
-613,356,644,What Is History,Carr,Edward Hallett,1892-1982,English
-614,356,646,Music for Sight Singing,Ottman,Robert W.,,
-615,356,647,Archaeology,Renfrew,Colin,,
-616,356,645,TCP/IP Illustrated,Stevens,W. Richard,,
-617,355,651,The Ideological Origins of the American Revolution,Bailyn,Bernard,,
-618,355,648,The Division of Labor in Society,Durkheim,Ç?mile,1858-1917,French
-619,355,649,A Small Place,Kincaid,Jamaica,1949- .,American
-620,355,650,Jimmy Corrigan : The Smartest Kid on Earth,Ware,Chris,1967- .,
-621,354,655,Astronomy Today,Chaisson,Eric,,
-622,354,653,The Leadership Challenge,Kouzes,James M.,1945,
-623,354,656,Rosencrantz and Guildenstern Are Dead,Stoppard,Tom,1937- .,English
-624,353,659,Love Medicine,Erdrich,Louise,1954- .,American
-625,353,657,Fear and Trembling,Kierkegaard,SÇ÷ren,1813-1855,Danish
-626,352,660,The Principles of Scientific Management,Taylor,Frederick Winslow,1856-1915,
-627,351,662,A Clockwork Orange,Burgess,Anthony,1917-1993,
-628,351,664,United States History,Current,Richard Nelson,,
-629,351,663,Introduction to Solid State Physics,Kittel,Charles,,
-630,351,661,Do Not Go Gentle Into That Good Night,Thomas,Dylan,1914-1953,
-631,350,666,Hedda Gabler,Ibsen,Henrik,1828-1906,Norwegian
-632,350,667,Europe and the People Without History,Wolf,Eric R.,1923,
-633,349,669,Bless Me Ultima,Anaya,Rudolfo A.,1937- .,American
-634,349,670,Symphonie Fantastique,Berlioz,Hector,1803-1869,
-635,349,673,Werther,Goethe,Johann Wolfgang Von,1749-1832,German
-636,349,672,The Basic Practice of Statistics,Moore,David S.,,
-637,349,671,The Taming of the Shrew,Shakespeare,William,1564-1616,English
-638,349,668,Saunders Q & a Review for NCLEX-RN,Silvestri,Linda Anne,,
-639,348,675,Making Democracy Work : Civic Traditions in Modern Italy,Putnam,Robert D.,,
-640,347,678,Anna Karenina,Tolstoy,Leo,1828-1910,Russian
-641,346,679,Compulsory Heterosexuality and Lesbian Existence,Rich,Adrienne,1929-2012,American
-642,345,681,The Frogs,Aristophanes,,448-388 BCE.,Greek
-643,345,683,Wuthering Heights,BrontÇ®,Emily,1818-1848,English
-644,345,680,Macroeconomic Theory,Sargent,Thomas J.,,
-645,345,682,Snow Crash,Stephenson,Neal,1959- .,American
-646,345,684,Orlando,Woolf,Virginia,1882-1941,English
-647,344,688,Essential Reading Rave Poverty & the Environment,Anthony,Carl,,
-648,344,686,Ethnography : Principles in Practice,Hammersley,Martyn,,
-649,344,685,Dialogues Concerning Natural Religion,Hume,David,1711-1776,Scottish
-650,344,687,M. Butterfly,Hwang,David Henry,1957,
-651,343,690,How to Do Things With Words,Austin,J. L. (John Langshaw),1911-1960,
-652,342,692,Twenty Years at Hull-House,Addams,Jane,1860-1935,American
-653,342,694,Lehninger Principles of Biochemistry,Nelson,David L. (David Lee),1942- .,
-654,342,693,The Strategy of Conflict,Schelling,Thomas C.,1921- .,American
-655,341,696,C++ : The Complete Reference,Schildt,Herbert,,
-656,341,697,The Search for Modern China,Spence,Jonathan D.,1936- .,English
-657,341,698,Tristram Shandy,Sterne,Laurence,1713-1768,English
-658,341,695,Germania,Tacitus,Cornelius, 55- 117 CE .,Roman
-659,341,699,Education,World Bank,,,
-660,340,701,Academe,Groves,Paul,,
-661,340,700,Siddhartha,Hesse,Hermann,1877-1962,German-Swiss
-662,339,702,The Sheltering Sky,Bowles,Paul,1910-1999,American
-663,339,707,Biochemistry,Garrett,R. (Reginald),,
-664,339,703,Hitler,Kershaw,Ian,,
-665,339,704,Animal Liberation,Singer,Peter,1946,
-666,339,706,Tom Sawyer,Twain,Mark,1835-1910,American
-667,339,705,Race Matters,West,Cornel,1953- .,American
-668,338,708,Political Liberalism,Rawls,John,1921-2002,American
-669,338,710,Statistics for People Who (Think They) Hate Statistics,Salkind,Neil J.,,
-670,337,715,Ecclesiastical History,Bede,the Venerable,673-735,
-671,337,712,Activists Beyond Borders : Advocacy Networks in International Politics,Keck,Margaret E.,,
-672,337,711,The Way to Rainy Mountain,Momaday,N. Scott,1934- .,American
-673,337,714,Protagoras,Plato,,428-348 BCE.,Greek
-674,336,716,Nineteen Eighty-Four,Orwell,George,1903-1950,English
-675,335,718,The Giver,Lowry,Lois,,
-676,335,719,The Supreme Court,Rehnquist,William H.,1924,
-677,335,717,The Problems of Philosophy,Russell,Bertrand,1872-1970,English
-678,334,724,An Introduction to Database Systems,Date,C. J.,,
-679,334,721,Mechanics,Landau,L. D. (Lev Davidovich),1908-1968,
-680,334,722,Small Island,Levy,Andrea,1956,
-681,334,725,The Tell-Tale Heart,Poe,Edgar Allan,1809-1849,American
-682,334,720,The Duchess of Malfi,Webster,John,1580?-1625,English
-683,333,728,Virginia Woolf,Eliot,T. S. (Thomas Stearns),1888-1965,English
-684,333,726,Organizational Culture and Leadership,Schein,Edgar H.,,
-685,333,727,The War of the Worlds,Wells,H. G. (Herbert George),1866-1946,English
-686,332,732,The Uncanny,Freud,Sigmund,1856-1939,Austrian
-687,332,733,Imperialism,Hobson,J. A. (John Atkinson),1858-1940,
-688,332,734,The Image of the City,Lynch,Kevin,1918,
-689,332,730,Richard II,Shakespeare,William,1564-1616,English
-690,332,731,Earth Science,Tarbuck,Edward J.,,
-691,331,735,The Human Condition,Arendt,Hannah,1906-1975,American
-692,331,737,Changes in the Land : Indians Colonists and the Ecology of New England,Cronon,William,1954- .,American
-693,331,736,Artificial Intelligence,Rich,Elaine,,
-694,331,738,Database System Concepts,Silberschatz,Abraham,,
-695,329,743,Life in the Iron Mills,Davis,Rebecca Harding,1831-1910,
-696,329,742,Trojan Women,Euripides,,484-406 BCE.,Greek
-697,329,740,Understanding Organizations,Handy,Charles B.,,
-698,329,741,Crabgrass Frontier : The Suburbanization of the United States,Jackson,Kenneth T.,,
-699,329,744,Tartuffe,Moliere,1622-1673,1622-1673.,French
-700,328,745,Prometheus,Aeschylus,,525-456/5 BCE.,Greek
-701,328,747,Quarterly Review,Federal Reserve Bank of Minneapolis,,,
-702,328,750,Brock Biology of Microorganisms,Madigan,Michael T.,1949,
-703,328,749,The Satanic Verses,Rushdie,Salman,1947- .,Indian
-704,328,748,The Management of a Student Research Project,Sharp,John A.,,
-705,328,746,Oedipus at Colonus,Sophocles,,496-406 BCE.,Greek
-706,327,751,Contemporary Strategy Analysis,Grant,Robert M.,1948,
-707,327,752,Chapter 17,Great Britain,,,
-708,326,753,Artificial Intelligence,Hugo F.,Man,,
-709,326,754,The Modern World-System,Wallerstein,Immanuel Maurice,1930,
-710,325,755,Selected Poems,Dickinson,Patric,1914-1994,
-711,325,756,Classical Mechanics,Goldstein,Herbert,1922,
-712,325,757,The New Negro,Locke,Alain LeRoy,1886-1954,
-713,324,760,The Remains of the Day,Ishiguro,Kazuo,1954- .,English
-714,324,759,The Castle of Otranto,Walpole,Horace,1717-1797,
-715,323,763,Fundamentals of Financial Management,Brigham,Eugene F.,1930,
-716,323,764,His Excellency : George Washington,Ellis,Joseph J.,,
-717,323,765,Short Stories,Hemingway,Ernest,1899-1961,American
-718,322,769,Aurora Leigh,Browning,Elizabeth Barrett,1806-1861,
-719,322,768,Jude the Obscure,Hardy,Thomas,1840-1928,English
-720,322,766,Genes,Lewin,Benjamin,,
-721,322,770,Development Economics,Ray,Debraj,,
-722,322,767,Educational Psychology,Woolfolk,Anita,,
-723,320,774,The Strength of Weak Ties,Granovetter,Mark S.,,
-724,320,776,Experiential Learning : Experience as the Source of Learning and Development,Kolb,David A.,1939,
-725,320,773,Watchmen,Moore,Alan,1953- .,English
-726,320,777,Piano Concerto : K. 491,Mozart,Wolfgang Amadeus,1756-1791,
-727,320,772,Pantagruel,Rabelais,FranÇõois,1490-1553,French
-728,320,778,National Security,York,Herbert F.,,
-729,319,779,Understanding and Using English Grammar,Azar,Betty Schrampfer,1941,
-730,319,784,Economic Growth,Barro,Robert J.,,
-731,319,785,Carmen,Bizet,Georges,1838-1875,
-732,319,783,The Battleship Potemkin,Eisenstein,Sergei,1898-1948,
-733,319,781,The Logic of Scientific Discovery,Popper,Karl R. (Karl Raimund),1902-1994,Austrian-English
-734,319,782,Poetry Reading,Read,Sir Herbert Edward,1893-1968,English
-735,319,780,Vanity Fair,Thackeray,William Makepeace,1811-1863,English
-736,318,787,Public Finance,Rosen,Harvey S.,,
-737,317,788,Conceptual Models and the Cuban Missile Crisis,Allison,Graham T.,,
-738,317,789,Masculinities,Connell,Raewyn,1944,
-739,317,790,Introduction to Quantum Mechanics,Griffiths,David J. (David Jeffery),1942,
-740,316,793,Joseph Andrews,Fielding,Henry,1707-1754,English
-741,316,791,A Course in Phonetics,Ladefoged,Peter,,
-742,316,792,Mother Tongue,Tan,Amy,,
-743,315,796,Liberalism and World Politics,Doyle,Michael W.,,
-744,315,795,Consider the Lobster,Wallace,David Foster,1962-2008.,American
-745,315,794,Doing Gender,West,Candace,,
-746,314,799,Troilus,Chaucer,Geoffrey,1342-1400.,English
-747,314,802,Time Series Analysis,Hamilton,James D. (James Douglas),1954,
-748,314,798,The Birthmark,Hawthorne,Nathaniel,1804-1864,American
-749,314,797,Cooperation Under the Security Dilemma,Jervis,Robert,1940,
-750,314,800,Areopagitica,Milton,John,1608-1674,English
-751,313,803,A Rumor of War,Caputo,Philip,,
-752,313,804,Disgrace,Coetzee,J. M.,1940- . ,South African
-753,313,808,Developmental Biology,Gilbert,Scott F.,1949,
-754,313,809,Sovereignty,Krasner,Stephen D.,,
-755,313,807,A History of Graphic Design,Meggs,Philip B.,,
-756,313,806,Introduction to Probability Models,Ross,Sheldon M.,,
-757,313,805,Wallace Stevens,Williams,William Carlos,1883-1963.,American
-758,312,811,Evelina,Burney,Fanny,1752-1840,English
-759,312,810,In Our Time,Hemingway,Ernest,1899-1961,American
-760,312,814,Twentieth Century,Martin,Emily,,
-761,312,812,Calculus : Concepts and Contexts,Stewart,James,1941,
-762,311,824,The Poetics of Space,Bachelard,Gaston,1884-1962,French
-763,311,817,Groups Process and Practice,Corey,Gerald,,
-764,311,822,Starting Out With C++ : From Control Structures Through Objects,Gaddis,Tony,,
-765,311,818,The Curious Incident of the Dog in the Night-Time,Haddon,Mark,,
-766,311,819,A Brief History of Neoliberalism,Harvey,David,1935,
-767,311,823,The Second Shift,Hochschild,Arlie Russell,1940,
-768,311,820,Physical Examination & Health Assessment,Jarvis,Carolyn,,
-769,311,826,Writing Papers in the Biological Sciences,McMillan,Vicky,1947,
-770,311,816,The False Promise of International Institutions,Mearsheimer,John J.,,
-771,311,815,Digital Signal Processing,Proakis,John G.,,
-772,311,825,Writing Analytically,Rosenwasser,David,,
-773,311,827,The Democratic Peace,Russett,Bruce,,
-774,311,821,The Theory of Moral Sentiments,Smith,Adam,1723-1790,Scottish
-775,310,829,The Power of Myth,Campbell,Joseph,1904-1987,
-776,310,836,Deep Play: Notes on the Balinese Cockfight,Geertz,Clifford,1923- .,American
-777,310,832,A Guide to Econometrics,Kennedy,Peter,1943-2010,
-778,310,831,The Tragedy of Great Power Politics,Mearsheimer,John J.,,
-779,310,834,An Essay on Criticism,Pope,Alexander,1688-1744,English
-780,310,830,The Competitive Advantage of Nations,Porter,Michael E.,1947,
-781,310,833,Intermediate Microeconomics : A Modern Approach,Varian,Hal R.,,
-782,310,835,Halliday & Resnick Fundamentals of Physics,Walker,Jearl,1945,
-783,309,840,The Libation Bearers,Aeschylus,,525-456/5 BCE.,Greek
-784,309,837,Textbook of Medical Physiology,Guyton,Arthur C.,,
-785,309,841,Introduction to Operations Research,Hillier,Frederick S.,,
-786,309,839,Political Order in Changing Societies,Huntington,Samuel P.,,
-787,307,842,Measure for Measure,Shakespeare,William,1564-1616,English
-788,306,843,Culture and Anarchy,Arnold,Matthew,1822-1888,English
-789,306,844,The Caesars,Suetonius,,69-122,Roman
-790,306,847,The Radicalism of the American Revolution,Wood,Gordon S.,,
-791,306,846,Florida State University,Woodward,Eddie,,
-792,305,854,A History of the Modern Middle East,Cleveland,William L.,,
-793,305,855,The Nature of the Firm,Coase,R. H.,,
-794,305,852,International Business : Competing in the Global Marketplace,Hill,Charles W. L.,,
-795,305,853,English Passengers,Kneale,Matthew,1960,
-796,305,849,Introduction to the Practice of Statistics,Moore,David S.,,
-797,305,850,The Killer Angels,Shaara,Michael,,
-798,305,848,Electra,Sophocles,,496-406 BCE.,Greek
-799,305,851,The Age of Innocence,Wharton,Edith,1862-1937,American
-800,304,856,An Introduction to Language,Fromkin,Victoria,,
-801,303,861,Essential Cell Biology,Alberts,Bruce,,
-802,303,860,Principles of Biomedical Ethics,Beauchamp,Tom L.,,
-803,303,862,The Woman in White,Collins,Wilkie,1824-1889,English
-804,303,858,The Great War and Modern Memory,Fussell,Paul,1924-2012,American
-805,303,859,The Will to Believe,James,William,1842-1910,American
-806,302,865,The Lone Ranger and Tonto Fistfight in Heaven,Alexie,Sherman,1966- .,
-807,302,864,Research Methods in Health : Investigating Health and Health Services,Bowling,Ann,,
-808,302,866,In a Station of the Metro,Pound,Ezra,1885-1972.,American
-809,301,872,Cambridge University Press 1584-1984,Black,Michael H.,,
-810,301,871,Classical Electrodynamics,Jackson,John David,1925,
-811,301,867,Quicksand,Larsen,Nella,,
-812,301,868,Policy Paradox : The Art of Political Decision Making,Stone,Deborah,,
-813,301,869,Easter 1916,Yeats,W. B. (William Butler),1865-1939,Irish
-814,300,873,Typhoon,Conrad,Joseph,1857-1924,English
-815,300,874,Philosophy of Right,Hegel,Georg Wilhelm Friedrich,1770-1831,German
-816,299,876,The Lost : A Search for Six of Six Million,Mendelsohn,Daniel Adam,1960,
-817,299,875,Symphony No. 28,Mozart,Wolfgang Amadeus,1756-1791,
-818,298,877,Simulacra and Simulation,Baudrillard,Jean,1929-2007,
-819,298,878,Essential Biology,Campbell,Neil A.,1946,
-820,298,879,Symphony No. 8,Mahler,Gustav,1860-1911,
-821,298,881,Jumpers,Stoppard,Tom,1937- .,English
-822,298,880,Fathers and Sons,Turgenev,Ivan Sergeevich,1818-1883,Russian
-823,297,887,Social Psychology,Aronson,Elliot,,
-824,297,885,Thinking in Java,Eckel,Bruce,,
-825,297,884,Dispatches,Herr,Michael,1940- .,American
-826,297,882,Critique of Judgment,Kant,Immanuel,1724-1804,German
-827,297,886,War and Peace,Tolstoy,Leo,1828-1910,Russian
-828,296,889,Architecture : Form Space & Order,Ching,Frank,1943,
-829,296,891,The History of Rome,Livy,,59 BCE-17 CE .,Roman
-830,296,890,Merleau-Ponty,SARTRE,Jean-Paul,1905-1980. ,French
-831,296,888,Stalin,Trotsky,Leon,1879-1940,
-832,295,892,Essence of Decision; Explaining the Cuban Missile Crisis,Allison,Graham T.,,
-833,295,893,Writing for Social Scientists : How to Start and Finish Your Thesis,Becker,Howard Saul,1928,
-834,295,894,Physiology of Behavior,Carlson,Neil R.,1942,
-835,295,897,Gods in Alabama,Jackson,Joshilyn,,
-836,295,896,Surviving Your Dissertation : A Comprehensive Guide to Content and Process,Rudestam,Kjell Erik,,
-837,295,895,The Lake Isle of Innisfree,Yeats,W. B. (William Butler),1865-1939,Irish
-838,294,898,Writing at University : A Guide for Students,Creme,Phyllis,1942,
-839,294,900,The Condition of the Working Class in England,Engels,Friedrich,1820-1895,German
-840,294,899,The Consequences of Modernity,Giddens,Anthony,,
-841,294,901,The Mystery of Capital,Soto,Hernando De,1941,
-842,294,903,Practices of Looking : An Introduction to Visual Culture,Sturken,Marita,1957,
-843,293,904,The Black Atlantic : Modernity and Double Consciousness,Gilroy,Paul,,
-844,293,905,The Great Fire,Hazzard,Shirley,1931- .,Australian
-845,293,907,Civil War 2000,Henry,Charles P.,,
-846,293,906,The Russian Revolution,Lenin,Vladimir IlÒûich,1870-1924,Russian
-847,292,911,Technical Communication,Lannon,John M.,,
-848,292,909,Human-Computer Interaction,Preece,Jenny,1949,
-849,292,912,White Teeth,Smith,Zadie,1975- .,English
-850,292,908,Behaviorism,Watson,John B. (John Broadus),1878-1958,American
-851,291,913,Language Truth and Logic,Ayer,A. J. (Alfred Jules),1910-1989,
-852,291,917,William James,Dewey,John,1859-1952.,American
-853,291,915,Transgress,Hooks,Bell,1952- .,American
-854,291,914,The Purloined Letter,Poe,Edgar Allan,1809-1849,American
-855,291,916,New Books,Smith,Norman Kemp,,
-856,290,920,We Real Cool,Brooks,Gwendolyn,,
-857,290,922,City of Quartz : Excavating the Future in Los Angeles,Davis,Mike,1946,American
-858,290,924,Java in a Nutshell,Flanagan,David,,
-859,290,918,International Relations,Goldstein,Joshua S.,1952,
-860,290,921,The Postmodern Condition : A Report on Knowledge,Lyotard,Jean FranÇõois,1924-1998,
-861,290,923,In the Wake,Petterson,Per,1952,
-862,290,919,Understanding Nutrition,Whitney,Eleanor Noss,,
-863,289,934,Winesburg Ohio,Anderson,Sherwood,1876-1941,American
-864,289,926,Modern Times,Chaplin,Charlie,1889-1977,
-865,289,930,Computer Networks and Internets,Comer,Douglas,,
-866,289,932,Paris Trout,Dexter,Pete,1943,
-867,289,929,Inside Terrorism,Hoffman,Bruce,1954,
-868,289,931,Statistical Methods for Psychology,Howell,David C.,,
-869,289,927,Interpreter of Maladies,Lahiri,Jhumpa Agni,,
-870,289,925,Thus Spoke Zarathustra,Nietzsche,Friedrich Wilhelm,1844-1900,German
-871,289,933,Principles of Mathematical Analysis,Rudin,Walter,1921,
-872,288,943,Naked in Baghdad,Garrels,Anne,1951,
-873,288,936,The Political Economy of International Relations,Gilpin,Robert,,
-874,288,938,The Principles of Psychology,James,William,1842-1910,American
-875,288,935,Microeconomic Theory,Mas-Colell,Andreu,,
-876,288,942,Mark Twain and I,Read,Opie Percival,1852-1939,
-877,288,937,Has Globalization Gone Too Far,Rodrik,Dani,,
-878,288,940,Charlotte Temple,Rowson,Mrs.,1762-1824,
-879,288,941,The Theory of Industrial Organization,Tirole,Jean,,
-880,287,944,Influence : Science and Practice,Cialdini,Robert B.,,
-881,287,946,Power and Interdependence,Keohane,Robert O. (Robert Owen),1941,
-882,287,947,Power : A Radical View,Lukes,Steven,,
-883,287,945,Looking for a Ship,McPhee,John,1931,
-884,286,951,Without Feathers,Allen,Woody,,
-885,286,950,A Guide to Physical Examination,Bates,Barbara,1928,
-886,286,948,Biological Psychology,Kalat,James W.,,
-887,286,949,Principles of Instrumental Analysis,Skoog,Douglas A.,,
-888,285,952,HTML 4 for the World Wide Web,Castro,Elizabeth,,
-889,284,958,The House of the Spirits,Allende,Isabel,,
-890,284,954,The Fall of Baghdad,Anderson,Jon Lee,,
-891,284,959,Maps for Lost Lovers,Aslam,Nadeem,,
-892,284,956,Numerical Analysis,Burden,Richard L.,,
-893,284,960,What Is This Thing Called Science,Chalmers,A. F.,,
-894,284,953,A Handbook to Literature,Holman,C. Hugh (Clarence Hugh),1914,
-895,284,962,Linear Algebra and Its Applications,Lay,David C.,,
-896,284,957,How Languages Are Learned,Lightbown,Patsy,,
-897,284,955,What Is It Like to Be a Bat,Nagel,Thomas,,
-898,284,961,Designing Web Usability,Nielsen,Jakob,1957,
-899,283,964,Regeneration,Barker,Pat,1943,
-900,283,966,Invisible Cities,Calvino,Italo,1923-1985.,Italian
-901,283,965,Silas Marner,Eliot,George,1819-1880,English
-902,283,963,Alcestis,Euripides,,484-406 BCE.,Greek
-903,282,974,Life on Earth,Audesirk,Teresa,,
-904,282,976,The Wizard of Oz,Baum,L. Frank (Lyman Frank),1856-1919,American
-905,282,973,Shakespeare,Bevington,David M.,,
-906,282,978,The Laugh of the Medusa,Cixous,HÇ¸lÇùne,,
-907,282,970,Maggie a Girl of the Streets,Crane,Stephen,1871-1900,American
-908,282,972,Naming and Necessity,Kripke,Saul A.,1940,
-909,282,971,The Renaissance,Pater,Walter,1839-1894,English
-910,282,977,A Different Mirror : A History of Multicultural America,Takaki,Ronald T.,1939-2009,
-911,282,969,Judgment Under Uncertainty: Heuristics and Biases,Tversky,Amos,,
-912,281,982,The Big Sleep,Chandler,Raymond,1888-1959,American
-913,281,984,Ticknor,Heti,Sheila,1976- .,
-914,281,979,Negotiation,Lewicki,Roy J.,,
-915,281,983,Governing the Commons : The Evolution of Institutions for Collective Action,Ostrom,Elinor,,
-916,281,981,The Two Cultures,Snow,C. P. (Charles Percy),1905-1980,English
-917,281,980,The American Revolution,Thomas,Peter David Garner,,
-918,280,986,Fables,Aesop,,620-560 BCE.,Greek
-919,280,989,Biographia Literaria,Coleridge,Samuel Taylor,1772-1834,English
-920,280,988,The Rules of Sociological Method,Durkheim,Ç?mile,1858-1917,French
-921,280,985,Light in August,Faulkner,William,1897-1962,American
-922,280,987,The White Earth,McGahan,Andrew,,
-923,280,990,Epistemology of the Closet,Sedgwick,Eve Kosofsky,,
-924,279,993,The Marriage of Heaven and Hell,Blake,William,1757-1827,English
-925,279,992,Mere Christianity,Lewis,C. S. (Clive Staples),1898-1963,English
-926,279,991,A Letter Concerning Toleration,Locke,John,1632-1704,English
-927,279,994,Laws,New York (State),,,
-928,278,996,Slightly Out of Focus,Capa,Robert,1913-1954,
-929,278,997,Brotherly Love,Dexter,Pete,1943,
-930,278,999,The House of the Seven Gables,Hawthorne,Nathaniel,1804-1864,American
-931,278,995,Politics as a Vocation,Weber,Max,1864-1920,German
-932,278,998,Thomas' Calculus,Weir,Maurice D.,,
-933,278,1000,Keywords : A Vocabulary of Culture and Society,Williams,Raymond,,
+198,747,190,Contemporary Literature,English,Thomas H.,,
+199,741,516,The Book of the Courtier,Castiglione,Baldassare,1478-1529,
+200,737,191,Nietzsche,Heidegger,Martin,1889-1976,German
+201,737,193,Management and Organisational Behaviour,Mullins,Laurie J.,,
+202,737,192,America : A Narrative History,Tindall,George Brown,,
+203,733,194,The Lexus and the Olive Tree,Friedman,Thomas L.,,
+204,727,196,The Design of Everyday Things,Norman,Donald A.,,
+205,725,197,Rules for Writers,Hacker,Diana,1942-2004,
+206,724,198,American History,James,James Alton,1864-1962,
+207,723,199,Jihad vs. McWorld,Barber,Benjamin R.,1939,
+208,723,200,Madame Bovary,Flaubert,Gustave,1821-1880,French
+209,715,202,Phaedrus,Plato,,428-348 BCE.,Greek
+210,714,203,The Catcher in the Rye,Salinger,J. D. (Jerome David),1919-2010,American
+211,713,541,Prison Notebooks,Gramsci,Antonio,1891-1937,Italian
+212,708,204,The Interpretation of Dreams,Freud,Sigmund,1856-1939,Austrian
+213,705,205,Advanced Engineering Mathematics,Kreyszig,Erwin,,
+214,705,206,The Picture of Dorian Gray,Wilde,Oscar,1854-1900,Irish
+215,704,207,The Culture Industry,Adorno,T. W.,1903-1969.,German
+216,702,208,The Souls of Black Folk,Du Bois,W. E. B. (William Edward Burghardt),1868-1963,American
+217,701,209,All Quiet on the Western Front,Remarque,Erich Maria,1898-1970,German
+218,700,210,Critical Thinking Skills : Developing Effective Analysis and Argument,Cottrell,Stella,,
+219,699,211,Investments,Bodie,Zvi,,
+220,698,212,Critique of Pure Reason,Kant,Immanuel,1724-1804,German
+221,697,213,Mein Kampf,Hitler,Adolf,1889-1945,German
+222,696,214,Everyday Use,Walker,Alice,1944- .,American
+223,691,215,A Raisin in the Sun,Hansberry,Lorraine,1930-1965,
+224,691,216,The Lottery,Jackson,Shirley,1916-1965,
+225,690,658,Questionnaire Design Interviewing and Attitude Measurement,Oppenheim,A. N. (Abraham Naftali),1924,
+226,690,217,Twelfth Night,Shakespeare,William,1564-1616,English
+227,688,220,Fundamentals of Database Systems,Elmasri,Ramez,,
+228,688,218,Gorgias,Plato,,428-348 BCE.,Greek
+229,688,219,A Pocket Guide to Writing in History,Rampolla,Mary Lynn,,
+230,686,221,The Turn of the Screw,James,Henry,1843-1916,American
+231,686,222,A Streetcar Named Desire,Williams,Tennessee,1911-1983,American
+232,684,223,The Rape of the Lock,Pope,Alexander,1688-1744,English
+233,682,224,Organizational Behavior,Robbins,Stephen P.,1943,
+234,678,676,The General Theory of Employment,Keynes,John Maynard,1883-1946.,English
+235,676,227,Oroonoko,Behn,Aphra,1640-1689,English
+236,676,691,Operating Systems,Stallings,William,,
+237,674,228,Intermediate Accounting,Kieso,Donald E.,,
+238,673,229,Emotional Intelligence,Goleman,Daniel,,
+239,672,230,To His Coy Mistress,Marvell,Andrew,1621-1678,English
+240,670,232,The Great Transformation,Polanyi,Karl,1886-1964,Austrian-American
+241,668,609,Karl Marx,McLellan,David,,
+242,666,234,An Enquiry Concerning Human Understanding,Hume,David,1711-1776,Scottish
+243,663,235,The Gettysburg Address,Lincoln,Abraham,1809-1865,American
+244,660,236,World War II,Time,Inc. Library,,
+245,657,238,The Art of War,Tzu,Sun, 313-238 BCE.,Chinese
+246,656,239,Emma,Austen,Jane,1775-1817,English
+247,656,240,The Color Purple,Walker,Alice,1944- .,American
+248,651,242,Hypertext 2.0,Landow,George P.,,
+249,649,243,Options: Futures and Other Derivatives,Hull,John,1946,
+250,647,244,The Craft of Research,Booth,Wayne C.,,
+251,646,245,Management,Drucker,Peter F. (Peter Ferdinand),1909-2005,
+252,646,246,Sociology,Giddens,Anthony,,
+253,645,247,Black and White,Brown,Stephanie,,
+254,644,248,Wide Sargasso Sea,Rhys,Jean,1894-1979.,English
+255,643,249,Chemistry: the Central Science,Brown,Theodore L. (Theodore Lawrence),1928,
+256,643,674,The Decline and Fall of the Roman Empire,Gibbon,Edward,1737-1794,English
+257,639,251,On the Road,Kerouac,Jack,1922-1969,American
+258,638,252,Notes on the State of Virginia,Jefferson,Thomas,1743-1826,American
+259,634,254,Operating System Concepts,Silberschatz,Abraham,,
+260,633,255,To Kill a Mockingbird,Lee,Harper,1926-2016.,American
+261,633,256,The Language of New Media,Manovich,Lev,,
+262,632,257,White Noise,DeLillo,Don,1936- .,American
+263,627,258,The Death and Life of Great American Cities,Jacobs,Jane,1916-2006,American
+264,626,259,The Merchant of Venice,Shakespeare,William,1564-1616,English
+265,625,260,The Clouds,Aristophanes,,448-388 BCE.,Greek
+266,624,261,The Good Research Guide : For Small-Scale Social Research Projects,Denscombe,Martyn,,
+267,623,262,The General Prologue,Chaucer,Geoffrey,1342-1400.,English
+268,622,263,Pragmatism,James,William,1842-1910,American
+269,621,758,Elementary Differential Equations and Boundary Value Problems,Boyce,William E.,,
+270,619,265,The Subjection of Women,Mill,John Stuart,1806-1873,English
+271,618,266,Physics,Cutnell,John D.,,
+272,618,267,Nickel and Dimed : On (Not) Getting by in America,Ehrenreich,Barbara,,
+273,617,268,Trifles,Glaspell,Susan,1876-1948,
+274,617,269,Lais,Marie,De France,,
+275,615,270,Culture and Imperialism,Said,Edward W.,1935-2003.,Palestinian
+276,613,271,Auschwitz,Levi,Steven C.,,
+277,613,272,Animal Farm,Orwell,George,1903-1950,English
+278,612,273,The Glass Menagerie,Williams,Tennessee,1911-1983,American
+279,611,275,The Stranger,Camus,Albert,1913-1960,French
+280,611,274,Rajiv,Gandhi,Sonia,1946,
+281,610,845,The Three Worlds of Welfare Capitalism,Esping-Andersen,GÇ÷sta,1947,
+282,610,276,Globalization,Held,David,,
+283,609,277,Discrete Mathematics and Its Applications,Rosen,Kenneth H.,,
+284,608,278,Principles of Anatomy and Physiology,Tortora,Gerard J.,,
+285,605,279,War and the World: 1450-2000,Black,Jeremy,,
+286,605,281,The C Programming Language,Kernighan,Brian W.,,
+287,605,280,Native Son,Wright,Richard,1908-1960,American
+288,603,282,The Crying of Lot 49,Pynchon,Thomas,1937- .,American
+289,601,283,Macroeconomics,Blanchard,Olivier (Olivier J.),,
+290,601,284,The Crucible,Miller,Arthur,1915-2005,American
+291,599,286,The Sun Also Rises,Hemingway,Ernest,1899-1961,American
+292,598,289,Conceptual Physics,Hewitt,Paul G.,,
+293,598,287,Organic Chemistry,McMurry,John,,
+294,598,288,The Faerie Queene,Spenser,Edmund,1552?-1599,English
+295,596,290,The Fugue,Bach,Johann Sebastian,1685-1750,
+296,594,293,Dover Beach,Arnold,Matthew,1822-1888.,English
+297,594,292,Music : An Appreciation,Kamien,Roger,,
+298,590,294,The Federalist Papers,Hamilton,Alexander,1757-1804,
+299,589,295,The Evolution of Cooperation,Axelrod,Robert M.,,
+300,589,296,Leading Change,Kotter,John P.,1947,
+301,586,297,Suicide,Durkheim,Ç?mile,1858-1917,French
+302,585,298,The Unconscious,Freud,Sigmund,1856-1939,Austrian
+303,585,299,The Language Instinct,Pinker,Steven,1954,
+304,585,300,Fundamentals of Physics,Walker,Jearl,1945,
+305,582,301,Fall of the House of Usher,Poe,Edgar Allan,1809-1849,American
+306,580,302,Econometric Analysis,Greene,William H.,1951,
+307,580,303,Principles of Marketing,Kotler,Philip,,
+308,575,304,Ezra Pound,Eliot,T. S. (Thomas Stearns),1888-1965,English
+309,571,307,Diary,Pepys,Samuel,1633-1703,English
+310,570,308,Of Plymouth Plantation,Bradford,William,1588-1657,
+311,570,309,Passing,Larsen,Nella,,
+312,569,311,How to Research,Blaxter,Loraine,1945,
+313,569,310,Empire,Hardt,Michael,,
+314,568,313,The Descent of Man,Darwin,Charles,1809-1882,English
+315,564,315,Song of Solomon,Morrison,Toni,1931- . ,American
+316,564,314,Data and Computer Communications,Stallings,William,,
+317,563,316,The Sound and the Fury,Faulkner,William,1897-1962,American
+318,560,317,Java : How to Program,Deitel,Paul J.,,
+319,556,318,Capitalism and Freedom,Friedman,Milton,1912-2006,American
+320,556,319,Modern Operating Systems,Tanenbaum,Andrew S.,1944,
+321,555,320,On War,Clausewitz,Carl Von,1780-1831,German
+322,555,322,The Rime of the Ancient Mariner,Coleridge,Samuel Taylor,1772-1834,English
+323,555,321,Billy Budd,Melville,Herman,1819-1891,American
+324,553,323,The Elementary Forms of Religious Life,Durkheim,Ç?mile,1858-1917,French
+325,551,325,The Physics,Aristotle,,384-322 BCE.,Greek
+326,549,327,The Ancient Mariner,Coleridge,Samuel Taylor,1772-1834,English
+327,549,326,Daisy Miller,James,Henry,1843-1916,American
+328,547,329,The Selfish Gene,Dawkins,Richard,1941,
+329,546,330,A Passage to India,Forster,E. M. (Edward Morgan),1879-1970,English
+330,545,333,The Norton Anthology of English Literature,Abrams,M. H. (Meyer Howard),1912- .,American
+331,545,332,Middlemarch,Eliot,George,1819-1880,English
+332,545,331,The Year's Work in Modern Language Studies,Lennie,Sylvia,16th Century,
+333,544,334,Lolita,Nabokov,Vladimir Vladimirovich,1899-1977,Russian-American
+334,544,335,The Frontier in American History,Turner,Frederick Jackson,1861-1932,
+335,543,336,On Marx,Engels,Friedrich,1820-1895,German
+336,543,337,Postmodernism: Or the Cultural Logic of Late Capitalism,Jameson,Fredric,,
+337,542,338,Five Dialogues,Plato,,428-348 BCE.,Greek
+338,541,339,A Glossary of Literary Terms,Abrams,M. H. (Meyer Howard),1912- .,American
+339,540,340,Sula,Morrison,Toni,1931- . ,American
+340,538,341,Metaphors We Live By,Lakoff,George,,
+341,536,344,Bowling Alone : The Collapse and Revival of American Community,Putnam,Robert D.,,
+342,536,343,On Photography,Sontag,Susan,1933-2004,American
+343,535,345,Symphony No. 2,Beethoven,Ludwig Van,1770-1827,
+344,535,346,Ode on a Grecian Urn,Keats,John,1795-1821,English
+345,535,347,International Economics : Theory and Policy,Krugman,Paul R.,,
+346,533,349,As I Lay Dying,Faulkner,William,1897-1962,American
+347,531,350,The Problem of Social Cost,Coase,R. H.,,
+348,530,351,Sherlock Holmes,Doyle,Sir Arthur Conan,1859-1930,
+349,529,352,The Everyday Writer,Lunsford,Andrea A.,1942,
+350,528,353,Archaeology in the U.S.S.R,Field,Henry,1902-1986,
+351,528,354,Economics,Stiglitz,Joseph E.,,
+352,527,356,Psychology : Themes and Variations,Weiten,Wayne,1950,
+353,523,358,The Power Elite,Mills,C. Wright (Charles Wright),1916-1962,American
+354,523,357,Theory of International Politics,Waltz,Kenneth Neal,1924,
+355,521,359,Philosophical Investigations,Wittgenstein,Ludwig,1889-1951,Austrian
+356,520,360,Perpetual Peace,Kant,Immanuel,1724-1804,German
+357,519,361,Looking Backward 2000-1887,Bellamy,Edward,1850-1898,
+358,519,362,The Lord of the Rings,Tolkien,J. R. R. (John Ronald Reuel),1892-1973,English
+359,518,365,Basic Econometrics,Gujarati,Damodar N.,,
+360,518,364,The Discourses,Machiavelli,NiccolÇý,1469-1527,Italian
+361,518,363,The Visual Display of Quantitative Information,Tufte,Edward R.,1942,
+362,517,366,Lord of the Flies,Golding,William,1911-1993,English
+363,516,367,The Time Machine,Wells,H. G. (Herbert George),1866-1946,English
+364,515,369,Beyond Good and Evil,Nietzsche,Friedrich Wilhelm,1844-1900,German
+365,514,370,A Christmas Carol,Dickens,Charles,1812-1870,English
+366,511,371,Gender Trouble : Feminism and the Subversion of Identity,Butler,Judith,1956,
+367,509,372,Java,Deitel,Paul J.,,
+368,507,373,World War I,Keegan,Susanne,,
+369,506,374,Benito Cereno,Melville,Herman,1819-1891,American
+370,506,375,Rights of Man,Paine,Thomas,1737-1809,English
+371,505,376,The Mismeasure of Man,Gould,Stephen Jay,1941-2002.,American
+372,504,377,Digital Image Processing,Gonzalez,Rafael C.,,
+373,503,378,Leadership : Theory and Practice,Northouse,Peter Guy,,
+374,502,379,Principles of Biochemistry,Lehninger,Albert L.,,
+375,502,380,The House of Mirth,Wharton,Edith,1862-1937,American
+376,501,384,The Rise of the Network Society,Castells,Manuel,1942,
+377,501,383,Good to Great,Collins,James C. (James Charles),1958,
+378,501,381,Oliver Twist,Dickens,Charles,1812-1870,English
+379,501,382,Social Psychology,Myers,David G.,,
+380,500,385,Julius Caesar,Shakespeare,William,1564-1616,English
+381,499,387,Capitalism Socialism and Democracy,Schumpeter,Joseph Alois,1883-1950,Austrian-American
+382,498,389,The Elements of Moral Philosophy,Rachels,James,1941-2003,
+383,498,388,Physics for Scientists and Engineers,Serway,Raymond A.,,
+384,498,390,The Prelude 1798-1799,Wordsworth,William,1770-1850,English
+385,497,391,Real Estate,Case,Frederick E.,,
+386,495,393,Institutions Institutional Change and Economic Performance,North,Douglass Cecil,,
+387,491,396,Waiting for the Barbarians,Coetzee,J. M.,1940- . ,South African
+388,491,395,Rip Van Winkle,Irving,Washington,1783-1859,American
+389,491,394,Microeconomics,Pindyck,Robert S.,,
+390,489,397,Being Digital,Negroponte,Nicholas,,
+391,485,399,The Varieties of Religious Experience,James,William,1842-1910,American
+392,485,400,Annals,Tacitus,Cornelius, 55- 117 CE .,Roman
+393,484,401,Literary Theory An Introduction,Eagleton,Terry,1943,
+394,484,402,Black Skin White Masks,Fanon,Frantz,1925-1961,Martinican
+395,483,403,The Raven,Poe,Edgar Allan,1809-1849,American
+396,481,404,Anarchy State and Utopia,Nozick,Robert,1938-2002.,American
+397,479,406,Jane Eyre,BrontÇ®,Charlotte,1816-1855,English
+398,479,407,Getting to Yes : Negotiating Agreement Without Giving In,Fisher,Roger,1922-2012,
+399,478,409,Doing a Literature Review : Releasing the Social Science Research Imagination,Hart,Chris,,
+400,478,408,Goblin Market,Rossetti,Christina Georgina,1830-1894,
+401,477,410,The Significance of the Frontier in American History,Turner,Frederick Jackson,1861-1932,American
+402,476,413,Society of the Spectacle,Debord,Guy,1931-1994.,French
+403,476,414,The Little Brown Handbook,Fowler,H. Ramsey (Henry Ramsey),1858-1933.,English
+404,476,411,Odes,Horace,,65-8 BCE.,Roman
+405,475,416,Northanger Abbey,Austen,Jane,1775-1817,English
+406,475,415,The Open Boat,Crane,Stephen,1871-1900,American
+407,475,417,The McDonaldization of Society 5,Ritzer,George,,
+408,474,418,Managerial Accounting,Garrison,Ray H.,,
+409,473,419,The Birth of Tragedy,Nietzsche,Friedrich Wilhelm,1844-1900,German
+410,472,420,Utilitarianism,Bentham,Jeremy,1748-1832,English
+411,471,421,The Making of the English Working Class,Thompson,E. P. (Edward Palmer),1924-1993,English
+412,470,422,Envisioning Information,Tufte,Edward R.,1942,
+413,469,425,The Consolation of Philosophy,Boethius,,480-524.,Roman
+414,469,424,Database Management Systems,Ramakrishnan,Raghu,,
+415,469,423,The God of Small Things,Roy,Arundhati,,
+416,468,426,The American Scholar,Emerson,Ralph Waldo,1803-1882,American
+417,468,427,Body Ritual Among the Nacirema,Miner,Horace,,
+418,468,428,Computer Networks : A Systems Approach,Peterson,Larry L.,,
+419,467,430,Quantitative Chemical Analysis,Harris,Daniel C.,1948,
+420,467,429,When Work Disappears,Wilson,William Julius,,
+421,466,431,Little Women,Alcott,Louisa May,1832-1888,American
+422,463,433,The Location of Culture,Bhabha,Homi K.,1949,
+423,463,432,Ragtime,Doctorow,E. L.,1931-2015,American
+424,462,434,The Practice of Everyday Life,Certeau,Michel De,,
+425,461,435,Sinners in the Hands of an Angry God,Edwards,Jonathan,1703-1758,
+426,461,436,The Messiah,Handel,George Frideric,1685-1759,
+427,459,437,Biology of Microorganisms,Brock,Thomas D.,,
+428,457,439,Research Methods in Education,Cohen,Louis,1928,
+429,457,440,Diffusion of Innovations,Rogers,Everett M.,,
+430,456,441,The Art of Electronics,Horowitz,Paul,1942,
+431,455,443,Phenomenology of Perception,Merleau-Ponty,Maurice,1908-1961,French
+432,455,444,Cry the Beloved Country,Paton,Alan,1903-1988.,South African
+433,454,445,Biochemistry,Stryer,Lubert,,
+434,453,448,Kubla Khan,Coleridge,Samuel Taylor,1772-1834,English
+435,453,447,A Short Guide to Writing About Film,Corrigan,Timothy,,
+436,453,446,Guns Germs and Steel,Diamond,Jared M.,,
+437,452,450,Illuminations,Benjamin,Walter,1892-1940,German
+438,452,449,Sister Carrie,Dreiser,Theodore,1871-1945,American
+439,452,452,The Cask of Amontillado,Poe,Edgar Allan,1809-1849,American
+440,452,451,The Joy Luck Club,Tan,Amy,,
+441,451,453,A Treatise of Human Nature,Hume,David,1711-1776,Scottish
+442,450,455,The Road to Serfdom,Hayek,Friedrich A. Von (Friedrich August),1899-1992,Austrian
+443,450,454,UNIX Network Programming,Stevens,W. Richard,,
+444,447,456,Henry IV,Shakespeare,William,1564-1616,English
+445,447,457,The C++ Programming Language,Stroustrup,Bjarne,,
+446,445,458,Institutional and Economic Change,North,Douglass Cecil,,
+447,444,460,Teacher Education,Young,Jay,,
+448,443,462,Selected Writings,Marx,Karl,1818-1883,German
+449,443,461,An Essay on Man,Pope,Alexander,1688-1744,English
+450,442,464,A Short Guide to Writing About Art,Barnet,Sylvan,,
+451,442,463,Qualitative Evaluation Methods,Patton,Michael Quinn,,
+452,441,466,I Know Why the Caged Bird Sings,Angelou,Maya,1928-2014.,American
+453,441,465,In Memoriam,Tennyson,Baron Alfred Tennyson,1809-1892,English
+454,440,468,A Tale of Two Cities,Dickens,Charles,1812-1870,English
+455,439,469,Persuasion,Austen,Jane,1775-1817,English
+456,439,471,Discovering Statistics Using R,Field,Andy P.,,
+457,439,472,A Dictionary of Music and Musicians (A.D. 1450-1889),Grove,Sir George,1820-1900,
+458,438,474,Sense and Sensibility,Austen,Jane,1775-1817,English
+459,437,475,The Golden Ass,Apuleius,,155,Roman
+460,437,477,Computer Graphics,Hearn,Donald,,
+461,437,476,Life-Span Development,Santrock,John W.,,
+462,436,481,Simulations,Baudrillard,Jean,1929-2007,
+463,436,480,Foucault,Deleuze,Gilles,1925-1995,
+464,436,479,"The Science of ""Muddling Through",Lindblom,Charles E.,,
+465,436,478,The Spirit of the Laws,Montesquieu,Baron de Charles De Secondat,1689-1755,French
+466,434,482,Fahrenheit 451,Bradbury,Ray,1920-2012,American
+467,433,485,Diplomacy,Kissinger,Henry,1923,
+468,433,486,Course in General Linguistics,Saussure,Ferdinand De,1857-1913,Swiss
+469,433,483,Computing Machinery and Intelligence,Turing,A. M.,,
+470,433,484,Health,World Bank,,,
+471,432,487,Being and Time,Heidegger,Martin,1889-1976,German
+472,432,488,Advanced Macroeconomics,Romer,David,,
+473,431,489,Tools for Teaching,Davis,Barbara Gross,,
+474,431,491,Pharmacology for Nursing Care,Lehne,Richard A.,1943,
+475,431,490,Microeconomic Analysis,Varian,Hal R.,,
+476,430,492,As You Like It,Shakespeare,William,1564-1616,English
+477,429,493,Hippolytus,Euripides,,484-406 BCE.,Greek
+478,429,494,East of Eden,Steinbeck,John,1902-1968,American
+479,429,495,Biochemistry,Voet,Donald,,
+480,428,497,American Pastoral,Roth,Philip,1933- .,American
+481,428,496,Life on the Screen : Identity in the Age of the Internet,Turkle,Sherry,,
+482,426,499,F. Chopin,Liszt,Franz,1811-1886,
+483,426,498,Understanding by Design,Wiggins,Grant P.,1950,
+484,424,500,Do Androids Dream of Electric Sheep,Dick,Philip K.,1928-1982.,American
+485,424,501,Computer Architecture : A Quantitative Approach,Hennessy,John L.,,
+486,423,503,The Coming Anarchy,Kaplan,Robert D.,,
+487,423,502,Zen,Suzuki,Daisetz Teitaro,1870-1966,Japanese
+488,421,504,Attachment,Bowlby,John,,
+489,421,506,The Red Badge of Courage,Crane,Stephen,1871-1900,American
+490,421,505,Of Mice and Men,Steinbeck,John,1902-1968,American
+491,420,507,Bleak House,Dickens,Charles,1812-1870,English
+492,420,508,How to Lie With Statistics,Huff,Darrell,,
+493,419,509,Internetworking With TCP/IP,Comer,Douglas,,
+494,418,513,How to Read a Paper : The Basics of Evidence-Based Medicine,Greenhalgh,Trisha,,
+495,418,511,Angels in America,Kushner,Tony,1956- .,American
+496,418,512,The Theory of the Leisure Class,Veblen,Thorstein,1857-1929,American
+497,417,515,Nervous Conditions,Dangarembga,Tsitsi,,
+498,416,518,Justice as Fairness,Rawls,John,1921-2002.,American
+499,416,517,Doing Qualitative Research : A Practical Handbook,Silverman,David,,
+500,415,519,The Soul of a New Machine,Kidder,Tracy,,
+501,414,520,Theory and Practice of Counseling and Psychotherapy,Corey,Gerald,,
+502,414,521,Organic Chemistry,Wade,L. G.,1947,
+503,413,522,Agendas Alternatives and Public Policies,Kingdon,John W.,,
+504,412,523,North America,Read,Frederick,,
+505,411,526,Database System Concepts,Korth,Henry F.,,
+506,411,525,Qualitative Research & Evaluation Methods,Patton,Michael Quinn,,
+507,411,524,Qualitative Evaluation and Research Methods,Patton,Michael Quinn,,
+508,411,527,Pygmalion,Shaw,George Bernard,1856-1950,Irish
+509,410,528,David Copperfield,Dickens,Charles,1812-1870,English
+510,410,529,Exploring Corporate Strategy,Johnson,Gerry,,
+511,409,531,Ozymandias,Shelley,Percy Bysshe,1792-1822,English
+512,408,533,Moll Flanders,Defoe,Daniel,1661?-1731,English
+513,408,532,The McGraw-Hill Handbook,Maimon,Elaine P.,,
+514,408,534,Computer Organization and Design : The Hardware/Software Interface,Patterson,David A.,,
+515,407,536,The Hero With a Thousand Faces,Campbell,Joseph,1904-1987,
+516,407,535,The Return of Martin Guerre,Davis,Natalie Zemon,1928,
+517,406,538,The Meditations,Marcus Aurelius,Emperor of Rome,121-180,Roman
+518,406,537,Persepolis,Satrapi,Marjane,1969- .,
+519,405,539,The Wisdom of Crowds,Surowiecki,James,1967- .,
+520,404,540,Biochemistry,Berg,Jeremy Mark,,
+521,404,543,The Portrait of a Lady,James,Henry,1843-1916,American
+522,404,542,Hair Hair,Long,Debbie,,
+523,401,547,Fundamental Methods of Mathematical Economics,Chiang,Alpha C.,1927,
+524,401,544,Congress : The Electoral Connection,Mayhew,David R.,,
+525,401,548,The Heart Is a Lonely Hunter,McCullers,Carson,1917-1967,American
+526,401,546,Images of Organization,Morgan,Gareth,1943,
+527,400,550,Machine Learning,Mitchell,Tom M. (Tom Michael),1951,
+528,400,549,The Moviegoer,Percy,Walker,1916-1990,American
+529,399,551,Alice in Wonderland,Carroll,Lewis,1832-1898,English
+530,398,552,The Penguin Handbook,Faigley,Lester,1947,
+531,397,553,The Last of the Mohicans,Cooper,James Fenimore,1789-1851,American
+532,396,556,Herland,Gilman,Charlotte Perkins,1860-1935,
+533,396,557,The Known World,Jones,Edward P.,,
+534,396,555,Statistics for Management and Economics,Keller,Gerald,,
+535,395,558,Phenomenology of Spirit,Hegel,Georg Wilhelm Friedrich,1770-1831,German
+536,395,560,Computer Networking : A Top-Down Approach,Kurose,James F.,,
+537,395,559,Latin America,Thomas,Jack Ray,,
+538,394,561,Subculture the Meaning of Style,Hebdige,Dick,,
+539,394,562,Cane,Toomer,Jean,1894-1967,American
+540,393,564,The Negro Speaks of Rivers,Hughes,Langston,1902-1967,American
+541,393,563,Ode to a Nightingale,Keats,John,1795-1821,English
+542,392,565,Amusing Ourselves to Death,Postman,Neil,,
+543,391,571,The Praise of Folly,Erasmus,Desiderius,1469-1536 .,Dutch
+544,391,569,Reading and Writing,Field,Rachel,,
+545,391,566,Don Giovanni,Mozart,Wolfgang Amadeus,1756-1791,
+546,391,568,Introduction to the Theory of Computation,Sipser,Michael,,
+547,391,570,The Hobbit,Tolkien,J. R. R. (John Ronald Reuel),1892-1973,English
+548,391,572,Introductory Econometrics : A Modern Approach,Wooldridge,Jeffrey M.,1960- .,
+549,389,574,Diplomacy and Domestic Politics: The Logic of Two-Level Games,Putnam,Robert D.,,
+550,388,575,Dialectic of Enlightenment,Horkheimer,Max,1895-1973,German-American
+551,387,576,Hiroshima,Hersey,John,1914-1993,American
+552,387,577,A First Course in Probability,Ross,Sheldon M.,,
+553,386,581,Optics,Hecht,Eugene,,
+554,386,582,The Bell Jar,Plath,Sylvia,1932-1963.,American
+555,386,583,Famine Affluence and Morality,Singer,Peter,,
+556,386,579,Chemistry,Zumdahl,Steven S.,,
+557,385,586,Tom Jones,Fielding,Henry,1707-1754,English
+558,385,585,The First World War,Keegan,John,1934- .,English
+559,385,584,Culture and Society 1780-1950,Williams,Raymond,,
+560,384,587,Seize the Day,Bellow,Saul,1915-2005. ,American
+561,382,589,Image Music Text,Barthes,Roland,1915-1980.,French
+562,381,591,Eumenides,Aeschylus,,525-456/5 BCE.,Greek
+563,381,590,Fundamentals of Corporate Finance,Ross,Stephen A.,,
+564,380,592,Confessions,Rousseau,Jean-Jacques,1712-1778,French
+565,379,593,Distinction : A Social Critique of the Judgement of Taste,Bourdieu,Pierre,1930-2002,
+566,379,595,Democracy and Education,Dewey,John,1859-1952,American
+567,379,594,The Lady of Shalott,Tennyson,Baron Alfred Tennyson,1809-1892,English
+568,379,596,Lenin,Trotsky,Leon,1879-1940,
+569,379,597,World Heritage 2008-09,Unesco,,,
+570,377,599,My Antonia,Cather,Willa,1873-1947,American
+571,376,600,George Washington,Jefferson,Thomas,18th C .,American
+572,376,601,The Emancipation Proclamation,Lincoln,Abraham,1809-1865,American
+573,376,602,Encounters With the Archdruid,McPhee,John,1931,
+574,375,603,The Plague,Camus,Albert,1913-1960,French
+575,375,604,The Cherry Orchard,Chekhov,Anton Pavlovich,1860-1904,Russian
+576,375,605,Tradition and the Individual Talent,Eliot,T. S.,1888-1965. ,English
+577,374,606,Don Juan,Byron,Baron George Gordon Byron,1788-1824,English
+578,374,607,Much Ado About Nothing,Shakespeare,William,1564-1616,English
+579,373,608,Introduction to Electrodynamics,Griffiths,David J. (David Jeffery),1942,
+580,371,612,The Philosophy of History,Hegel,Georg Wilhelm Friedrich,1770-1831,German
+581,371,613,A Farewell to Arms,Hemingway,Ernest,1899-1961,American
+582,371,610,Code and Other Laws of Cyberspace,Lessig,Lawrence,,
+583,371,611,Computer Architecture : A Quantitative Approach,Patterson,David A.,,
+584,370,615,Experience and Education,Dewey,John,1859-1952,American
+585,370,614,Richard III,Shakespeare,William,1564-1616,English
+586,368,616,Timaeus,Plato,,428-348 BCE.,Greek
+587,367,617,The Origins of Totalitarianism,Arendt,Hannah,1906-1975,American
+588,367,619,Endgame,Beckett,Samuel,1906-1989,Irish
+589,367,618,The Rover,Behn,Aphra,1640-1689,English
+590,366,620,Selected Writings 1877-1930,Power,Sir D'Arcy,1855-1941,
+591,365,623,Institutes of the Christian Religion,Calvin,Jean or John,1509-1564,Swiss
+592,365,622,Hegel,Heidegger,Martin,1889-1976,German
+593,365,621,Gargantua,Rabelais,FranÇõois,1490-1553,French
+594,364,624,The Developing Person,Berger,Kathleen Stassen,,
+595,363,626,Mansfield Park,Austen,Jane,1775-1817,English
+596,363,625,A Short Guide to Writing About History,Marius,Richard,,
+597,363,628,Economic Development,Todaro,Michael P.,,
+598,361,630,What Is to Be Done,Lenin,Vladimir IlÒûich,1870-1924,Russian
+599,361,629,Microelectronic Circuits,Sedra,Adel S.,,
+600,359,635,Social Learning Theory,Bandura,Albert,1925,
+601,359,636,The English Language,Crystal,David,1941,
+602,359,634,Fairy Tales,Grimm,Albert Ludwig,1786-1872,German
+603,359,632,Ethics,Spinoza,Benedictus De,1632-1677,Dutch
+604,359,633,A Rulebook for Arguments,Weston,Anthony,1954,
+605,358,637,The Cambridge Encyclopedia of Language,Crystal,David,1941,
+606,358,639,The Mill on the Floss,Eliot,George,1819-1880,English
+607,358,641,On Being Sane in Insane Places,Rosenhan,D. L.,,
+608,358,638,Gender: A Useful Category of Historical Analysis,Scott,Joan W.,,
+609,357,642,Absalom Absalom,Faulkner,William,1897-1962,American
+610,357,643,Modern Latin America,Skidmore,Thomas E.,,
+611,356,644,What Is History,Carr,Edward Hallett,1892-1982,English
+612,356,646,Music for Sight Singing,Ottman,Robert W.,,
+613,356,647,Archaeology,Renfrew,Colin,,
+614,356,645,TCP/IP Illustrated,Stevens,W. Richard,,
+615,355,651,The Ideological Origins of the American Revolution,Bailyn,Bernard,,
+616,355,648,The Division of Labor in Society,Durkheim,Ç?mile,1858-1917,French
+617,355,649,A Small Place,Kincaid,Jamaica,1949- .,American
+618,355,650,Jimmy Corrigan : The Smartest Kid on Earth,Ware,Chris,1967- .,
+619,354,655,Astronomy Today,Chaisson,Eric,,
+620,354,653,The Leadership Challenge,Kouzes,James M.,1945,
+621,354,656,Rosencrantz and Guildenstern Are Dead,Stoppard,Tom,1937- .,English
+622,353,659,Love Medicine,Erdrich,Louise,1954- .,American
+623,353,657,Fear and Trembling,Kierkegaard,SÇ÷ren,1813-1855,Danish
+624,352,660,The Principles of Scientific Management,Taylor,Frederick Winslow,1856-1915,
+625,351,662,A Clockwork Orange,Burgess,Anthony,1917-1993,
+626,351,664,United States History,Current,Richard Nelson,,
+627,351,663,Introduction to Solid State Physics,Kittel,Charles,,
+628,351,661,Do Not Go Gentle Into That Good Night,Thomas,Dylan,1914-1953,
+629,350,666,Hedda Gabler,Ibsen,Henrik,1828-1906,Norwegian
+630,350,667,Europe and the People Without History,Wolf,Eric R.,1923,
+631,349,669,Bless Me Ultima,Anaya,Rudolfo A.,1937- .,American
+632,349,670,Symphonie Fantastique,Berlioz,Hector,1803-1869,
+633,349,673,Werther,Goethe,Johann Wolfgang Von,1749-1832,German
+634,349,672,The Basic Practice of Statistics,Moore,David S.,,
+635,349,671,The Taming of the Shrew,Shakespeare,William,1564-1616,English
+636,349,668,Saunders Q & a Review for NCLEX-RN,Silvestri,Linda Anne,,
+637,348,675,Making Democracy Work : Civic Traditions in Modern Italy,Putnam,Robert D.,,
+638,347,678,Anna Karenina,Tolstoy,Leo,1828-1910,Russian
+639,346,679,Compulsory Heterosexuality and Lesbian Existence,Rich,Adrienne,1929-2012,American
+640,345,681,The Frogs,Aristophanes,,448-388 BCE.,Greek
+641,345,683,Wuthering Heights,BrontÇ®,Emily,1818-1848,English
+642,345,680,Macroeconomic Theory,Sargent,Thomas J.,,
+643,345,682,Snow Crash,Stephenson,Neal,1959- .,American
+644,345,684,Orlando,Woolf,Virginia,1882-1941,English
+645,344,688,Essential Reading Rave Poverty & the Environment,Anthony,Carl,,
+646,344,686,Ethnography : Principles in Practice,Hammersley,Martyn,,
+647,344,685,Dialogues Concerning Natural Religion,Hume,David,1711-1776,Scottish
+648,344,687,M. Butterfly,Hwang,David Henry,1957,
+649,343,690,How to Do Things With Words,Austin,J. L. (John Langshaw),1911-1960,
+650,342,692,Twenty Years at Hull-House,Addams,Jane,1860-1935,American
+651,342,694,Lehninger Principles of Biochemistry,Nelson,David L. (David Lee),1942- .,
+652,342,693,The Strategy of Conflict,Schelling,Thomas C.,1921- .,American
+653,341,696,C++ : The Complete Reference,Schildt,Herbert,,
+654,341,697,The Search for Modern China,Spence,Jonathan D.,1936- .,English
+655,341,698,Tristram Shandy,Sterne,Laurence,1713-1768,English
+656,341,695,Germania,Tacitus,Cornelius, 55- 117 CE .,Roman
+657,341,699,Education,World Bank,,,
+658,340,701,Academe,Groves,Paul,,
+659,340,700,Siddhartha,Hesse,Hermann,1877-1962,German-Swiss
+660,339,702,The Sheltering Sky,Bowles,Paul,1910-1999,American
+661,339,707,Biochemistry,Garrett,R. (Reginald),,
+662,339,703,Hitler,Kershaw,Ian,,
+663,339,704,Animal Liberation,Singer,Peter,1946,
+664,339,706,Tom Sawyer,Twain,Mark,1835-1910,American
+665,339,705,Race Matters,West,Cornel,1953- .,American
+666,338,708,Political Liberalism,Rawls,John,1921-2002,American
+667,338,710,Statistics for People Who (Think They) Hate Statistics,Salkind,Neil J.,,
+668,337,715,Ecclesiastical History,Bede,the Venerable,673-735,
+669,337,712,Activists Beyond Borders : Advocacy Networks in International Politics,Keck,Margaret E.,,
+670,337,711,The Way to Rainy Mountain,Momaday,N. Scott,1934- .,American
+671,337,714,Protagoras,Plato,,428-348 BCE.,Greek
+672,336,716,Nineteen Eighty-Four,Orwell,George,1903-1950,English
+673,335,718,The Giver,Lowry,Lois,,
+674,335,719,The Supreme Court,Rehnquist,William H.,1924,
+675,335,717,The Problems of Philosophy,Russell,Bertrand,1872-1970,English
+676,334,724,An Introduction to Database Systems,Date,C. J.,,
+677,334,721,Mechanics,Landau,L. D. (Lev Davidovich),1908-1968,
+678,334,722,Small Island,Levy,Andrea,1956,
+679,334,725,The Tell-Tale Heart,Poe,Edgar Allan,1809-1849,American
+680,334,720,The Duchess of Malfi,Webster,John,1580?-1625,English
+681,333,728,Virginia Woolf,Eliot,T. S. (Thomas Stearns),1888-1965,English
+682,333,726,Organizational Culture and Leadership,Schein,Edgar H.,,
+683,333,727,The War of the Worlds,Wells,H. G. (Herbert George),1866-1946,English
+684,332,732,The Uncanny,Freud,Sigmund,1856-1939,Austrian
+685,332,733,Imperialism,Hobson,J. A. (John Atkinson),1858-1940,
+686,332,734,The Image of the City,Lynch,Kevin,1918,
+687,332,730,Richard II,Shakespeare,William,1564-1616,English
+688,332,731,Earth Science,Tarbuck,Edward J.,,
+689,331,735,The Human Condition,Arendt,Hannah,1906-1975,American
+690,331,737,Changes in the Land : Indians Colonists and the Ecology of New England,Cronon,William,1954- .,American
+691,331,736,Artificial Intelligence,Rich,Elaine,,
+692,331,738,Database System Concepts,Silberschatz,Abraham,,
+693,329,743,Life in the Iron Mills,Davis,Rebecca Harding,1831-1910,
+694,329,742,Trojan Women,Euripides,,484-406 BCE.,Greek
+695,329,740,Understanding Organizations,Handy,Charles B.,,
+696,329,741,Crabgrass Frontier : The Suburbanization of the United States,Jackson,Kenneth T.,,
+697,329,744,Tartuffe,Moliere,1622-1673,1622-1673.,French
+698,328,745,Prometheus,Aeschylus,,525-456/5 BCE.,Greek
+699,328,747,Quarterly Review,Federal Reserve Bank of Minneapolis,,,
+700,328,750,Brock Biology of Microorganisms,Madigan,Michael T.,1949,
+701,328,749,The Satanic Verses,Rushdie,Salman,1947- .,Indian
+702,328,748,The Management of a Student Research Project,Sharp,John A.,,
+703,328,746,Oedipus at Colonus,Sophocles,,496-406 BCE.,Greek
+704,327,751,Contemporary Strategy Analysis,Grant,Robert M.,1948,
+705,327,752,Chapter 17,Great Britain,,,
+706,326,753,Artificial Intelligence,Hugo F.,Man,,
+707,326,754,The Modern World-System,Wallerstein,Immanuel Maurice,1930,
+708,325,755,Selected Poems,Dickinson,Patric,1914-1994,
+709,325,756,Classical Mechanics,Goldstein,Herbert,1922,
+710,325,757,The New Negro,Locke,Alain LeRoy,1886-1954,
+711,324,760,The Remains of the Day,Ishiguro,Kazuo,1954- .,English
+712,324,759,The Castle of Otranto,Walpole,Horace,1717-1797,
+713,323,763,Fundamentals of Financial Management,Brigham,Eugene F.,1930,
+714,323,764,His Excellency : George Washington,Ellis,Joseph J.,,
+715,323,765,Short Stories,Hemingway,Ernest,1899-1961,American
+716,322,769,Aurora Leigh,Browning,Elizabeth Barrett,1806-1861,
+717,322,768,Jude the Obscure,Hardy,Thomas,1840-1928,English
+718,322,766,Genes,Lewin,Benjamin,,
+719,322,770,Development Economics,Ray,Debraj,,
+720,322,767,Educational Psychology,Woolfolk,Anita,,
+721,320,774,The Strength of Weak Ties,Granovetter,Mark S.,,
+722,320,776,Experiential Learning : Experience as the Source of Learning and Development,Kolb,David A.,1939,
+723,320,773,Watchmen,Moore,Alan,1953- .,English
+724,320,777,Piano Concerto : K. 491,Mozart,Wolfgang Amadeus,1756-1791,
+725,320,772,Pantagruel,Rabelais,FranÇõois,1490-1553,French
+726,320,778,National Security,York,Herbert F.,,
+727,319,779,Understanding and Using English Grammar,Azar,Betty Schrampfer,1941,
+728,319,784,Economic Growth,Barro,Robert J.,,
+729,319,785,Carmen,Bizet,Georges,1838-1875,
+730,319,783,The Battleship Potemkin,Eisenstein,Sergei,1898-1948,
+731,319,781,The Logic of Scientific Discovery,Popper,Karl R. (Karl Raimund),1902-1994,Austrian-English
+732,319,782,Poetry Reading,Read,Sir Herbert Edward,1893-1968,English
+733,319,780,Vanity Fair,Thackeray,William Makepeace,1811-1863,English
+734,318,787,Public Finance,Rosen,Harvey S.,,
+735,317,788,Conceptual Models and the Cuban Missile Crisis,Allison,Graham T.,,
+736,317,789,Masculinities,Connell,Raewyn,1944,
+737,317,790,Introduction to Quantum Mechanics,Griffiths,David J. (David Jeffery),1942,
+738,316,793,Joseph Andrews,Fielding,Henry,1707-1754,English
+739,316,791,A Course in Phonetics,Ladefoged,Peter,,
+740,316,792,Mother Tongue,Tan,Amy,,
+741,315,796,Liberalism and World Politics,Doyle,Michael W.,,
+742,315,795,Consider the Lobster,Wallace,David Foster,1962-2008.,American
+743,315,794,Doing Gender,West,Candace,,
+744,314,799,Troilus,Chaucer,Geoffrey,1342-1400.,English
+745,314,802,Time Series Analysis,Hamilton,James D. (James Douglas),1954,
+746,314,798,The Birthmark,Hawthorne,Nathaniel,1804-1864,American
+747,314,797,Cooperation Under the Security Dilemma,Jervis,Robert,1940,
+748,314,800,Areopagitica,Milton,John,1608-1674,English
+749,313,803,A Rumor of War,Caputo,Philip,,
+750,313,804,Disgrace,Coetzee,J. M.,1940- . ,South African
+751,313,808,Developmental Biology,Gilbert,Scott F.,1949,
+752,313,809,Sovereignty,Krasner,Stephen D.,,
+753,313,807,A History of Graphic Design,Meggs,Philip B.,,
+754,313,806,Introduction to Probability Models,Ross,Sheldon M.,,
+755,313,805,Wallace Stevens,Williams,William Carlos,1883-1963.,American
+756,312,811,Evelina,Burney,Fanny,1752-1840,English
+757,312,810,In Our Time,Hemingway,Ernest,1899-1961,American
+758,312,814,Twentieth Century,Martin,Emily,,
+759,312,812,Calculus : Concepts and Contexts,Stewart,James,1941,
+760,311,824,The Poetics of Space,Bachelard,Gaston,1884-1962,French
+761,311,817,Groups Process and Practice,Corey,Gerald,,
+762,311,822,Starting Out With C++ : From Control Structures Through Objects,Gaddis,Tony,,
+763,311,818,The Curious Incident of the Dog in the Night-Time,Haddon,Mark,,
+764,311,819,A Brief History of Neoliberalism,Harvey,David,1935,
+765,311,823,The Second Shift,Hochschild,Arlie Russell,1940,
+766,311,820,Physical Examination & Health Assessment,Jarvis,Carolyn,,
+767,311,826,Writing Papers in the Biological Sciences,McMillan,Vicky,1947,
+768,311,816,The False Promise of International Institutions,Mearsheimer,John J.,,
+769,311,815,Digital Signal Processing,Proakis,John G.,,
+770,311,825,Writing Analytically,Rosenwasser,David,,
+771,311,827,The Democratic Peace,Russett,Bruce,,
+772,311,821,The Theory of Moral Sentiments,Smith,Adam,1723-1790,Scottish
+773,310,829,The Power of Myth,Campbell,Joseph,1904-1987,
+774,310,836,Deep Play: Notes on the Balinese Cockfight,Geertz,Clifford,1923- .,American
+775,310,832,A Guide to Econometrics,Kennedy,Peter,1943-2010,
+776,310,831,The Tragedy of Great Power Politics,Mearsheimer,John J.,,
+777,310,834,An Essay on Criticism,Pope,Alexander,1688-1744,English
+778,310,830,The Competitive Advantage of Nations,Porter,Michael E.,1947,
+779,310,833,Intermediate Microeconomics : A Modern Approach,Varian,Hal R.,,
+780,310,835,Halliday & Resnick Fundamentals of Physics,Walker,Jearl,1945,
+781,309,840,The Libation Bearers,Aeschylus,,525-456/5 BCE.,Greek
+782,309,837,Textbook of Medical Physiology,Guyton,Arthur C.,,
+783,309,841,Introduction to Operations Research,Hillier,Frederick S.,,
+784,309,839,Political Order in Changing Societies,Huntington,Samuel P.,,
+785,307,842,Measure for Measure,Shakespeare,William,1564-1616,English
+786,306,843,Culture and Anarchy,Arnold,Matthew,1822-1888,English
+787,306,844,The Caesars,Suetonius,,69-122,Roman
+788,306,847,The Radicalism of the American Revolution,Wood,Gordon S.,,
+789,306,846,Florida State University,Woodward,Eddie,,
+790,305,854,A History of the Modern Middle East,Cleveland,William L.,,
+791,305,855,The Nature of the Firm,Coase,R. H.,,
+792,305,852,International Business : Competing in the Global Marketplace,Hill,Charles W. L.,,
+793,305,853,English Passengers,Kneale,Matthew,1960,
+794,305,849,Introduction to the Practice of Statistics,Moore,David S.,,
+795,305,850,The Killer Angels,Shaara,Michael,,
+796,305,848,Electra,Sophocles,,496-406 BCE.,Greek
+797,305,851,The Age of Innocence,Wharton,Edith,1862-1937,American
+798,304,856,An Introduction to Language,Fromkin,Victoria,,
+799,303,861,Essential Cell Biology,Alberts,Bruce,,
+800,303,860,Principles of Biomedical Ethics,Beauchamp,Tom L.,,
+801,303,862,The Woman in White,Collins,Wilkie,1824-1889,English
+802,303,858,The Great War and Modern Memory,Fussell,Paul,1924-2012,American
+803,303,859,The Will to Believe,James,William,1842-1910,American
+804,302,865,The Lone Ranger and Tonto Fistfight in Heaven,Alexie,Sherman,1966- .,
+805,302,864,Research Methods in Health : Investigating Health and Health Services,Bowling,Ann,,
+806,302,866,In a Station of the Metro,Pound,Ezra,1885-1972.,American
+807,301,872,Cambridge University Press 1584-1984,Black,Michael H.,,
+808,301,871,Classical Electrodynamics,Jackson,John David,1925,
+809,301,867,Quicksand,Larsen,Nella,,
+810,301,868,Policy Paradox : The Art of Political Decision Making,Stone,Deborah,,
+811,301,869,Easter 1916,Yeats,W. B. (William Butler),1865-1939,Irish
+812,300,873,Typhoon,Conrad,Joseph,1857-1924,English
+813,300,874,Philosophy of Right,Hegel,Georg Wilhelm Friedrich,1770-1831,German
+814,299,876,The Lost : A Search for Six of Six Million,Mendelsohn,Daniel Adam,1960,
+815,299,875,Symphony No. 28,Mozart,Wolfgang Amadeus,1756-1791,
+816,298,877,Simulacra and Simulation,Baudrillard,Jean,1929-2007,
+817,298,878,Essential Biology,Campbell,Neil A.,1946,
+818,298,879,Symphony No. 8,Mahler,Gustav,1860-1911,
+819,298,881,Jumpers,Stoppard,Tom,1937- .,English
+820,298,880,Fathers and Sons,Turgenev,Ivan Sergeevich,1818-1883,Russian
+821,297,887,Social Psychology,Aronson,Elliot,,
+822,297,885,Thinking in Java,Eckel,Bruce,,
+823,297,884,Dispatches,Herr,Michael,1940- .,American
+824,297,882,Critique of Judgment,Kant,Immanuel,1724-1804,German
+825,297,886,War and Peace,Tolstoy,Leo,1828-1910,Russian
+826,296,889,Architecture : Form Space & Order,Ching,Frank,1943,
+827,296,891,The History of Rome,Livy,,59 BCE-17 CE .,Roman
+828,296,890,Merleau-Ponty,SARTRE,Jean-Paul,1905-1980. ,French
+829,296,888,Stalin,Trotsky,Leon,1879-1940,
+830,295,892,Essence of Decision; Explaining the Cuban Missile Crisis,Allison,Graham T.,,
+831,295,893,Writing for Social Scientists : How to Start and Finish Your Thesis,Becker,Howard Saul,1928,
+832,295,894,Physiology of Behavior,Carlson,Neil R.,1942,
+833,295,897,Gods in Alabama,Jackson,Joshilyn,,
+834,295,896,Surviving Your Dissertation : A Comprehensive Guide to Content and Process,Rudestam,Kjell Erik,,
+835,295,895,The Lake Isle of Innisfree,Yeats,W. B. (William Butler),1865-1939,Irish
+836,294,898,Writing at University : A Guide for Students,Creme,Phyllis,1942,
+837,294,900,The Condition of the Working Class in England,Engels,Friedrich,1820-1895,German
+838,294,899,The Consequences of Modernity,Giddens,Anthony,,
+839,294,901,The Mystery of Capital,Soto,Hernando De,1941,
+840,294,903,Practices of Looking : An Introduction to Visual Culture,Sturken,Marita,1957,
+841,293,904,The Black Atlantic : Modernity and Double Consciousness,Gilroy,Paul,,
+842,293,905,The Great Fire,Hazzard,Shirley,1931- .,Australian
+843,293,907,Civil War 2000,Henry,Charles P.,,
+844,293,906,The Russian Revolution,Lenin,Vladimir IlÒûich,1870-1924,Russian
+845,292,911,Technical Communication,Lannon,John M.,,
+846,292,909,Human-Computer Interaction,Preece,Jenny,1949,
+847,292,912,White Teeth,Smith,Zadie,1975- .,English
+848,292,908,Behaviorism,Watson,John B. (John Broadus),1878-1958,American
+849,291,913,Language Truth and Logic,Ayer,A. J. (Alfred Jules),1910-1989,
+850,291,917,William James,Dewey,John,1859-1952.,American
+851,291,915,Transgress,Hooks,Bell,1952- .,American
+852,291,914,The Purloined Letter,Poe,Edgar Allan,1809-1849,American
+853,291,916,New Books,Smith,Norman Kemp,,
+854,290,920,We Real Cool,Brooks,Gwendolyn,,
+855,290,922,City of Quartz : Excavating the Future in Los Angeles,Davis,Mike,1946,American
+856,290,924,Java in a Nutshell,Flanagan,David,,
+857,290,918,International Relations,Goldstein,Joshua S.,1952,
+858,290,921,The Postmodern Condition : A Report on Knowledge,Lyotard,Jean FranÇõois,1924-1998,
+859,290,923,In the Wake,Petterson,Per,1952,
+860,290,919,Understanding Nutrition,Whitney,Eleanor Noss,,
+861,289,934,Winesburg Ohio,Anderson,Sherwood,1876-1941,American
+862,289,926,Modern Times,Chaplin,Charlie,1889-1977,
+863,289,930,Computer Networks and Internets,Comer,Douglas,,
+864,289,932,Paris Trout,Dexter,Pete,1943,
+865,289,929,Inside Terrorism,Hoffman,Bruce,1954,
+866,289,931,Statistical Methods for Psychology,Howell,David C.,,
+867,289,927,Interpreter of Maladies,Lahiri,Jhumpa Agni,,
+868,289,925,Thus Spoke Zarathustra,Nietzsche,Friedrich Wilhelm,1844-1900,German
+869,289,933,Principles of Mathematical Analysis,Rudin,Walter,1921,
+870,288,943,Naked in Baghdad,Garrels,Anne,1951,
+871,288,936,The Political Economy of International Relations,Gilpin,Robert,,
+872,288,938,The Principles of Psychology,James,William,1842-1910,American
+873,288,935,Microeconomic Theory,Mas-Colell,Andreu,,
+874,288,942,Mark Twain and I,Read,Opie Percival,1852-1939,
+875,288,937,Has Globalization Gone Too Far,Rodrik,Dani,,
+876,288,940,Charlotte Temple,Rowson,Mrs.,1762-1824,
+877,288,941,The Theory of Industrial Organization,Tirole,Jean,,
+878,287,944,Influence : Science and Practice,Cialdini,Robert B.,,
+879,287,946,Power and Interdependence,Keohane,Robert O. (Robert Owen),1941,
+880,287,947,Power : A Radical View,Lukes,Steven,,
+881,287,945,Looking for a Ship,McPhee,John,1931,
+882,286,951,Without Feathers,Allen,Woody,,
+883,286,950,A Guide to Physical Examination,Bates,Barbara,1928,
+884,286,948,Biological Psychology,Kalat,James W.,,
+885,286,949,Principles of Instrumental Analysis,Skoog,Douglas A.,,
+886,285,952,HTML 4 for the World Wide Web,Castro,Elizabeth,,
+887,284,958,The House of the Spirits,Allende,Isabel,,
+888,284,954,The Fall of Baghdad,Anderson,Jon Lee,,
+889,284,959,Maps for Lost Lovers,Aslam,Nadeem,,
+890,284,956,Numerical Analysis,Burden,Richard L.,,
+891,284,960,What Is This Thing Called Science,Chalmers,A. F.,,
+892,284,953,A Handbook to Literature,Holman,C. Hugh (Clarence Hugh),1914,
+893,284,962,Linear Algebra and Its Applications,Lay,David C.,,
+894,284,957,How Languages Are Learned,Lightbown,Patsy,,
+895,284,955,What Is It Like to Be a Bat,Nagel,Thomas,,
+896,284,961,Designing Web Usability,Nielsen,Jakob,1957,
+897,283,964,Regeneration,Barker,Pat,1943,
+898,283,966,Invisible Cities,Calvino,Italo,1923-1985.,Italian
+899,283,965,Silas Marner,Eliot,George,1819-1880,English
+900,283,963,Alcestis,Euripides,,484-406 BCE.,Greek
+901,282,974,Life on Earth,Audesirk,Teresa,,
+902,282,976,The Wizard of Oz,Baum,L. Frank (Lyman Frank),1856-1919,American
+903,282,973,Shakespeare,Bevington,David M.,,
+904,282,978,The Laugh of the Medusa,Cixous,HÇ¸lÇùne,,
+905,282,970,Maggie a Girl of the Streets,Crane,Stephen,1871-1900,American
+906,282,972,Naming and Necessity,Kripke,Saul A.,1940,
+907,282,971,The Renaissance,Pater,Walter,1839-1894,English
+908,282,977,A Different Mirror : A History of Multicultural America,Takaki,Ronald T.,1939-2009,
+909,282,969,Judgment Under Uncertainty: Heuristics and Biases,Tversky,Amos,,
+910,281,982,The Big Sleep,Chandler,Raymond,1888-1959,American
+911,281,984,Ticknor,Heti,Sheila,1976- .,
+912,281,979,Negotiation,Lewicki,Roy J.,,
+913,281,983,Governing the Commons : The Evolution of Institutions for Collective Action,Ostrom,Elinor,,
+914,281,981,The Two Cultures,Snow,C. P. (Charles Percy),1905-1980,English
+915,281,980,The American Revolution,Thomas,Peter David Garner,,
+916,280,986,Fables,Aesop,,620-560 BCE.,Greek
+917,280,989,Biographia Literaria,Coleridge,Samuel Taylor,1772-1834,English
+918,280,988,The Rules of Sociological Method,Durkheim,Ç?mile,1858-1917,French
+919,280,985,Light in August,Faulkner,William,1897-1962,American
+920,280,987,The White Earth,McGahan,Andrew,,
+921,280,990,Epistemology of the Closet,Sedgwick,Eve Kosofsky,,
+922,279,993,The Marriage of Heaven and Hell,Blake,William,1757-1827,English
+923,279,992,Mere Christianity,Lewis,C. S. (Clive Staples),1898-1963,English
+924,279,991,A Letter Concerning Toleration,Locke,John,1632-1704,English
+925,279,994,Laws,New York (State),,,
+926,278,996,Slightly Out of Focus,Capa,Robert,1913-1954,
+927,278,997,Brotherly Love,Dexter,Pete,1943,
+928,278,999,The House of the Seven Gables,Hawthorne,Nathaniel,1804-1864,American
+929,278,995,Politics as a Vocation,Weber,Max,1864-1920,German
+930,278,998,Thomas' Calculus,Weir,Maurice D.,,
+931,278,1000,Keywords : A Vocabulary of Culture and Society,Williams,Raymond,,
